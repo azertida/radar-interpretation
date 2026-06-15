@@ -1,0 +1,32 @@
+{
+  "name": "Radar Interprétation",
+  "short_name": "Radar Casting",
+  "description": "Les films et séries de mes acteurs et actrices à la télévision cette semaine",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E8E4DC",
+  "theme_color": "#1F1816",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar Interprétation</title>
+<meta name="description" content="Radar TV des programmes interprétés par des acteurs et actrices que je suis">
+<meta name="theme-color" content="#1F1816">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Radar Casting">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  /* Palette : papier légèrement rosé/peach (programme de théâtre) */
+  --paper: #EBE0D2;
+  --paper-deep: #DBCDB9;
+  --ink: #1F1816;
+  --ink-soft: #4F3F37;
+  --ink-faint: #8A7468;
+  --rule: #1F1816;
+  --seen-paper: #D5C6B2;
+  --seen-ink: #8A7468;
+  --highlight: #7A2B2B;
+  
+  --display: 'Bricolage Grotesque', system-ui, sans-serif;
+  --body: 'Newsreader', Georgia, serif;
+  --mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 17px;
+  line-height: 1.5;
+  min-height: 100vh;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+}
+
+/* ============ Header ============ */
+.masthead {
+  border-top: 3px double var(--rule);
+  border-bottom: 1px solid var(--rule);
+  padding: 20px 0 16px;
+  margin-bottom: 32px;
+}
+
+.masthead-line {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.masthead-title {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: clamp(38px, 9vw, 56px);
+  letter-spacing: -0.02em;
+  line-height: 0.95;
+  margin: 20px 0 8px;
+  font-variation-settings: "opsz" 96;
+}
+
+.masthead-sub {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: 18px;
+  color: var(--ink-soft);
+  font-weight: 300;
+}
+
+/* ============ Status bar ============ */
+.statusbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 24px 0 32px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--rule);
+  flex-wrap: wrap;
+}
+
+.refresh-btn {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  background: var(--ink);
+  color: var(--paper);
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.refresh-btn:hover { opacity: 0.85; }
+.refresh-btn:active { opacity: 0.6; }
+.refresh-btn.loading { opacity: 0.5; pointer-events: none; }
+
+.status-meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+}
+
+/* ============ Controls ============ */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.toggle-group {
+  display: inline-flex;
+  border: 1px solid var(--rule);
+  background: var(--paper-deep);
+}
+
+.toggle-btn {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink);
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.toggle-btn + .toggle-btn { border-left: 1px solid var(--rule); }
+.toggle-btn:hover { background: var(--paper); }
+.toggle-btn.active { background: var(--ink); color: var(--paper); }
+
+.checkbox-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  cursor: pointer;
+  user-select: none;
+}
+
+.checkbox-toggle input {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper);
+  cursor: pointer;
+  margin: 0;
+}
+
+.checkbox-toggle input:checked { background: var(--ink); }
+
+.checkbox-toggle input:checked::after {
+  content: '';
+  display: block;
+  width: 4px;
+  height: 8px;
+  border: solid var(--paper);
+  border-width: 0 1.5px 1.5px 0;
+  transform: rotate(45deg);
+  margin: 0 auto;
+}
+
+/* ============ Actor groups (sort mode) ============ */
+.actor-group {
+  margin-bottom: 40px;
+}
+
+.actor-heading {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  padding-bottom: 6px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.actor-name {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: clamp(20px, 5vw, 28px);
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color: var(--ink);
+  font-variation-settings: "opsz" 48;
+}
+
+.actor-count {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.15em;
+}
+
+/* ============ Card ============ */
+.card {
+  border-bottom: 1px solid var(--rule);
+  padding: 22px 0 28px;
+  position: relative;
+}
+
+.card:last-child { border-bottom: none; }
+
+.card.seen { opacity: 0.55; }
+
+.card.seen .card-title {
+  text-decoration: line-through;
+  text-decoration-color: var(--ink-soft);
+  text-decoration-thickness: 1px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+}
+
+.card-when {
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.card-channel {
+  border: 1px solid var(--rule);
+  padding: 3px 8px;
+  font-size: 10px;
+}
+
+.card-title {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: clamp(28px, 6.5vw, 38px);
+  letter-spacing: -0.015em;
+  line-height: 1.05;
+  margin-bottom: 14px;
+  font-variation-settings: "opsz" 96;
+}
+
+.card-subtitle {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: 18px;
+  color: var(--ink-soft);
+  margin-top: -10px;
+  margin-bottom: 14px;
+}
+
+/* Acteurs matchés en vedette */
+.card-cast-line {
+  margin-bottom: 16px;
+}
+
+.card-cast-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-right: 8px;
+}
+
+.card-matched-actor {
+  font-family: var(--body);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 19px;
+  color: var(--highlight);
+  display: inline-block;
+}
+
+.card-matched-actor + .card-matched-actor::before {
+  content: ' · ';
+  color: var(--ink-faint);
+  font-style: normal;
+  margin: 0 4px;
+}
+
+.card-director-line {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+}
+
+.card-director-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  font-style: normal;
+  margin-right: 6px;
+}
+
+.card-actors {
+  font-family: var(--body);
+  font-size: 15px;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+  line-height: 1.55;
+}
+
+.card-actors-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-right: 6px;
+}
+
+.card-desc {
+  font-family: var(--body);
+  font-size: 15.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin-bottom: 18px;
+  max-width: 60ch;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+}
+
+.seen-btn {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink-soft);
+  border: 1px solid var(--rule);
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.seen-btn:hover { background: var(--ink); color: var(--paper); }
+
+.card.seen .seen-btn { background: var(--ink); color: var(--paper); }
+
+/* ============ Empty state ============ */
+.empty {
+  text-align: center;
+  padding: 80px 20px;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.empty-title {
+  font-family: var(--display);
+  font-size: 28px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.empty-text {
+  font-family: var(--body);
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 16px;
+}
+
+/* ============ Footer ============ */
+.colophon {
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 3px double var(--rule);
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  text-align: center;
+  line-height: 2;
+}
+
+.message {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--ink-soft);
+}
+
+@media (max-width: 480px) {
+  .page { padding: 24px 16px 50px; }
+  .statusbar { gap: 10px; }
+  .controls { gap: 8px; }
+  .toggle-btn { padding: 9px 12px; font-size: 10px; }
+  .card { padding: 18px 0 24px; }
+  .card-desc { font-size: 15px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+</head>
+<body>
+
+<main class="page">
+
+  <header class="masthead">
+    <div class="masthead-line">
+      <span>Programme · Bruxelles</span>
+      <span id="dateline">Édition du —</span>
+    </div>
+    <h1 class="masthead-title">Radar Interprétation</h1>
+    <p class="masthead-sub">les films de vos acteurs et actrices, à la télévision cette semaine</p>
+  </header>
+
+  <div class="statusbar">
+    <button class="refresh-btn" id="refresh-btn" type="button">↻ Rafraîchir</button>
+    <span class="status-meta" id="status-meta">—</span>
+  </div>
+
+  <div class="controls" id="controls" style="display:none;">
+    <div class="toggle-group" role="tablist" aria-label="Mode de tri">
+      <button class="toggle-btn active" id="sort-date" type="button">Par date</button>
+      <button class="toggle-btn" id="sort-actor" type="button">Par interprète</button>
+    </div>
+    <label class="checkbox-toggle">
+      <input type="checkbox" id="hide-seen">
+      Cacher les vus
+    </label>
+  </div>
+
+  <div id="content">
+    <div class="message">Chargement du programme…</div>
+  </div>
+
+  <footer class="colophon">
+    données pickx · via iptv-org/epg<br>
+    mis à jour quotidiennement
+  </footer>
+
+</main>
+
+<script>
+'use strict';
+
+const state = {
+  data: null,
+  sort: 'date',
+  hideSeen: false,
+  seen: new Set(JSON.parse(localStorage.getItem('radar-interpretation-seen') || '[]'))
+};
+
+const $ = sel => document.querySelector(sel);
+
+function seenKey(p) {
+  return `${p.title}__${p.start}__${p.channel}`;
+}
+
+function toggleSeen(key) {
+  if (state.seen.has(key)) state.seen.delete(key);
+  else state.seen.add(key);
+  localStorage.setItem('radar-interpretation-seen', JSON.stringify([...state.seen]));
+}
+
+function formatWhen(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  const days = ['DIMANCHE', 'LUNDI', 'MARDI', 'MERCREDI', 'JEUDI', 'VENDREDI', 'SAMEDI'];
+  const months = ['JANV', 'FÉVR', 'MARS', 'AVR', 'MAI', 'JUIN', 'JUIL', 'AOÛT', 'SEPT', 'OCT', 'NOV', 'DÉC'];
+  const day = days[d.getDay()];
+  const date = d.getDate();
+  const month = months[d.getMonth()];
+  const hh = String(d.getHours()).padStart(2, '0');
+  const mm = String(d.getMinutes()).padStart(2, '0');
+  return `${day} ${date} ${month} · ${hh}h${mm}`;
+}
+
+function formatDateline(iso) {
+  if (!iso) return 'Édition du —';
+  const d = new Date(iso);
+  const months = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
+  return `Édition du ${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;');
+}
+
+function renderCard(p) {
+  const key = seenKey(p);
+  const isSeen = state.seen.has(key);
+  const matched = p.matched_actors || [];
+  const matchedSet = new Set(matched);
+  // Affiche jusqu'à 6 autres acteurs (non-matchés) pour le contexte
+  const otherActors = (p.actors || []).filter(a => !matchedSet.has(a)).slice(0, 6);
+  const directors = p.directors || [];
+  
+  return `
+    <article class="card ${isSeen ? 'seen' : ''}" data-key="${escapeHtml(key)}">
+      <div class="card-header">
+        <span class="card-when">${formatWhen(p.start)}</span>
+        <span class="card-channel">${escapeHtml(p.channel || '—')}</span>
+      </div>
+      <h2 class="card-title">${escapeHtml(p.title || 'Sans titre')}</h2>
+      ${p.subtitle ? `<p class="card-subtitle">${escapeHtml(p.subtitle)}</p>` : ''}
+      <div class="card-cast-line">
+        <span class="card-cast-label">Avec</span>
+        ${matched.map(a => `<span class="card-matched-actor">${escapeHtml(a)}</span>`).join('')}
+      </div>
+      ${directors.length ? `
+        <p class="card-director-line">
+          <span class="card-director-label">Réalisation</span>${escapeHtml(directors.join(', '))}
+        </p>` : ''}
+      ${otherActors.length ? `
+        <p class="card-actors">
+          <span class="card-actors-label">Casting</span>${escapeHtml(otherActors.join(', '))}${(p.actors || []).length > 6 + matched.length ? ', et autres' : ''}
+        </p>` : ''}
+      ${p.description ? `<p class="card-desc">${escapeHtml(p.description)}</p>` : ''}
+      <div class="card-footer">
+        <button class="seen-btn" type="button" data-action="toggle-seen">
+          ${isSeen ? '✓ Vu' : 'Marquer comme vu'}
+        </button>
+      </div>
+    </article>
+  `;
+}
+
+function renderByDate(programmes) {
+  return programmes.map(renderCard).join('');
+}
+
+function renderByActor(programmes) {
+  // Pour chaque programme, on génère une entrée par acteur matché
+  // (un film avec 2 acteurs matchés apparaîtra sous chacun)
+  const groups = new Map();
+  for (const p of programmes) {
+    const matched = p.matched_actors || [];
+    for (const actor of matched) {
+      if (!groups.has(actor)) groups.set(actor, []);
+      groups.get(actor).push(p);
+    }
+  }
+  const sortedActors = [...groups.keys()].sort((a, b) => a.localeCompare(b, 'fr'));
+  
+  return sortedActors.map(actor => {
+    const items = groups.get(actor);
+    return `
+      <section class="actor-group">
+        <header class="actor-heading">
+          <span class="actor-name">${escapeHtml(actor)}</span>
+          <span class="actor-count">${items.length} ${items.length > 1 ? 'séances' : 'séance'}</span>
+        </header>
+        ${items.map(renderCard).join('')}
+      </section>
+    `;
+  }).join('');
+}
+
+function render() {
+  const content = $('#content');
+  if (!state.data) return;
+  
+  let programmes = state.data.programmes || [];
+  
+  // Filtre temporel : on cache les programmes dont la diffusion est terminée
+  const now = new Date();
+  programmes = programmes.filter(p => {
+    if (!p.stop) return true;
+    return new Date(p.stop) > now;
+  });
+  
+  if (state.hideSeen) {
+    programmes = programmes.filter(p => !state.seen.has(seenKey(p)));
+  }
+  
+  if (programmes.length === 0) {
+    if ((state.data.programmes || []).length > 0) {
+      content.innerHTML = `
+        <div class="empty">
+          <h2 class="empty-title">Tout est vu</h2>
+          <p class="empty-text">Décochez « Cacher les vus » pour retrouver les séances.</p>
+        </div>`;
+    } else {
+      content.innerHTML = `
+        <div class="empty">
+          <h2 class="empty-title">Rien à signaler cette semaine</h2>
+          <p class="empty-text">Aucun film de votre liste à la télévision dans les sept prochains jours.</p>
+        </div>`;
+    }
+    return;
+  }
+  
+  if (state.sort === 'date') {
+    content.innerHTML = renderByDate(programmes);
+  } else {
+    content.innerHTML = renderByActor(programmes);
+  }
+}
+
+function renderMeta() {
+  const meta = $('#status-meta');
+  if (!state.data) {
+    meta.textContent = '—';
+    return;
+  }
+  // Compte les programmes futurs uniquement
+  const now = new Date();
+  const futureProgs = (state.data.programmes || []).filter(p => {
+    if (!p.stop) return true;
+    return new Date(p.stop) > now;
+  });
+  const count = futureProgs.length;
+  meta.textContent = `${count} séance${count > 1 ? 's' : ''} · ${state.data.watchlist_size || 0} interprètes suivis`;
+  $('#dateline').textContent = formatDateline(state.data.generated_at);
+}
+
+async function loadData(forceFresh = false) {
+  const url = forceFresh ? `radar.json?t=${Date.now()}` : 'radar.json';
+  try {
+    const response = await fetch(url, { cache: forceFresh ? 'no-store' : 'default' });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    const data = await response.json();
+    state.data = data;
+    $('#controls').style.display = 'flex';
+    renderMeta();
+    render();
+  } catch (err) {
+    $('#content').innerHTML = `
+      <div class="empty">
+        <h2 class="empty-title">Programme introuvable</h2>
+        <p class="empty-text">Impossible de charger radar.json : ${escapeHtml(err.message)}</p>
+      </div>`;
+  }
+}
+
+document.addEventListener('click', e => {
+  const seenBtn = e.target.closest('[data-action="toggle-seen"]');
+  if (seenBtn) {
+    const card = seenBtn.closest('.card');
+    if (!card) return;
+    toggleSeen(card.dataset.key);
+    render();
+    renderMeta();
+  }
+});
+
+$('#sort-date').addEventListener('click', () => {
+  state.sort = 'date';
+  $('#sort-date').classList.add('active');
+  $('#sort-actor').classList.remove('active');
+  render();
+});
+
+$('#sort-actor').addEventListener('click', () => {
+  state.sort = 'actor';
+  $('#sort-actor').classList.add('active');
+  $('#sort-date').classList.remove('active');
+  render();
+});
+
+$('#hide-seen').addEventListener('change', e => {
+  state.hideSeen = e.target.checked;
+  render();
+});
+
+$('#refresh-btn').addEventListener('click', async () => {
+  const btn = $('#refresh-btn');
+  btn.classList.add('loading');
+  btn.textContent = '↻ Chargement…';
+  await loadData(true);
+  btn.classList.remove('loading');
+  btn.textContent = '↻ Rafraîchir';
+});
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./service-worker.js').catch(() => {});
+  });
+}
+
+loadData();
+</script>
+</body>
+</html>
