@@ -1,0 +1,358 @@
+{
+  "generated_at": "2026-06-15T18:54:35.899076+00:00",
+  "window_start": "2026-06-14",
+  "window_end": "2026-06-21",
+  "source": "Pickx via iptv-org/epg",
+  "watchlist_size": 44,
+  "watchlist": [
+    "Amy Adams",
+    "Uzo Aduba",
+    "Jean Arthur",
+    "Lauren Bacall",
+    "Nathalie Baye",
+    "Chadwick Boseman",
+    "Andre Braugher",
+    "Sandra Bullock",
+    "Jessica Chastain",
+    "Daniel Craig",
+    "Tony Curtis",
+    "Ana de Armas",
+    "Michael Douglas",
+    "Chiwetel Ejiofor",
+    "Rebecca Ferguson",
+    "Cary Grant",
+    "Charles Grodin",
+    "Goldie Hawn",
+    "Taraji P. Henson",
+    "Audrey Hepburn",
+    "Katharine Hepburn",
+    "Holly Hunter",
+    "Diane Keaton",
+    "Regina King",
+    "Ophélia Kolb",
+    "Brie Larson",
+    "Virna Lisi",
+    "Myrna Loy",
+    "Melissa McCarthy",
+    "Kate McKinnon",
+    "Marilyn Monroe",
+    "Judd Nelson",
+    "Jacques Perrin",
+    "William Powell",
+    "Harold Ramis",
+    "Robert Redford",
+    "Anna Sawai",
+    "Cobie Smulders",
+    "Octavia Spencer",
+    "Barbra Streisand",
+    "Lino Ventura",
+    "John Wayne",
+    "Kristen Wiig",
+    "Debra Winger"
+  ],
+  "count": 13,
+  "programmes": [
+    {
+      "start": "2026-06-14T06:02:00+00:00",
+      "stop": "2026-06-14T07:48:00+00:00",
+      "channel": "Action",
+      "title": "Le Ruffian",
+      "subtitle": "",
+      "directors": [
+        "José Giovanni"
+      ],
+      "actors": [
+        "Beatrix Van Til",
+        "Pierre Frag",
+        "Lino Ventura",
+        "Claudia Cardinale",
+        "Bernard Giraudeau",
+        "August Schellenberg"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-14T14:59:00+00:00",
+      "stop": "2026-06-14T16:21:00+00:00",
+      "channel": "La Trois",
+      "title": "Beethoven",
+      "subtitle": "",
+      "directors": [
+        "Brian Levant"
+      ],
+      "actors": [
+        "Charles Grodin",
+        "Bonnie Hunt",
+        "Dean Jones",
+        "Nicholle Tom",
+        "Christopher Castile",
+        "Sarah Rose Karr"
+      ],
+      "matched_actors": [
+        "Charles Grodin"
+      ],
+      "description": "Un petit saint-bernard parvient à s'échapper pendant le cambriolage de la boutique d'animaux où il était en cage. Il se réfugie dans la maison de la famille Newton... Le père, qui ne veut pas d'animaux, finit par céder à ses enfants et accepte de recueillir le chiot, qui sème la pagaille partout où il passe. Mais un vétérinaire cruel, de mèche avec des trafiquants, repère Beethoven et cherche à l'enlever... au point d'atteindre 85 kilos ! Pendant ce temps, le docteur Varnick, un terrible vétérinaire, met au point en secret des produits qui nécessitent des expériences sur les chiens. Et l'adorable Saint Bernard figure sur la liste du vétérinaire...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-14T21:45:00+00:00",
+      "stop": "2026-06-14T23:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "Children of Men",
+      "subtitle": "",
+      "directors": [
+        "Alfonso Cuaron"
+      ],
+      "actors": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Set in a dystopian future where infertility has led mankind to the brink of extinction, a sole pregnant woman holds the key to the survival of humanity. In 2027, the world's youngest person has died at the age of 18. Infertility has ravaged the world, leading it into anarchy. Eastern European and African societies have collapsed, causing their remaining populace to flee to England. Set against a backdrop of London torn apart by violence, the film follows one of the champions of Earth's survival: Theo (Clive Owen), a disillusioned ex-activist turned bureaucrat, who faces his own demons and must protect the planet's last remaining hope for a future generation.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-06-15T05:34:00+00:00",
+      "stop": "2026-06-15T07:54:00+00:00",
+      "channel": "Action",
+      "title": "L'armée des ombres",
+      "subtitle": "",
+      "directors": [
+        "Jean-Pierre Melville"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Paul Meurisse",
+        "Jean-Pierre Cassel",
+        "Simone Signoret",
+        "Serge Reggiani",
+        "Claude Mann"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Octobre 1942, en France occupée. Soupçonné de faire partie de la Résistance, l'ingénieur Gerbier est arrêté et conduit au quartier général de la Gestapo. Il parvient à s'évader en tuant une sentinelle et rejoint ses amis résistants. Dès lors, il n'a plus qu'une mission en tête : tuer Doinot, celui qui l'a trahi.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-16T04:15:00+00:00",
+      "stop": "2026-06-16T06:01:00+00:00",
+      "channel": "Action",
+      "title": "Le Ruffian",
+      "subtitle": "",
+      "directors": [
+        "José Giovanni"
+      ],
+      "actors": [
+        "Beatrix Van Til",
+        "Pierre Frag",
+        "Lino Ventura",
+        "Claudia Cardinale",
+        "Bernard Giraudeau",
+        "August Schellenberg"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-17T07:07:00+00:00",
+      "stop": "2026-06-17T09:27:00+00:00",
+      "channel": "Action",
+      "title": "L'armée des ombres",
+      "subtitle": "",
+      "directors": [
+        "Jean-Pierre Melville"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Paul Meurisse",
+        "Jean-Pierre Cassel",
+        "Simone Signoret",
+        "Serge Reggiani",
+        "Claude Mann"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Octobre 1942, en France occupée. Soupçonné de faire partie de la Résistance, l'ingénieur Gerbier est arrêté et conduit au quartier général de la Gestapo. Il parvient à s'évader en tuant une sentinelle et rejoint ses amis résistants. Dès lors, il n'a plus qu'une mission en tête : tuer Doinot, celui qui l'a trahi.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-18T05:12:00+00:00",
+      "stop": "2026-06-18T07:32:00+00:00",
+      "channel": "Action",
+      "title": "L'armée des ombres",
+      "subtitle": "",
+      "directors": [
+        "Jean-Pierre Melville"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Paul Meurisse",
+        "Jean-Pierre Cassel",
+        "Simone Signoret",
+        "Serge Reggiani",
+        "Claude Mann"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Octobre 1942, en France occupée. Soupçonné de faire partie de la Résistance, l'ingénieur Gerbier est arrêté et conduit au quartier général de la Gestapo. Il parvient à s'évader en tuant une sentinelle et rejoint ses amis résistants. Dès lors, il n'a plus qu'une mission en tête : tuer Doinot, celui qui l'a trahi.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-18T20:35:00+00:00",
+      "stop": "2026-06-18T23:05:00+00:00",
+      "channel": "VTM 2",
+      "title": "Catch Me if You Can",
+      "subtitle": "",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye",
+        "Amy Adams"
+      ],
+      "matched_actors": [
+        "Nathalie Baye",
+        "Amy Adams"
+      ],
+      "description": "Wanneer zijn ouders uit elkaar gaan, moet hun zoon Frank beslissen bij wie hij gaat wonen. De jongen kan de keuze niet aan en gaat ervandoor. Hij staat er nu alleen voor en beseft dat hij het zonder diploma alleen maar met listigheid kan maken. Hij geeft zich uit als arts, hoogleraar, advocaat en piloot, maar is eigenlijk een meesteroplichter. Hij neemt voortdurend andere identiteiten aan.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-06-19T17:04:00+00:00",
+      "stop": "2026-06-19T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Le Ruffian",
+      "subtitle": "",
+      "directors": [
+        "José Giovanni"
+      ],
+      "actors": [
+        "Beatrix Van Til",
+        "Pierre Frag",
+        "Lino Ventura",
+        "Claudia Cardinale",
+        "Bernard Giraudeau",
+        "August Schellenberg"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-20T10:35:00+00:00",
+      "stop": "2026-06-20T12:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "She Wore a Yellow Ribbon",
+      "subtitle": "",
+      "directors": [
+        "John Ford"
+      ],
+      "actors": [
+        "John Wayne",
+        "Joanne Dru",
+        "John Agar",
+        "Ben Johnson",
+        "Harry Carey Jr.",
+        "Victor McLaglen"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "In the second installment of John Ford's cavalry trilogy, an aging captain about to retire is given one last mission: check the growing alliance of belligerent Native American tribes, while squiring his commanding officer's headstrong wife and flirtatious niece to a rendezvous with an eastbound stagecoach. She's taken to wearing a yellow ribbon in her hair, a sign that she has a beau in the Cavalry, but refuses to say for whom she is wearing it.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-06-20T11:25:00+00:00",
+      "stop": "2026-06-20T13:55:00+00:00",
+      "channel": "VTM 2",
+      "title": "Catch Me if You Can",
+      "subtitle": "",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye",
+        "Amy Adams"
+      ],
+      "matched_actors": [
+        "Nathalie Baye",
+        "Amy Adams"
+      ],
+      "description": "Wanneer zijn ouders uit elkaar gaan, moet hun zoon Frank beslissen bij wie hij gaat wonen. De jongen kan de keuze niet aan en gaat ervandoor. Hij staat er nu alleen voor en beseft dat hij het zonder diploma alleen maar met listigheid kan maken. Hij geeft zich uit als arts, hoogleraar, advocaat en piloot, maar is eigenlijk een meesteroplichter. Hij neemt voortdurend andere identiteiten aan.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-06-21T07:58:00+00:00",
+      "stop": "2026-06-21T09:30:00+00:00",
+      "channel": "La Trois",
+      "title": "Angry Birds, le film",
+      "subtitle": "",
+      "directors": [
+        "Clay Kaytis",
+        "Fergal Reilly"
+      ],
+      "actors": [
+        "Danny McBride",
+        "Kate McKinnon",
+        "Tony Hale",
+        "Matthew J. McCarthy",
+        "Maddie Taylor",
+        "Mckenna Grace"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-21T15:00:00+00:00",
+      "stop": "2026-06-21T16:25:00+00:00",
+      "channel": "La Trois",
+      "title": "Beethoven 2",
+      "subtitle": "",
+      "directors": [
+        "Rod Daniel"
+      ],
+      "actors": [
+        "Charles Grodin",
+        "Bonnie Hunt",
+        "Nicholle Tom",
+        "Christopher Castile",
+        "Sarah Rose Karr",
+        "Debi Mazar"
+      ],
+      "matched_actors": [
+        "Charles Grodin"
+      ],
+      "description": "Beethoveen, saint-bernard heureux chez les Newton, tombe amoureux de Missy. Ils sont rapidement séparés par la méchante maîtresse de la chienne. Celle-ci veut en effet utiliser Missy comme outil de négociation dans son divroce. Son avidité est attisée lorsque la chienne met au monde quatre adorables chiots. Mais les enfants Newton ne l'entendent pas de cette oreille et vont tout faire pour sauver les chiens...",
+      "category": "Jeunesse"
+    }
+  ]
+}
