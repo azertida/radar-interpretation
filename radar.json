@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T18:54:35.899076+00:00",
-  "window_start": "2026-06-14",
-  "window_end": "2026-06-21",
+  "generated_at": "2026-06-16T16:15:56.218061+00:00",
+  "window_start": "2026-06-15",
+  "window_end": "2026-06-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,77 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-06-14T06:02:00+00:00",
-      "stop": "2026-06-14T07:48:00+00:00",
-      "channel": "Action",
-      "title": "Le Ruffian",
-      "subtitle": "",
-      "directors": [
-        "José Giovanni"
-      ],
-      "actors": [
-        "Beatrix Van Til",
-        "Pierre Frag",
-        "Lino Ventura",
-        "Claudia Cardinale",
-        "Bernard Giraudeau",
-        "August Schellenberg"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-06-14T14:59:00+00:00",
-      "stop": "2026-06-14T16:21:00+00:00",
-      "channel": "La Trois",
-      "title": "Beethoven",
-      "subtitle": "",
-      "directors": [
-        "Brian Levant"
-      ],
-      "actors": [
-        "Charles Grodin",
-        "Bonnie Hunt",
-        "Dean Jones",
-        "Nicholle Tom",
-        "Christopher Castile",
-        "Sarah Rose Karr"
-      ],
-      "matched_actors": [
-        "Charles Grodin"
-      ],
-      "description": "Un petit saint-bernard parvient à s'échapper pendant le cambriolage de la boutique d'animaux où il était en cage. Il se réfugie dans la maison de la famille Newton... Le père, qui ne veut pas d'animaux, finit par céder à ses enfants et accepte de recueillir le chiot, qui sème la pagaille partout où il passe. Mais un vétérinaire cruel, de mèche avec des trafiquants, repère Beethoven et cherche à l'enlever... au point d'atteindre 85 kilos ! Pendant ce temps, le docteur Varnick, un terrible vétérinaire, met au point en secret des produits qui nécessitent des expériences sur les chiens. Et l'adorable Saint Bernard figure sur la liste du vétérinaire...",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-06-14T21:45:00+00:00",
-      "stop": "2026-06-14T23:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "Children of Men",
-      "subtitle": "",
-      "directors": [
-        "Alfonso Cuaron"
-      ],
-      "actors": [
-        "Clive Owen",
-        "Clare-Hope Ashitey",
-        "Chiwetel Ejiofor",
-        "Julianne Moore",
-        "Michael Caine",
-        "Pam Ferris"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Set in a dystopian future where infertility has led mankind to the brink of extinction, a sole pregnant woman holds the key to the survival of humanity. In 2027, the world's youngest person has died at the age of 18. Infertility has ravaged the world, leading it into anarchy. Eastern European and African societies have collapsed, causing their remaining populace to flee to England. Set against a backdrop of London torn apart by violence, the film follows one of the champions of Earth's survival: Theo (Clive Owen), a disillusioned ex-activist turned bureaucrat, who faces his own demons and must protect the planet's last remaining hope for a future generation.",
-      "category": "Movies"
-    },
     {
       "start": "2026-06-15T05:34:00+00:00",
       "stop": "2026-06-15T07:54:00+00:00",
@@ -353,6 +284,29 @@
       ],
       "description": "Beethoveen, saint-bernard heureux chez les Newton, tombe amoureux de Missy. Ils sont rapidement séparés par la méchante maîtresse de la chienne. Celle-ci veut en effet utiliser Missy comme outil de négociation dans son divroce. Son avidité est attisée lorsque la chienne met au monde quatre adorables chiots. Mais les enfants Newton ne l'entendent pas de cette oreille et vont tout faire pour sauver les chiens...",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-22T15:21:00+00:00",
+      "stop": "2026-06-22T17:07:00+00:00",
+      "channel": "Action",
+      "title": "Le Ruffian",
+      "subtitle": "",
+      "directors": [
+        "José Giovanni"
+      ],
+      "actors": [
+        "Beatrix Van Til",
+        "Pierre Frag",
+        "Lino Ventura",
+        "Claudia Cardinale",
+        "Bernard Giraudeau",
+        "August Schellenberg"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
+      "category": "Cinéma"
     }
   ]
 }
