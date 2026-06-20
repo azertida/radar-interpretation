@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T17:27:59.774162+00:00",
-  "window_start": "2026-06-18",
+  "generated_at": "2026-06-20T12:15:03.541075+00:00",
+  "window_start": "2026-06-19",
   "window_end": "2026-06-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -50,55 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 10,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-06-18T05:12:00+00:00",
-      "stop": "2026-06-18T07:32:00+00:00",
-      "channel": "Action",
-      "title": "L'armée des ombres",
-      "subtitle": "",
-      "directors": [
-        "Jean-Pierre Melville"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Paul Meurisse",
-        "Jean-Pierre Cassel",
-        "Simone Signoret",
-        "Serge Reggiani",
-        "Claude Mann"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Octobre 1942, en France occupée. Soupçonné de faire partie de la Résistance, l'ingénieur Gerbier est arrêté et conduit au quartier général de la Gestapo. Il parvient à s'évader en tuant une sentinelle et rejoint ses amis résistants. Dès lors, il n'a plus qu'une mission en tête : tuer Doinot, celui qui l'a trahi.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-06-18T20:35:00+00:00",
-      "stop": "2026-06-18T23:05:00+00:00",
-      "channel": "VTM 2",
-      "title": "Catch Me if You Can",
-      "subtitle": "",
-      "directors": [
-        "Steven Spielberg"
-      ],
-      "actors": [
-        "Leonardo DiCaprio",
-        "Tom Hanks",
-        "Christopher Walken",
-        "Martin Sheen",
-        "Nathalie Baye",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Nathalie Baye",
-        "Amy Adams"
-      ],
-      "description": "Wanneer zijn ouders uit elkaar gaan, moet hun zoon Frank beslissen bij wie hij gaat wonen. De jongen kan de keuze niet aan en gaat ervandoor. Hij staat er nu alleen voor en beseft dat hij het zonder diploma alleen maar met listigheid kan maken. Hij geeft zich uit als arts, hoogleraar, advocaat en piloot, maar is eigenlijk een meesteroplichter. Hij neemt voortdurend andere identiteiten aan.",
-      "category": "Films"
-    },
     {
       "start": "2026-06-19T17:04:00+00:00",
       "stop": "2026-06-19T18:50:00+00:00",
