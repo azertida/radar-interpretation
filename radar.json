@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T15:26:03.775111+00:00",
-  "window_start": "2026-06-19",
+  "generated_at": "2026-06-21T12:28:57.296272+00:00",
+  "window_start": "2026-06-20",
   "window_end": "2026-06-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -50,31 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 8,
+  "count": 7,
   "programmes": [
-    {
-      "start": "2026-06-19T17:04:00+00:00",
-      "stop": "2026-06-19T18:50:00+00:00",
-      "channel": "Action",
-      "title": "Le Ruffian",
-      "subtitle": "",
-      "directors": [
-        "José Giovanni"
-      ],
-      "actors": [
-        "Beatrix Van Til",
-        "Pierre Frag",
-        "Lino Ventura",
-        "Claudia Cardinale",
-        "Bernard Giraudeau",
-        "August Schellenberg"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-06-20T10:35:00+00:00",
       "stop": "2026-06-20T12:15:00+00:00",
