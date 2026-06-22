@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T15:32:01.826662+00:00",
-  "window_start": "2026-06-20",
-  "window_end": "2026-06-24",
+  "generated_at": "2026-06-22T17:18:18.006309+00:00",
+  "window_start": "2026-06-21",
+  "window_end": "2026-06-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,55 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 7,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-06-20T10:35:00+00:00",
-      "stop": "2026-06-20T12:15:00+00:00",
-      "channel": "BBC Two",
-      "title": "She Wore a Yellow Ribbon",
-      "subtitle": "",
-      "directors": [
-        "John Ford"
-      ],
-      "actors": [
-        "John Wayne",
-        "Joanne Dru",
-        "John Agar",
-        "Ben Johnson",
-        "Harry Carey Jr.",
-        "Victor McLaglen"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "In the second installment of John Ford's cavalry trilogy, an aging captain about to retire is given one last mission: check the growing alliance of belligerent Native American tribes, while squiring his commanding officer's headstrong wife and flirtatious niece to a rendezvous with an eastbound stagecoach. She's taken to wearing a yellow ribbon in her hair, a sign that she has a beau in the Cavalry, but refuses to say for whom she is wearing it.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-06-20T11:10:00+00:00",
-      "stop": "2026-06-20T13:45:00+00:00",
-      "channel": "VTM 2",
-      "title": "Catch Me if You Can",
-      "subtitle": "",
-      "directors": [
-        "Steven Spielberg"
-      ],
-      "actors": [
-        "Leonardo DiCaprio",
-        "Tom Hanks",
-        "Christopher Walken",
-        "Martin Sheen",
-        "Nathalie Baye",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Nathalie Baye",
-        "Amy Adams"
-      ],
-      "description": "Wanneer zijn ouders uit elkaar gaan, moet hun zoon Frank beslissen bij wie hij gaat wonen. De jongen kan de keuze niet aan en gaat ervandoor. Hij staat er nu alleen voor en beseft dat hij het zonder diploma alleen maar met listigheid kan maken. Hij geeft zich uit als arts, hoogleraar, advocaat en piloot, maar is eigenlijk een meesteroplichter. Hij neemt voortdurend andere identiteiten aan.",
-      "category": "Films"
-    },
     {
       "start": "2026-06-21T07:59:00+00:00",
       "stop": "2026-06-21T09:31:00+00:00",
@@ -213,6 +166,29 @@
         "Lino Ventura"
       ],
       "description": "Octobre 1942, en France occupée. Soupçonné de faire partie de la Résistance, l'ingénieur Gerbier est arrêté et conduit au quartier général de la Gestapo. Il parvient à s'évader en tuant une sentinelle et rejoint ses amis résistants. Dès lors, il n'a plus qu'une mission en tête : tuer Doinot, celui qui l'a trahi.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-28T20:45:00+00:00",
+      "stop": "2026-06-28T23:00:00+00:00",
+      "channel": "France 2",
+      "title": "007 Spectre",
+      "subtitle": "",
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Christoph Waltz",
+        "Léa Seydoux",
+        "Ralph Fiennes",
+        "Monica Bellucci",
+        "Ben Whishaw"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "Un message cryptique venu tout droit de son passé pousse l'agent 007 à enquêter sur une sinistre organisation criminelle baptisée Spectre. Pendant ce temps, à Londres, le nouveau M doit affronter une tempête politique pour que le programme 00 soit maintenu. De Mexico à Rome, Bond poursuit sa mission et tente de localiser Madeleine Swann, la fille de Mr White, qui pourrait bien détenir le moyen de détruire Spectre. Il y découvre que ce groupe représente un grave danger pour le sort de l'humanité. Il s'alliera donc avec la fille d'un ancien membre qui avait quitté la confrérie en raison de ses pratiques abominables et tentera de la démanteler avant que leur plan pervers soit mis à exécution.",
       "category": "Cinéma"
     }
   ]
