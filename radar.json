@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T20:16:45.408500+00:00",
-  "window_start": "2026-06-21",
+  "generated_at": "2026-06-23T14:12:03.334652+00:00",
+  "window_start": "2026-06-22",
   "window_end": "2026-06-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -50,55 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 6,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-06-21T07:59:00+00:00",
-      "stop": "2026-06-21T09:31:00+00:00",
-      "channel": "La Trois",
-      "title": "Angry Birds, le film",
-      "subtitle": "",
-      "directors": [
-        "Clay Kaytis",
-        "Fergal Reilly"
-      ],
-      "actors": [
-        "Danny McBride",
-        "Kate McKinnon",
-        "Tony Hale",
-        "Matthew J. McCarthy",
-        "Maddie Taylor",
-        "Mckenna Grace"
-      ],
-      "matched_actors": [
-        "Kate McKinnon"
-      ],
-      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-06-21T14:59:00+00:00",
-      "stop": "2026-06-21T16:23:00+00:00",
-      "channel": "La Trois",
-      "title": "Beethoven 2",
-      "subtitle": "",
-      "directors": [
-        "Rod Daniel"
-      ],
-      "actors": [
-        "Charles Grodin",
-        "Bonnie Hunt",
-        "Nicholle Tom",
-        "Christopher Castile",
-        "Sarah Rose Karr",
-        "Debi Mazar"
-      ],
-      "matched_actors": [
-        "Charles Grodin"
-      ],
-      "description": "Beethoveen, saint-bernard heureux chez les Newton, tombe amoureux de Missy. Ils sont rapidement séparés par la méchante maîtresse de la chienne. Celle-ci veut en effet utiliser Missy comme outil de négociation dans son divroce. Son avidité est attisée lorsque la chienne met au monde quatre adorables chiots. Mais les enfants Newton ne l'entendent pas de cette oreille et vont tout faire pour sauver les chiens...",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-06-22T15:21:00+00:00",
       "stop": "2026-06-22T17:07:00+00:00",
