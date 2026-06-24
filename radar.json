@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T17:24:06.563249+00:00",
-  "window_start": "2026-06-22",
-  "window_end": "2026-06-28",
+  "generated_at": "2026-06-24T12:38:21.688407+00:00",
+  "window_start": "2026-06-23",
+  "window_end": "2026-06-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -52,29 +52,6 @@
   ],
   "count": 4,
   "programmes": [
-    {
-      "start": "2026-06-22T15:21:00+00:00",
-      "stop": "2026-06-22T17:07:00+00:00",
-      "channel": "Action",
-      "title": "Le Ruffian",
-      "subtitle": "",
-      "directors": [
-        "José Giovanni"
-      ],
-      "actors": [
-        "Beatrix Van Til",
-        "Pierre Frag",
-        "Lino Ventura",
-        "Claudia Cardinale",
-        "Bernard Giraudeau",
-        "August Schellenberg"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Aldo travaille dans une mine d'or du Canada. Un jour de paye, une bande de pillards attaque la mine et extermine tous les mineurs à l'exception d'Aldo et de deux indiens. Aldo se débarrasse de ses comparses et part en canot sur le fleuve... Les indiens cherchent à se débarrasser d'Aldo, mais c'est finalement lui qui s'échappe avec l'or, jusqu'à ce qu'il le perde dans des rapides. De retour à Montréal, il va monter avec ses amis une expédition pour retrouver les caisses.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-06-23T07:39:00+00:00",
       "stop": "2026-06-23T09:25:00+00:00",
@@ -142,6 +119,29 @@
         "Daniel Craig"
       ],
       "description": "Un message cryptique venu tout droit de son passé pousse l'agent 007 à enquêter sur une sinistre organisation criminelle baptisée Spectre. Pendant ce temps, à Londres, le nouveau M doit affronter une tempête politique pour que le programme 00 soit maintenu. De Mexico à Rome, Bond poursuit sa mission et tente de localiser Madeleine Swann, la fille de Mr White, qui pourrait bien détenir le moyen de détruire Spectre. Il y découvre que ce groupe représente un grave danger pour le sort de l'humanité. Il s'alliera donc avec la fille d'un ancien membre qui avait quitté la confrérie en raison de ses pratiques abominables et tentera de la démanteler avant que leur plan pervers soit mis à exécution.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-30T19:15:00+00:00",
+      "stop": "2026-06-30T21:17:00+00:00",
+      "channel": "TF1",
+      "title": "La proposition",
+      "subtitle": "",
+      "directors": [
+        "Anne Fletcher"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Ryan Reynolds",
+        "Malin Åkerman",
+        "Craig T. Nelson",
+        "Mary Steenburgen",
+        "Betty White"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "Puissante éditrice redoutée par tous ses employés, Margaret exploite sans vergogne son assistant Andrew, à son service depuis trois ans. Lorsque l'immigration menace de l'expulser vers son pays d'origine, le Canada, Margaret a la brillante idée de forcer Andrew à l'épouser en lui promettant une promotion en contrepartie. Surveillés par les agents de l'immigration, le couple part pour l'Alaska. Flairant l'imposture, un agent des services d'immigration leur promet un examen en profondeur de leur dossier, forçant la froide carriériste et l'aspirant écrivain à faire plus ample connaissance. Et quel meilleur moyen qu'un séjour en Alaska chez les parents d'Andrew, à l'occasion du 90e anniversaire de sa grand-mère? Sur place toutefois, Margaret découvre un lieu enchanteur, ainsi qu'une future belle-famille aimante et fortunée qui, apprenant leur mariage prochain, l'adopte sans condition. Jusqu'où Margaret et Andrew devront-ils pousser le mensonge?",
       "category": "Cinéma"
     }
   ]
