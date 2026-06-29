@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T15:00:48.238982+00:00",
+  "generated_at": "2026-06-29T16:49:55.956959+00:00",
   "window_start": "2026-06-28",
-  "window_end": "2026-07-01",
+  "window_end": "2026-07-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,7 +50,7 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 3,
+  "count": 6,
   "programmes": [
     {
       "start": "2026-06-28T20:45:00+00:00",
@@ -120,6 +120,75 @@
       ],
       "description": "George si è da poco ripreso dal suo piccolo, grande dramma: il matrimonio della figlia, Annie, la sua bambina di ventidue anni. E lui, fiero papà, l'ha accompagnata all'altare. È in ottimi rapporti con il genero ma, è noto, una figlia è sempre una figlia. La sua vita procede in una lenta, rassegnata ripresa. Fino a quando arriva l'altra notizia sconvolgente: George sta per diventare nonno. Incredibile. Con il lieto evento, non solo si ritroverà senza l'amata Annie, ma con una figlia... mamma. E dunque, ufficialmente, George entrerà nella terza età. Sarà nonno: che ruolo pesante. Lui, un così bell'uomo. Un giovane, piacente, brizzolato professionista di mezz'età. Un fulmine a ciel sereno. Persino lo specchio sembra impietoso con le sue rughe. E come se non bastassero questa catena di tragedie, l'adorata moglie fa una scoperta sorprendente. Anche loro due, i nonni, stanno per avere un bambino...",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-05T17:55:00+00:00",
+      "stop": "2026-07-05T20:05:00+00:00",
+      "channel": "VTM 2",
+      "title": "Meet the Fockers",
+      "subtitle": "",
+      "directors": [
+        "Jay Roach"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Dustin Hoffman",
+        "Barbra Streisand",
+        "Blythe Danner",
+        "Teri Polo"
+      ],
+      "matched_actors": [
+        "Barbra Streisand"
+      ],
+      "description": "Nadat voormalig CIA-agent Jack Byrnes de mannelijke verpleger Gaylord Focker toestemming heeft gegeven om met zijn dochter Pam te trouwen, is het tijd om de ouders van de twee eindelijk eens met elkaar kennis te laten maken. Jack reist samen met zijn vrouw, kleinzoon en het toekomstige echtpaar naar Miami, waar ze de Focker-familie leren kennen.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-07-05T21:00:00+00:00",
+      "stop": "2026-07-05T23:35:00+00:00",
+      "channel": "France 2",
+      "title": "Mourir peut attendre",
+      "subtitle": "",
+      "directors": [
+        "Cary Fukunaga"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Léa Seydoux",
+        "Rami Malek",
+        "Lashana Lynch",
+        "Ralph Fiennes",
+        "Ben Whishaw"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "La vie à la retraite de James Bond en Jamaïque est perturbée lorsqu'un vieil ami de la CIA demande son aide pour sauver un scientifique kidnappé. La mission étonnamment difficile le conduit à une confrontation avec un ennemi énigmatique mais il doit aussi affronter une nouvelle technologie dangereuse.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-05T21:30:00+00:00",
+      "stop": "2026-07-05T23:05:00+00:00",
+      "channel": "BBC One",
+      "title": "Lara Croft: Tomb Raider",
+      "subtitle": "",
+      "directors": [
+        "Simon West"
+      ],
+      "actors": [
+        "Angelina Jolie",
+        "Iain Glen",
+        "Jon Voight",
+        "Daniel Craig",
+        "Noah Taylor",
+        "Chris Barrie"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "Join Lara Croft, a sexy video-game goddess as she battles villainous forces while racing to recover an ancient magical artefact that has the power to control time and space. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+      "category": "Movies"
     }
   ]
 }
