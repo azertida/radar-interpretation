@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T18:00:11.706920+00:00",
-  "window_start": "2026-06-28",
+  "generated_at": "2026-06-30T12:33:57.387128+00:00",
+  "window_start": "2026-06-30",
   "window_end": "2026-07-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -53,29 +53,6 @@
   "count": 6,
   "programmes": [
     {
-      "start": "2026-06-28T20:45:00+00:00",
-      "stop": "2026-06-28T23:00:00+00:00",
-      "channel": "France 2",
-      "title": "007 Spectre",
-      "subtitle": "",
-      "directors": [
-        "Sam Mendes"
-      ],
-      "actors": [
-        "Daniel Craig",
-        "Christoph Waltz",
-        "Léa Seydoux",
-        "Ralph Fiennes",
-        "Monica Bellucci",
-        "Ben Whishaw"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "Un message cryptique venu tout droit de son passé pousse l'agent 007 à enquêter sur une sinistre organisation criminelle baptisée Spectre. Pendant ce temps, à Londres, le nouveau M doit affronter une tempête politique pour que le programme 00 soit maintenu. De Mexico à Rome, Bond poursuit sa mission et tente de localiser Madeleine Swann, la fille de Mr White, qui pourrait bien détenir le moyen de détruire Spectre. Il y découvre que ce groupe représente un grave danger pour le sort de l'humanité. Il s'alliera donc avec la fille d'un ancien membre qui avait quitté la confrérie en raison de ses pratiques abominables et tentera de la démanteler avant que leur plan pervers soit mis à exécution.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-06-30T19:15:00+00:00",
       "stop": "2026-06-30T21:18:00+00:00",
       "channel": "TF1",
@@ -96,6 +73,29 @@
         "Sandra Bullock"
       ],
       "description": "Puissante éditrice redoutée par tous ses employés, Margaret exploite sans vergogne son assistant Andrew, à son service depuis trois ans. Lorsque l'immigration menace de l'expulser vers son pays d'origine, le Canada, Margaret a la brillante idée de forcer Andrew à l'épouser en lui promettant une promotion en contrepartie. Surveillés par les agents de l'immigration, le couple part pour l'Alaska. Flairant l'imposture, un agent des services d'immigration leur promet un examen en profondeur de leur dossier, forçant la froide carriériste et l'aspirant écrivain à faire plus ample connaissance. Et quel meilleur moyen qu'un séjour en Alaska chez les parents d'Andrew, à l'occasion du 90e anniversaire de sa grand-mère? Sur place toutefois, Margaret découvre un lieu enchanteur, ainsi qu'une future belle-famille aimante et fortunée qui, apprenant leur mariage prochain, l'adopte sans condition. Jusqu'où Margaret et Andrew devront-ils pousser le mensonge?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-01T19:20:00+00:00",
+      "stop": "2026-07-01T21:15:00+00:00",
+      "channel": "RAI Due",
+      "title": "Il padre della sposa",
+      "subtitle": "",
+      "directors": [
+        "Charles Shyer"
+      ],
+      "actors": [
+        "Steve Martin",
+        "Diane Keaton",
+        "Martin Short",
+        "Kieran Culkin",
+        "George Newbern",
+        "B.D. Wong"
+      ],
+      "matched_actors": [
+        "Diane Keaton"
+      ],
+      "description": "Per un padre non è mai facile accettare che la propria figlia stia crescendo e che si appresti a lasciare il nido familiare. Quando la ventiduenne Annie Banks comunica al padre George l'intenzione di sposare il giovane Bryan McKenzie, un bravo ragazzo di famiglia benestante, l'uomo non la prende tanto bene... Ma George non riesce a immaginare la sua vita senza la figlia prediletta e comincia così a comportarsi stranamente, sotto gli occhi esterrefatti di Annie e del futuro genero, della moglie Nina e del figlio minore Matty, dei futuri suoceri John e Joanna...",
       "category": "Cinéma"
     },
     {
