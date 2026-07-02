@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T12:32:28.136930+00:00",
+  "generated_at": "2026-07-02T16:18:18.950592+00:00",
   "window_start": "2026-07-01",
   "window_end": "2026-07-07",
   "source": "Pickx via iptv-org/epg",
@@ -169,7 +169,7 @@
     },
     {
       "start": "2026-07-07T21:37:00+00:00",
-      "stop": "2026-07-07T23:37:00+00:00",
+      "stop": "2026-07-07T23:38:00+00:00",
       "channel": "TF1",
       "title": "La proposition",
       "subtitle": "",
