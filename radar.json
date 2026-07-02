@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T17:04:16.673574+00:00",
-  "window_start": "2026-06-30",
+  "generated_at": "2026-07-02T12:32:28.136930+00:00",
+  "window_start": "2026-07-01",
   "window_end": "2026-07-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -50,31 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 7,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-06-30T19:16:00+00:00",
-      "stop": "2026-06-30T21:19:00+00:00",
-      "channel": "TF1",
-      "title": "La proposition",
-      "subtitle": "",
-      "directors": [
-        "Anne Fletcher"
-      ],
-      "actors": [
-        "Sandra Bullock",
-        "Ryan Reynolds",
-        "Malin Åkerman",
-        "Craig T. Nelson",
-        "Mary Steenburgen",
-        "Betty White"
-      ],
-      "matched_actors": [
-        "Sandra Bullock"
-      ],
-      "description": "Puissante éditrice redoutée par tous ses employés, Margaret exploite sans vergogne son assistant Andrew, à son service depuis trois ans. Lorsque l'immigration menace de l'expulser vers son pays d'origine, le Canada, Margaret a la brillante idée de forcer Andrew à l'épouser en lui promettant une promotion en contrepartie. Surveillés par les agents de l'immigration, le couple part pour l'Alaska. Flairant l'imposture, un agent des services d'immigration leur promet un examen en profondeur de leur dossier, forçant la froide carriériste et l'aspirant écrivain à faire plus ample connaissance. Et quel meilleur moyen qu'un séjour en Alaska chez les parents d'Andrew, à l'occasion du 90e anniversaire de sa grand-mère? Sur place toutefois, Margaret découvre un lieu enchanteur, ainsi qu'une future belle-famille aimante et fortunée qui, apprenant leur mariage prochain, l'adopte sans condition. Jusqu'où Margaret et Andrew devront-ils pousser le mensonge?",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-01T19:20:00+00:00",
       "stop": "2026-07-01T21:15:00+00:00",
@@ -100,7 +77,7 @@
     },
     {
       "start": "2026-07-01T21:15:00+00:00",
-      "stop": "2026-07-01T23:02:00+00:00",
+      "stop": "2026-07-01T23:03:00+00:00",
       "channel": "RAI Due",
       "title": "Il padre della sposa 2",
       "subtitle": "",
