@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T16:18:18.950592+00:00",
-  "window_start": "2026-07-01",
+  "generated_at": "2026-07-03T12:30:05.316991+00:00",
+  "window_start": "2026-07-05",
   "window_end": "2026-07-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
@@ -50,54 +50,8 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 6,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-07-01T19:20:00+00:00",
-      "stop": "2026-07-01T21:15:00+00:00",
-      "channel": "RAI Due",
-      "title": "Il padre della sposa",
-      "subtitle": "",
-      "directors": [
-        "Charles Shyer"
-      ],
-      "actors": [
-        "Steve Martin",
-        "Diane Keaton",
-        "Martin Short",
-        "Kieran Culkin",
-        "George Newbern",
-        "B.D. Wong"
-      ],
-      "matched_actors": [
-        "Diane Keaton"
-      ],
-      "description": "Per un padre non è mai facile accettare che la propria figlia stia crescendo e che si appresti a lasciare il nido familiare. Quando la ventiduenne Annie Banks comunica al padre George l'intenzione di sposare il giovane Bryan McKenzie, un bravo ragazzo di famiglia benestante, l'uomo non la prende tanto bene... Ma George non riesce a immaginare la sua vita senza la figlia prediletta e comincia così a comportarsi stranamente, sotto gli occhi esterrefatti di Annie e del futuro genero, della moglie Nina e del figlio minore Matty, dei futuri suoceri John e Joanna...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-01T21:15:00+00:00",
-      "stop": "2026-07-01T23:03:00+00:00",
-      "channel": "RAI Due",
-      "title": "Il padre della sposa 2",
-      "subtitle": "",
-      "directors": [
-        "Charles Shyer"
-      ],
-      "actors": [
-        "Steve Martin",
-        "Diane Keaton",
-        "Martin Short",
-        "George Newbern",
-        "Kieran Culkin",
-        "B.D. Wong"
-      ],
-      "matched_actors": [
-        "Diane Keaton"
-      ],
-      "description": "George si è da poco ripreso dal suo piccolo, grande dramma: il matrimonio della figlia, Annie, la sua bambina di ventidue anni. E lui, fiero papà, l'ha accompagnata all'altare. È in ottimi rapporti con il genero ma, è noto, una figlia è sempre una figlia. La sua vita procede in una lenta, rassegnata ripresa. Fino a quando arriva l'altra notizia sconvolgente: George sta per diventare nonno. Incredibile. Con il lieto evento, non solo si ritroverà senza l'amata Annie, ma con una figlia... mamma. E dunque, ufficialmente, George entrerà nella terza età. Sarà nonno: che ruolo pesante. Lui, un così bell'uomo. Un giovane, piacente, brizzolato professionista di mezz'età. Un fulmine a ciel sereno. Persino lo specchio sembra impietoso con le sue rughe. E come se non bastassero questa catena di tragedie, l'adorata moglie fa una scoperta sorprendente. Anche loro due, i nonni, stanno per avere un bambino...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-05T17:55:00+00:00",
       "stop": "2026-07-05T20:05:00+00:00",
