@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T15:59:47.668603+00:00",
+  "generated_at": "2026-07-04T08:07:39.708134+00:00",
   "window_start": "2026-07-05",
-  "window_end": "2026-07-07",
+  "window_end": "2026-07-10",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,7 +50,7 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 4,
+  "count": 5,
   "programmes": [
     {
       "start": "2026-07-05T17:55:00+00:00",
@@ -143,6 +143,29 @@
       ],
       "description": "Puissante éditrice redoutée par tous ses employés, Margaret exploite sans vergogne son assistant Andrew, à son service depuis trois ans. Lorsque l'immigration menace de l'expulser vers son pays d'origine, le Canada, Margaret a la brillante idée de forcer Andrew à l'épouser en lui promettant une promotion en contrepartie. Surveillés par les agents de l'immigration, le couple part pour l'Alaska. Flairant l'imposture, un agent des services d'immigration leur promet un examen en profondeur de leur dossier, forçant la froide carriériste et l'aspirant écrivain à faire plus ample connaissance. Et quel meilleur moyen qu'un séjour en Alaska chez les parents d'Andrew, à l'occasion du 90e anniversaire de sa grand-mère? Sur place toutefois, Margaret découvre un lieu enchanteur, ainsi qu'une future belle-famille aimante et fortunée qui, apprenant leur mariage prochain, l'adopte sans condition. Jusqu'où Margaret et Andrew devront-ils pousser le mensonge?",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-10T20:25:00+00:00",
+      "stop": "2026-07-10T22:17:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Road to Perdition",
+      "subtitle": "",
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Paul Newman",
+        "Jennifer Jason Leigh",
+        "Jude Law",
+        "Stanley Tucci",
+        "Daniel Craig"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "Chicago, 1931. Michael Sullivan en John Rooney zijn allebei betrokken bij de Ierse maffia. Rooney is de mentor van Michael en beschouwt hem dan ook als een zoon. Beide mannen hebben ook zonen die in hun voetsporen willen treden: Michael Sullivan Jr. en Connor Rooney. De jongens doen hun uiterste best zich zo stoer mogelijk op te stellen om zo het respect van hun vaders te winnen.",
+      "category": "Films"
     }
   ]
 }
