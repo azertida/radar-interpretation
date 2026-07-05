@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T10:46:02.399393+00:00",
+  "generated_at": "2026-07-05T08:20:56.997704+00:00",
   "window_start": "2026-07-05",
-  "window_end": "2026-07-10",
+  "window_end": "2026-07-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,7 +50,7 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 5,
+  "count": 6,
   "programmes": [
     {
       "start": "2026-07-05T17:55:00+00:00",
@@ -123,7 +123,7 @@
     },
     {
       "start": "2026-07-07T21:37:00+00:00",
-      "stop": "2026-07-07T23:38:00+00:00",
+      "stop": "2026-07-07T23:39:00+00:00",
       "channel": "TF1",
       "title": "La proposition",
       "subtitle": "",
@@ -166,6 +166,29 @@
       ],
       "description": "Chicago, 1931. Michael Sullivan en John Rooney zijn allebei betrokken bij de Ierse maffia. Rooney is de mentor van Michael en beschouwt hem dan ook als een zoon. Beide mannen hebben ook zonen die in hun voetsporen willen treden: Michael Sullivan Jr. en Connor Rooney. De jongens doen hun uiterste best zich zo stoer mogelijk op te stellen om zo het respect van hun vaders te winnen.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-11T13:15:00+00:00",
+      "stop": "2026-07-11T15:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "North by Northwest",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis",
+        "Philip Ober",
+        "Martin Landau"
+      ],
+      "matched_actors": [
+        "Cary Grant"
+      ],
+      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
+      "category": "Movies"
     }
   ]
 }
