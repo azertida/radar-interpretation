@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T10:53:05.301951+00:00",
+  "generated_at": "2026-07-06T09:09:31.848907+00:00",
   "window_start": "2026-07-05",
-  "window_end": "2026-07-11",
+  "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 44,
   "watchlist": [
@@ -50,7 +50,7 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 6,
+  "count": 7,
   "programmes": [
     {
       "start": "2026-07-05T17:55:00+00:00",
@@ -189,6 +189,30 @@
       ],
       "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-12T19:35:00+00:00",
+      "stop": "2026-07-12T21:21:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "subtitle": "",
+      "directors": [
+        "George Roy Hill",
+        "John C. Foreman"
+      ],
+      "actors": [
+        "Paul Newman",
+        "Robert Redford",
+        "Katharine Ross",
+        "Strother Martin",
+        "Jeff Corey",
+        "George Furth"
+      ],
+      "matched_actors": [
+        "Robert Redford"
+      ],
+      "description": "Butch Cassidy en Sundance Kid zijn twee beruchte Amerikaanse gangsters die aan het begin van de twintigste eeuw tal van banken en treinen overvallen. Butch is het brein achter de hold-ups en Sundance de schutter. Maar na de zoveelste overval op een trein worden ze achternagezeten door een speciale eenheid. De onafscheidelijke criminelen slaan op de vlucht richting Bolivia.",
+      "category": "Films"
     }
   ]
 }
