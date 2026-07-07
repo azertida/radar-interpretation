@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T11:31:22.216125+00:00",
-  "window_start": "2026-07-07",
+  "generated_at": "2026-07-07T19:25:02.982413+00:00",
+  "window_start": "2026-07-06",
   "window_end": "2026-07-13",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 46,
+  "watchlist_size": 50,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -11,9 +11,11 @@
     "Lionnel Astier",
     "Lauren Bacall",
     "Nathalie Baye",
+    "Jean-Paul Belmondo",
     "Chadwick Boseman",
     "Andre Braugher",
     "Sandra Bullock",
+    "Jean-Pierre Cassel",
     "Jessica Chastain",
     "Daniel Craig",
     "Tony Curtis",
@@ -21,6 +23,7 @@
     "Michael Douglas",
     "Chiwetel Ejiofor",
     "Rebecca Ferguson",
+    "Annie Girardot",
     "Cary Grant",
     "Charles Grodin",
     "Goldie Hawn",
@@ -50,10 +53,80 @@
     "Lino Ventura",
     "John Wayne",
     "Kristen Wiig",
+    "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 6,
+  "count": 12,
   "programmes": [
+    {
+      "start": "2026-07-06T15:21:00+00:00",
+      "stop": "2026-07-06T17:08:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-07T05:57:00+00:00",
+      "stop": "2026-07-07T07:44:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-07T19:05:00+00:00",
+      "stop": "2026-07-07T20:50:00+00:00",
+      "channel": "France 5",
+      "title": "Tendre Poulet",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "actors": [
+        "Annie Girardot",
+        "Philippe Noiret",
+        "Catherine Alric",
+        "Hubert Deschamps",
+        "Paulette Dubost",
+        "Roger Dumas"
+      ],
+      "matched_actors": [
+        "Annie Girardot"
+      ],
+      "description": "Lise Tanquerelle, commissaire à la ville, rencontre par hasard Antoine Lemercier, une vieille connaissance d'école, le jour où elle le renverse avec sa voiture. Il s'impose dans sa vie mouvementée, car Lise enquête sur des meurtres en série de plusieurs députés. Elle decouvre que tous fréquentaient la même callgirl... Ces retrouvailles donnent lieu à une relation naissance, mais Lise passe sous silence sa profession, Antoine n'a pas conservé de bon sourvenirs de jeunesse de la police. Parallèlement à cette romance naissante, Lise est chargée d'enquêter sur une série de meurtres étranges : en quelques jours, trois députés assassinés successivement avec le même modus operandi : un poinçon de sellerie planté dans le dos des victimes.",
+      "category": "Cinéma"
+    },
     {
       "start": "2026-07-07T21:38:00+00:00",
       "stop": "2026-07-07T23:39:00+00:00",
@@ -78,6 +151,29 @@
       "category": "Cinéma"
     },
     {
+      "start": "2026-07-09T03:01:00+00:00",
+      "stop": "2026-07-09T05:34:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
+    },
+    {
       "start": "2026-07-10T20:25:00+00:00",
       "stop": "2026-07-10T22:17:00+00:00",
       "channel": "VRT Canvas",
@@ -99,6 +195,29 @@
       ],
       "description": "Chicago, 1931. Michael Sullivan en John Rooney zijn allebei betrokken bij de Ierse maffia. Rooney is de mentor van Michael en beschouwt hem dan ook als een zoon. Beide mannen hebben ook zonen die in hun voetsporen willen treden: Michael Sullivan Jr. en Connor Rooney. De jongens doen hun uiterste best zich zo stoer mogelijk op te stellen om zo het respect van hun vaders te winnen.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-11T03:30:00+00:00",
+      "stop": "2026-07-11T05:14:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
     },
     {
       "start": "2026-07-11T13:15:00+00:00",
@@ -146,6 +265,29 @@
       ],
       "description": "Butch Cassidy en Sundance Kid zijn twee beruchte Amerikaanse gangsters die aan het begin van de twintigste eeuw tal van banken en treinen overvallen. Butch is het brein achter de hold-ups en Sundance de schutter. Maar na de zoveelste overval op een trein worden ze achternagezeten door een speciale eenheid. De onafscheidelijke criminelen slaan op de vlucht richting Bolivia.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-13T03:21:00+00:00",
+      "stop": "2026-07-13T05:36:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
     },
     {
       "start": "2026-07-13T22:05:00+00:00",
