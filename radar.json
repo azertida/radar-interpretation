@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T12:29:28.454563+00:00",
-  "window_start": "2026-07-05",
-  "window_end": "2026-07-12",
+  "generated_at": "2026-07-07T08:46:48.079234+00:00",
+  "window_start": "2026-07-07",
+  "window_end": "2026-07-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 46,
   "watchlist": [
@@ -52,79 +52,10 @@
     "Kristen Wiig",
     "Debra Winger"
   ],
-  "count": 7,
+  "count": 6,
   "programmes": [
     {
-      "start": "2026-07-05T17:55:00+00:00",
-      "stop": "2026-07-05T20:05:00+00:00",
-      "channel": "VTM 2",
-      "title": "Meet the Fockers",
-      "subtitle": "",
-      "directors": [
-        "Jay Roach"
-      ],
-      "actors": [
-        "Ben Stiller",
-        "Robert De Niro",
-        "Dustin Hoffman",
-        "Barbra Streisand",
-        "Blythe Danner",
-        "Teri Polo"
-      ],
-      "matched_actors": [
-        "Barbra Streisand"
-      ],
-      "description": "Nadat voormalig CIA-agent Jack Byrnes de mannelijke verpleger Gaylord Focker toestemming heeft gegeven om met zijn dochter Pam te trouwen, is het tijd om de ouders van de twee eindelijk eens met elkaar kennis te laten maken. Jack reist samen met zijn vrouw, kleinzoon en het toekomstige echtpaar naar Miami, waar ze de Focker-familie leren kennen.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-07-05T21:00:00+00:00",
-      "stop": "2026-07-05T23:35:00+00:00",
-      "channel": "France 2",
-      "title": "Mourir peut attendre",
-      "subtitle": "",
-      "directors": [
-        "Cary Fukunaga"
-      ],
-      "actors": [
-        "Daniel Craig",
-        "Léa Seydoux",
-        "Rami Malek",
-        "Lashana Lynch",
-        "Ralph Fiennes",
-        "Ben Whishaw"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "La vie à la retraite de James Bond en Jamaïque est perturbée lorsqu'un vieil ami de la CIA demande son aide pour sauver un scientifique kidnappé. La mission étonnamment difficile le conduit à une confrontation avec un ennemi énigmatique mais il doit aussi affronter une nouvelle technologie dangereuse.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-05T21:30:00+00:00",
-      "stop": "2026-07-05T23:05:00+00:00",
-      "channel": "BBC One",
-      "title": "Lara Croft: Tomb Raider",
-      "subtitle": "",
-      "directors": [
-        "Simon West"
-      ],
-      "actors": [
-        "Angelina Jolie",
-        "Iain Glen",
-        "Jon Voight",
-        "Daniel Craig",
-        "Noah Taylor",
-        "Chris Barrie"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "Join Lara Croft, a sexy video-game goddess as she battles villainous forces while racing to recover an ancient magical artefact that has the power to control time and space. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-07-07T21:37:00+00:00",
+      "start": "2026-07-07T21:38:00+00:00",
       "stop": "2026-07-07T23:39:00+00:00",
       "channel": "TF1",
       "title": "La proposition",
@@ -215,6 +146,53 @@
       ],
       "description": "Butch Cassidy en Sundance Kid zijn twee beruchte Amerikaanse gangsters die aan het begin van de twintigste eeuw tal van banken en treinen overvallen. Butch is het brein achter de hold-ups en Sundance de schutter. Maar na de zoveelste overval op een trein worden ze achternagezeten door een speciale eenheid. De onafscheidelijke criminelen slaan op de vlucht richting Bolivia.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-13T22:05:00+00:00",
+      "stop": "2026-07-13T23:55:00+00:00",
+      "channel": "BBC Two",
+      "title": "Safe Haven",
+      "subtitle": "",
+      "directors": [
+        "Ryan Kavanaugh",
+        "Marty Bowen"
+      ],
+      "actors": [
+        "Josh Duhamel",
+        "Cobie Smulders",
+        "David Lyons",
+        "Mimi Kirkland",
+        "Noah Lomax",
+        "Jon Kohler"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "A reclusive woman starts a new life in a small North Carolina town, and reluctantly enters into a romance with a widowed father who helps her confront her troubled past.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-07-13T22:25:00+00:00",
+      "stop": "2026-07-14T00:15:00+00:00",
+      "channel": "BBC One",
+      "title": "Cowboys & Aliens",
+      "subtitle": "",
+      "directors": [
+        "Jon Favreau"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Olivia Wilde",
+        "Harrison Ford",
+        "Paul Dano",
+        "Adam Beach",
+        "Noah Ringer"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "Jake Lonergan wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he's a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope for survival. But the differences between the two men pale in comparison when an alien race unleashes terror and technologies from another world on the town, forcing all of Absolution to band together to send the intruders packing.",
+      "category": "Movies"
     }
   ]
 }
