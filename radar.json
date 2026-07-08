@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T19:31:24.261987+00:00",
-  "window_start": "2026-07-06",
-  "window_end": "2026-07-13",
+  "generated_at": "2026-07-08T07:44:04.746032+00:00",
+  "window_start": "2026-07-07",
+  "window_end": "2026-07-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -61,29 +61,6 @@
   "count": 12,
   "programmes": [
     {
-      "start": "2026-07-06T15:21:00+00:00",
-      "stop": "2026-07-06T17:08:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-07-07T05:57:00+00:00",
       "stop": "2026-07-07T07:44:00+00:00",
       "channel": "Action",
@@ -131,7 +108,7 @@
     },
     {
       "start": "2026-07-07T21:38:00+00:00",
-      "stop": "2026-07-07T23:39:00+00:00",
+      "stop": "2026-07-07T23:40:00+00:00",
       "channel": "TF1",
       "title": "La proposition",
       "subtitle": "",
@@ -337,6 +314,29 @@
       ],
       "description": "Jake Lonergan wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he's a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope for survival. But the differences between the two men pale in comparison when an alien race unleashes terror and technologies from another world on the town, forcing all of Absolution to band together to send the intruders packing.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-14T16:59:00+00:00",
+      "stop": "2026-07-14T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
     }
   ]
 }
