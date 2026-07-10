@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T11:36:35.938409+00:00",
+  "generated_at": "2026-07-10T08:44:36.943178+00:00",
   "window_start": "2026-07-09",
-  "window_end": "2026-07-15",
+  "window_end": "2026-07-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,7 +58,7 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 10,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-07-09T03:01:00+00:00",
@@ -291,6 +291,75 @@
       ],
       "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-07-16T15:17:00+00:00",
+      "stop": "2026-07-16T17:08:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-16T18:50:00+00:00",
+      "stop": "2026-07-16T20:27:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-16T20:25:00+00:00",
+      "stop": "2026-07-16T22:50:00+00:00",
+      "channel": "VTM 2",
+      "title": "Downsizing",
+      "subtitle": "",
+      "directors": [
+        "Alexander Payne"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Kristen Wiig",
+        "Christoph Waltz",
+        "Jason Sudeikis",
+        "Neil Patrick Harris",
+        "Laura Dern"
+      ],
+      "matched_actors": [
+        "Kristen Wiig"
+      ],
+      "description": "Wanneer Noorse wetenschappers een manier vinden om organisch materiaal en dus ook mensen te doen krimpen en zo het overbevolkings- en klimaatprobleem aan te pakken, besluiten Paul en zijn vrouw Audrey het erop te wagen. Nadat Paul verkleind is, blijkt Audrey evenwel te passen, waardoor Paul alleen achterblijft in de kleinemensenwereld. Daar is hij een rijk man. Eens gekrompen kunnen ze met hun spaargeld een luxueus leven leiden in een verkleinde mensenwereld, waar ze minder land en voedsel verspillen en minder afval produceren.",
+      "category": "Films"
     }
   ]
 }
