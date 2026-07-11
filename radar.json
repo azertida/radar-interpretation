@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T11:35:20.401131+00:00",
-  "window_start": "2026-07-09",
-  "window_end": "2026-07-16",
+  "generated_at": "2026-07-11T07:21:35.324254+00:00",
+  "window_start": "2026-07-10",
+  "window_end": "2026-07-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -61,31 +61,8 @@
   "count": 13,
   "programmes": [
     {
-      "start": "2026-07-09T03:01:00+00:00",
-      "stop": "2026-07-09T05:34:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
       "start": "2026-07-10T20:25:00+00:00",
-      "stop": "2026-07-10T22:17:00+00:00",
+      "stop": "2026-07-10T22:14:00+00:00",
       "channel": "VRT Canvas",
       "title": "Road to Perdition",
       "subtitle": "",
@@ -360,6 +337,29 @@
       ],
       "description": "Wanneer Noorse wetenschappers een manier vinden om organisch materiaal en dus ook mensen te doen krimpen en zo het overbevolkings- en klimaatprobleem aan te pakken, besluiten Paul en zijn vrouw Audrey het erop te wagen. Nadat Paul verkleind is, blijkt Audrey evenwel te passen, waardoor Paul alleen achterblijft in de kleinemensenwereld. Daar is hij een rijk man. Eens gekrompen kunnen ze met hun spaargeld een luxueus leven leiden in een verkleinde mensenwereld, waar ze minder land en voedsel verspillen en minder afval produceren.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-17T03:07:00+00:00",
+      "stop": "2026-07-17T05:04:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
     }
   ]
 }
