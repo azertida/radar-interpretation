@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T10:06:06.166186+00:00",
-  "window_start": "2026-07-10",
+  "generated_at": "2026-07-12T07:39:55.101961+00:00",
+  "window_start": "2026-07-11",
   "window_end": "2026-07-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
@@ -58,31 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-07-10T20:25:00+00:00",
-      "stop": "2026-07-10T22:14:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "Road to Perdition",
-      "subtitle": "",
-      "directors": [
-        "Sam Mendes"
-      ],
-      "actors": [
-        "Tom Hanks",
-        "Paul Newman",
-        "Jennifer Jason Leigh",
-        "Jude Law",
-        "Stanley Tucci",
-        "Daniel Craig"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "Chicago, 1931. Michael Sullivan en John Rooney zijn allebei betrokken bij de Ierse maffia. Rooney is de mentor van Michael en beschouwt hem dan ook als een zoon. Beide mannen hebben ook zonen die in hun voetsporen willen treden: Michael Sullivan Jr. en Connor Rooney. De jongens doen hun uiterste best zich zo stoer mogelijk op te stellen om zo het respect van hun vaders te winnen.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-11T03:30:00+00:00",
       "stop": "2026-07-11T05:14:00+00:00",
