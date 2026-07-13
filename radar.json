@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T10:16:03.516149+00:00",
-  "window_start": "2026-07-11",
-  "window_end": "2026-07-17",
+  "generated_at": "2026-07-13T08:29:44.273503+00:00",
+  "window_start": "2026-07-12",
+  "window_end": "2026-07-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,54 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 12,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-11T03:30:00+00:00",
-      "stop": "2026-07-11T05:14:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-07-11T13:15:00+00:00",
-      "stop": "2026-07-11T15:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "North by Northwest",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "actors": [
-        "Cary Grant",
-        "Eva Marie Saint",
-        "James Mason",
-        "Jessie Royce Landis",
-        "Philip Ober",
-        "Martin Landau"
-      ],
-      "matched_actors": [
-        "Cary Grant"
-      ],
-      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-12T19:35:00+00:00",
       "stop": "2026-07-12T21:21:00+00:00",
@@ -337,6 +291,76 @@
       ],
       "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-07-19T07:32:00+00:00",
+      "stop": "2026-07-19T09:23:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-19T15:02:00+00:00",
+      "stop": "2026-07-19T16:34:00+00:00",
+      "channel": "La Trois",
+      "title": "Angry Birds, le film",
+      "subtitle": "",
+      "directors": [
+        "Clay Kaytis",
+        "Fergal Reilly"
+      ],
+      "actors": [
+        "Danny McBride",
+        "Kate McKinnon",
+        "Tony Hale",
+        "Matthew J. McCarthy",
+        "Maddie Taylor",
+        "Mckenna Grace"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-19T17:13:00+00:00",
+      "stop": "2026-07-19T18:50:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
     }
   ]
 }
