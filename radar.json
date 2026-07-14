@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T11:45:28.022289+00:00",
-  "window_start": "2026-07-12",
-  "window_end": "2026-07-19",
+  "generated_at": "2026-07-14T07:23:34.057306+00:00",
+  "window_start": "2026-07-13",
+  "window_end": "2026-07-20",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,32 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-07-12T19:34:00+00:00",
-      "stop": "2026-07-12T21:20:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "Butch Cassidy and the Sundance Kid",
-      "subtitle": "",
-      "directors": [
-        "George Roy Hill",
-        "John C. Foreman"
-      ],
-      "actors": [
-        "Paul Newman",
-        "Robert Redford",
-        "Katharine Ross",
-        "Strother Martin",
-        "Jeff Corey",
-        "George Furth"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "Butch Cassidy en Sundance Kid zijn twee beruchte Amerikaanse gangsters die aan het begin van de twintigste eeuw tal van banken en treinen overvallen. Butch is het brein achter de hold-ups en Sundance de schutter. Maar na de zoveelste overval op een trein worden ze achternagezeten door een speciale eenheid. De onafscheidelijke criminelen slaan op de vlucht richting Bolivia.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-13T03:21:00+00:00",
       "stop": "2026-07-13T05:36:00+00:00",
@@ -293,6 +269,30 @@
       "category": "Séries"
     },
     {
+      "start": "2026-07-18T15:00:00+00:00",
+      "stop": "2026-07-18T17:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Il grande Jake",
+      "subtitle": "",
+      "directors": [
+        "George Sherman",
+        "John Wayne"
+      ],
+      "actors": [
+        "John Wayne",
+        "Richard Boone",
+        "Maureen O'Hara",
+        "Patrick Wayne",
+        "Christopher Mitchum",
+        "Bobby Vinton"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Il piccolo Jacob McCandles viene rapito da una banda di fuorilegge che hanno assalito la fattoria della sua famiglia e chiedono un riscatto milionario. Marta, la nonna, decide di rivolgersi al marito Jake, dal quale vive separata da 15 anni; questi è ancora un tipo vigoroso, a dispetto dell'età. Fingendo di accettare le richieste dei banditi, giunge al loro covo accompagnato da due figli e da un vecchio indiano; nel baule non ci sono soldi ma carta straccia.",
+      "category": "Cinéma"
+    },
+    {
       "start": "2026-07-19T07:32:00+00:00",
       "stop": "2026-07-19T09:23:00+00:00",
       "channel": "Action",
@@ -316,8 +316,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-19T15:02:00+00:00",
-      "stop": "2026-07-19T16:34:00+00:00",
+      "start": "2026-07-19T15:01:00+00:00",
+      "stop": "2026-07-19T16:33:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -360,6 +360,29 @@
         "Daniel Craig"
       ],
       "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-20T18:55:00+00:00",
+      "stop": "2026-07-20T20:55:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme qui tua Liberty Valance",
+      "subtitle": "",
+      "directors": [
+        "John Ford"
+      ],
+      "actors": [
+        "John Wayne",
+        "James Stewart",
+        "Vera Miles",
+        "Lee Marvin",
+        "Edmond O'Brien",
+        "Andy Devine"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
       "category": "Cinéma"
     }
   ]
