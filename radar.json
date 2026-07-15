@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T10:27:20.842149+00:00",
+  "generated_at": "2026-07-15T07:26:02.668613+00:00",
   "window_start": "2026-07-13",
-  "window_end": "2026-07-20",
+  "window_end": "2026-07-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,53 +60,6 @@
   ],
   "count": 14,
   "programmes": [
-    {
-      "start": "2026-07-13T03:21:00+00:00",
-      "stop": "2026-07-13T05:36:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-07-13T22:05:00+00:00",
-      "stop": "2026-07-13T23:55:00+00:00",
-      "channel": "BBC Two",
-      "title": "Safe Haven",
-      "subtitle": "",
-      "directors": [
-        "Ryan Kavanaugh",
-        "Marty Bowen"
-      ],
-      "actors": [
-        "Josh Duhamel",
-        "Cobie Smulders",
-        "David Lyons",
-        "Mimi Kirkland",
-        "Noah Lomax",
-        "Jon Kohler"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "A reclusive woman starts a new life in a small North Carolina town, and reluctantly enters into a romance with a widowed father who helps her confront her troubled past.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-13T22:25:00+00:00",
       "stop": "2026-07-14T00:15:00+00:00",
@@ -364,7 +317,7 @@
     },
     {
       "start": "2026-07-20T18:55:00+00:00",
-      "stop": "2026-07-20T20:55:00+00:00",
+      "stop": "2026-07-20T21:00:00+00:00",
       "channel": "Arte",
       "title": "L'homme qui tua Liberty Valance",
       "subtitle": "",
@@ -383,6 +336,52 @@
         "John Wayne"
       ],
       "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-21T05:19:00+00:00",
+      "stop": "2026-07-21T07:10:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-21T13:17:00+00:00",
+      "stop": "2026-07-21T14:54:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
       "category": "Cinéma"
     }
   ]
