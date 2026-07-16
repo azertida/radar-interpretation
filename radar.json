@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T10:30:11.589769+00:00",
-  "window_start": "2026-07-13",
-  "window_end": "2026-07-21",
+  "generated_at": "2026-07-16T07:33:43.074995+00:00",
+  "window_start": "2026-07-15",
+  "window_end": "2026-07-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,54 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 14,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-13T22:25:00+00:00",
-      "stop": "2026-07-14T00:15:00+00:00",
-      "channel": "BBC One",
-      "title": "Cowboys & Aliens",
-      "subtitle": "",
-      "directors": [
-        "Jon Favreau"
-      ],
-      "actors": [
-        "Daniel Craig",
-        "Olivia Wilde",
-        "Harrison Ford",
-        "Paul Dano",
-        "Adam Beach",
-        "Noah Ringer"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "Jake Lonergan wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he's a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope for survival. But the differences between the two men pale in comparison when an alien race unleashes terror and technologies from another world on the town, forcing all of Absolution to band together to send the intruders packing.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-07-14T16:59:00+00:00",
-      "stop": "2026-07-14T18:50:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-15T03:11:00+00:00",
       "stop": "2026-07-15T04:55:00+00:00",
@@ -176,8 +130,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-16T20:25:00+00:00",
-      "stop": "2026-07-16T22:50:00+00:00",
+      "start": "2026-07-16T20:30:00+00:00",
+      "stop": "2026-07-16T22:55:00+00:00",
       "channel": "VTM 2",
       "title": "Downsizing",
       "subtitle": "",
@@ -269,8 +223,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-19T15:01:00+00:00",
-      "stop": "2026-07-19T16:33:00+00:00",
+      "start": "2026-07-19T15:02:00+00:00",
+      "stop": "2026-07-19T16:35:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -382,6 +336,30 @@
         "Daniel Craig"
       ],
       "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-22T19:30:00+00:00",
+      "stop": "2026-07-22T21:45:00+00:00",
+      "channel": "RAI Uno",
+      "title": "Il diritto di contare",
+      "subtitle": "",
+      "directors": [
+        "Ted Melfi"
+      ],
+      "actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe",
+        "Kevin Costner",
+        "Kirsten Dunst",
+        "Jim Parsons"
+      ],
+      "matched_actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer"
+      ],
+      "description": "",
       "category": "Cinéma"
     }
   ]
