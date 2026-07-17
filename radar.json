@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T10:38:13.608379+00:00",
-  "window_start": "2026-07-15",
-  "window_end": "2026-07-22",
+  "generated_at": "2026-07-17T07:30:53.262455+00:00",
+  "window_start": "2026-07-16",
+  "window_end": "2026-07-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,29 +60,6 @@
   ],
   "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-15T03:11:00+00:00",
-      "stop": "2026-07-15T04:55:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
     {
       "start": "2026-07-16T15:17:00+00:00",
       "stop": "2026-07-16T17:08:00+00:00",
@@ -345,21 +322,44 @@
       "title": "Il diritto di contare",
       "subtitle": "",
       "directors": [
-        "Ted Melfi"
+        "Theodore Melfi"
       ],
       "actors": [
         "Taraji P. Henson",
         "Octavia Spencer",
         "Janelle Monáe",
-        "Kevin Costner",
         "Kirsten Dunst",
-        "Jim Parsons"
+        "Jim Parsons",
+        "Mahershala Ali"
       ],
       "matched_actors": [
         "Taraji P. Henson",
         "Octavia Spencer"
       ],
-      "description": "",
+      "description": "La storia di Katherine Johnson, Dorothy Vaughn e Mary Jackson, tre donne afro-americane che lavorarono alla NASA e a cui si deve il primo programma di missioni spaziali, che mandò in orbita l'astronauta John Glenn. Il film racconta la loro lotta contro i pregiudizi razziali e infine il riconoscimento ottenuto per il loro contributo alla conquista dello spazio. Il loro operato, basato sull'elaborazione di importanti dati matematici, ha contribuito a ridare nuova fiducia alla nazione, ridefinire la corsa nello spazio e stupire il mondo. Da visionarie quali sono, hanno avuto la meglio sugli stereotipi di genere e razza, divenendo fonte di ispirazione per le giovani generazioni.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-23T18:20:00+00:00",
+      "stop": "2026-07-23T21:00:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Batman v Superman : L'aube de la justice",
+      "subtitle": "",
+      "directors": [
+        "Zack Snyder"
+      ],
+      "actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Amy Adams",
+        "Jesse Eisenberg",
+        "Diane Lane",
+        "Laurence Fishburne"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Depuis qu'il a vaincu le général Zod et sauvé Metropolis, Superman est au sommet de sa popularité. Craignant qu'il n'abuse de sa toute-puissance, Bruce Wayne alias Batman décide de l'affronter. Mais alors que les deux super-héros se livrent bataille, le génie du mal, Lex Luthor, met en œuvre un plan machiavélique qui met Metropolis en danger. Mais pendant que la guerre entre Batman et Superman fait rage, une nouvelle menace se dresse, faisant régner sur l'humanité une menace plus grande que jamais.",
       "category": "Cinéma"
     }
   ]
