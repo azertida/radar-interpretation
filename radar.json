@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T10:27:58.245639+00:00",
-  "window_start": "2026-07-16",
-  "window_end": "2026-07-23",
+  "generated_at": "2026-07-18T07:12:04.606677+00:00",
+  "window_start": "2026-07-17",
+  "window_end": "2026-07-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,75 +60,6 @@
   ],
   "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-16T15:17:00+00:00",
-      "stop": "2026-07-16T17:08:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-16T18:50:00+00:00",
-      "stop": "2026-07-16T20:27:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-16T20:30:00+00:00",
-      "stop": "2026-07-16T22:55:00+00:00",
-      "channel": "VTM 2",
-      "title": "Downsizing",
-      "subtitle": "",
-      "directors": [
-        "Alexander Payne"
-      ],
-      "actors": [
-        "Matt Damon",
-        "Kristen Wiig",
-        "Christoph Waltz",
-        "Jason Sudeikis",
-        "Neil Patrick Harris",
-        "Laura Dern"
-      ],
-      "matched_actors": [
-        "Kristen Wiig"
-      ],
-      "description": "Wanneer Noorse wetenschappers een manier vinden om organisch materiaal en dus ook mensen te doen krimpen en zo het overbevolkings- en klimaatprobleem aan te pakken, besluiten Paul en zijn vrouw Audrey het erop te wagen. Nadat Paul verkleind is, blijkt Audrey evenwel te passen, waardoor Paul alleen achterblijft in de kleinemensenwereld. Daar is hij een rijk man. Eens gekrompen kunnen ze met hun spaargeld een luxueus leven leiden in een verkleinde mensenwereld, waar ze minder land en voedsel verspillen en minder afval produceren.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-17T03:07:00+00:00",
       "stop": "2026-07-17T05:04:00+00:00",
@@ -200,8 +131,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-19T15:02:00+00:00",
-      "stop": "2026-07-19T16:35:00+00:00",
+      "start": "2026-07-19T14:59:00+00:00",
+      "stop": "2026-07-19T16:33:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -341,7 +272,7 @@
     },
     {
       "start": "2026-07-23T18:20:00+00:00",
-      "stop": "2026-07-23T21:00:00+00:00",
+      "stop": "2026-07-23T21:10:00+00:00",
       "channel": "RTL TVI",
       "title": "Batman v Superman : L'aube de la justice",
       "subtitle": "",
@@ -360,6 +291,75 @@
         "Amy Adams"
       ],
       "description": "Depuis qu'il a vaincu le général Zod et sauvé Metropolis, Superman est au sommet de sa popularité. Craignant qu'il n'abuse de sa toute-puissance, Bruce Wayne alias Batman décide de l'affronter. Mais alors que les deux super-héros se livrent bataille, le génie du mal, Lex Luthor, met en œuvre un plan machiavélique qui met Metropolis en danger. Mais pendant que la guerre entre Batman et Superman fait rage, une nouvelle menace se dresse, faisant régner sur l'humanité une menace plus grande que jamais.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-24T07:18:00+00:00",
+      "stop": "2026-07-24T08:55:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-24T16:59:00+00:00",
+      "stop": "2026-07-24T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-24T19:05:00+00:00",
+      "stop": "2026-07-24T20:57:00+00:00",
+      "channel": "La Une",
+      "title": "De vrais mensonges",
+      "subtitle": "",
+      "directors": [
+        "Pierre Salvadori"
+      ],
+      "actors": [
+        "Audrey Tautou",
+        "Nathalie Baye",
+        "Sami Bouajila",
+        "Stéphanie Lagarde",
+        "Judith Chemla",
+        "Didier Brice"
+      ],
+      "matched_actors": [
+        "Nathalie Baye"
+      ],
+      "description": "Un matin de printemps, Emilie reçoit une belle lettre d'amour anonyme. Elle la jette d'abord à la poubelle, avant d'y voir le moyen de sauver sa mère, isolée et triste depuis le départ de son mari. Sans trop réfléchir, elle la lui adresse aussitôt. Mais Émilie ne sait pas encore que c'est Jean, son employé timide, qui en est l'auteur. Elle n'imagine surtout pas que son geste les projettera dans une suite de quiproquos et de malentendus qui vont vite tous les dépasser...",
       "category": "Cinéma"
     }
   ]
