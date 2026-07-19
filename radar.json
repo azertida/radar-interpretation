@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T10:05:32.589303+00:00",
-  "window_start": "2026-07-17",
-  "window_end": "2026-07-24",
+  "generated_at": "2026-07-19T07:38:13.649010+00:00",
+  "window_start": "2026-07-18",
+  "window_end": "2026-07-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,31 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 15,
   "programmes": [
-    {
-      "start": "2026-07-17T03:07:00+00:00",
-      "stop": "2026-07-17T05:04:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
     {
       "start": "2026-07-18T15:00:00+00:00",
       "stop": "2026-07-18T17:00:00+00:00",
@@ -360,6 +337,76 @@
         "Nathalie Baye"
       ],
       "description": "Un matin de printemps, Emilie reçoit une belle lettre d'amour anonyme. Elle la jette d'abord à la poubelle, avant d'y voir le moyen de sauver sa mère, isolée et triste depuis le départ de son mari. Sans trop réfléchir, elle la lui adresse aussitôt. Mais Émilie ne sait pas encore que c'est Jean, son employé timide, qui en est l'auteur. Elle n'imagine surtout pas que son geste les projettera dans une suite de quiproquos et de malentendus qui vont vite tous les dépasser...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-25T11:25:00+00:00",
+      "stop": "2026-07-25T13:25:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme qui tua Liberty Valance",
+      "subtitle": "",
+      "directors": [
+        "John Ford"
+      ],
+      "actors": [
+        "John Wayne",
+        "James Stewart",
+        "Vera Miles",
+        "Lee Marvin",
+        "Edmond O'Brien",
+        "Andy Devine"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-25T12:18:00+00:00",
+      "stop": "2026-07-25T13:55:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-25T15:00:00+00:00",
+      "stop": "2026-07-25T17:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Il grande Jake",
+      "subtitle": "",
+      "directors": [
+        "George Sherman",
+        "John Wayne"
+      ],
+      "actors": [
+        "John Wayne",
+        "Richard Boone",
+        "Maureen O'Hara",
+        "Patrick Wayne",
+        "Christopher Mitchum",
+        "Bobby Vinton"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Il piccolo Jacob McCandles viene rapito da una banda di fuorilegge che hanno assalito la fattoria della sua famiglia e chiedono un riscatto milionario. Marta, la nonna, decide di rivolgersi al marito Jake, dal quale vive separata da 15 anni; questi è ancora un tipo vigoroso, a dispetto dell'età. Fingendo di accettare le richieste dei banditi, giunge al loro covo accompagnato da due figli e da un vecchio indiano; nel baule non ci sono soldi ma carta straccia.",
       "category": "Cinéma"
     }
   ]
