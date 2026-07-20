@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T10:16:14.733718+00:00",
-  "window_start": "2026-07-18",
-  "window_end": "2026-07-25",
+  "generated_at": "2026-07-20T08:20:41.061729+00:00",
+  "window_start": "2026-07-19",
+  "window_end": "2026-07-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,30 +60,6 @@
   ],
   "count": 15,
   "programmes": [
-    {
-      "start": "2026-07-18T15:00:00+00:00",
-      "stop": "2026-07-18T17:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Il grande Jake",
-      "subtitle": "",
-      "directors": [
-        "George Sherman",
-        "John Wayne"
-      ],
-      "actors": [
-        "John Wayne",
-        "Richard Boone",
-        "Maureen O'Hara",
-        "Patrick Wayne",
-        "Christopher Mitchum",
-        "Bobby Vinton"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Il piccolo Jacob McCandles viene rapito da una banda di fuorilegge che hanno assalito la fattoria della sua famiglia e chiedono un riscatto milionario. Marta, la nonna, decide di rivolgersi al marito Jake, dal quale vive separata da 15 anni; questi è ancora un tipo vigoroso, a dispetto dell'età. Fingendo di accettare le richieste dei banditi, giunge al loro covo accompagnato da due figli e da un vecchio indiano; nel baule non ci sono soldi ma carta straccia.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-19T07:32:00+00:00",
       "stop": "2026-07-19T09:23:00+00:00",
@@ -408,6 +384,29 @@
       ],
       "description": "Il piccolo Jacob McCandles viene rapito da una banda di fuorilegge che hanno assalito la fattoria della sua famiglia e chiedono un riscatto milionario. Marta, la nonna, decide di rivolgersi al marito Jake, dal quale vive separata da 15 anni; questi è ancora un tipo vigoroso, a dispetto dell'età. Fingendo di accettare le richieste dei banditi, giunge al loro covo accompagnato da due figli e da un vecchio indiano; nel baule non ci sono soldi ma carta straccia.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-26T20:05:00+00:00",
+      "stop": "2026-07-26T21:45:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "The Seven Year Itch",
+      "subtitle": "",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "actors": [
+        "Tom Ewell",
+        "Marilyn Monroe",
+        "Evelyn Keyes",
+        "Sonny Tufts",
+        "Robert Strauss",
+        "Oscar Homolka"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "Romantische komedie van Billy Wilder.",
+      "category": "Films"
     }
   ]
 }
