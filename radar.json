@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T11:30:14.817813+00:00",
-  "window_start": "2026-07-19",
-  "window_end": "2026-07-26",
+  "generated_at": "2026-07-21T07:44:33.137170+00:00",
+  "window_start": "2026-07-20",
+  "window_end": "2026-07-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,78 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 15,
+  "count": 16,
   "programmes": [
-    {
-      "start": "2026-07-19T07:32:00+00:00",
-      "stop": "2026-07-19T09:23:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-19T14:59:00+00:00",
-      "stop": "2026-07-19T16:33:00+00:00",
-      "channel": "La Trois",
-      "title": "Angry Birds, le film",
-      "subtitle": "",
-      "directors": [
-        "Clay Kaytis",
-        "Fergal Reilly"
-      ],
-      "actors": [
-        "Danny McBride",
-        "Kate McKinnon",
-        "Tony Hale",
-        "Matthew J. McCarthy",
-        "Maddie Taylor",
-        "Mckenna Grace"
-      ],
-      "matched_actors": [
-        "Kate McKinnon"
-      ],
-      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-07-19T17:13:00+00:00",
-      "stop": "2026-07-19T18:50:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-20T18:55:00+00:00",
       "stop": "2026-07-20T21:00:00+00:00",
@@ -362,27 +292,26 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-25T15:00:00+00:00",
+      "start": "2026-07-25T14:45:00+00:00",
       "stop": "2026-07-25T17:00:00+00:00",
       "channel": "RAI Tre",
-      "title": "Il grande Jake",
+      "title": "El Dorado",
       "subtitle": "",
       "directors": [
-        "George Sherman",
-        "John Wayne"
+        "Howard Hawks"
       ],
       "actors": [
         "John Wayne",
-        "Richard Boone",
-        "Maureen O'Hara",
-        "Patrick Wayne",
-        "Christopher Mitchum",
-        "Bobby Vinton"
+        "Robert Mitchum",
+        "James Caan",
+        "Charlene Holt",
+        "Michele Carey",
+        "Arthur Hunnicutt"
       ],
       "matched_actors": [
         "John Wayne"
       ],
-      "description": "Il piccolo Jacob McCandles viene rapito da una banda di fuorilegge che hanno assalito la fattoria della sua famiglia e chiedono un riscatto milionario. Marta, la nonna, decide di rivolgersi al marito Jake, dal quale vive separata da 15 anni; questi è ancora un tipo vigoroso, a dispetto dell'età. Fingendo di accettare le richieste dei banditi, giunge al loro covo accompagnato da due figli e da un vecchio indiano; nel baule non ci sono soldi ma carta straccia.",
+      "description": "In qualità di sceriffo, J. P. Harrah ha il difficile compito di fare regnare l'ordine in una piccola cittadina, che si trova sotto il controllo di ricchi proprietari terrieri e di uomini d'affari privi di scrupoli. Il penultimo film di Hawks – prima di Rio Lobo (1970) – è una variazione sui temi e i personaggi di Un dollaro d'onore (1959), basata su una sceneggiatura scritta da Leigh Brackett, sua collaboratrice fin dai tempi di Il grande sonno (1946). Non è né una ripetizione né una parodia, ma semmai un'elegia sui vecchi tempi, sorvegliata dall'angelo custode dell'ironia. Per Hawks anche gli eroi invecchiano, ma lo sanno e non nascondono le proprie infermità dell'anima e del corpo.",
       "category": "Cinéma"
     },
     {
@@ -407,6 +336,90 @@
       ],
       "description": "Romantische komedie van Billy Wilder.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-27T15:15:00+00:00",
+      "stop": "2026-07-27T16:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "Earth from Space",
+      "subtitle": "A New Perspective",
+      "directors": [
+        "Barny Revill"
+      ],
+      "actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Satellites follow an elephant family struggling through drought, reveal previously unknown emperor penguin colonies from the color of their feces and discover mysterious ice rings that could put seal pups in danger.",
+      "category": "Documentary"
+    },
+    {
+      "start": "2026-07-27T15:22:00+00:00",
+      "stop": "2026-07-27T17:13:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-27T20:54:00+00:00",
+      "stop": "2026-07-27T22:31:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-27T22:58:00+00:00",
+      "stop": "2026-07-27T23:06:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "2030",
+      "subtitle": "",
+      "directors": [
+        "Pierre Dugowson"
+      ],
+      "actors": [
+        "Nicole Ferroni",
+        "Ophélia Kolb",
+        "Roxane Bret"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Novembre 2030, dans la classe il fait 48°C, impossible de faire cours.",
+      "category": "Cinéma"
     }
   ]
 }
