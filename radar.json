@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T10:51:02.927030+00:00",
-  "window_start": "2026-07-20",
-  "window_end": "2026-07-27",
+  "generated_at": "2026-07-22T07:45:06.541161+00:00",
+  "window_start": "2026-07-21",
+  "window_end": "2026-07-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,29 +60,6 @@
   ],
   "count": 16,
   "programmes": [
-    {
-      "start": "2026-07-20T18:55:00+00:00",
-      "stop": "2026-07-20T21:00:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme qui tua Liberty Valance",
-      "subtitle": "",
-      "directors": [
-        "John Ford"
-      ],
-      "actors": [
-        "John Wayne",
-        "James Stewart",
-        "Vera Miles",
-        "Lee Marvin",
-        "Edmond O'Brien",
-        "Andy Devine"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-21T05:19:00+00:00",
       "stop": "2026-07-21T07:10:00+00:00",
@@ -419,6 +396,29 @@
         "Ophélia Kolb"
       ],
       "description": "Novembre 2030, dans la classe il fait 48°C, impossible de faire cours.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-28T07:11:00+00:00",
+      "stop": "2026-07-28T09:02:00+00:00",
+      "channel": "Action",
+      "title": "Hold-Up",
+      "subtitle": "",
+      "directors": [
+        "Alexandre Arcady"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Kim Cattrall",
+        "Guy Marchand",
+        "Jean-Pierre Marielle",
+        "Jacques Villeret",
+        "Jean-Claude de Goros"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
       "category": "Cinéma"
     }
   ]
