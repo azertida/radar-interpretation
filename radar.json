@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T10:52:47.733511+00:00",
-  "window_start": "2026-07-21",
-  "window_end": "2026-07-28",
+  "generated_at": "2026-07-23T07:46:30.012012+00:00",
+  "window_start": "2026-07-22",
+  "window_end": "2026-07-29",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,54 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 16,
+  "count": 17,
   "programmes": [
-    {
-      "start": "2026-07-21T05:19:00+00:00",
-      "stop": "2026-07-21T07:10:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-21T13:17:00+00:00",
-      "stop": "2026-07-21T14:54:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-22T19:30:00+00:00",
       "stop": "2026-07-22T21:45:00+00:00",
@@ -200,8 +154,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-24T19:05:00+00:00",
-      "stop": "2026-07-24T20:57:00+00:00",
+      "start": "2026-07-24T19:01:00+00:00",
+      "stop": "2026-07-24T20:52:00+00:00",
       "channel": "La Une",
       "title": "De vrais mensonges",
       "subtitle": "",
@@ -419,6 +373,76 @@
         "Jean-Paul Belmondo"
       ],
       "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-29T12:25:00+00:00",
+      "stop": "2026-07-29T14:02:00+00:00",
+      "channel": "Action",
+      "title": "La tranchée",
+      "subtitle": "",
+      "directors": [
+        "William Boyd"
+      ],
+      "actors": [
+        "Paul Nicholls",
+        "Daniel Craig",
+        "Julian Rhind-Tutt",
+        "Danny Dyer",
+        "James D'Arcy",
+        "Tam Williams"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-29T18:30:00+00:00",
+      "stop": "2026-07-29T20:30:00+00:00",
+      "channel": "VTM 2",
+      "title": "The Proposal",
+      "subtitle": "",
+      "directors": [
+        "Anne Fletcher"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Ryan Reynolds",
+        "Malin Åkerman",
+        "Craig T. Nelson",
+        "Mary Steenburgen",
+        "Betty White"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "De Canadese Margaret is een keiharde zakenvrouw. Ze behandelt haar medewerkers als slaven en geniet een kwalijke reputatie. Op een dag krijgt ze van haar advocaten te horen dat haar visum is verstreken en dat ze de VS moet verlaten. Maar dan regelt Margaret een schijnhuwelijk met haar assistent Andrew. Om het verhaal geloofwaardig te maken, reizen ze naar Alaska. Het onwaarschijnlijke stel reist af naar Alaska om de eigenzinnige familie van Andrew te ontmoeten.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-07-29T19:30:00+00:00",
+      "stop": "2026-07-29T21:45:00+00:00",
+      "channel": "RAI Uno",
+      "title": "Il diritto di contare",
+      "subtitle": "",
+      "directors": [
+        "Theodore Melfi"
+      ],
+      "actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe",
+        "Kirsten Dunst",
+        "Jim Parsons",
+        "Mahershala Ali"
+      ],
+      "matched_actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer"
+      ],
+      "description": "La storia di Katherine Johnson, Dorothy Vaughn e Mary Jackson, tre donne afro-americane che lavorarono alla NASA e a cui si deve il primo programma di missioni spaziali, che mandò in orbita l'astronauta John Glenn. Il film racconta la loro lotta contro i pregiudizi razziali e infine il riconoscimento ottenuto per il loro contributo alla conquista dello spazio. Il loro operato, basato sull'elaborazione di importanti dati matematici, ha contribuito a ridare nuova fiducia alla nazione, ridefinire la corsa nello spazio e stupire il mondo. Da visionarie quali sono, hanno avuto la meglio sugli stereotipi di genere e razza, divenendo fonte di ispirazione per le giovani generazioni.",
       "category": "Cinéma"
     }
   ]
