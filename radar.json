@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T10:25:56.047099+00:00",
-  "window_start": "2026-07-25",
+  "generated_at": "2026-07-27T08:50:24.854170+00:00",
+  "window_start": "2026-07-26",
   "window_end": "2026-08-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
@@ -58,77 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 16,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-25T11:25:00+00:00",
-      "stop": "2026-07-25T13:25:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme qui tua Liberty Valance",
-      "subtitle": "",
-      "directors": [
-        "John Ford"
-      ],
-      "actors": [
-        "John Wayne",
-        "James Stewart",
-        "Vera Miles",
-        "Lee Marvin",
-        "Edmond O'Brien",
-        "Andy Devine"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-25T12:18:00+00:00",
-      "stop": "2026-07-25T13:55:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-25T14:45:00+00:00",
-      "stop": "2026-07-25T17:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "El Dorado",
-      "subtitle": "",
-      "directors": [
-        "Howard Hawks"
-      ],
-      "actors": [
-        "John Wayne",
-        "Robert Mitchum",
-        "James Caan",
-        "Charlene Holt",
-        "Michele Carey",
-        "Arthur Hunnicutt"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "In qualità di sceriffo, J. P. Harrah ha il difficile compito di fare regnare l'ordine in una piccola cittadina, che si trova sotto il controllo di ricchi proprietari terrieri e di uomini d'affari privi di scrupoli. Il penultimo film di Hawks – prima di Rio Lobo (1970) – è una variazione sui temi e i personaggi di Un dollaro d'onore (1959), basata su una sceneggiatura scritta da Leigh Brackett, sua collaboratrice fin dai tempi di Il grande sonno (1946). Non è né una ripetizione né una parodia, ma semmai un'elegia sui vecchi tempi, sorvegliata dall'angelo custode dell'ironia. Per Hawks anche gli eroi invecchiano, ma lo sanno e non nascondono le proprie infermità dell'anima e del corpo.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-26T20:05:00+00:00",
       "stop": "2026-07-26T21:45:00+00:00",
