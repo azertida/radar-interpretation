@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T11:58:53.163667+00:00",
-  "window_start": "2026-07-26",
-  "window_end": "2026-08-01",
+  "generated_at": "2026-07-28T07:50:11.372714+00:00",
+  "window_start": "2026-07-27",
+  "window_end": "2026-08-03",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -60,29 +60,6 @@
   ],
   "count": 13,
   "programmes": [
-    {
-      "start": "2026-07-26T20:44:00+00:00",
-      "stop": "2026-07-26T22:24:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "The Seven Year Itch",
-      "subtitle": "",
-      "directors": [
-        "Billy Wilder"
-      ],
-      "actors": [
-        "Tom Ewell",
-        "Marilyn Monroe",
-        "Evelyn Keyes",
-        "Sonny Tufts",
-        "Robert Strauss",
-        "Oscar Homolka"
-      ],
-      "matched_actors": [
-        "Marilyn Monroe"
-      ],
-      "description": "Romantische komedie van Billy Wilder.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-27T15:15:00+00:00",
       "stop": "2026-07-27T16:15:00+00:00",
@@ -308,26 +285,25 @@
       "category": "Films"
     },
     {
-      "start": "2026-08-01T14:45:00+00:00",
+      "start": "2026-08-01T14:50:00+00:00",
       "stop": "2026-08-01T17:00:00+00:00",
       "channel": "RAI Tre",
-      "title": "El Dorado",
+      "title": "I 4 figli di Katie Elder",
       "subtitle": "",
       "directors": [
-        "Howard Hawks"
+        "Henry Hathaway"
       ],
       "actors": [
         "John Wayne",
-        "Robert Mitchum",
-        "James Caan",
-        "Charlene Holt",
-        "Michele Carey",
-        "Arthur Hunnicutt"
+        "Dean Martin",
+        "Martha Hyer",
+        "Michael Anderson Jr",
+        "Earl Holliman"
       ],
       "matched_actors": [
         "John Wayne"
       ],
-      "description": "In qualità di sceriffo, J. P. Harrah ha il difficile compito di fare regnare l'ordine in una piccola cittadina, che si trova sotto il controllo di ricchi proprietari terrieri e di uomini d'affari privi di scrupoli. Il penultimo film di Hawks – prima di Rio Lobo (1970) – è una variazione sui temi e i personaggi di Un dollaro d'onore (1959), basata su una sceneggiatura scritta da Leigh Brackett, sua collaboratrice fin dai tempi di Il grande sonno (1946). Non è né una ripetizione né una parodia, ma semmai un'elegia sui vecchi tempi, sorvegliata dall'angelo custode dell'ironia. Per Hawks anche gli eroi invecchiano, ma lo sanno e non nascondono le proprie infermità dell'anima e del corpo.",
+      "description": "Riuniti dal funerale della madre, i quattro figli di Katie Elder vogliono risolvere il mistero della morte del padre. Sospettano di Hastings, un commerciante che desidera impadronirsi dei migliori terreni della zona. Nel tentativo di liberarsi di loro, il criminale li fa accusare della morte dello sceriffo e poi cerca di ucciderli...",
       "category": "Cinéma"
     },
     {
@@ -351,6 +327,29 @@
         "Barbra Streisand"
       ],
       "description": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer, Esther Hoffman, after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-08-03T21:45:00+00:00",
+      "stop": "2026-08-03T23:40:00+00:00",
+      "channel": "BBC One",
+      "title": "The Mist",
+      "subtitle": "",
+      "directors": [
+        "Frank Darabont"
+      ],
+      "actors": [
+        "Thomas Jane",
+        "Marcia Gay Harden",
+        "Laurie Holden",
+        "Andre Braugher",
+        "Toby Jones",
+        "William Sadler"
+      ],
+      "matched_actors": [
+        "Andre Braugher"
+      ],
+      "description": "Survivors are trapped in a grocery store after a strange mist wipes out much of their town. In order to get out of the dire situation alive, they are forced to fend off a wave of deadly creatures.",
       "category": "Movies"
     }
   ]
