@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:50:11.372714+00:00",
+  "generated_at": "2026-07-28T11:03:46.153715+00:00",
   "window_start": "2026-07-27",
   "window_end": "2026-08-03",
   "source": "Pickx via iptv-org/epg",
@@ -192,7 +192,7 @@
     },
     {
       "start": "2026-07-29T18:30:00+00:00",
-      "stop": "2026-07-29T20:30:00+00:00",
+      "stop": "2026-07-29T20:35:00+00:00",
       "channel": "VTM 2",
       "title": "The Proposal",
       "subtitle": "",
