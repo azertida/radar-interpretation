@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T11:03:46.153715+00:00",
-  "window_start": "2026-07-27",
-  "window_end": "2026-08-03",
+  "generated_at": "2026-07-29T08:01:40.255526+00:00",
+  "window_start": "2026-07-28",
+  "window_end": "2026-08-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,92 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-07-27T15:15:00+00:00",
-      "stop": "2026-07-27T16:15:00+00:00",
-      "channel": "BBC Two",
-      "title": "Earth from Space",
-      "subtitle": "A New Perspective",
-      "directors": [
-        "Barny Revill"
-      ],
-      "actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Satellites follow an elephant family struggling through drought, reveal previously unknown emperor penguin colonies from the color of their feces and discover mysterious ice rings that could put seal pups in danger.",
-      "category": "Documentary"
-    },
-    {
-      "start": "2026-07-27T15:22:00+00:00",
-      "stop": "2026-07-27T17:13:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-27T20:54:00+00:00",
-      "stop": "2026-07-27T22:31:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-27T22:58:00+00:00",
-      "stop": "2026-07-27T23:06:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "2030",
-      "subtitle": "",
-      "directors": [
-        "Pierre Dugowson"
-      ],
-      "actors": [
-        "Nicole Ferroni",
-        "Ophélia Kolb",
-        "Roxane Bret"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Novembre 2030, dans la classe il fait 48°C, impossible de faire cours.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-28T07:11:00+00:00",
       "stop": "2026-07-28T09:02:00+00:00",
@@ -239,7 +155,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-07-30T20:20:00+00:00",
+      "start": "2026-07-30T20:15:00+00:00",
       "stop": "2026-07-30T23:15:00+00:00",
       "channel": "RTL TVI",
       "title": "Batman v Superman : L'aube de la justice",
@@ -351,6 +267,30 @@
       ],
       "description": "Survivors are trapped in a grocery store after a strange mist wipes out much of their town. In order to get out of the dire situation alive, they are forced to fend off a wave of deadly creatures.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-04T19:00:00+00:00",
+      "stop": "2026-08-04T20:40:00+00:00",
+      "channel": "France 5",
+      "title": "La gifle",
+      "subtitle": "",
+      "directors": [
+        "Claude Pinoteau"
+      ],
+      "actors": [
+        "Isabelle Adjani",
+        "Lino Ventura",
+        "Annie Girardot",
+        "Francis Perrin",
+        "Jacques Spiesser",
+        "Michel Aumont"
+      ],
+      "matched_actors": [
+        "Lino Ventura",
+        "Annie Girardot"
+      ],
+      "description": "Jean Douélan élève seul sa fille Isabelle. Celle-ci, étudiante en première année de médecine, veut peu à prendre son indépendance. Un jour, elle a une altercation avec son père et celui-ci la gifle... Une gifle retentissante précipite la rupture entre le père et la fille. Isabelle ne tend pas l'autre joue. Elle déménage aussitôt, emmenant avec elle Rémy, le frère de sa copine Christine. Jean ne l'entend pas de cette oreille. Une course-poursuite s'engage entre Isabelle, qui tient à sa fierté, et Jean, qui regrette son geste malheureux...",
+      "category": "Cinéma"
     }
   ]
 }
