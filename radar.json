@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T11:11:20.216232+00:00",
-  "window_start": "2026-07-28",
-  "window_end": "2026-08-04",
+  "generated_at": "2026-07-30T07:44:22.293450+00:00",
+  "window_start": "2026-07-29",
+  "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 52,
   "watchlist": [
@@ -58,31 +58,8 @@
     "Natalie Wood",
     "Debra Winger"
   ],
-  "count": 10,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-07-28T07:11:00+00:00",
-      "stop": "2026-07-28T09:02:00+00:00",
-      "channel": "Action",
-      "title": "Hold-Up",
-      "subtitle": "",
-      "directors": [
-        "Alexandre Arcady"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Kim Cattrall",
-        "Guy Marchand",
-        "Jean-Pierre Marielle",
-        "Jacques Villeret",
-        "Jean-Claude de Goros"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Déguisé en clown, Grimm dévalise la banque de Montréal. Il prend 32 otages, dont parmi eux 2 sont des complices. Le casse réussit, mais intervient Larsky, un rival, ainsi que la police, qui vont nuire au braquage parfait effectué par Grimm.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-29T12:25:00+00:00",
       "stop": "2026-07-29T14:02:00+00:00",
@@ -156,7 +133,7 @@
     },
     {
       "start": "2026-07-30T20:15:00+00:00",
-      "stop": "2026-07-30T23:15:00+00:00",
+      "stop": "2026-07-30T22:55:00+00:00",
       "channel": "RTL TVI",
       "title": "Batman v Superman : L'aube de la justice",
       "subtitle": "",
@@ -290,6 +267,55 @@
         "Annie Girardot"
       ],
       "description": "Jean Douélan élève seul sa fille Isabelle. Celle-ci, étudiante en première année de médecine, veut peu à prendre son indépendance. Un jour, elle a une altercation avec son père et celui-ci la gifle... Une gifle retentissante précipite la rupture entre le père et la fille. Isabelle ne tend pas l'autre joue. Elle déménage aussitôt, emmenant avec elle Rémy, le frère de sa copine Christine. Jean ne l'entend pas de cette oreille. Une course-poursuite s'engage entre Isabelle, qui tient à sa fierté, et Jean, qui regrette son geste malheureux...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-05T18:25:00+00:00",
+      "stop": "2026-08-05T20:55:00+00:00",
+      "channel": "VTM 2",
+      "title": "The Martian",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Jessica Chastain",
+        "Kristen Wiig",
+        "Kate Mara",
+        "Jeff Daniels",
+        "Michael Peña"
+      ],
+      "matched_actors": [
+        "Jessica Chastain",
+        "Kristen Wiig"
+      ],
+      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-05T19:30:00+00:00",
+      "stop": "2026-08-05T21:20:00+00:00",
+      "channel": "RAI Uno",
+      "title": "Gifted - Il dono del talento",
+      "subtitle": "",
+      "directors": [
+        "Marc Webb",
+        "Karen Lunder",
+        "Andy Cohen"
+      ],
+      "actors": [
+        "Chris Evans",
+        "Mckenna Grace",
+        "Lindsay Duncan",
+        "Octavia Spencer",
+        "Jenny Slate",
+        "Glenn Plummer"
+      ],
+      "matched_actors": [
+        "Octavia Spencer"
+      ],
+      "description": "Frank, single incallito, fa davvero del suo meglio per crescere la sua nipotina Mary, 7 anni, in un villaggio rurale della Florida. Quando a scuola scoprono che la bambina è un genio della matematica, il padre della bambina, da sempre assente nella sua vita, si rifà vivo, e tra i due uomini scoppia la lotta per la custodia della piccola.",
       "category": "Cinéma"
     }
   ]
