@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T19:13:48.051249+00:00",
-  "window_start": "2026-07-29",
+  "generated_at": "2026-07-31T08:11:41.800802+00:00",
+  "window_start": "2026-07-30",
   "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 88,
+  "watchlist_size": 89,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -84,6 +84,7 @@
     "Cobie Smulders",
     "Octavia Spencer",
     "Barbra Streisand",
+    "Alice Taglioni",
     "Anna Torv",
     "Karl Urban",
     "Lino Ventura",
@@ -94,79 +95,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 12,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-07-29T12:25:00+00:00",
-      "stop": "2026-07-29T14:02:00+00:00",
-      "channel": "Action",
-      "title": "La tranchée",
-      "subtitle": "",
-      "directors": [
-        "William Boyd"
-      ],
-      "actors": [
-        "Paul Nicholls",
-        "Daniel Craig",
-        "Julian Rhind-Tutt",
-        "Danny Dyer",
-        "James D'Arcy",
-        "Tam Williams"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "En juillet 1916, deux jours avant la meurtrière bataille de la Somme, une section de l'armée britannique se prépare au combat. Une trentaine de jeunes gens, tous mobilisés à peine sortis de l'adolescence, vont devoir vivre ces quarante-huit heures dans l'angoisse et la terreur d'une mort plus que certaine.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-07-29T18:30:00+00:00",
-      "stop": "2026-07-29T20:35:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Proposal",
-      "subtitle": "",
-      "directors": [
-        "Anne Fletcher"
-      ],
-      "actors": [
-        "Sandra Bullock",
-        "Ryan Reynolds",
-        "Malin Åkerman",
-        "Craig T. Nelson",
-        "Mary Steenburgen",
-        "Betty White"
-      ],
-      "matched_actors": [
-        "Sandra Bullock"
-      ],
-      "description": "De Canadese Margaret is een keiharde zakenvrouw. Ze behandelt haar medewerkers als slaven en geniet een kwalijke reputatie. Op een dag krijgt ze van haar advocaten te horen dat haar visum is verstreken en dat ze de VS moet verlaten. Maar dan regelt Margaret een schijnhuwelijk met haar assistent Andrew. Om het verhaal geloofwaardig te maken, reizen ze naar Alaska. Het onwaarschijnlijke stel reist af naar Alaska om de eigenzinnige familie van Andrew te ontmoeten.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-07-29T19:30:00+00:00",
-      "stop": "2026-07-29T21:20:00+00:00",
-      "channel": "RAI Uno",
-      "title": "Gifted - Il dono del talento",
-      "subtitle": "",
-      "directors": [
-        "Marc Webb",
-        "Karen Lunder",
-        "Andy Cohen"
-      ],
-      "actors": [
-        "Chris Evans",
-        "Mckenna Grace",
-        "Lindsay Duncan",
-        "Octavia Spencer",
-        "Jenny Slate",
-        "Glenn Plummer"
-      ],
-      "matched_actors": [
-        "Octavia Spencer"
-      ],
-      "description": "Frank, single incallito, fa davvero del suo meglio per crescere la sua nipotina Mary, 7 anni, in un villaggio rurale della Florida. Quando a scuola scoprono che la bambina è un genio della matematica, il padre della bambina, da sempre assente nella sua vita, si rifà vivo, e tra i due uomini scoppia la lotta per la custodia della piccola.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-30T20:15:00+00:00",
       "stop": "2026-07-30T22:55:00+00:00",
@@ -352,31 +282,6 @@
       ],
       "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
       "category": "Films"
-    },
-    {
-      "start": "2026-08-05T19:30:00+00:00",
-      "stop": "2026-08-05T21:20:00+00:00",
-      "channel": "RAI Uno",
-      "title": "Gifted - Il dono del talento",
-      "subtitle": "",
-      "directors": [
-        "Marc Webb",
-        "Karen Lunder",
-        "Andy Cohen"
-      ],
-      "actors": [
-        "Chris Evans",
-        "Mckenna Grace",
-        "Lindsay Duncan",
-        "Octavia Spencer",
-        "Jenny Slate",
-        "Glenn Plummer"
-      ],
-      "matched_actors": [
-        "Octavia Spencer"
-      ],
-      "description": "Frank, single incallito, fa davvero del suo meglio per crescere la sua nipotina Mary, 7 anni, in un villaggio rurale della Florida. Quando a scuola scoprono che la bambina è un genio della matematica, il padre della bambina, da sempre assente nella sua vita, si rifà vivo, e tra i due uomini scoppia la lotta per la custodia della piccola.",
-      "category": "Cinéma"
     }
   ]
 }
