@@ -400,6 +400,22 @@ body {
 
 .card.seen .seen-btn { background: var(--ink); color: var(--paper); }
 
+.share-btn {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink-soft);
+  border: 1px solid var(--rule);
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.share-btn:hover, .share-btn:active { background: var(--ink); color: var(--paper); }
+
 /* ============ Empty state ============ */
 .empty {
   text-align: center;
@@ -535,6 +551,18 @@ function formatWhen(iso) {
   return `${day} ${date} ${month} · ${hh}h${mm}`;
 }
 
+// Date en minuscules, pour le message partagé (formatWhen est en capitales)
+function formatShareWhen(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  const days = ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi'];
+  const months = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
+  const day = days[d.getDay()];
+  const hh = String(d.getHours()).padStart(2, '0');
+  const mm = String(d.getMinutes()).padStart(2, '0');
+  return `${day.charAt(0).toUpperCase()}${day.slice(1)} ${d.getDate()} ${months[d.getMonth()]} à ${hh}h${mm}`;
+}
+
 function formatDateline(iso) {
   if (!iso) return 'Édition du —';
   const d = new Date(iso);
@@ -558,6 +586,7 @@ function renderCard(p) {
   // Affiche jusqu'à 6 autres acteurs (non-matchés) pour le contexte
   const otherActors = (p.actors || []).filter(a => !matchedSet.has(a)).slice(0, 6);
   const directors = p.directors || [];
+  const who = matched.length ? 'avec ' + matched.join(', ') : '';
   
   return `
     <article class="card ${isSeen ? 'seen' : ''}" data-key="${escapeHtml(key)}">
@@ -581,6 +610,11 @@ function renderCard(p) {
         </p>` : ''}
       ${p.description ? `<p class="card-desc">${escapeHtml(p.description)}</p>` : ''}
       <div class="card-footer">
+        <button class="share-btn" type="button" data-action="share"
+          data-title="${escapeHtml(p.title || 'Sans titre')}"
+          data-who="${escapeHtml(who)}"
+          data-when="${escapeHtml(formatShareWhen(p.start))}"
+          data-channel="${escapeHtml(p.channel || '')}">Partager</button>
         <button class="seen-btn" type="button" data-action="toggle-seen">
           ${isSeen ? '✓ Vu' : 'Marquer comme vu'}
         </button>
@@ -678,6 +712,36 @@ function renderMeta() {
   $('#dateline').textContent = formatDateline(state.data.generated_at);
 }
 
+// ============ Partage ============
+async function shareProgramme(btn) {
+  const title = btn.dataset.title || '';
+  const who = btn.dataset.who || '';
+  const when = btn.dataset.when || '';
+  const channel = btn.dataset.channel || '';
+
+  const lines = [`🎭 ${title}${who ? ' — ' + who : ''}`];
+  if (when) lines.push(`${when}${channel ? ' sur ' + channel : ''}`);
+  const text = lines.join('\n');
+
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: title, text: text });
+    } catch (e) {
+      // L'utilisateur a annulé, rien à faire
+    }
+  } else if (navigator.clipboard) {
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.textContent = '✓ Copié';
+      setTimeout(() => btn.textContent = 'Partager', 2000);
+    } catch (e) {
+      alert(text);
+    }
+  } else {
+    alert(text);
+  }
+}
+
 async function loadData(forceFresh = false) {
   const url = `radar.json?t=${Date.now()}`;
   try {
@@ -698,6 +762,12 @@ async function loadData(forceFresh = false) {
 }
 
 document.addEventListener('click', e => {
+  const shareBtn = e.target.closest('[data-action="share"]');
+  if (shareBtn) {
+    shareProgramme(shareBtn);
+    return;
+  }
+
   const seenBtn = e.target.closest('[data-action="toggle-seen"]');
   if (seenBtn) {
     const card = seenBtn.closest('.card');
