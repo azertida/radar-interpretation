@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:55:28.964996+00:00",
+  "generated_at": "2026-08-04T07:49:54.190530+00:00",
   "window_start": "2026-08-03",
   "window_end": "2026-08-09",
   "source": "Pickx via iptv-org/epg",
@@ -97,7 +97,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 8,
+  "count": 7,
   "programmes": [
     {
       "start": "2026-08-03T21:45:00+00:00",
@@ -217,28 +217,6 @@
       ],
       "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
       "category": "Films"
-    },
-    {
-      "start": "2026-08-08T14:50:00+00:00",
-      "stop": "2026-08-08T17:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "I 4 figli di Katie Elder",
-      "subtitle": "",
-      "directors": [
-        "Henry Hathaway"
-      ],
-      "actors": [
-        "John Wayne",
-        "Dean Martin",
-        "Martha Hyer",
-        "Michael Anderson Jr",
-        "Earl Holliman"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Riuniti dal funerale della madre, i quattro figli di Katie Elder vogliono risolvere il mistero della morte del padre. Sospettano di Hastings, un commerciante che desidera impadronirsi dei migliori terreni della zona. Nel tentativo di liberarsi di loro, il criminale li fa accusare della morte dello sceriffo e poi cerca di ucciderli...",
-      "category": "Cinéma"
     },
     {
       "start": "2026-08-09T11:35:00+00:00",
