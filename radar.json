@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T11:09:42.571715+00:00",
-  "window_start": "2026-08-03",
-  "window_end": "2026-08-09",
+  "generated_at": "2026-08-05T07:50:50.196158+00:00",
+  "window_start": "2026-08-04",
+  "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 91,
+  "watchlist_size": 94,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -12,6 +12,7 @@
     "Gillian Anderson",
     "Jean Arthur",
     "Lionnel Astier",
+    "Hayley Atwell",
     "Lauren Bacall",
     "Nathalie Baye",
     "Jean-Paul Belmondo",
@@ -26,12 +27,14 @@
     "Stockard Channing",
     "Jessica Chastain",
     "Cher",
+    "Jenna Coleman",
     "Daniel Craig",
     "Tony Curtis",
     "Ana de Armas",
     "Louis de Funès",
     "Anna Deavere Smith",
     "Michael Douglas",
+    "Kyle Dunnigan",
     "Chiwetel Ejiofor",
     "Rebecca Ferguson",
     "Sally Field",
@@ -97,32 +100,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 7,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-08-03T21:45:00+00:00",
-      "stop": "2026-08-03T23:40:00+00:00",
-      "channel": "BBC One",
-      "title": "The Mist",
-      "subtitle": "",
-      "directors": [
-        "Frank Darabont"
-      ],
-      "actors": [
-        "Thomas Jane",
-        "Marcia Gay Harden",
-        "Laurie Holden",
-        "Andre Braugher",
-        "Toby Jones",
-        "William Sadler"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden",
-        "Andre Braugher"
-      ],
-      "description": "Survivors are trapped in a grocery store after a strange mist wipes out much of their town. In order to get out of the dire situation alive, they are forced to fend off a wave of deadly creatures.",
-      "category": "Movies"
-    },
     {
       "start": "2026-08-04T18:20:00+00:00",
       "stop": "2026-08-04T21:00:00+00:00",
@@ -264,6 +243,52 @@
       ],
       "description": "Lusagne, fin d'après-midi. Les enfants de la colonie de vacances reviennent d'une longue excursion en montagne, mais Justine, 10 ans, manque à l'appel. Sa monitrice, Marianne Helme, partie à sa recherche, n'est pas rentrée non plus. Et la nuit va tomber. Alex et Angelo mobilisent immédiatement des volontaires et découvrent avec effroi le corps de Marianne, échoué dans un torrent, mais aucune trace de Justine... Très vite, les soupçons se portent sur Jérémy Raveau, attardé mental léger, qui subsiste grâce à de petits boulots. Raveau est conduit sous bonne escorte au commissariat de la police rurale devant lequel campent déjà des habitants réclamant justice. C'est l'inspecteur Renart, de la crim de Marseille, qui est chargé de l'enquête. Mais le handicap mental de Raveau rend l'interrogatoire particulièrement difficile. D'habitude si professionnel, Angelo est cette fois particulièrement éprouvé par l'affaire. Le père de la disparue est un ami proche, et la petite Justine est sa filleule.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-08-11T18:10:00+00:00",
+      "stop": "2026-08-11T20:30:00+00:00",
+      "channel": "VTM 2",
+      "title": "Midway",
+      "subtitle": "",
+      "directors": [
+        "Roland Emmerich"
+      ],
+      "actors": [
+        "Ed Skrein",
+        "Patrick Wilson",
+        "Woody Harrelson",
+        "Luke Evans",
+        "Mandy Moore",
+        "Luke Kleintank"
+      ],
+      "matched_actors": [
+        "Mandy Moore"
+      ],
+      "description": "Zes maanden na de aanval van de Japanners op Pearl Harbour komt het van 4 tot 7 juni 1942 tot een nieuwe clash tussen de Amerikanen en de Japanners. Het strijdtoneel zijn dit keer de Midway-eilanden in de Stille Oceaan. De Japanners zijn numeriek in de meerderheid, maar de Amerikanen gooien al hun moed en vastberadenheid in de strijd. Die slag om Midway wordt gezien als een van de meest belangrijke keerpunten in de Tweede Wereldoorlog waarin de Amerikanen, die sterk in de minderheid waren, door hun slimme tactiek bijna de gehele Japanse vloot tot zinken wist te brengen.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-11T20:30:00+00:00",
+      "stop": "2026-08-11T22:20:00+00:00",
+      "channel": "VTM 2",
+      "title": "21 Bridges",
+      "subtitle": "",
+      "directors": [
+        "Brian Kirk"
+      ],
+      "actors": [
+        "Chadwick Boseman",
+        "J.K. Simmons",
+        "Sienna Miller",
+        "Taylor Kitsch",
+        "Keith David",
+        "Stephan James"
+      ],
+      "matched_actors": [
+        "Chadwick Boseman"
+      ],
+      "description": "De in ongenade gevallen New Yorkse politieagent Andre Davis krijgt een kans op eerherstel wanneer hij de jacht mag openen op een politiemoordenaar die al acht dode agenten op zijn geweten heeft. Tijdens de klopjacht worden alle 21 bruggen en alle tunnels van Manhattan afgesloten. Al snel krijgt Andre het gevoel dat zich een crimineel netwerk tot in de hoogste regionen van de politie heeft vertakt.",
+      "category": "Films"
     }
   ]
 }
