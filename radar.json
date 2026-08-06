@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T11:06:20.245533+00:00",
-  "window_start": "2026-08-04",
+  "generated_at": "2026-08-06T07:50:35.607815+00:00",
+  "window_start": "2026-08-05",
   "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
@@ -100,55 +100,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 8,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-08-04T18:20:00+00:00",
-      "stop": "2026-08-04T21:00:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Forrest Gump",
-      "subtitle": "",
-      "directors": [
-        "Robert Zemeckis"
-      ],
-      "actors": [
-        "Tom Hanks",
-        "Robin Wright Penn",
-        "Gary Sinise",
-        "Mykelti Williamson",
-        "Sally Field",
-        "Haley Joel Osment"
-      ],
-      "matched_actors": [
-        "Sally Field"
-      ],
-      "description": "Assis sur un banc, Forrest Gump raconte à qui veut l'entendre l'incroyable histoire de sa vie... Né à la fin des années 1940 dans le sud des États-Unis, Forrest Gump est doté d'un quotient intellectuel inférieur à la moyenne, mais il possède aussi un don : il court très vite. Candide, il traverse près d'un demi-siècle de l'histoire américaine, sans vraiment se rendre compte des événements auxquels il assiste. Propulsé de l'état d'handicapé physique à celui de vedette du football, de héros du Vietnam au roi de la crevette, des honneurs de la Maison Blanche au bonheur d'une histoire d'amour, Forrest est le symbole d'une époque, un candide dans une Amérique qui a perdu son innocence.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-04T19:00:00+00:00",
-      "stop": "2026-08-04T20:40:00+00:00",
-      "channel": "France 5",
-      "title": "La gifle",
-      "subtitle": "",
-      "directors": [
-        "Claude Pinoteau"
-      ],
-      "actors": [
-        "Isabelle Adjani",
-        "Lino Ventura",
-        "Annie Girardot",
-        "Francis Perrin",
-        "Jacques Spiesser",
-        "Michel Aumont"
-      ],
-      "matched_actors": [
-        "Lino Ventura",
-        "Annie Girardot"
-      ],
-      "description": "Jean Douélan élève seul sa fille Isabelle. Celle-ci, étudiante en première année de médecine, veut peu à prendre son indépendance. Un jour, elle a une altercation avec son père et celui-ci la gifle... Une gifle retentissante précipite la rupture entre le père et la fille. Isabelle ne tend pas l'autre joue. Elle déménage aussitôt, emmenant avec elle Rémy, le frère de sa copine Christine. Jean ne l'entend pas de cette oreille. Une course-poursuite s'engage entre Isabelle, qui tient à sa fierté, et Jean, qui regrette son geste malheureux...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-05T18:25:00+00:00",
       "stop": "2026-08-05T20:55:00+00:00",
