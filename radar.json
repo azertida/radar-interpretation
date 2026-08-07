@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T11:08:55.586132+00:00",
-  "window_start": "2026-08-05",
+  "generated_at": "2026-08-07T06:21:39.246573+00:00",
+  "window_start": "2026-08-08",
   "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
@@ -100,34 +100,10 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 6,
+  "count": 5,
   "programmes": [
     {
-      "start": "2026-08-05T18:25:00+00:00",
-      "stop": "2026-08-05T20:55:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Martian",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "actors": [
-        "Matt Damon",
-        "Jessica Chastain",
-        "Kristen Wiig",
-        "Kate Mara",
-        "Jeff Daniels",
-        "Michael Peña"
-      ],
-      "matched_actors": [
-        "Jessica Chastain",
-        "Kristen Wiig"
-      ],
-      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-08T11:45:00+00:00",
+      "start": "2026-08-08T12:05:00+00:00",
       "stop": "2026-08-08T14:10:00+00:00",
       "channel": "VTM 2",
       "title": "The Martian",
