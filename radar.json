@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T09:44:13.463229+00:00",
+  "generated_at": "2026-08-08T06:00:11.150269+00:00",
   "window_start": "2026-08-08",
-  "window_end": "2026-08-11",
+  "window_end": "2026-08-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
   "watchlist": [
@@ -100,7 +100,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 5,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-08-08T12:05:00+00:00",
@@ -198,7 +198,7 @@
     },
     {
       "start": "2026-08-11T20:30:00+00:00",
-      "stop": "2026-08-11T22:20:00+00:00",
+      "stop": "2026-08-11T22:10:00+00:00",
       "channel": "VTM 2",
       "title": "21 Bridges",
       "subtitle": "",
@@ -218,6 +218,76 @@
       ],
       "description": "De in ongenade gevallen New Yorkse politieagent Andre Davis krijgt een kans op eerherstel wanneer hij de jacht mag openen op een politiemoordenaar die al acht dode agenten op zijn geweten heeft. Tijdens de klopjacht worden alle 21 bruggen en alle tunnels van Manhattan afgesloten. Al snel krijgt Andre het gevoel dat zich een crimineel netwerk tot in de hoogste regionen van de politie heeft vertakt.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-14T11:35:00+00:00",
+      "stop": "2026-08-14T14:00:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme qui tua Liberty Valance",
+      "subtitle": "",
+      "directors": [
+        "John Ford"
+      ],
+      "actors": [
+        "John Wayne",
+        "James Stewart",
+        "Vera Miles",
+        "Lee Marvin",
+        "Edmond O'Brien",
+        "Andy Devine"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-14T18:30:00+00:00",
+      "stop": "2026-08-14T20:20:00+00:00",
+      "channel": "VTM 2",
+      "title": "Salt",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "actors": [
+        "Scotty Dillin",
+        "Jose L. Rodriguez",
+        "Victor Slezak",
+        "Tika Sumpter",
+        "Nick Poltoranin",
+        "Angelina Jolie"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Evelyn Salt zwoer aan het begin van haar carrière bij de CIA om haar vaderland tegen vijanden te beschermen. Wanneer een overgelopen Russische spion haar naam opgeeft als terroriste, wordt ze evenwel zelf als staatsvijand bestempeld. Evelyn weet maar al te goed waar haar medeagenten toe in staat zijn en vlucht. Ze zal al haar kunde moeten inzetten om haar collega's te slim af te zijn.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-14T22:10:00+00:00",
+      "stop": "2026-08-14T23:40:00+00:00",
+      "channel": "BBC One",
+      "title": "Mothers' Instinct",
+      "subtitle": "",
+      "directors": [
+        "Benoît Delhomme"
+      ],
+      "actors": [
+        "Jessica Chastain",
+        "Anne Hathaway",
+        "Anders Danielsen Lie",
+        "Josh Charles",
+        "Eamon O'Connell",
+        "Caroline Lagerfelt"
+      ],
+      "matched_actors": [
+        "Jessica Chastain",
+        "Anne Hathaway"
+      ],
+      "description": "Best friends and neighbors Alice and Celine both live an idyllic traditional lifestyle with manicured lawns, successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond and a psychological battle of wills begins as the maternal instinct reveals its darker side.",
+      "category": "Movies"
     }
   ]
 }
