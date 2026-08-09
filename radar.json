@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T09:23:15.288644+00:00",
+  "generated_at": "2026-08-09T06:00:36.807967+00:00",
   "window_start": "2026-08-08",
-  "window_end": "2026-08-14",
+  "window_end": "2026-08-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
   "watchlist": [
@@ -100,7 +100,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-08-08T12:05:00+00:00",
@@ -288,6 +288,29 @@
       ],
       "description": "Best friends and neighbors Alice and Celine both live an idyllic traditional lifestyle with manicured lawns, successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond and a psychological battle of wills begins as the maternal instinct reveals its darker side.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-15T20:15:00+00:00",
+      "stop": "2026-08-15T22:25:00+00:00",
+      "channel": "VTM 2",
+      "title": "Gods of Egypt",
+      "subtitle": "",
+      "directors": [
+        "Alex Proyas"
+      ],
+      "actors": [
+        "Nikolaj Coster-Waldau",
+        "Gerard Butler",
+        "Geoffrey Rush",
+        "Brenton Thwaites",
+        "Chadwick Boseman",
+        "Elodie Yung"
+      ],
+      "matched_actors": [
+        "Chadwick Boseman"
+      ],
+      "description": "Set, de meedogenloze god van de duisternis, heeft het ooit welvarende Egyptische rijk in chaos gestort. Met de hulp van de mythische god Horus probeert een moedige dief de tirannieke Set van de troon te stoten en het rijk te redden van de ondergang.",
+      "category": "Films"
     }
   ]
 }
