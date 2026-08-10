@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T09:24:00.679139+00:00",
-  "window_start": "2026-08-08",
-  "window_end": "2026-08-15",
+  "generated_at": "2026-08-10T06:44:53.756750+00:00",
+  "window_start": "2026-08-09",
+  "window_end": "2026-08-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
   "watchlist": [
@@ -100,32 +100,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 9,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-08-08T12:05:00+00:00",
-      "stop": "2026-08-08T14:25:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Martian",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "actors": [
-        "Matt Damon",
-        "Jessica Chastain",
-        "Kristen Wiig",
-        "Kate Mara",
-        "Jeff Daniels",
-        "Michael Peña"
-      ],
-      "matched_actors": [
-        "Jessica Chastain",
-        "Kristen Wiig"
-      ],
-      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
-      "category": "Films"
-    },
     {
       "start": "2026-08-09T11:35:00+00:00",
       "stop": "2026-08-09T13:15:00+00:00",
@@ -311,6 +287,77 @@
       ],
       "description": "Set, de meedogenloze god van de duisternis, heeft het ooit welvarende Egyptische rijk in chaos gestort. Met de hulp van de mythische god Horus probeert een moedige dief de tirannieke Set van de troon te stoten en het rijk te redden van de ondergang.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-16T11:30:00+00:00",
+      "stop": "2026-08-16T13:10:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La dame blanche",
+      "directors": [
+        "Olivier Langlois",
+        "Pierre Isoard"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Au petit matin, dans la montagne, une voiture roule normalement sur une route droite et sans difficulté aucune. Pourtant, brutalement, elle fait une embardée suivie de plusieurs tonneaux, avant de s'immobiliser. Le passager, Pierre Clément, propriétaire d'un restaurant d'altitude au-dessus de Lusagne, est mort sur le coup. Présent sur les lieux, un témoin a cru voir une forme blanche à l'intérieur du véhicule, puis la voir disparaître. Alex Hugo découvre qu'une autre apparition de \"Dame Blanche\" a eu lieu au même endroit, quelques années auparavant, juste avant un autre drame... Accident ou meurtre ? Cette seconde hypothèse est validée par les expertises de la police qui confirment la présence d'un passager à l'arrière de la voiture. Monique, la séduisante veuve qui hérite de tout, et que la mort de son mari semble presque soulager, devient immédiatement suspecte.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-16T13:10:00+00:00",
+      "stop": "2026-08-16T14:50:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Jour de colère",
+      "directors": [
+        "Julien Guérif",
+        "Pierre Isoard"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Marilyne Canto",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Drôle d'ambiance à Lusagne, où Alex et Angelo doivent faire face à la disparition du brigadier Leblanc qui s'est soudainement volatilisé en ne laissant derrière lui qu'une étrange inscription sur l'étui de sa carte de police. Au même moment, deux adolescents sans histoire sont hospitalisés après avoir frôlé l'overdose avec une puissante drogue de synthèse qu'ils disent avoir trouvée, en pleine montagne, pendue aux arbres. Alors qu'Angelo suit la piste de Leblanc, Alex retrouve la drogue en pleine nature, sans savoir qu'il a pris de vitesse les gens chargés de la récupérer...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-16T19:00:00+00:00",
+      "stop": "2026-08-16T20:40:00+00:00",
+      "channel": "Arte",
+      "title": "Rendez-vous avec la mort",
+      "subtitle": "",
+      "directors": [
+        "Michael Winner"
+      ],
+      "actors": [
+        "Peter Ustinov",
+        "Lauren Bacall",
+        "John Gielgud",
+        "Piper Laurie",
+        "Carrie Fisher",
+        "Hayley Mills"
+      ],
+      "matched_actors": [
+        "Lauren Bacall"
+      ],
+      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
+      "category": "Cinéma"
     }
   ]
 }
