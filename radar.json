@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T10:04:16.112272+00:00",
-  "window_start": "2026-08-09",
+  "generated_at": "2026-08-11T06:07:20.050750+00:00",
+  "window_start": "2026-08-11",
   "window_end": "2026-08-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 94,
@@ -100,55 +100,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-08-09T11:35:00+00:00",
-      "stop": "2026-08-09T13:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Comme un oiseau sans aile",
-      "directors": [
-        "Olivier Langlois",
-        "Pierre Isoard"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "En pleine montagne, Lisa Leblanc saute à l'élastique et s'écrase. Tout indique un suicide, mais très vite, Alex Hugo, qui connait la jeune femme, se rend compte qu'elle a peut-être été poussée à se tuer. De plus, quelqu'un a l'air d'avoir filmé la chute de très, très près. Tandis qu'Angelo accueille quelques jours son neveu qui tourne mal et va lui causer quelques soucis au village, Alex mène l'enquête, et ses doutes se confirment lorsqu'il se rend compte qu'une autre femme s'est décrochée d'un parapente sur les Calanques de Marseille, quelques semaines plus tôt. Là aussi, quelqu'un filmait. Le dossier de ce suicide des Calanques est géré par la Criminelle de Marseille. Alex se remet donc en contact avec Caroline Wacquier, et les deux vont bosser de concert pour résoudre cette étrange affaire ; les deux victimes étaient-elles sous influence ?",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-09T13:15:00+00:00",
-      "stop": "2026-08-09T14:50:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Soleil noir",
-      "directors": [
-        "Pierre Isoard"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Lusagne, fin d'après-midi. Les enfants de la colonie de vacances reviennent d'une longue excursion en montagne, mais Justine, 10 ans, manque à l'appel. Sa monitrice, Marianne Helme, partie à sa recherche, n'est pas rentrée non plus. Et la nuit va tomber. Alex et Angelo mobilisent immédiatement des volontaires et découvrent avec effroi le corps de Marianne, échoué dans un torrent, mais aucune trace de Justine... Très vite, les soupçons se portent sur Jérémy Raveau, attardé mental léger, qui subsiste grâce à de petits boulots. Raveau est conduit sous bonne escorte au commissariat de la police rurale devant lequel campent déjà des habitants réclamant justice. C'est l'inspecteur Renart, de la crim de Marseille, qui est chargé de l'enquête. Mais le handicap mental de Raveau rend l'interrogatoire particulièrement difficile. D'habitude si professionnel, Angelo est cette fois particulièrement éprouvé par l'affaire. Le père de la disparue est un ami proche, et la petite Justine est sa filleule.",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-11T18:10:00+00:00",
       "stop": "2026-08-11T20:30:00+00:00",
@@ -264,6 +217,29 @@
       ],
       "description": "Best friends and neighbors Alice and Celine both live an idyllic traditional lifestyle with manicured lawns, successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond and a psychological battle of wills begins as the maternal instinct reveals its darker side.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-15T05:45:00+00:00",
+      "stop": "2026-08-15T09:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Gandhi",
+      "subtitle": "",
+      "directors": [
+        "Richard Attenborough"
+      ],
+      "actors": [
+        "Ben Kingsley",
+        "Candice Bergen",
+        "Trevor Howard",
+        "John Mills",
+        "Edward Fox",
+        "John Gielgud"
+      ],
+      "matched_actors": [
+        "Candice Bergen"
+      ],
+      "description": "La vita, l'impegno politico e, infine, la morte di Gandhi (1869-1948), il grande sostenitore dell'indipendenza dell'India e della non violenza. Il film inizia nel 1893 in Sudafrica, con la famosa notte di Maritzburg, quando un poliziotto caccia dalla prima classe del treno il giovane avvocato Mohandas Karamichad Gandhi, che, in quanto indiano, deve viaggiare in terza classe. Appartenente alla categoria dei colossi con un'idea, il film è coinvolgente, convincente, un po' didattico. 8 premi Oscar: film, regia, Kingsley, sceneggiatura (John Briley), fotografia, costumi, scenografie, montaggio.",
+      "category": "Cinéma"
     },
     {
       "start": "2026-08-15T20:15:00+00:00",
