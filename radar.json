@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T20:54:58.283154+00:00",
+  "generated_at": "2026-08-12T06:44:54.284820+00:00",
   "window_start": "2026-08-11",
-  "window_end": "2026-08-16",
+  "window_end": "2026-08-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 97,
   "watchlist": [
@@ -103,7 +103,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 10,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-08-11T18:10:00+00:00",
@@ -153,7 +153,7 @@
     },
     {
       "start": "2026-08-14T11:35:00+00:00",
-      "stop": "2026-08-14T14:00:00+00:00",
+      "stop": "2026-08-14T13:55:00+00:00",
       "channel": "Arte",
       "title": "L'homme qui tua Liberty Valance",
       "subtitle": "",
@@ -336,6 +336,52 @@
         "Lauren Bacall"
       ],
       "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-18T19:05:00+00:00",
+      "stop": "2026-08-18T20:38:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Un mauvais garçon",
+      "subtitle": "",
+      "directors": [
+        "Xavier Durringer"
+      ],
+      "actors": [
+        "Richard Anconina",
+        "Alexandre Desrousseaux",
+        "Isabelle Renauld",
+        "Judith Magre",
+        "Rachid Hafassa",
+        "Andréa Ferréol"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-18T19:15:00+00:00",
+      "stop": "2026-08-18T21:03:00+00:00",
+      "channel": "TF1",
+      "title": "The Marvels",
+      "subtitle": "",
+      "directors": [
+        "Nia DaCosta"
+      ],
+      "actors": [
+        "Brie Larson",
+        "Teyonah Parris",
+        "Iman Vellani",
+        "Samuel L. Jackson",
+        "Zawe Ashton",
+        "Gary Lewis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels. Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
       "category": "Cinéma"
     }
   ]
