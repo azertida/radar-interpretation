@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T09:48:58.910078+00:00",
-  "window_start": "2026-08-11",
-  "window_end": "2026-08-18",
+  "generated_at": "2026-08-13T06:48:27.499053+00:00",
+  "window_start": "2026-08-14",
+  "window_end": "2026-08-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 97,
   "watchlist": [
@@ -103,54 +103,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 12,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-08-11T18:10:00+00:00",
-      "stop": "2026-08-11T20:30:00+00:00",
-      "channel": "VTM 2",
-      "title": "Midway",
-      "subtitle": "",
-      "directors": [
-        "Roland Emmerich"
-      ],
-      "actors": [
-        "Ed Skrein",
-        "Patrick Wilson",
-        "Woody Harrelson",
-        "Luke Evans",
-        "Mandy Moore",
-        "Luke Kleintank"
-      ],
-      "matched_actors": [
-        "Mandy Moore"
-      ],
-      "description": "Zes maanden na de aanval van de Japanners op Pearl Harbour komt het van 4 tot 7 juni 1942 tot een nieuwe clash tussen de Amerikanen en de Japanners. Het strijdtoneel zijn dit keer de Midway-eilanden in de Stille Oceaan. De Japanners zijn numeriek in de meerderheid, maar de Amerikanen gooien al hun moed en vastberadenheid in de strijd. Die slag om Midway wordt gezien als een van de meest belangrijke keerpunten in de Tweede Wereldoorlog waarin de Amerikanen, die sterk in de minderheid waren, door hun slimme tactiek bijna de gehele Japanse vloot tot zinken wist te brengen.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-11T20:30:00+00:00",
-      "stop": "2026-08-11T22:10:00+00:00",
-      "channel": "VTM 2",
-      "title": "21 Bridges",
-      "subtitle": "",
-      "directors": [
-        "Brian Kirk"
-      ],
-      "actors": [
-        "Chadwick Boseman",
-        "J.K. Simmons",
-        "Sienna Miller",
-        "Taylor Kitsch",
-        "Keith David",
-        "Stephan James"
-      ],
-      "matched_actors": [
-        "Chadwick Boseman"
-      ],
-      "description": "De in ongenade gevallen New Yorkse politieagent Andre Davis krijgt een kans op eerherstel wanneer hij de jacht mag openen op een politiemoordenaar die al acht dode agenten op zijn geweten heeft. Tijdens de klopjacht worden alle 21 bruggen en alle tunnels van Manhattan afgesloten. Al snel krijgt Andre het gevoel dat zich een crimineel netwerk tot in de hoogste regionen van de politie heeft vertakt.",
-      "category": "Films"
-    },
     {
       "start": "2026-08-14T11:35:00+00:00",
       "stop": "2026-08-14T13:55:00+00:00",
@@ -382,6 +336,92 @@
         "Brie Larson"
       ],
       "description": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels. Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-19T01:55:00+00:00",
+      "stop": "2026-08-19T02:35:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Affari di famiglia",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Si avvicina il giorno del Ringraziamento e Margaret sta organizzando un pranzo per la famiglia, ma scopre che i figli e Chuck si sono già organizzati per passare le festività lontano da Portland.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-19T02:35:00+00:00",
+      "stop": "2026-08-19T03:20:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Un mondo da salvare",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-19T12:05:00+00:00",
+      "stop": "2026-08-19T13:39:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Un mauvais garçon",
+      "subtitle": "",
+      "directors": [
+        "Xavier Durringer"
+      ],
+      "actors": [
+        "Richard Anconina",
+        "Alexandre Desrousseaux",
+        "Isabelle Renauld",
+        "Judith Magre",
+        "Rachid Hafassa",
+        "Andréa Ferréol"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-19T20:35:00+00:00",
+      "stop": "2026-08-19T22:30:00+00:00",
+      "channel": "Arte",
+      "title": "Youth",
+      "subtitle": "",
+      "directors": [
+        "Paolo Sorrentino",
+        "Francesca Cima",
+        "Nicola G"
+      ],
+      "actors": [
+        "Michael Caine",
+        "Harvey Keitel",
+        "Rachel Weisz",
+        "Paul Dano",
+        "Jane Fonda",
+        "Poppy Corby-Tuech"
+      ],
+      "matched_actors": [
+        "Jane Fonda"
+      ],
+      "description": "Deux octogénaires profitent de leurs vacances dans un hôtel luxueux au pied des Alpes. Fred, un ancien chef d'orchestre, est à la retraite et n'a aucune intention de retravailler, tandis que Mick, réalisateur, s'acharne toujours sur un scénario. Conscients du temps qui passe inexorablement, les deux hommes se penchent sur leur passé avec tendresse, et repensent à leur parcours et à ceux qui les ont entourés.",
       "category": "Cinéma"
     }
   ]
