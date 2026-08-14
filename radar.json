@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T18:48:06.960120+00:00",
+  "generated_at": "2026-08-14T21:53:42.112252+00:00",
   "window_start": "2026-08-14",
   "window_end": "2026-08-20",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 98,
+  "watchlist_size": 106,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -21,15 +21,18 @@
     "Jacqueline Bisset",
     "Chadwick Boseman",
     "Andre Braugher",
+    "Pierce Brosnan",
     "Sterling K. Brown",
     "Sandra Bullock",
     "Timothy Busfield",
+    "Nicolas Cage",
     "Jean-Pierre Cassel",
     "Stockard Channing",
     "Jessica Chastain",
     "Cher",
     "Jenna Coleman",
     "Daniel Craig",
+    "Carla Gugino",
     "Tony Curtis",
     "Ana de Armas",
     "Louis de Funès",
@@ -40,12 +43,14 @@
     "Rebecca Ferguson",
     "Sally Field",
     "Jane Fonda",
+    "Jodie Foster",
     "Annie Girardot",
     "Cary Grant",
     "Charles Grodin",
     "Marcia Gay Harden",
     "Anne Hathaway",
     "Goldie Hawn",
+    "Lena Headey",
     "Taraji P. Henson",
     "Audrey Hepburn",
     "Katharine Hepburn",
@@ -66,6 +71,7 @@
     "Kate McKinnon",
     "Bette Midler",
     "Sherry Miller",
+    "Helen Mirren",
     "Alfred Molina",
     "Marilyn Monroe",
     "Mandy Moore",
@@ -74,6 +80,7 @@
     "Judd Nelson",
     "Leonard Nimoy",
     "John Noble",
+    "Danny Nucci",
     "Sabrina Ouazani",
     "Jacques Perrin",
     "William Powell",
@@ -100,11 +107,12 @@
     "Susan Kelechi Watson",
     "John Wayne",
     "Kristen Wiig",
+    "Luke Wilson",
     "Natalie Wood",
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 17,
+  "count": 18,
   "programmes": [
     {
       "start": "2026-08-14T11:35:00+00:00",
@@ -150,6 +158,29 @@
         "Angelina Jolie"
       ],
       "description": "Evelyn Salt zwoer aan het begin van haar carrière bij de CIA om haar vaderland tegen vijanden te beschermen. Wanneer een overgelopen Russische spion haar naam opgeeft als terroriste, wordt ze evenwel zelf als staatsvijand bestempeld. Evelyn weet maar al te goed waar haar medeagenten toe in staat zijn en vlucht. Ze zal al haar kunde moeten inzetten om haar collega's te slim af te zijn.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-14T20:15:00+00:00",
+      "stop": "2026-08-14T22:35:00+00:00",
+      "channel": "VTM 2",
+      "title": "The Rock",
+      "subtitle": "",
+      "directors": [
+        "Michael Bay"
+      ],
+      "actors": [
+        "Sean Connery",
+        "Nicolas Cage",
+        "Ed Harris",
+        "Michael Biehn",
+        "William Forsythe",
+        "David Morse"
+      ],
+      "matched_actors": [
+        "Nicolas Cage"
+      ],
+      "description": "Generaal Hummel en zijn mariniers eisen dat de regering hen 100 miljoen dollar geeft om de families van overleden soldaten te vergoeden. Vanuit het voormalige gevangeniseiland Alcatraz dreigen ze ermee de bewoners van San Francisco met gifgas om het leven te brengen. Na een eerste mislukte bestorming, rust alle hoop op de schouders van bomspecialist Stanley Goodspead en de voormalige bajesklant John Mason.",
       "category": "Films"
     },
     {
