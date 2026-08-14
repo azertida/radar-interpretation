@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T09:47:04.444615+00:00",
+  "generated_at": "2026-08-14T06:45:44.780863+00:00",
   "window_start": "2026-08-14",
-  "window_end": "2026-08-19",
+  "window_end": "2026-08-20",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 97,
   "watchlist": [
@@ -103,7 +103,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 14,
+  "count": 17,
   "programmes": [
     {
       "start": "2026-08-14T11:35:00+00:00",
@@ -423,6 +423,65 @@
       ],
       "description": "Deux octogénaires profitent de leurs vacances dans un hôtel luxueux au pied des Alpes. Fred, un ancien chef d'orchestre, est à la retraite et n'a aucune intention de retravailler, tandis que Mick, réalisateur, s'acharne toujours sur un scénario. Conscients du temps qui passe inexorablement, les deux hommes se penchent sur leur passé avec tendresse, et repensent à leur parcours et à ceux qui les ont entourés.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-20T01:35:00+00:00",
+      "stop": "2026-08-20T02:19:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Del tutto inaspettato",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Un avvocato dello studio legale di Margaret si rompe la gamba sciando e Margaret deve sostituirlo in una causa, apparentemente semplice, di licenziamento senza giusta causa.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-20T02:19:00+00:00",
+      "stop": "2026-08-20T03:00:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Informatori segreti",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "Effetti collaterali - Viaggi astrali - TELEFILM - - Margaret è l'avvocato difensore di una donna accusata di aver ucciso il marito, un noto giornalista investigati - vo. Le prove contro di lei sembrano schiaccianti...- Un vecchio cliente di Margaret la chiama nel cuore della notte per correre in tribunale e difendere sua figlia accusata di tentato omicidio. La ragazza, però, non ricorda nulla di quanto ha fatto... - Il Governatore dello Stato dell'Oregon si rivolge, tramite Lawrence, a Margaret perché l'aiuti in una faccenda che riguarda sua sorella ed una fattoria che lei e sua sorella hanno ereditato anni prima... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-20T19:56:00+00:00",
+      "stop": "2026-08-20T21:34:00+00:00",
+      "channel": "La Une",
+      "title": "Prière d'enquêter",
+      "subtitle": "Oeil pour oeil",
+      "directors": [
+        "Laurence Katrian"
+      ],
+      "actors": [
+        "Sabrina Ouazani",
+        "Mathieu Spinosi",
+        "Jérôme Robart",
+        "David Baïot"
+      ],
+      "matched_actors": [
+        "Sabrina Ouazani"
+      ],
+      "description": "Dans les Cévennes, Jonas, animateur d'un camp d'éclaireurs est retrouvé mort dans un temple protestant, une seringue à la main. Tout porte à croire qu'il ne s'agit pas d'une overdose mais d'un meurtre déguisé. Pour résoudre l'enquête, la capitaine Elli Talleb est associée, non sans surprise, au nouvel expert en criminologie de la région : Frère Clément Desmoulin. En effet, fraîchement diplômé en psycho-criminologie, Clément n'en est pas moins resté dans les ordres. Il a prolongé son noviciat et voit ses expériences extérieures au monastère comme une mise à l'épreuve de son engagement spirituel. La recherche du coupable de ce meurtre mettra les nerfs et sentiments d'Elli et Clément à rude épreuve, décidément un drôle de couple d'enquêteur",
+      "category": "Séries"
     }
   ]
 }
