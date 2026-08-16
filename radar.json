@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T09:05:00.571006+00:00",
+  "generated_at": "2026-08-16T19:52:31.872635+00:00",
   "window_start": "2026-08-15",
   "window_end": "2026-08-21",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 108,
+  "watchlist_size": 110,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -16,6 +16,7 @@
     "Lionnel Astier",
     "Hayley Atwell",
     "Lauren Bacall",
+    "Jean-Pierre Bacri",
     "Nathalie Baye",
     "Jean-Paul Belmondo",
     "Candice Bergen",
@@ -72,6 +73,7 @@
     "Kate McKinnon",
     "Bette Midler",
     "Sherry Miller",
+    "Hayley Mills",
     "Helen Mirren",
     "Alfred Molina",
     "Marilyn Monroe",
@@ -228,7 +230,8 @@
         "Hayley Mills"
       ],
       "matched_actors": [
-        "Lauren Bacall"
+        "Lauren Bacall",
+        "Hayley Mills"
       ],
       "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
       "category": "Cinéma"
