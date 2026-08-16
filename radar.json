@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T09:02:24.988214+00:00",
-  "window_start": "2026-08-14",
-  "window_end": "2026-08-20",
+  "generated_at": "2026-08-16T05:46:10.268286+00:00",
+  "window_start": "2026-08-15",
+  "window_end": "2026-08-21",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 106,
+  "watchlist_size": 108,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -11,6 +11,7 @@
     "Alan Alda",
     "Richard Anconina",
     "Gillian Anderson",
+    "Julie Andrews",
     "Jean Arthur",
     "Lionnel Astier",
     "Hayley Atwell",
@@ -99,6 +100,7 @@
     "Octavia Spencer",
     "Barbra Streisand",
     "Jason Sudeikis",
+    "Jeremy Swift",
     "Alice Taglioni",
     "Anna Torv",
     "Karl Urban",
@@ -112,101 +114,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 18,
+  "count": 17,
   "programmes": [
-    {
-      "start": "2026-08-14T11:35:00+00:00",
-      "stop": "2026-08-14T13:55:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme qui tua Liberty Valance",
-      "subtitle": "",
-      "directors": [
-        "John Ford"
-      ],
-      "actors": [
-        "John Wayne",
-        "James Stewart",
-        "Vera Miles",
-        "Lee Marvin",
-        "Edmond O'Brien",
-        "Andy Devine"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul àqui Valance ne fait pas peur. Stoddard tente d'arrêter Valance, mais se rend vite compte qu'il ne se laissera jamais arrêter vivant.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-14T18:30:00+00:00",
-      "stop": "2026-08-14T20:15:00+00:00",
-      "channel": "VTM 2",
-      "title": "Salt",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Scotty Dillin",
-        "Jose L. Rodriguez",
-        "Victor Slezak",
-        "Tika Sumpter",
-        "Nick Poltoranin",
-        "Angelina Jolie"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Evelyn Salt zwoer aan het begin van haar carrière bij de CIA om haar vaderland tegen vijanden te beschermen. Wanneer een overgelopen Russische spion haar naam opgeeft als terroriste, wordt ze evenwel zelf als staatsvijand bestempeld. Evelyn weet maar al te goed waar haar medeagenten toe in staat zijn en vlucht. Ze zal al haar kunde moeten inzetten om haar collega's te slim af te zijn.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-14T20:15:00+00:00",
-      "stop": "2026-08-14T22:35:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Rock",
-      "subtitle": "",
-      "directors": [
-        "Michael Bay"
-      ],
-      "actors": [
-        "Sean Connery",
-        "Nicolas Cage",
-        "Ed Harris",
-        "Michael Biehn",
-        "William Forsythe",
-        "David Morse"
-      ],
-      "matched_actors": [
-        "Nicolas Cage"
-      ],
-      "description": "Generaal Hummel en zijn mariniers eisen dat de regering hen 100 miljoen dollar geeft om de families van overleden soldaten te vergoeden. Vanuit het voormalige gevangeniseiland Alcatraz dreigen ze ermee de bewoners van San Francisco met gifgas om het leven te brengen. Na een eerste mislukte bestorming, rust alle hoop op de schouders van bomspecialist Stanley Goodspead en de voormalige bajesklant John Mason.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-14T22:10:00+00:00",
-      "stop": "2026-08-14T23:40:00+00:00",
-      "channel": "BBC One",
-      "title": "Mothers' Instinct",
-      "subtitle": "",
-      "directors": [
-        "Benoît Delhomme"
-      ],
-      "actors": [
-        "Jessica Chastain",
-        "Anne Hathaway",
-        "Anders Danielsen Lie",
-        "Josh Charles",
-        "Eamon O'Connell",
-        "Caroline Lagerfelt"
-      ],
-      "matched_actors": [
-        "Jessica Chastain",
-        "Anne Hathaway"
-      ],
-      "description": "Best friends and neighbors Alice and Celine both live an idyllic traditional lifestyle with manicured lawns, successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond and a psychological battle of wills begins as the maternal instinct reveals its darker side.",
-      "category": "Movies"
-    },
     {
       "start": "2026-08-15T05:45:00+00:00",
       "stop": "2026-08-15T09:00:00+00:00",
@@ -348,8 +257,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-18T19:15:00+00:00",
-      "stop": "2026-08-18T21:03:00+00:00",
+      "start": "2026-08-18T19:13:00+00:00",
+      "stop": "2026-08-18T21:02:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
       "subtitle": "",
@@ -513,6 +422,63 @@
         "Sabrina Ouazani"
       ],
       "description": "Dans les Cévennes, Jonas, animateur d'un camp d'éclaireurs est retrouvé mort dans un temple protestant, une seringue à la main. Tout porte à croire qu'il ne s'agit pas d'une overdose mais d'un meurtre déguisé. Pour résoudre l'enquête, la capitaine Elli Talleb est associée, non sans surprise, au nouvel expert en criminologie de la région : Frère Clément Desmoulin. En effet, fraîchement diplômé en psycho-criminologie, Clément n'en est pas moins resté dans les ordres. Il a prolongé son noviciat et voit ses expériences extérieures au monastère comme une mise à l'épreuve de son engagement spirituel. La recherche du coupable de ce meurtre mettra les nerfs et sentiments d'Elli et Clément à rude épreuve, décidément un drôle de couple d'enquêteur",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-21T00:45:00+00:00",
+      "stop": "2026-08-21T01:27:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Effetti collaterali",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "Un vecchio cliente di Margaret la chiama nel cuore della notte per correre in tribunale e difendere sua figlia accusata di tentato omicidio. La ragazza, però, non ricorda nulla di quanto ha fatto.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-21T01:27:00+00:00",
+      "stop": "2026-08-21T02:08:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Viaggi astrali",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "Il Governatore dello Stato dell'Oregon si rivolge, tramite Lawrence, a Margaret perché l'aiuti in una faccenda che riguarda sua sorella ed una fattoria che lei e sua sorella hanno ereditato anni prima.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-21T02:08:00+00:00",
+      "stop": "2026-08-21T02:50:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Non puoi parlarmi",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "La donna mostro-serpente - Ivan il Terribile 1^ Visione Rai - TELEFILM - - Dopo aver aspettato invano una risposta di Gus a un suo messaggio, Margaret lo incontra in - tribunale. Lui difende il comune di Portland da una causa che gli è stata intentata dopo il crollo di un palazzo in costruzione, crollo che ha anche causato due vittime...- Una visita inaspettata sconvolge Todd. Veronica è uscita di prigione dopo aver aiutato la giustizia a far arrestare un poliziotto corrotto, e ora si presenta da Todd chiedendo il suo aiuto...- Margaret riceve uno strano messaggio sonoro sul telefonino che la avvisa di essere stata pagata in criptovaluta. A farle quel pagamento è stato un certo Ivan il Terribile, un temutissimo hacker contro il quale il dipartimento della difesa lotta da tempo... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
       "category": "Séries"
     }
   ]
