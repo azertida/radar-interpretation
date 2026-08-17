@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:52:31.872635+00:00",
-  "window_start": "2026-08-15",
-  "window_end": "2026-08-21",
+  "generated_at": "2026-08-17T05:54:12.318940+00:00",
+  "window_start": "2026-08-16",
+  "window_end": "2026-08-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 110,
   "watchlist": [
@@ -116,54 +116,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 17,
+  "count": 20,
   "programmes": [
-    {
-      "start": "2026-08-15T05:45:00+00:00",
-      "stop": "2026-08-15T09:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Gandhi",
-      "subtitle": "",
-      "directors": [
-        "Richard Attenborough"
-      ],
-      "actors": [
-        "Ben Kingsley",
-        "Candice Bergen",
-        "Trevor Howard",
-        "John Mills",
-        "Edward Fox",
-        "John Gielgud"
-      ],
-      "matched_actors": [
-        "Candice Bergen"
-      ],
-      "description": "La vita, l'impegno politico e, infine, la morte di Gandhi (1869-1948), il grande sostenitore dell'indipendenza dell'India e della non violenza. Il film inizia nel 1893 in Sudafrica, con la famosa notte di Maritzburg, quando un poliziotto caccia dalla prima classe del treno il giovane avvocato Mohandas Karamichad Gandhi, che, in quanto indiano, deve viaggiare in terza classe. Appartenente alla categoria dei colossi con un'idea, il film è coinvolgente, convincente, un po' didattico. 8 premi Oscar: film, regia, Kingsley, sceneggiatura (John Briley), fotografia, costumi, scenografie, montaggio.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-15T20:20:00+00:00",
-      "stop": "2026-08-15T22:20:00+00:00",
-      "channel": "VTM 2",
-      "title": "Gods of Egypt",
-      "subtitle": "",
-      "directors": [
-        "Alex Proyas"
-      ],
-      "actors": [
-        "Nikolaj Coster-Waldau",
-        "Gerard Butler",
-        "Geoffrey Rush",
-        "Brenton Thwaites",
-        "Chadwick Boseman",
-        "Elodie Yung"
-      ],
-      "matched_actors": [
-        "Chadwick Boseman"
-      ],
-      "description": "Set, de meedogenloze god van de duisternis, heeft het ooit welvarende Egyptische rijk in chaos gestort. Met de hulp van de mythische god Horus probeert een moedige dief de tirannieke Set van de troon te stoten en het rijk te redden van de ondergang.",
-      "category": "Films"
-    },
     {
       "start": "2026-08-16T11:30:00+00:00",
       "stop": "2026-08-16T13:10:00+00:00",
@@ -483,6 +437,119 @@
       ],
       "description": "La donna mostro-serpente - Ivan il Terribile 1^ Visione Rai - TELEFILM - - Dopo aver aspettato invano una risposta di Gus a un suo messaggio, Margaret lo incontra in - tribunale. Lui difende il comune di Portland da una causa che gli è stata intentata dopo il crollo di un palazzo in costruzione, crollo che ha anche causato due vittime...- Una visita inaspettata sconvolge Todd. Veronica è uscita di prigione dopo aver aiutato la giustizia a far arrestare un poliziotto corrotto, e ora si presenta da Todd chiedendo il suo aiuto...- Margaret riceve uno strano messaggio sonoro sul telefonino che la avvisa di essere stata pagata in criptovaluta. A farle quel pagamento è stato un certo Ivan il Terribile, un temutissimo hacker contro il quale il dipartimento della difesa lotta da tempo... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
       "category": "Séries"
+    },
+    {
+      "start": "2026-08-23T11:30:00+00:00",
+      "stop": "2026-08-23T13:25:00+00:00",
+      "channel": "Arte",
+      "title": "Rendez-vous avec la mort",
+      "subtitle": "",
+      "directors": [
+        "Michael Winner"
+      ],
+      "actors": [
+        "Peter Ustinov",
+        "Lauren Bacall",
+        "John Gielgud",
+        "Piper Laurie",
+        "Carrie Fisher",
+        "Hayley Mills"
+      ],
+      "matched_actors": [
+        "Lauren Bacall",
+        "Hayley Mills"
+      ],
+      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-23T11:30:00+00:00",
+      "stop": "2026-08-23T13:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Les racines du mal",
+      "directors": [
+        "Olivier Langlois"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Un groupe de campeurs découvre le corps d'une jeune femme.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-23T13:15:00+00:00",
+      "stop": "2026-08-23T14:55:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Pour le meilleur et pour le pire",
+      "directors": [
+        "Muriel Aubin",
+        "Aubin Muriel"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-23T13:18:00+00:00",
+      "stop": "2026-08-23T14:55:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Un mauvais garçon",
+      "subtitle": "",
+      "directors": [
+        "Xavier Durringer"
+      ],
+      "actors": [
+        "Richard Anconina",
+        "Alexandre Desrousseaux",
+        "Isabelle Renauld",
+        "Judith Magre",
+        "Rachid Hafassa",
+        "Andréa Ferréol"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-23T18:05:00+00:00",
+      "stop": "2026-08-23T19:00:00+00:00",
+      "channel": "Arte",
+      "title": "Citizen Jane, l'Amérique selon Fonda",
+      "subtitle": "",
+      "directors": [
+        "Florence Platarets"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "Donald Sutherland"
+      ],
+      "matched_actors": [
+        "Jane Fonda"
+      ],
+      "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
+      "category": "Documentaire"
     }
   ]
 }
