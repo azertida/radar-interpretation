@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T09:25:32.147053+00:00",
-  "window_start": "2026-08-16",
-  "window_end": "2026-08-23",
+  "generated_at": "2026-08-18T05:47:37.991682+00:00",
+  "window_start": "2026-08-18",
+  "window_end": "2026-08-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 110,
   "watchlist": [
@@ -116,80 +116,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 20,
+  "count": 21,
   "programmes": [
-    {
-      "start": "2026-08-16T11:30:00+00:00",
-      "stop": "2026-08-16T13:10:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La dame blanche",
-      "directors": [
-        "Olivier Langlois",
-        "Pierre Isoard"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Marilyne Canto"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Au petit matin, dans la montagne, une voiture roule normalement sur une route droite et sans difficulté aucune. Pourtant, brutalement, elle fait une embardée suivie de plusieurs tonneaux, avant de s'immobiliser. Le passager, Pierre Clément, propriétaire d'un restaurant d'altitude au-dessus de Lusagne, est mort sur le coup. Présent sur les lieux, un témoin a cru voir une forme blanche à l'intérieur du véhicule, puis la voir disparaître. Alex Hugo découvre qu'une autre apparition de \"Dame Blanche\" a eu lieu au même endroit, quelques années auparavant, juste avant un autre drame... Accident ou meurtre ? Cette seconde hypothèse est validée par les expertises de la police qui confirment la présence d'un passager à l'arrière de la voiture. Monique, la séduisante veuve qui hérite de tout, et que la mort de son mari semble presque soulager, devient immédiatement suspecte.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-16T13:10:00+00:00",
-      "stop": "2026-08-16T14:50:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Jour de colère",
-      "directors": [
-        "Julien Guérif",
-        "Pierre Isoard"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Marilyne Canto",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Drôle d'ambiance à Lusagne, où Alex et Angelo doivent faire face à la disparition du brigadier Leblanc qui s'est soudainement volatilisé en ne laissant derrière lui qu'une étrange inscription sur l'étui de sa carte de police. Au même moment, deux adolescents sans histoire sont hospitalisés après avoir frôlé l'overdose avec une puissante drogue de synthèse qu'ils disent avoir trouvée, en pleine montagne, pendue aux arbres. Alors qu'Angelo suit la piste de Leblanc, Alex retrouve la drogue en pleine nature, sans savoir qu'il a pris de vitesse les gens chargés de la récupérer...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-16T19:00:00+00:00",
-      "stop": "2026-08-16T20:40:00+00:00",
-      "channel": "Arte",
-      "title": "Rendez-vous avec la mort",
-      "subtitle": "",
-      "directors": [
-        "Michael Winner"
-      ],
-      "actors": [
-        "Peter Ustinov",
-        "Lauren Bacall",
-        "John Gielgud",
-        "Piper Laurie",
-        "Carrie Fisher",
-        "Hayley Mills"
-      ],
-      "matched_actors": [
-        "Lauren Bacall",
-        "Hayley Mills"
-      ],
-      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-18T19:05:00+00:00",
       "stop": "2026-08-18T20:38:00+00:00",
@@ -214,7 +142,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-18T19:13:00+00:00",
+      "start": "2026-08-18T19:14:00+00:00",
       "stop": "2026-08-18T21:02:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
@@ -550,6 +478,96 @@
       ],
       "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-24T19:20:00+00:00",
+      "stop": "2026-08-24T21:50:00+00:00",
+      "channel": "RAI Due",
+      "title": "Il codice Da Vinci",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Audrey Tatou",
+        "Ian McKellen",
+        "Jean Reno",
+        "Paul Bettany",
+        "Alfred Molina"
+      ],
+      "matched_actors": [
+        "Alfred Molina"
+      ],
+      "description": "Per custodire un segreto basta assicurarsi che chi lo conosce non lo riveli. E se il segreto può demolire millenni di dogmi consolidati, bisogna mettere a tacere i suoi depositari ad ogni costo. Il professore di simbologia religiosa Robert Langdon è a Parigi per una conferenza e viene convocato dalla polizia per interpretare alcuni simboli ritrovati sul corpo dell'anziano curatore del Louvre, appena assassinato. Per proteggere un segreto a volte basta chiedere a chi lo custodisce di non rivelarlo; tuttavia se può far crollare 2'000 anni di dogmi consolidati, bisogna mettere a tacere i suoi depositari, costasse anche la loro vita.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-24T19:26:00+00:00",
+      "stop": "2026-08-24T20:18:00+00:00",
+      "channel": "La Trois",
+      "title": "Apocalypse : la guerre des mondes 1945-1991",
+      "subtitle": "The Conquest (1953-1955)",
+      "directors": [
+        "Daniel Costelle",
+        "Isabelle Clarke"
+      ],
+      "actors": [
+        "Mathieu Kassovitz",
+        "Svetlana Alliluyeva",
+        "Marilyn Monroe"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "Mars 1953. Staline est mort. Le Petit Père des peuples n'est plus qu'un corps embaumé devant lequel se pressent avec zèle ses potentiels successeurs. À Berlin-Est, une vague d'espoir parcourt les ouvriers allemands, vite écrasés par la répression soviétique.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-24T20:45:00+00:00",
+      "stop": "2026-08-24T22:20:00+00:00",
+      "channel": "Arte",
+      "title": "D'une vie à l'autre",
+      "subtitle": "",
+      "directors": [
+        "Richard LaGravenese"
+      ],
+      "actors": [
+        "Holly Hunter",
+        "Danny DeVito",
+        "Queen Latifah",
+        "Martin Donovan",
+        "Richard Schiff",
+        "Elias Koteas"
+      ],
+      "matched_actors": [
+        "Holly Hunter"
+      ],
+      "description": "Il s'agit de l'histoire d'une riche bourgeoise, Judith Nelson, amère et névrotique, depuis que son mari, médecin, l'a délaissée pour une ravissante pédiatre plus jeune qu'elle. Un soir, dans un club de jazz, un inconnu, la prenant pour une autre, l'embrasse fougueusement. Ce baiser inopiné va réveiller Judith. Quand elle rentre dans son luxueux appartement elle regarde pour la première fois le liftier, Pat, jusqu'alors invisible, petit homme rond et mélancolique. Que peuvent avoir en commun Judith et Pat?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-24T23:09:00+00:00",
+      "stop": "2026-08-25T00:42:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Un mauvais garçon",
+      "subtitle": "",
+      "directors": [
+        "Xavier Durringer"
+      ],
+      "actors": [
+        "Richard Anconina",
+        "Alexandre Desrousseaux",
+        "Isabelle Renauld",
+        "Judith Magre",
+        "Rachid Hafassa",
+        "Andréa Ferréol"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
+      "category": "Cinéma"
     }
   ]
 }
