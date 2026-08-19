@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T09:15:26.145619+00:00",
+  "generated_at": "2026-08-19T05:48:54.395828+00:00",
   "window_start": "2026-08-18",
-  "window_end": "2026-08-24",
+  "window_end": "2026-08-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 110,
   "watchlist": [
@@ -142,7 +142,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-18T19:14:00+00:00",
+      "start": "2026-08-18T19:13:00+00:00",
       "stop": "2026-08-18T21:02:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
@@ -165,8 +165,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-19T01:55:00+00:00",
-      "stop": "2026-08-19T02:35:00+00:00",
+      "start": "2026-08-19T02:40:00+00:00",
+      "stop": "2026-08-19T03:20:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Affari di famiglia",
@@ -181,25 +181,6 @@
         "Marcia Gay Harden"
       ],
       "description": "1^ Visione Rai - Si avvicina il giorno del Ringraziamento e Margaret sta organizzando un pranzo per la famiglia, ma scopre che i figli e Chuck si sono già organizzati per passare le festività lontano da Portland.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-19T02:35:00+00:00",
-      "stop": "2026-08-19T03:20:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Un mondo da salvare",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
       "category": "Séries"
     },
     {
@@ -289,8 +270,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-20T19:56:00+00:00",
-      "stop": "2026-08-20T21:34:00+00:00",
+      "start": "2026-08-20T19:53:00+00:00",
+      "stop": "2026-08-20T21:31:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "Oeil pour oeil",
@@ -504,7 +485,7 @@
     },
     {
       "start": "2026-08-24T19:26:00+00:00",
-      "stop": "2026-08-24T20:18:00+00:00",
+      "stop": "2026-08-24T20:19:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "The Conquest (1953-1955)",
@@ -568,6 +549,29 @@
       ],
       "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-25T21:25:00+00:00",
+      "stop": "2026-08-25T23:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Sympathy for the Devil",
+      "subtitle": "",
+      "directors": [
+        "Yuval Adler"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Joel Kinnaman",
+        "Kaiwi Lyman",
+        "Nancy Good",
+        "Burns Burns",
+        "Cameron Lee Price"
+      ],
+      "matched_actors": [
+        "Nicolas Cage"
+      ],
+      "description": "James is onderweg naar het ziekenhuis voor de bevalling van zijn vrouw als hij in zijn auto wordt overvallen door een mysterieuze man die hem onmiddellijk onder schot houdt. Zonder te weten wat de bestemming is, dwingt de man James te gaan rijden. Gaandeweg blijkt de passagier niet alleen gevaarlijk, maar ook compleet krankzinnig te zijn.",
+      "category": "Films"
     }
   ]
 }
