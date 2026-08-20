@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T09:18:25.023849+00:00",
-  "window_start": "2026-08-18",
-  "window_end": "2026-08-25",
+  "generated_at": "2026-08-20T05:49:34.694186+00:00",
+  "window_start": "2026-08-19",
+  "window_end": "2026-08-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 110,
   "watchlist": [
@@ -116,54 +116,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 21,
+  "count": 20,
   "programmes": [
-    {
-      "start": "2026-08-18T19:05:00+00:00",
-      "stop": "2026-08-18T20:38:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Un mauvais garçon",
-      "subtitle": "",
-      "directors": [
-        "Xavier Durringer"
-      ],
-      "actors": [
-        "Richard Anconina",
-        "Alexandre Desrousseaux",
-        "Isabelle Renauld",
-        "Judith Magre",
-        "Rachid Hafassa",
-        "Andréa Ferréol"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-18T19:13:00+00:00",
-      "stop": "2026-08-18T21:02:00+00:00",
-      "channel": "TF1",
-      "title": "The Marvels",
-      "subtitle": "",
-      "directors": [
-        "Nia DaCosta"
-      ],
-      "actors": [
-        "Brie Larson",
-        "Teyonah Parris",
-        "Iman Vellani",
-        "Samuel L. Jackson",
-        "Zawe Ashton",
-        "Gary Lewis"
-      ],
-      "matched_actors": [
-        "Brie Larson"
-      ],
-      "description": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels. Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-19T02:40:00+00:00",
       "stop": "2026-08-19T03:20:00+00:00",
@@ -232,8 +186,27 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-20T01:35:00+00:00",
-      "stop": "2026-08-20T02:19:00+00:00",
+      "start": "2026-08-20T01:30:00+00:00",
+      "stop": "2026-08-20T02:07:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Un mondo da salvare",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-20T02:07:00+00:00",
+      "stop": "2026-08-20T02:55:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Del tutto inaspettato",
@@ -251,27 +224,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-20T02:19:00+00:00",
-      "stop": "2026-08-20T03:00:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Informatori segreti",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "Effetti collaterali - Viaggi astrali - TELEFILM - - Margaret è l'avvocato difensore di una donna accusata di aver ucciso il marito, un noto giornalista investigati - vo. Le prove contro di lei sembrano schiaccianti...- Un vecchio cliente di Margaret la chiama nel cuore della notte per correre in tribunale e difendere sua figlia accusata di tentato omicidio. La ragazza, però, non ricorda nulla di quanto ha fatto... - Il Governatore dello Stato dell'Oregon si rivolge, tramite Lawrence, a Margaret perché l'aiuti in una faccenda che riguarda sua sorella ed una fattoria che lei e sua sorella hanno ereditato anni prima... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-20T19:53:00+00:00",
-      "stop": "2026-08-20T21:31:00+00:00",
+      "start": "2026-08-20T19:54:00+00:00",
+      "stop": "2026-08-20T21:33:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "Oeil pour oeil",
@@ -572,6 +526,25 @@
       ],
       "description": "James is onderweg naar het ziekenhuis voor de bevalling van zijn vrouw als hij in zijn auto wordt overvallen door een mysterieuze man die hem onmiddellijk onder schot houdt. Zonder te weten wat de bestemming is, dwingt de man James te gaan rijden. Gaandeweg blijkt de passagier niet alleen gevaarlijk, maar ook compleet krankzinnig te zijn.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-26T02:35:00+00:00",
+      "stop": "2026-08-26T02:55:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Un mondo da salvare",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
+      "category": "Séries"
     }
   ]
 }
