@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T09:17:48.397950+00:00",
-  "window_start": "2026-08-19",
-  "window_end": "2026-08-26",
+  "generated_at": "2026-08-21T05:50:24.321138+00:00",
+  "window_start": "2026-08-20",
+  "window_end": "2026-08-27",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 110,
+  "watchlist_size": 112,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -88,12 +88,14 @@
     "Jacques Perrin",
     "William Powell",
     "Harold Ramis",
+    "Christian Rauth",
     "Lance Reddick",
     "Robert Redford",
     "Jemma Redgrave",
     "Rob Reiner",
     "Carl Reiner",
     "Natasha Richardson",
+    "Jérôme Robart",
     "Gena Rowlands",
     "Keri Russell",
     "Anna Sawai",
@@ -116,75 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 20,
+  "count": 21,
   "programmes": [
-    {
-      "start": "2026-08-19T02:40:00+00:00",
-      "stop": "2026-08-19T03:20:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Affari di famiglia",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Si avvicina il giorno del Ringraziamento e Margaret sta organizzando un pranzo per la famiglia, ma scopre che i figli e Chuck si sono già organizzati per passare le festività lontano da Portland.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-19T12:05:00+00:00",
-      "stop": "2026-08-19T13:39:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Un mauvais garçon",
-      "subtitle": "",
-      "directors": [
-        "Xavier Durringer"
-      ],
-      "actors": [
-        "Richard Anconina",
-        "Alexandre Desrousseaux",
-        "Isabelle Renauld",
-        "Judith Magre",
-        "Rachid Hafassa",
-        "Andréa Ferréol"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-19T20:35:00+00:00",
-      "stop": "2026-08-19T22:30:00+00:00",
-      "channel": "Arte",
-      "title": "Youth",
-      "subtitle": "",
-      "directors": [
-        "Paolo Sorrentino",
-        "Francesca Cima",
-        "Nicola G"
-      ],
-      "actors": [
-        "Michael Caine",
-        "Harvey Keitel",
-        "Rachel Weisz",
-        "Paul Dano",
-        "Jane Fonda",
-        "Poppy Corby-Tuech"
-      ],
-      "matched_actors": [
-        "Jane Fonda"
-      ],
-      "description": "Deux octogénaires profitent de leurs vacances dans un hôtel luxueux au pied des Alpes. Fred, un ancien chef d'orchestre, est à la retraite et n'a aucune intention de retravailler, tandis que Mick, réalisateur, s'acharne toujours sur un scénario. Conscients du temps qui passe inexorablement, les deux hommes se penchent sur leur passé avec tendresse, et repensent à leur parcours et à ceux qui les ont entourés.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-20T01:30:00+00:00",
       "stop": "2026-08-20T02:07:00+00:00",
@@ -239,14 +174,15 @@
         "David Baïot"
       ],
       "matched_actors": [
-        "Sabrina Ouazani"
+        "Sabrina Ouazani",
+        "Jérôme Robart"
       ],
       "description": "Dans les Cévennes, Jonas, animateur d'un camp d'éclaireurs est retrouvé mort dans un temple protestant, une seringue à la main. Tout porte à croire qu'il ne s'agit pas d'une overdose mais d'un meurtre déguisé. Pour résoudre l'enquête, la capitaine Elli Talleb est associée, non sans surprise, au nouvel expert en criminologie de la région : Frère Clément Desmoulin. En effet, fraîchement diplômé en psycho-criminologie, Clément n'en est pas moins resté dans les ordres. Il a prolongé son noviciat et voit ses expériences extérieures au monastère comme une mise à l'épreuve de son engagement spirituel. La recherche du coupable de ce meurtre mettra les nerfs et sentiments d'Elli et Clément à rude épreuve, décidément un drôle de couple d'enquêteur",
       "category": "Séries"
     },
     {
-      "start": "2026-08-21T00:45:00+00:00",
-      "stop": "2026-08-21T01:27:00+00:00",
+      "start": "2026-08-21T00:35:00+00:00",
+      "stop": "2026-08-21T01:17:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Effetti collaterali",
@@ -264,8 +200,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-21T01:27:00+00:00",
-      "stop": "2026-08-21T02:08:00+00:00",
+      "start": "2026-08-21T01:58:00+00:00",
+      "stop": "2026-08-21T02:40:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Viaggi astrali",
@@ -280,25 +216,6 @@
         "Marcia Gay Harden"
       ],
       "description": "Il Governatore dello Stato dell'Oregon si rivolge, tramite Lawrence, a Margaret perché l'aiuti in una faccenda che riguarda sua sorella ed una fattoria che lei e sua sorella hanno ereditato anni prima.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-21T02:08:00+00:00",
-      "stop": "2026-08-21T02:50:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Non puoi parlarmi",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "La donna mostro-serpente - Ivan il Terribile 1^ Visione Rai - TELEFILM - - Dopo aver aspettato invano una risposta di Gus a un suo messaggio, Margaret lo incontra in - tribunale. Lui difende il comune di Portland da una causa che gli è stata intentata dopo il crollo di un palazzo in costruzione, crollo che ha anche causato due vittime...- Una visita inaspettata sconvolge Todd. Veronica è uscita di prigione dopo aver aiutato la giustizia a far arrestare un poliziotto corrotto, e ora si presenta da Todd chiedendo il suo aiuto...- Margaret riceve uno strano messaggio sonoro sul telefonino che la avvisa di essere stata pagata in criptovaluta. A farle quel pagamento è stato un certo Ivan il Terribile, un temutissimo hacker contro il quale il dipartimento della difesa lotta da tempo... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
       "category": "Séries"
     },
     {
@@ -415,6 +332,29 @@
       "category": "Documentaire"
     },
     {
+      "start": "2026-08-24T07:15:00+00:00",
+      "stop": "2026-08-24T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie dans une minimaison tipi",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie dans une minimaison tipi Après avoir découvert le camp de base de Julien, on reprend l'aventure sur la route pour aller à la rencontre de Serge Beaudette, un amoureux de la nature qui vit hors réseau dans sa minimaison en forme de tipi depuis plus de sept ans maintenant.",
+      "category": "Documentaire"
+    },
+    {
       "start": "2026-08-24T19:20:00+00:00",
       "stop": "2026-08-24T21:50:00+00:00",
       "channel": "RAI Due",
@@ -505,6 +445,29 @@
       "category": "Cinéma"
     },
     {
+      "start": "2026-08-25T02:00:00+00:00",
+      "stop": "2026-08-25T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie dans une minimaison tipi",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie dans une minimaison tipi Après avoir découvert le camp de base de Julien, on reprend l'aventure sur la route pour aller à la rencontre de Serge Beaudette, un amoureux de la nature qui vit hors réseau dans sa minimaison en forme de tipi depuis plus de sept ans maintenant.",
+      "category": "Documentaire"
+    },
+    {
       "start": "2026-08-25T21:25:00+00:00",
       "stop": "2026-08-25T23:15:00+00:00",
       "channel": "VTM 2",
@@ -545,6 +508,69 @@
       ],
       "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-08-27T01:05:00+00:00",
+      "stop": "2026-08-27T01:47:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Il morso del ragno",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Chuck viene convocato ed interrogato dall'F.B.I., perché accusato di aver truccato un concorso, da lui stesso ideato, legato alle partite di hockey.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-27T20:22:00+00:00",
+      "stop": "2026-08-27T22:00:00+00:00",
+      "channel": "La Une",
+      "title": "Prière d'enquêter",
+      "subtitle": "C'était écrit",
+      "directors": [
+        "Laurence Katrian"
+      ],
+      "actors": [
+        "Sabrina Ouazani",
+        "Mathieu Spinosi",
+        "Jérôme Robart"
+      ],
+      "matched_actors": [
+        "Sabrina Ouazani",
+        "Jérôme Robart"
+      ],
+      "description": "Université de Montpellier. Une professeure, Nathalie Josserand, 45 ans, est trouvée morte dans un amphi. Premier suspect pour Elli : David Crosnier, 35 ans, maître-assistant, chez qui on retrouve l'arme du crime. Ex-compagnon de Nathalie, il entretient une relation amoureuse avec une de ses étudiantes... qui n'est autre que Maryam, la sœur d'Elli ! La relation entre Elli et Maryam (qui défend David contre vents et marées) est mise à mal, d'autant qu'Elli annonce à ses sœurs qu'elle va être obligée de vendre leur maison de famille... Alors qu'Elise focalise sur David, Clément entrevoit un autre suspect, Stéphane Rocques, président de l'université. Il semble avoir un secret qu'il veut préserver à tout prix.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-27T23:05:00+00:00",
+      "stop": "2026-08-28T01:10:00+00:00",
+      "channel": "BBC Two",
+      "title": "Dear Evan Hansen",
+      "subtitle": "",
+      "directors": [
+        "Stephen Chbosky"
+      ],
+      "actors": [
+        "Ben Platt",
+        "Julianne Moore",
+        "Kaitlyn Dever",
+        "Amy Adams",
+        "Danny Pino",
+        "Amandla Stenberg"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen's letters for their son's suicide note.",
+      "category": "Movies"
     }
   ]
 }
