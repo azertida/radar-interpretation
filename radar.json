@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T09:19:37.907309+00:00",
-  "window_start": "2026-08-20",
-  "window_end": "2026-08-27",
+  "generated_at": "2026-08-22T05:45:25.208152+00:00",
+  "window_start": "2026-08-21",
+  "window_end": "2026-08-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,71 +118,30 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 21,
+  "count": 19,
   "programmes": [
-    {
-      "start": "2026-08-20T01:30:00+00:00",
-      "stop": "2026-08-20T02:07:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Un mondo da salvare",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-20T02:07:00+00:00",
-      "stop": "2026-08-20T02:55:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Del tutto inaspettato",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Un avvocato dello studio legale di Margaret si rompe la gamba sciando e Margaret deve sostituirlo in una causa, apparentemente semplice, di licenziamento senza giusta causa.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-20T19:54:00+00:00",
-      "stop": "2026-08-20T21:33:00+00:00",
-      "channel": "La Une",
-      "title": "Prière d'enquêter",
-      "subtitle": "Oeil pour oeil",
-      "directors": [
-        "Laurence Katrian"
-      ],
-      "actors": [
-        "Sabrina Ouazani",
-        "Mathieu Spinosi",
-        "Jérôme Robart",
-        "David Baïot"
-      ],
-      "matched_actors": [
-        "Sabrina Ouazani",
-        "Jérôme Robart"
-      ],
-      "description": "Dans les Cévennes, Jonas, animateur d'un camp d'éclaireurs est retrouvé mort dans un temple protestant, une seringue à la main. Tout porte à croire qu'il ne s'agit pas d'une overdose mais d'un meurtre déguisé. Pour résoudre l'enquête, la capitaine Elli Talleb est associée, non sans surprise, au nouvel expert en criminologie de la région : Frère Clément Desmoulin. En effet, fraîchement diplômé en psycho-criminologie, Clément n'en est pas moins resté dans les ordres. Il a prolongé son noviciat et voit ses expériences extérieures au monastère comme une mise à l'épreuve de son engagement spirituel. La recherche du coupable de ce meurtre mettra les nerfs et sentiments d'Elli et Clément à rude épreuve, décidément un drôle de couple d'enquêteur",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-21T00:35:00+00:00",
       "stop": "2026-08-21T01:17:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Informatori segreti",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "Effetti collaterali - Viaggi astrali - TELEFILM - - Margaret è l'avvocato difensore di una donna accusata di aver ucciso il marito, un noto giornalista investigati - vo. Le prove contro di lei sembrano schiaccianti...- Un vecchio cliente di Margaret la chiama nel cuore della notte per correre in tribunale e difendere sua figlia accusata di tentato omicidio. La ragazza, però, non ricorda nulla di quanto ha fatto... - Il Governatore dello Stato dell'Oregon si rivolge, tramite Lawrence, a Margaret perché l'aiuti in una faccenda che riguarda sua sorella ed una fattoria che lei e sua sorella hanno ereditato anni prima... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-21T01:17:00+00:00",
+      "stop": "2026-08-21T01:58:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Effetti collaterali",
@@ -219,6 +178,25 @@
       "category": "Séries"
     },
     {
+      "start": "2026-08-22T01:05:00+00:00",
+      "stop": "2026-08-22T01:10:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Non puoi parlarmi",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "La donna mostro-serpente - Ivan il Terribile 1^ Visione Rai - TELEFILM - - Dopo aver aspettato invano una risposta di Gus a un suo messaggio, Margaret lo incontra in - tribunale. Lui difende il comune di Portland da una causa che gli è stata intentata dopo il crollo di un palazzo in costruzione, crollo che ha anche causato due vittime...- Una visita inaspettata sconvolge Todd. Veronica è uscita di prigione dopo aver aiutato la giustizia a far arrestare un poliziotto corrotto, e ora si presenta da Todd chiedendo il suo aiuto...- Margaret riceve uno strano messaggio sonoro sul telefonino che la avvisa di essere stata pagata in criptovaluta. A farle quel pagamento è stato un certo Ivan il Terribile, un temutissimo hacker contro il quale il dipartimento della difesa lotta da tempo... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
+      "category": "Séries"
+    },
+    {
       "start": "2026-08-23T11:30:00+00:00",
       "stop": "2026-08-23T13:25:00+00:00",
       "channel": "Arte",
@@ -241,53 +219,6 @@
       ],
       "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
       "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-23T11:30:00+00:00",
-      "stop": "2026-08-23T13:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Les racines du mal",
-      "directors": [
-        "Olivier Langlois"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Marilyne Canto"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Un groupe de campeurs découvre le corps d'une jeune femme.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-23T13:15:00+00:00",
-      "stop": "2026-08-23T14:55:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Pour le meilleur et pour le pire",
-      "directors": [
-        "Muriel Aubin",
-        "Aubin Muriel"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Marilyne Canto"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
-      "category": "Séries"
     },
     {
       "start": "2026-08-23T13:18:00+00:00",
@@ -378,8 +309,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-24T19:26:00+00:00",
-      "stop": "2026-08-24T20:19:00+00:00",
+      "start": "2026-08-24T19:28:00+00:00",
+      "stop": "2026-08-24T20:23:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "The Conquest (1953-1955)",
@@ -469,7 +400,7 @@
     },
     {
       "start": "2026-08-25T21:25:00+00:00",
-      "stop": "2026-08-25T23:15:00+00:00",
+      "stop": "2026-08-25T23:00:00+00:00",
       "channel": "VTM 2",
       "title": "Sympathy for the Devil",
       "subtitle": "",
@@ -489,25 +420,6 @@
       ],
       "description": "James is onderweg naar het ziekenhuis voor de bevalling van zijn vrouw als hij in zijn auto wordt overvallen door een mysterieuze man die hem onmiddellijk onder schot houdt. Zonder te weten wat de bestemming is, dwingt de man James te gaan rijden. Gaandeweg blijkt de passagier niet alleen gevaarlijk, maar ook compleet krankzinnig te zijn.",
       "category": "Films"
-    },
-    {
-      "start": "2026-08-26T02:35:00+00:00",
-      "stop": "2026-08-26T02:55:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Un mondo da salvare",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Un laboratorio di ricerca viene fatto esplodere e viene accusata una studentessa, attivista ambientalista, nonché nipote di Lyle, che è stata ripresa dalle telecamere di sorveglianza.",
-      "category": "Séries"
     },
     {
       "start": "2026-08-27T01:05:00+00:00",
@@ -571,6 +483,52 @@
       ],
       "description": "Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen's letters for their son's suicide note.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-28T18:35:00+00:00",
+      "stop": "2026-08-28T21:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Mission: Impossible - Fallout",
+      "subtitle": "",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Rebecca Ferguson",
+        "Sean Harris"
+      ],
+      "matched_actors": [
+        "Rebecca Ferguson"
+      ],
+      "description": "Nadat een missie fout afloopt, moeten Ethan Hunt en zijn IMF-team, bestaande uit Alan Hunley, Benji Dunn en Luther Stickell, racen tegen de klok. Ze worden bijgestaan door Ilsa Faust en Julia Meade die hen helpen hun nieuwe missie tot een goed einde te brengen.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-28T20:05:00+00:00",
+      "stop": "2026-08-28T22:05:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "The Last King of Scotland",
+      "subtitle": "",
+      "directors": [
+        "Kevin Macdonald"
+      ],
+      "actors": [
+        "Forest Whitaker",
+        "James McAvoy",
+        "Simon McBurney",
+        "Gillian Anderson",
+        "Kerry Washington",
+        "David Oyelowo"
+      ],
+      "matched_actors": [
+        "Gillian Anderson"
+      ],
+      "description": "De Schotse arts Nicholas Garrigan reist in de jaren zeventig naar Oeganda om er aan de slag te gaan als ontwikkelingshelper. Bij een verkeersongeval leert hij Idi Amin kennen, de nieuwe president van het land. Het klikt tussen de twee en de president neemt Nicholas in dienst als lijfarts en raadsman. Maar al snel ontdekt de arts dat Amin een moordlustige dictator is die hem beschouwt als zijn gevangene ...",
+      "category": "Films"
     }
   ]
 }
