@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T09:04:29.403575+00:00",
-  "window_start": "2026-08-22",
-  "window_end": "2026-08-29",
+  "generated_at": "2026-08-24T05:55:55.894561+00:00",
+  "window_start": "2026-08-23",
+  "window_end": "2026-08-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,27 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 19,
+  "count": 27,
   "programmes": [
-    {
-      "start": "2026-08-22T01:05:00+00:00",
-      "stop": "2026-08-22T01:10:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Non puoi parlarmi",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "La donna mostro-serpente - Ivan il Terribile 1^ Visione Rai - TELEFILM - - Dopo aver aspettato invano una risposta di Gus a un suo messaggio, Margaret lo incontra in - tribunale. Lui difende il comune di Portland da una causa che gli è stata intentata dopo il crollo di un palazzo in costruzione, crollo che ha anche causato due vittime...- Una visita inaspettata sconvolge Todd. Veronica è uscita di prigione dopo aver aiutato la giustizia a far arrestare un poliziotto corrotto, e ora si presenta da Todd chiedendo il suo aiuto...- Margaret riceve uno strano messaggio sonoro sul telefonino che la avvisa di essere stata pagata in criptovaluta. A farle quel pagamento è stato un certo Ivan il Terribile, un temutissimo hacker contro il quale il dipartimento della difesa lotta da tempo... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-23T11:30:00+00:00",
       "stop": "2026-08-23T13:25:00+00:00",
@@ -540,6 +521,210 @@
       ],
       "description": "Story of the 30-year oil-and-water friendship between free-spirited Bronx Jew CC Bloom and uptight San Francisco WASP Hillary Essex. The two met as children in Atlantic City and are reunited in the 1960s, when CC is a struggling singer and Hillary is trying to break free from her staid upbringing by becoming an activist.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-30T06:10:00+00:00",
+      "stop": "2026-08-30T07:06:00+00:00",
+      "channel": "Tipik",
+      "title": "La belle et le boulanger",
+      "subtitle": "La déclaration",
+      "directors": [
+        "Ba"
+      ],
+      "actors": [
+        "Amir Haddad",
+        "Ludmilla von Claer",
+        "Lionnel Astier",
+        "Mathilda May",
+        "Gary Mihaileanu"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Benjamin et Vanessa fêtent leurs cinq ans dans un restaurant branché parisien. Ce que Benjamin ignore, c'est que Vanessa a tout préparé pour demander Benjamin en mariage. Gênance absolue de Ben quand elle se met à chanter - faux. Sueurs froides, tachycardie... Ben fuit lâchement aux toilettes et tombe sur la sublime Louise Meyer, top model international. Entre ces deux-là, c'est immédiatement explosif... Mais leur relation démarre sur un énorme mensonge.De son côté, Myriam, la mère de Benjamin, rêve d'une vie de couple plus trépidante... Il faut dire que Philippe semble plus intéressé par ses baguettes tradition que par la nouvelle frange de sa femme...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-30T07:06:00+00:00",
+      "stop": "2026-08-30T08:02:00+00:00",
+      "channel": "Tipik",
+      "title": "La belle et le boulanger",
+      "subtitle": "La Saint-Honoré",
+      "directors": [
+        "Ba"
+      ],
+      "actors": [
+        "Amir Haddad",
+        "Ludmilla von Claer",
+        "Lionnel Astier",
+        "Mathilda May",
+        "Gary Mihaileanu"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alors qu'il s'apprête à fêter la Saint-Honoré en famille, Benjamin voit débarquer Louise chez lui. Problème n°1 : personne ne sait qui l'a invitée. Problème n°2 : l'énorme mytho de Benjamin va lui exploser au visage ! Cerise sur le gâteau, ce grand garçon de 35 ans vit encore chez papa maman ! Dégringoladesur l'échelle de la sexytude... Le torchon brûle également entre Philippe et Myriam depuis que le nom de Zazie, la célèbre ex de Philippe a refait surface.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-30T08:02:00+00:00",
+      "stop": "2026-08-30T08:57:00+00:00",
+      "channel": "Tipik",
+      "title": "La belle et le boulanger",
+      "subtitle": "La parenthèse enchantée",
+      "directors": [
+        "Hervé Mimran"
+      ],
+      "actors": [
+        "Amir Haddad",
+        "Ludmilla von Claer",
+        "Lionnel Astier",
+        "Mathilda May",
+        "Gary Mihaileanu"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Après sa rupture fracassante avec Louise, Benjamin a repris contact avec Vanessa. Qui ne s'est pas fait prier et lui a immédiatement proposé de s'installer ensemble dans un charmant pavillon... Mais Louise occupe toutes ses pensées. Pensant soigner le mal par le mal, il va chez elle pour mettre fin une bonne fois pour toutes à leur histoire. Quand il pense sortir en catimini de chez Louise, il est mitraillé par une horde de paparazzis et découvre qu'une photo de Louise et lui à la Saint-Honoré est en une d'un magazine people. Myriam de son côté joue avec le feu en se laissant draguer par un client de la boulangerie...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-30T08:57:00+00:00",
+      "stop": "2026-08-30T10:00:00+00:00",
+      "channel": "Tipik",
+      "title": "La belle et le boulanger",
+      "subtitle": "Palais-Royal",
+      "directors": [
+        "Hervé Mimran"
+      ],
+      "actors": [
+        "Amir Haddad",
+        "Ludmilla von Claer",
+        "Lionnel Astier",
+        "Mathilda May",
+        "Gary Mihaileanu"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Ivre de rage et humiliée pour la seconde fois, Vanessa déclenche l'opération \" récupérer Benjamin \". Et trouve un allié de poids dans sa croisade : Vadim, l'agent de Louise, qui ne voit pas du tout d'un bon oeil cette union contre nature entre sa célèbre protégée et un petit boulanger. Ils mettent en oeuvre un plan diabolique pour séparer les deux amoureux transis : faire revenir la star Josh Heaven, l'ex de Louise, pour qu'ils se remettent ensemble... Du côté de la famille Mercier rien ne va plus. Philippe et Myriam ne se parlent plus et Flora, la benjamine, a décidé de s'envoler pour l'Argentine sans prévenir personne... Explosion imminente de la famille Mercier ?",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-30T15:00:00+00:00",
+      "stop": "2026-08-30T16:33:00+00:00",
+      "channel": "La Trois",
+      "title": "Les Croods",
+      "subtitle": "",
+      "directors": [
+        "Chris Sanders",
+        "Kirk DeMicco"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Emma Stone",
+        "Ryan Reynolds",
+        "Catherine Keener",
+        "Cloris Leachman",
+        "Clark Duke"
+      ],
+      "matched_actors": [
+        "Nicolas Cage"
+      ],
+      "description": "Suite à un violent tremblement de terre, la caverne où vit la famille Croods est détruite avec tous leurs biens, et les voilà obligés de quitter leur monde familier pour partir sur les routes. Une première pour ces Néandertaliens qui ne se sont jamais éloignés de leur petit univers. Ils entament un périple au cours duquel ils découvrent de nombreuses innovations technologiques, ainsi que des créatures inconnues. Une nuit, elle se hisse hors de chez elle et rencontre Guy, un nomade qui maîtrise le feu et qui lui annonce la destruction de la planète. Lorsque sa prophétie se réalise et que la caverne est détruite, les Croods n'ont aucun autre choix que d'explorer les environs, au péril de leur vie.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-08-30T18:05:00+00:00",
+      "stop": "2026-08-30T20:10:00+00:00",
+      "channel": "Tipik",
+      "title": "Calculs meurtriers",
+      "subtitle": "",
+      "directors": [
+        "Barbet Schroeder"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Ben Chaplin",
+        "Ryan Gosling",
+        "Michael Pitt",
+        "Agnes Bruckner",
+        "Chris Penn"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "Deux étudiants brillants se lancent le défi de commettre le crime parfait, apparemment pour le simple plaisir de narguer la police. Mais une policière pourrait être la seule faille dans leur plan... Mais pour Cassie, ce meurtre présente des similitudes avec une affaire lointaine sur laquelle elle eut à témoigner...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-30T19:25:00+00:00",
+      "stop": "2026-08-30T21:20:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Le clan des Siciliens",
+      "subtitle": "",
+      "directors": [
+        "Henri Verneuil"
+      ],
+      "actors": [
+        "Jean Gabin",
+        "Alain Delon",
+        "Lino Ventura",
+        "Irina Demick",
+        "Amedeo Nazzari",
+        "Sydney Chaplin"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Misdaadthriller van Henri Verneuil.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-30T20:00:00+00:00",
+      "stop": "2026-08-30T21:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Vigil",
+      "subtitle": "Episode 1",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-08-30T21:31:00+00:00",
+      "stop": "2026-08-30T23:22:00+00:00",
+      "channel": "TF1",
+      "title": "The Marvels",
+      "subtitle": "",
+      "directors": [
+        "Nia DaCosta"
+      ],
+      "actors": [
+        "Brie Larson",
+        "Teyonah Parris",
+        "Iman Vellani",
+        "Samuel L. Jackson",
+        "Zawe Ashton",
+        "Gary Lewis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels. Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
+      "category": "Cinéma"
     }
   ]
 }
