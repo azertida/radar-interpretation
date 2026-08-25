@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T09:31:48.038393+00:00",
-  "window_start": "2026-08-23",
-  "window_end": "2026-08-30",
+  "generated_at": "2026-08-25T05:50:56.919772+00:00",
+  "window_start": "2026-08-24",
+  "window_end": "2026-08-31",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,74 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 27,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-08-23T11:30:00+00:00",
-      "stop": "2026-08-23T13:25:00+00:00",
-      "channel": "Arte",
-      "title": "Rendez-vous avec la mort",
-      "subtitle": "",
-      "directors": [
-        "Michael Winner"
-      ],
-      "actors": [
-        "Peter Ustinov",
-        "Lauren Bacall",
-        "John Gielgud",
-        "Piper Laurie",
-        "Carrie Fisher",
-        "Hayley Mills"
-      ],
-      "matched_actors": [
-        "Lauren Bacall",
-        "Hayley Mills"
-      ],
-      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-23T13:18:00+00:00",
-      "stop": "2026-08-23T14:55:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Un mauvais garçon",
-      "subtitle": "",
-      "directors": [
-        "Xavier Durringer"
-      ],
-      "actors": [
-        "Richard Anconina",
-        "Alexandre Desrousseaux",
-        "Isabelle Renauld",
-        "Judith Magre",
-        "Rachid Hafassa",
-        "Andréa Ferréol"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-23T18:05:00+00:00",
-      "stop": "2026-08-23T19:00:00+00:00",
-      "channel": "Arte",
-      "title": "Citizen Jane, l'Amérique selon Fonda",
-      "subtitle": "",
-      "directors": [
-        "Florence Platarets"
-      ],
-      "actors": [
-        "Jane Fonda",
-        "Donald Sutherland"
-      ],
-      "matched_actors": [
-        "Jane Fonda"
-      ],
-      "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-08-24T07:15:00+00:00",
       "stop": "2026-08-24T07:50:00+00:00",
@@ -365,8 +299,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-27T20:22:00+00:00",
-      "stop": "2026-08-27T22:00:00+00:00",
+      "start": "2026-08-27T20:24:00+00:00",
+      "stop": "2026-08-27T22:02:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "C'était écrit",
@@ -612,7 +546,7 @@
     },
     {
       "start": "2026-08-30T15:00:00+00:00",
-      "stop": "2026-08-30T16:33:00+00:00",
+      "stop": "2026-08-30T16:36:00+00:00",
       "channel": "La Trois",
       "title": "Les Croods",
       "subtitle": "",
@@ -725,6 +659,162 @@
       ],
       "description": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels. Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-31T07:15:00+00:00",
+      "stop": "2026-08-31T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie au gré du vent",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie au gré du vent Julien rencontre Joanie et Hugues, deux militaires retraités, à quelques jours de leur départ pour les mers du Sud. À bord de leur catamaran, ils navigueront pendant cinq ans, à la recherche des plus beaux endroits de kitesurf au monde.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-31T09:32:00+00:00",
+      "stop": "2026-08-31T10:35:00+00:00",
+      "channel": "La Trois",
+      "title": "Apocalypse : la guerre des mondes 1945-1991",
+      "subtitle": "The Conquest (1953-1955)",
+      "directors": [
+        "Daniel Costelle",
+        "Isabelle Clarke"
+      ],
+      "actors": [
+        "Mathieu Kassovitz",
+        "Svetlana Alliluyeva",
+        "Marilyn Monroe"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "Mars 1953. Staline est mort. Le Petit Père des peuples n'est plus qu'un corps embaumé devant lequel se pressent avec zèle ses potentiels successeurs. À Berlin-Est, une vague d'espoir parcourt les ouvriers allemands, vite écrasés par la répression soviétique.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-31T12:37:00+00:00",
+      "stop": "2026-08-31T14:39:00+00:00",
+      "channel": "Tipik",
+      "title": "Calculs meurtriers",
+      "subtitle": "",
+      "directors": [
+        "Barbet Schroeder"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Ben Chaplin",
+        "Ryan Gosling",
+        "Michael Pitt",
+        "Agnes Bruckner",
+        "Chris Penn"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "Deux étudiants brillants se lancent le défi de commettre le crime parfait, apparemment pour le simple plaisir de narguer la police. Mais une policière pourrait être la seule faille dans leur plan... Mais pour Cassie, ce meurtre présente des similitudes avec une affaire lointaine sur laquelle elle eut à témoigner...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-31T18:33:00+00:00",
+      "stop": "2026-08-31T19:26:00+00:00",
+      "channel": "La Trois",
+      "title": "Apocalypse : la guerre des mondes 1945-1991",
+      "subtitle": "Le Mur 1956-1962",
+      "directors": [
+        "Daniel Costelle",
+        "Isabelle Clarke"
+      ],
+      "actors": [
+        "Marilyn Monroe",
+        "Mathieu Kassovitz",
+        "Jacqueline Kennedy",
+        "Laika"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "1956. Khrouchtchev ferme la porte aux années staliniennes. Décidé à ouvrir l'URSS au monde extérieur, ce \"Monsieur K\" au visage rond et sympathique étonne le monde entier lorsqu'il se rend aux États-Unis. Mais celui qui a écrasé dans le sang l'insurrection de Budapest n'a rien perdu de sa dureté.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-31T18:55:00+00:00",
+      "stop": "2026-08-31T20:35:00+00:00",
+      "channel": "Arte",
+      "title": "L'arme à gauche",
+      "subtitle": "",
+      "directors": [
+        "Claude Sautet"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Sylva Koscina",
+        "Alberto de Mendoza",
+        "Leo Gordon"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-31T20:00:00+00:00",
+      "stop": "2026-08-31T21:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Vigil",
+      "subtitle": "Episode 2",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-08-31T21:30:00+00:00",
+      "stop": "2026-09-01T00:40:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Godfather: Part II",
+      "subtitle": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall",
+        "Diane Keaton",
+        "Talia Shire",
+        "John Cazale"
+      ],
+      "matched_actors": [
+        "Diane Keaton"
+      ],
+      "description": "Oscar-winning sequel about the dealings of a New York Mafia family. The early life of Vito Corleone after his emigration from Sicily to the United States is contrasted with his son's swift and bloody rise to the position of Mafia don. Reassembling many of the talents who helped make The Godfather, Coppola has produced a movie of staggering magnitude and vision, and undeniably the best sequel ever made. Robert De Niro won an Oscar; the film received six Academy Awards, including Best Picture of 1974.",
+      "category": "Movies"
     }
   ]
 }
