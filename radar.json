@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T09:19:38.414386+00:00",
+  "generated_at": "2026-08-26T05:52:01.253195+00:00",
   "window_start": "2026-08-24",
-  "window_end": "2026-08-31",
+  "window_end": "2026-09-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -120,96 +120,6 @@
   ],
   "count": 31,
   "programmes": [
-    {
-      "start": "2026-08-24T07:15:00+00:00",
-      "stop": "2026-08-24T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie dans une minimaison tipi",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie dans une minimaison tipi Après avoir découvert le camp de base de Julien, on reprend l'aventure sur la route pour aller à la rencontre de Serge Beaudette, un amoureux de la nature qui vit hors réseau dans sa minimaison en forme de tipi depuis plus de sept ans maintenant.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-24T19:20:00+00:00",
-      "stop": "2026-08-24T21:50:00+00:00",
-      "channel": "RAI Due",
-      "title": "Il codice Da Vinci",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tom Hanks",
-        "Audrey Tatou",
-        "Ian McKellen",
-        "Jean Reno",
-        "Paul Bettany",
-        "Alfred Molina"
-      ],
-      "matched_actors": [
-        "Alfred Molina"
-      ],
-      "description": "Per custodire un segreto basta assicurarsi che chi lo conosce non lo riveli. E se il segreto può demolire millenni di dogmi consolidati, bisogna mettere a tacere i suoi depositari ad ogni costo. Il professore di simbologia religiosa Robert Langdon è a Parigi per una conferenza e viene convocato dalla polizia per interpretare alcuni simboli ritrovati sul corpo dell'anziano curatore del Louvre, appena assassinato. Per proteggere un segreto a volte basta chiedere a chi lo custodisce di non rivelarlo; tuttavia se può far crollare 2'000 anni di dogmi consolidati, bisogna mettere a tacere i suoi depositari, costasse anche la loro vita.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-24T19:28:00+00:00",
-      "stop": "2026-08-24T20:23:00+00:00",
-      "channel": "La Trois",
-      "title": "Apocalypse : la guerre des mondes 1945-1991",
-      "subtitle": "The Conquest (1953-1955)",
-      "directors": [
-        "Daniel Costelle",
-        "Isabelle Clarke"
-      ],
-      "actors": [
-        "Mathieu Kassovitz",
-        "Svetlana Alliluyeva",
-        "Marilyn Monroe"
-      ],
-      "matched_actors": [
-        "Marilyn Monroe"
-      ],
-      "description": "Mars 1953. Staline est mort. Le Petit Père des peuples n'est plus qu'un corps embaumé devant lequel se pressent avec zèle ses potentiels successeurs. À Berlin-Est, une vague d'espoir parcourt les ouvriers allemands, vite écrasés par la répression soviétique.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-24T20:45:00+00:00",
-      "stop": "2026-08-24T22:20:00+00:00",
-      "channel": "Arte",
-      "title": "D'une vie à l'autre",
-      "subtitle": "",
-      "directors": [
-        "Richard LaGravenese"
-      ],
-      "actors": [
-        "Holly Hunter",
-        "Danny DeVito",
-        "Queen Latifah",
-        "Martin Donovan",
-        "Richard Schiff",
-        "Elias Koteas"
-      ],
-      "matched_actors": [
-        "Holly Hunter"
-      ],
-      "description": "Il s'agit de l'histoire d'une riche bourgeoise, Judith Nelson, amère et névrotique, depuis que son mari, médecin, l'a délaissée pour une ravissante pédiatre plus jeune qu'elle. Un soir, dans un club de jazz, un inconnu, la prenant pour une autre, l'embrasse fougueusement. Ce baiser inopiné va réveiller Judith. Quand elle rentre dans son luxueux appartement elle regarde pour la première fois le liftier, Pat, jusqu'alors invisible, petit homme rond et mélancolique. Que peuvent avoir en commun Judith et Pat?",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-24T23:09:00+00:00",
       "stop": "2026-08-25T00:42:00+00:00",
@@ -457,7 +367,7 @@
       "category": "Movies"
     },
     {
-      "start": "2026-08-30T06:10:00+00:00",
+      "start": "2026-08-30T06:09:00+00:00",
       "stop": "2026-08-30T07:06:00+00:00",
       "channel": "Tipik",
       "title": "La belle et le boulanger",
@@ -569,8 +479,8 @@
       "category": "Jeunesse"
     },
     {
-      "start": "2026-08-30T18:05:00+00:00",
-      "stop": "2026-08-30T20:10:00+00:00",
+      "start": "2026-08-30T18:13:00+00:00",
+      "stop": "2026-08-30T20:19:00+00:00",
       "channel": "Tipik",
       "title": "Calculs meurtriers",
       "subtitle": "",
@@ -638,8 +548,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-08-30T21:31:00+00:00",
-      "stop": "2026-08-30T23:22:00+00:00",
+      "start": "2026-08-30T21:32:00+00:00",
+      "stop": "2026-08-30T23:23:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
       "subtitle": "",
@@ -814,6 +724,97 @@
         "Diane Keaton"
       ],
       "description": "Oscar-winning sequel about the dealings of a New York Mafia family. The early life of Vito Corleone after his emigration from Sicily to the United States is contrasted with his son's swift and bloody rise to the position of Mafia don. Reassembling many of the talents who helped make The Godfather, Coppola has produced a movie of staggering magnitude and vision, and undeniably the best sequel ever made. Robert De Niro won an Oscar; the film received six Academy Awards, including Best Picture of 1974.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-09-01T02:00:00+00:00",
+      "stop": "2026-09-01T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie au gré du vent",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie au gré du vent Julien rencontre Joanie et Hugues, deux militaires retraités, à quelques jours de leur départ pour les mers du Sud. À bord de leur catamaran, ils navigueront pendant cinq ans, à la recherche des plus beaux endroits de kitesurf au monde.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-01T20:40:00+00:00",
+      "stop": "2026-09-01T22:27:00+00:00",
+      "channel": "Action",
+      "title": "21 Jump Street",
+      "subtitle": "",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Brie Larson",
+        "Dave Franco",
+        "Rob Riggle",
+        "DeRay Davis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-01T21:22:00+00:00",
+      "stop": "2026-09-01T22:15:00+00:00",
+      "channel": "La Trois",
+      "title": "Apocalypse : la guerre des mondes 1945-1991",
+      "subtitle": "The Conquest (1953-1955)",
+      "directors": [
+        "Daniel Costelle",
+        "Isabelle Clarke"
+      ],
+      "actors": [
+        "Mathieu Kassovitz",
+        "Svetlana Alliluyeva",
+        "Marilyn Monroe"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "Mars 1953. Staline est mort. Le Petit Père des peuples n'est plus qu'un corps embaumé devant lequel se pressent avec zèle ses potentiels successeurs. À Berlin-Est, une vague d'espoir parcourt les ouvriers allemands, vite écrasés par la répression soviétique.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-01T22:05:00+00:00",
+      "stop": "2026-09-02T00:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Godfather, Part III",
+      "subtitle": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Diane Keaton",
+        "Talia Shire",
+        "Andy Garcia",
+        "Eli Wallach",
+        "Joe Mantegna"
+      ],
+      "matched_actors": [
+        "Diane Keaton"
+      ],
+      "description": "Michael Corleone worries about his empire and his offspring in the third installment of this powerful drama.",
       "category": "Movies"
     }
   ]
