@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T09:26:34.785745+00:00",
-  "window_start": "2026-08-24",
-  "window_end": "2026-09-01",
+  "generated_at": "2026-08-27T16:34:46.870351+00:00",
+  "window_start": "2026-08-26",
+  "window_end": "2026-09-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,80 +118,30 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 31,
+  "count": 33,
   "programmes": [
     {
-      "start": "2026-08-24T23:09:00+00:00",
-      "stop": "2026-08-25T00:42:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Un mauvais garçon",
-      "subtitle": "",
-      "directors": [
-        "Xavier Durringer"
-      ],
+      "start": "2026-08-26T02:18:00+00:00",
+      "stop": "2026-08-26T03:00:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Delitto stellato",
+      "directors": [],
       "actors": [
-        "Richard Anconina",
-        "Alexandre Desrousseaux",
-        "Isabelle Renauld",
-        "Judith Magre",
-        "Rachid Hafassa",
-        "Andréa Ferréol"
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
       ],
       "matched_actors": [
-        "Richard Anconina"
+        "Marcia Gay Harden"
       ],
-      "description": "Benoît Delage est un homme accompli : père de deux enfants et mari attentionné, c'est un professeur d'université très apprécié. Seule ombre au tableau, le mal-être de son fils de quinze ans, Théo, qui semble mal tourner. Son existence est bouleversée lorsque Théo se retrouve au commissariat pour un interrogatoire. Le passé de Benoit est soudain révélé. Dans sa jeunesse, il a tué un policier et fait dix-huit ans de prison. Malgré son parcours exemplaire, il est rattrapé par ce passé criminel et confronté à la rumeur qui monte, insidieuse et destructrice. En finit-on de payer sa dette à la société ? A-t-on, surtout à l'heure des réseaux sociaux, réellement le droit à une deuxième chance ?",
-      "category": "Cinéma"
+      "description": "1^ Visione Rai - Lauren, ex compagna del college di Susan e Todd, lavora come aiuto chef in un ristorante esclusivo. Stufa dei rimproveri dello chef, Lauren si licenzia e chiede aiuto a Margaret per fare causa al suo ex capo. , perché accusato di aver truccato un concorso, da lui stesso ideato, legato alle partite di hockey...- Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
+      "category": "Séries"
     },
     {
-      "start": "2026-08-25T02:00:00+00:00",
-      "stop": "2026-08-25T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie dans une minimaison tipi",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie dans une minimaison tipi Après avoir découvert le camp de base de Julien, on reprend l'aventure sur la route pour aller à la rencontre de Serge Beaudette, un amoureux de la nature qui vit hors réseau dans sa minimaison en forme de tipi depuis plus de sept ans maintenant.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-25T21:25:00+00:00",
-      "stop": "2026-08-25T23:00:00+00:00",
-      "channel": "VTM 2",
-      "title": "Sympathy for the Devil",
-      "subtitle": "",
-      "directors": [
-        "Yuval Adler"
-      ],
-      "actors": [
-        "Nicolas Cage",
-        "Joel Kinnaman",
-        "Kaiwi Lyman",
-        "Nancy Good",
-        "Burns Burns",
-        "Cameron Lee Price"
-      ],
-      "matched_actors": [
-        "Nicolas Cage"
-      ],
-      "description": "James is onderweg naar het ziekenhuis voor de bevalling van zijn vrouw als hij in zijn auto wordt overvallen door een mysterieuze man die hem onmiddellijk onder schot houdt. Zonder te weten wat de bestemming is, dwingt de man James te gaan rijden. Gaandeweg blijkt de passagier niet alleen gevaarlijk, maar ook compleet krankzinnig te zijn.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-27T01:05:00+00:00",
-      "stop": "2026-08-27T01:47:00+00:00",
+      "start": "2026-08-27T01:15:00+00:00",
+      "stop": "2026-08-27T01:53:00+00:00",
       "channel": "RAI Due",
       "title": "Che Todd ci aiuti",
       "subtitle": "Il morso del ragno",
@@ -209,8 +159,27 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-27T20:24:00+00:00",
-      "stop": "2026-08-27T22:02:00+00:00",
+      "start": "2026-08-27T01:53:00+00:00",
+      "stop": "2026-08-27T02:35:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Scambio di ruoli",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-27T20:25:00+00:00",
+      "stop": "2026-08-27T22:04:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "C'était écrit",
@@ -254,7 +223,7 @@
     },
     {
       "start": "2026-08-28T18:35:00+00:00",
-      "stop": "2026-08-28T21:15:00+00:00",
+      "stop": "2026-08-28T21:20:00+00:00",
       "channel": "VTM 2",
       "title": "Mission: Impossible - Fallout",
       "subtitle": "",
@@ -548,8 +517,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-08-30T21:32:00+00:00",
-      "stop": "2026-08-30T23:23:00+00:00",
+      "start": "2026-08-30T21:33:00+00:00",
+      "stop": "2026-08-30T23:26:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
       "subtitle": "",
@@ -594,8 +563,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-08-31T09:32:00+00:00",
-      "stop": "2026-08-31T10:35:00+00:00",
+      "start": "2026-08-31T09:33:00+00:00",
+      "stop": "2026-08-31T10:26:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "The Conquest (1953-1955)",
@@ -638,8 +607,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-31T18:33:00+00:00",
-      "stop": "2026-08-31T19:26:00+00:00",
+      "start": "2026-08-31T18:32:00+00:00",
+      "stop": "2026-08-31T19:25:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "Le Mur 1956-1962",
@@ -816,6 +785,78 @@
       ],
       "description": "Michael Corleone worries about his empire and his offspring in the third installment of this powerful drama.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-01T22:25:00+00:00",
+      "stop": "2026-09-01T23:55:00+00:00",
+      "channel": "RAI Due",
+      "title": "211 - Rapina in Corso",
+      "subtitle": "",
+      "directors": [
+        "York Alec Shackleton",
+        "York Shackleton",
+        "Yor"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Sophie Skelton",
+        "Michael Rainey Jr.",
+        "Amanda Cerny",
+        "Dwayne Cameron",
+        "Bleona Qereti"
+      ],
+      "matched_actors": [
+        "Nicolas Cage"
+      ],
+      "description": "Mike e suo genero Steve sono due poliziotti a cui viene affidato Kenny, un ragazzino di 11 anni obbligato a passare una giornata con una pattuglia come punizione per avere colpito un compagno di scuola. Quella che doveva essere una giornata educativa si trasforma in un dramma quando i tre rimangono coinvolti in una rapina in banca organizzata da una squadra di professionisti del crimine. Le squadre speciali della LAPD e della SWAT entrano in azione con il supporto dell'Interpol che da tempo era sulle tracce dei quattro rapinatori. Ma sarà l'agente Chandler (Nicolas Cage) a prendere il comando della negoziazione che si rivelerà la più lunga e sanguinaria della storia americana.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-02T16:57:00+00:00",
+      "stop": "2026-09-02T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-02T20:53:00+00:00",
+      "stop": "2026-09-02T21:51:00+00:00",
+      "channel": "Tipik",
+      "title": "Dix pour cent",
+      "subtitle": "Nathalie et Laura",
+      "directors": [
+        "Cédric Klapisch",
+        "Fanny Herrero"
+      ],
+      "actors": [
+        "Camille Cottin",
+        "Thibault de Montalembert",
+        "Grégory Montel",
+        "Liliane Rovère",
+        "Nathalie Baye",
+        "Laura Smet"
+      ],
+      "matched_actors": [
+        "Nathalie Baye"
+      ],
+      "description": "Une célèbre réalisatrice suédoise souhaiterait engager Nathalie Baye et sa fille Laura Smet dans son prochain film. Mais les deux femmes hésitent, angoissées à l'idée que ces quelques mois de tournage au beau milieu des fjords ne mettent leur relation en péril.",
+      "category": "Séries"
     }
   ]
 }
