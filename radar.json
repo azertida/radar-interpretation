@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T19:16:26.296324+00:00",
-  "window_start": "2026-08-26",
-  "window_end": "2026-09-02",
+  "generated_at": "2026-08-28T11:48:58.656986+00:00",
+  "window_start": "2026-08-27",
+  "window_end": "2026-09-03",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,27 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 37,
   "programmes": [
-    {
-      "start": "2026-08-26T02:18:00+00:00",
-      "stop": "2026-08-26T03:00:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Delitto stellato",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Lauren, ex compagna del college di Susan e Todd, lavora come aiuto chef in un ristorante esclusivo. Stufa dei rimproveri dello chef, Lauren si licenzia e chiede aiuto a Margaret per fare causa al suo ex capo. , perché accusato di aver truccato un concorso, da lui stesso ideato, legato alle partite di hockey...- Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento... - Con Marcia Gay Harden, Skylar Astin, Madeline Wise, Tristen J. Winger, Inga Schlingmann, Rosa Evangelina Arredondo",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-27T01:15:00+00:00",
       "stop": "2026-08-27T01:53:00+00:00",
@@ -178,8 +159,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-27T20:25:00+00:00",
-      "stop": "2026-08-27T22:04:00+00:00",
+      "start": "2026-08-27T20:28:00+00:00",
+      "stop": "2026-08-27T22:08:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "C'était écrit",
@@ -218,7 +199,7 @@
       "matched_actors": [
         "Amy Adams"
       ],
-      "description": "Evan Hansen, a high schooler with social anxiety, unintentionally gets caught up in a lie after the family of a classmate who committed suicide mistakes one of Hansen's letters for their son's suicide note.",
+      "description": "High school misfit Evan lies to comfort a grieving mother, telling her of a friendship with her late son that never existed. The falsehoods soon escalate, leaving Evan further to fall.",
       "category": "Movies"
     },
     {
@@ -268,8 +249,8 @@
       "category": "Films"
     },
     {
-      "start": "2026-08-29T08:33:00+00:00",
-      "stop": "2026-08-29T10:02:00+00:00",
+      "start": "2026-08-29T08:36:00+00:00",
+      "stop": "2026-08-29T10:04:00+00:00",
       "channel": "La Une",
       "title": "Prière d'enquêter",
       "subtitle": "C'était écrit",
@@ -336,8 +317,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-08-30T06:09:00+00:00",
-      "stop": "2026-08-30T07:06:00+00:00",
+      "start": "2026-08-30T06:06:00+00:00",
+      "stop": "2026-08-30T07:05:00+00:00",
       "channel": "Tipik",
       "title": "La belle et le boulanger",
       "subtitle": "La déclaration",
@@ -358,8 +339,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-30T07:06:00+00:00",
-      "stop": "2026-08-30T08:02:00+00:00",
+      "start": "2026-08-30T07:05:00+00:00",
+      "stop": "2026-08-30T08:03:00+00:00",
       "channel": "Tipik",
       "title": "La belle et le boulanger",
       "subtitle": "La Saint-Honoré",
@@ -380,8 +361,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-30T08:02:00+00:00",
-      "stop": "2026-08-30T08:57:00+00:00",
+      "start": "2026-08-30T08:03:00+00:00",
+      "stop": "2026-08-30T08:58:00+00:00",
       "channel": "Tipik",
       "title": "La belle et le boulanger",
       "subtitle": "La parenthèse enchantée",
@@ -402,7 +383,7 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-30T08:57:00+00:00",
+      "start": "2026-08-30T08:58:00+00:00",
       "stop": "2026-08-30T10:00:00+00:00",
       "channel": "Tipik",
       "title": "La belle et le boulanger",
@@ -448,8 +429,8 @@
       "category": "Jeunesse"
     },
     {
-      "start": "2026-08-30T18:13:00+00:00",
-      "stop": "2026-08-30T20:19:00+00:00",
+      "start": "2026-08-30T18:15:00+00:00",
+      "stop": "2026-08-30T20:25:00+00:00",
       "channel": "Tipik",
       "title": "Calculs meurtriers",
       "subtitle": "",
@@ -513,7 +494,7 @@
       "matched_actors": [
         "Suranne Jones"
       ],
-      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "description": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
       "category": "Serie"
     },
     {
@@ -669,7 +650,7 @@
       "matched_actors": [
         "Suranne Jones"
       ],
-      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "description": "Amy is on the clock to save a hostage, while Kirsten navigates international agendas in the Arctic in the hunt for a missing Chinese scientist.",
       "category": "Serie"
     },
     {
@@ -856,6 +837,121 @@
         "Nathalie Baye"
       ],
       "description": "Une célèbre réalisatrice suédoise souhaiterait engager Nathalie Baye et sa fille Laura Smet dans son prochain film. Mais les deux femmes hésitent, angoissées à l'idée que ces quelques mois de tournage au beau milieu des fjords ne mettent leur relation en péril.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-03T01:53:00+00:00",
+      "stop": "2026-09-03T02:35:00+00:00",
+      "channel": "RAI Due",
+      "title": "Che Todd ci aiuti",
+      "subtitle": "Scambio di ruoli",
+      "directors": [],
+      "actors": [
+        "Skylar Astin",
+        "Marcia Gay Harden",
+        "Madeline Wise",
+        "Tristen J. Winger"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "1^ Visione Rai - Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-03T15:54:00+00:00",
+      "stop": "2026-09-03T16:16:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La fille canon",
+      "directors": [
+        "Amy Heckerling",
+        "Ricky Gervais"
+      ],
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Amy Adams"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-03T18:35:00+00:00",
+      "stop": "2026-09-03T20:35:00+00:00",
+      "channel": "VTM 2",
+      "title": "Knock Knock",
+      "subtitle": "",
+      "directors": [
+        "Eli Roth"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Lorenza Izzo",
+        "Ana de Armas",
+        "Aaron Burns",
+        "Ignacia Allamand",
+        "Colleen Camp"
+      ],
+      "matched_actors": [
+        "Ana de Armas"
+      ],
+      "description": "De architect Evan Webber is een toegewijde echtgenoot en een liefdevolle vader. Wanneer zijn vrouw en kinderen vertrekken voor een weekendje aan zee, blijft Evan alleen thuis om wat te werken. 's Avonds staan twee uitgeregende onschuldig ogende meisjes bij hem op de stoep. Hij laat hen binnen, maar beseft niet dat hem onheil boven het hoofd hangt. De twee hebben immers zin in een sadistisch spelletje.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-03T20:35:00+00:00",
+      "stop": "2026-09-03T22:25:00+00:00",
+      "channel": "VTM 2",
+      "title": "Faster",
+      "subtitle": "",
+      "directors": [
+        "George Tillman Jr.",
+        "Geroge Tillman Jr.",
+        "Ge"
+      ],
+      "actors": [
+        "Dwayne Johnson",
+        "Billy Bob Thornton",
+        "Oliver Jackson-Cohen",
+        "Carla Gugino",
+        "Maggie Grace",
+        "Moon Bloodgood"
+      ],
+      "matched_actors": [
+        "Carla Gugino"
+      ],
+      "description": "'Faster' vertelt het verhaal van Driver, een man die net vrijkomt na een jarenlange gevangenisstraf. Hij zat vast omdat hij er tijdens een bankoverval in is geluisd. Daarnaast is zijn broer toen vermoord. Nu wil Driver maar één ding; zijn broer wreken.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-03T21:06:00+00:00",
+      "stop": "2026-09-03T21:28:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La fille canon",
+      "directors": [
+        "Amy Heckerling",
+        "Ricky Gervais"
+      ],
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Amy Adams"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
       "category": "Séries"
     }
   ]
