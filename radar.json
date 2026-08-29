@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T20:25:59.184977+00:00",
+  "generated_at": "2026-08-29T09:43:11.519965+00:00",
   "window_start": "2026-08-27",
-  "window_end": "2026-09-03",
+  "window_end": "2026-09-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,67 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 37,
+  "count": 39,
   "programmes": [
-    {
-      "start": "2026-08-27T01:15:00+00:00",
-      "stop": "2026-08-27T01:53:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Il morso del ragno",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Chuck viene convocato ed interrogato dall'F.B.I., perché accusato di aver truccato un concorso, da lui stesso ideato, legato alle partite di hockey.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-27T01:53:00+00:00",
-      "stop": "2026-08-27T02:35:00+00:00",
-      "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Scambio di ruoli",
-      "directors": [],
-      "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "1^ Visione Rai - Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-27T20:28:00+00:00",
-      "stop": "2026-08-27T22:08:00+00:00",
-      "channel": "La Une",
-      "title": "Prière d'enquêter",
-      "subtitle": "C'était écrit",
-      "directors": [
-        "Laurence Katrian"
-      ],
-      "actors": [
-        "Sabrina Ouazani",
-        "Mathieu Spinosi",
-        "Jérôme Robart"
-      ],
-      "matched_actors": [
-        "Sabrina Ouazani",
-        "Jérôme Robart"
-      ],
-      "description": "Université de Montpellier. Une professeure, Nathalie Josserand, 45 ans, est trouvée morte dans un amphi. Premier suspect pour Elli : David Crosnier, 35 ans, maître-assistant, chez qui on retrouve l'arme du crime. Ex-compagnon de Nathalie, il entretient une relation amoureuse avec une de ses étudiantes... qui n'est autre que Maryam, la sœur d'Elli ! La relation entre Elli et Maryam (qui défend David contre vents et marées) est mise à mal, d'autant qu'Elli annonce à ses sœurs qu'elle va être obligée de vendre leur maison de famille... Alors qu'Elise focalise sur David, Clément entrevoit un autre suspect, Stéphane Rocques, président de l'université. Il semble avoir un secret qu'il veut préserver à tout prix.",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-27T23:05:00+00:00",
       "stop": "2026-08-28T01:10:00+00:00",
@@ -405,7 +346,7 @@
       "category": "Séries"
     },
     {
-      "start": "2026-08-30T15:00:00+00:00",
+      "start": "2026-08-30T14:59:00+00:00",
       "stop": "2026-08-30T16:36:00+00:00",
       "channel": "La Trois",
       "title": "Les Croods",
@@ -430,7 +371,7 @@
     },
     {
       "start": "2026-08-30T18:15:00+00:00",
-      "stop": "2026-08-30T20:25:00+00:00",
+      "stop": "2026-08-30T20:24:00+00:00",
       "channel": "Tipik",
       "title": "Calculs meurtriers",
       "subtitle": "",
@@ -498,7 +439,7 @@
       "category": "Serie"
     },
     {
-      "start": "2026-08-30T21:34:00+00:00",
+      "start": "2026-08-30T21:33:00+00:00",
       "stop": "2026-08-30T23:27:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
@@ -544,8 +485,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-08-31T09:33:00+00:00",
-      "stop": "2026-08-31T10:26:00+00:00",
+      "start": "2026-08-31T09:32:00+00:00",
+      "stop": "2026-08-31T10:25:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "The Conquest (1953-1955)",
@@ -565,8 +506,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-08-31T12:37:00+00:00",
-      "stop": "2026-08-31T14:39:00+00:00",
+      "start": "2026-08-31T12:26:00+00:00",
+      "stop": "2026-08-31T14:30:00+00:00",
       "channel": "Tipik",
       "title": "Calculs meurtriers",
       "subtitle": "",
@@ -588,8 +529,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-31T18:32:00+00:00",
-      "stop": "2026-08-31T19:25:00+00:00",
+      "start": "2026-08-31T18:34:00+00:00",
+      "stop": "2026-08-31T19:29:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "Le Mur 1956-1962",
@@ -724,8 +665,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-01T21:22:00+00:00",
-      "stop": "2026-09-01T22:15:00+00:00",
+      "start": "2026-09-01T21:31:00+00:00",
+      "stop": "2026-09-01T22:23:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "The Conquest (1953-1955)",
@@ -840,23 +781,27 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-03T01:53:00+00:00",
-      "stop": "2026-09-03T02:35:00+00:00",
+      "start": "2026-09-03T00:30:00+00:00",
+      "stop": "2026-09-03T02:10:00+00:00",
       "channel": "RAI Due",
-      "title": "Che Todd ci aiuti",
-      "subtitle": "Scambio di ruoli",
-      "directors": [],
+      "title": "Bombshell - La voce dello scandalo",
+      "subtitle": "",
+      "directors": [
+        "Jay Roach"
+      ],
       "actors": [
-        "Skylar Astin",
-        "Marcia Gay Harden",
-        "Madeline Wise",
-        "Tristen J. Winger"
+        "Charlize Theron",
+        "Nicole Kidman",
+        "Margot Robbie",
+        "John Lithgow",
+        "Allison Janney",
+        "Malcolm McDowell"
       ],
       "matched_actors": [
-        "Marcia Gay Harden"
+        "Allison Janney"
       ],
-      "description": "1^ Visione Rai - Margaret non può presenziare ad un'udienza arbitrale. Essendo Susan e Beverly troppo impegnate, è costretta a ripiegare su Todd e l'incarica di firmare per il patteggiamento.",
-      "category": "Séries"
+      "description": "Durante un dibattito televisivo in occasione della campagna elettorale americana del 2016, la giornalista Megyn Kelly chiede a Donald Trump spiegazioni su alcuni suoi comportamenti misogini, provocando l'ira del presidente della sua rete televisiva Roger Ailey. Kelly decide quindi di fare causa ad Ailey, incoraggiata da altre giornaliste che a loro volta lo accusano di molestie sessuali. Nel 2016 l'uomo è stato costretto a dare le dimissioni, dopo che un gruppo di donne che lavoravano con e per lui, decise a porre fine all'atmosfera tossica che si respirava all'interno dell'emitettente televisiva, lo ha accusato di molestie sessuali.",
+      "category": "Cinéma"
     },
     {
       "start": "2026-09-03T15:54:00+00:00",
@@ -953,6 +898,120 @@
       ],
       "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-04T01:25:00+00:00",
+      "stop": "2026-09-04T02:20:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 1",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-04T04:10:00+00:00",
+      "stop": "2026-09-04T05:00:00+00:00",
+      "channel": "RAI Due",
+      "title": "La grande vallata",
+      "subtitle": "Il buon ladrone",
+      "directors": [],
+      "actors": [
+        "Richard Long",
+        "Peter Breck",
+        "Lee Majors",
+        "Russell Johnson",
+        "Charles Grodin",
+        "Flip Mark"
+      ],
+      "matched_actors": [
+        "Charles Grodin"
+      ],
+      "description": "Nick e Heath riportano in città due fuorilegge che hanno ferito Jarrod durante una rapina, ma i loro concittadini, invece di condannarli, li considerano come benefattori. Episodio 76",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-04T11:31:00+00:00",
+      "stop": "2026-09-04T13:18:00+00:00",
+      "channel": "Action",
+      "title": "21 Jump Street",
+      "subtitle": "",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Brie Larson",
+        "Dave Franco",
+        "Rob Riggle",
+        "DeRay Davis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-04T15:31:00+00:00",
+      "stop": "2026-09-04T17:24:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-04T19:05:00+00:00",
+      "stop": "2026-09-04T20:45:00+00:00",
+      "channel": "France 5",
+      "title": "The Queen",
+      "subtitle": "",
+      "directors": [
+        "Stephen Frears"
+      ],
+      "actors": [
+        "Helen Mirren",
+        "Michael Sheen",
+        "James Cromwell",
+        "Sylvia Syms",
+        "Alex Jennings",
+        "Helen McCrory"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "En août 1997, au lendemain de la mort de la princesse Diana, le nouveau premier ministre Tony Blair presse la reine Elizabeth II de briser son silence et de s'adresser au peuple en deuil. La vague d'émotion qui submerge le Royaume-Uni est sans précédent, le peuple tout entier pleure la princesse. Au château de Balmoral, en Écosse, la reine désemparée reste silencieuse, comme indifférente. Alors qu'une vague d'émotion et de chagrin submerge le pays, Tony Blair, élu à une écrasante majorité au mois de mai précédent, sent instantanément que quelque chose est en train de se passer, comme si le pays tout entier avait perdu une sœur, une mère ou une fille. Au château de Balmoral en Écosse, Elizabeth II reste silencieuse, distante, apparemment indifférente. Désemparée par la réaction des Britanniques, elle ne comprend pas l'onde de choc qui ébranle le pays. Pour Tony Blair, il appartient aux dirigeants de réconforter la nation meurtrie et il lui faut absolument trouver le moyen de rapprocher la reine de ses sujets éplorés.",
+      "category": "Cinéma"
     }
   ]
 }
