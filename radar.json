@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T14:03:07.532980+00:00",
-  "window_start": "2026-08-27",
-  "window_end": "2026-09-04",
+  "generated_at": "2026-08-30T10:30:54.176625+00:00",
+  "window_start": "2026-08-29",
+  "window_end": "2026-09-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,77 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 39,
+  "count": 43,
   "programmes": [
-    {
-      "start": "2026-08-27T23:05:00+00:00",
-      "stop": "2026-08-28T01:10:00+00:00",
-      "channel": "BBC Two",
-      "title": "Dear Evan Hansen",
-      "subtitle": "",
-      "directors": [
-        "Stephen Chbosky"
-      ],
-      "actors": [
-        "Ben Platt",
-        "Julianne Moore",
-        "Kaitlyn Dever",
-        "Amy Adams",
-        "Danny Pino",
-        "Amandla Stenberg"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "High school misfit Evan lies to comfort a grieving mother, telling her of a friendship with her late son that never existed. The falsehoods soon escalate, leaving Evan further to fall.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-08-28T18:35:00+00:00",
-      "stop": "2026-08-28T21:20:00+00:00",
-      "channel": "VTM 2",
-      "title": "Mission: Impossible - Fallout",
-      "subtitle": "",
-      "directors": [
-        "Christopher McQuarrie"
-      ],
-      "actors": [
-        "Tom Cruise",
-        "Henry Cavill",
-        "Ving Rhames",
-        "Simon Pegg",
-        "Rebecca Ferguson",
-        "Sean Harris"
-      ],
-      "matched_actors": [
-        "Rebecca Ferguson"
-      ],
-      "description": "Nadat een missie fout afloopt, moeten Ethan Hunt en zijn IMF-team, bestaande uit Alan Hunley, Benji Dunn en Luther Stickell, racen tegen de klok. Ze worden bijgestaan door Ilsa Faust en Julia Meade die hen helpen hun nieuwe missie tot een goed einde te brengen.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-28T20:05:00+00:00",
-      "stop": "2026-08-28T22:05:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "The Last King of Scotland",
-      "subtitle": "",
-      "directors": [
-        "Kevin Macdonald"
-      ],
-      "actors": [
-        "Forest Whitaker",
-        "James McAvoy",
-        "Simon McBurney",
-        "Gillian Anderson",
-        "Kerry Washington",
-        "David Oyelowo"
-      ],
-      "matched_actors": [
-        "Gillian Anderson"
-      ],
-      "description": "De Schotse arts Nicholas Garrigan reist in de jaren zeventig naar Oeganda om er aan de slag te gaan als ontwikkelingshelper. Bij een verkeersongeval leert hij Idi Amin kennen, de nieuwe president van het land. Het klikt tussen de twee en de president neemt Nicholas in dienst als lijfarts en raadsman. Maar al snel ontdekt de arts dat Amin een moordlustige dictator is die hem beschouwt als zijn gevangene ...",
-      "category": "Films"
-    },
     {
       "start": "2026-08-29T08:36:00+00:00",
       "stop": "2026-08-29T10:04:00+00:00",
@@ -440,7 +371,7 @@
     },
     {
       "start": "2026-08-30T21:33:00+00:00",
-      "stop": "2026-08-30T23:27:00+00:00",
+      "stop": "2026-08-30T23:26:00+00:00",
       "channel": "TF1",
       "title": "The Marvels",
       "subtitle": "",
@@ -1012,6 +943,166 @@
       ],
       "description": "En août 1997, au lendemain de la mort de la princesse Diana, le nouveau premier ministre Tony Blair presse la reine Elizabeth II de briser son silence et de s'adresser au peuple en deuil. La vague d'émotion qui submerge le Royaume-Uni est sans précédent, le peuple tout entier pleure la princesse. Au château de Balmoral, en Écosse, la reine désemparée reste silencieuse, comme indifférente. Alors qu'une vague d'émotion et de chagrin submerge le pays, Tony Blair, élu à une écrasante majorité au mois de mai précédent, sent instantanément que quelque chose est en train de se passer, comme si le pays tout entier avait perdu une sœur, une mère ou une fille. Au château de Balmoral en Écosse, Elizabeth II reste silencieuse, distante, apparemment indifférente. Désemparée par la réaction des Britanniques, elle ne comprend pas l'onde de choc qui ébranle le pays. Pour Tony Blair, il appartient aux dirigeants de réconforter la nation meurtrie et il lui faut absolument trouver le moyen de rapprocher la reine de ses sujets éplorés.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-05T01:10:00+00:00",
+      "stop": "2026-09-05T02:10:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 2",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Amy is on the clock to save a hostage, while Kirsten navigates international agendas in the Arctic in the hunt for a missing Chinese scientist.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-05T05:40:00+00:00",
+      "stop": "2026-09-05T07:33:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-05T11:30:00+00:00",
+      "stop": "2026-09-05T13:15:00+00:00",
+      "channel": "Arte",
+      "title": "L'arme à gauche",
+      "subtitle": "",
+      "directors": [
+        "Claude Sautet"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Sylva Koscina",
+        "Alberto de Mendoza",
+        "Leo Gordon"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-05T15:39:00+00:00",
+      "stop": "2026-09-05T16:04:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La fille canon",
+      "directors": [
+        "Amy Heckerling",
+        "Ricky Gervais"
+      ],
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Amy Adams"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-05T19:40:00+00:00",
+      "stop": "2026-09-05T21:50:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Mon beau-père, mes parents et moi",
+      "subtitle": "",
+      "directors": [
+        "Jay Roach"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Dustin Hoffman",
+        "Barbra Streisand",
+        "Blythe Danner",
+        "Teri Polo"
+      ],
+      "matched_actors": [
+        "Barbra Streisand"
+      ],
+      "description": "Greg Focker est un brave infirmier qui accumule les déboires, les maladresses et les faux-pas. Soucieux de plaire à tout le monde et de faire oublier son nom grotesque, sa première entrevue avec ses futurs beaux-parents Jack et Dina Byrnes fut un concentré exemplaire de tout ce qu'il ne faut pas faire dans de telles circonstances. Entre-temps, les choses se sont arrangées, et Greg a même réussi à amadouer le terrifiant Jack et à intégrer son cercle de confiance. Pam et lui peuvent donc envisager le mariage, mais il reste à organiser une réunion entre les Byrnes et les Focker. Un paisible week-end en Floride dans la propriété de Bernie et Roz Focker - lui fervent libéral, elle sexologue militante - permettra enfin aux deux familles de lier connaissance. Un ultime examen de passage, qui ne devrait pas poser de problème...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-05T20:50:00+00:00",
+      "stop": "2026-09-05T22:50:00+00:00",
+      "channel": "VTM 2",
+      "title": "Dante's Peak",
+      "subtitle": "",
+      "directors": [
+        "Roger Donaldson"
+      ],
+      "actors": [
+        "Pierce Brosnan",
+        "Linda Hamilton",
+        "Charles Hallahan",
+        "Grant Heslov",
+        "Elizabeth Hoffman",
+        "Jeremy Foley"
+      ],
+      "matched_actors": [
+        "Pierce Brosnan"
+      ],
+      "description": "De gerenommeerde vulkanoloog Harry Dalton belandt in het toeristische stadje Dante's Peak, aan de voet van de gelijknamige vulkaan. Hoewel de vulkaan al eeuwen rustig is, zijn er aanwijzingen dat er een uitbarsting op til is. Harry brengt de lokale overheden op de hoogte, maar die slaan zijn waarschuwingen in de wind. Het stadje is de afgelopen jaren immers een toeristische trekpleister geworden.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-05T23:00:00+00:00",
+      "stop": "2026-09-06T00:45:00+00:00",
+      "channel": "BBC One",
+      "title": "Brighton Rock",
+      "subtitle": "",
+      "directors": [
+        "Rowan Joffe"
+      ],
+      "actors": [
+        "Sam Riley",
+        "Andrea Riseborough",
+        "Helen Mirren",
+        "John Hurt",
+        "Andy Serkis",
+        "Sean Harris"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "An ambitious British gangster known as Pinkie attempts to seduce and intimidate a waitress who can link him to a brutal murder. Based on the novel by Graham Greene.",
+      "category": "Movies"
     }
   ]
 }
