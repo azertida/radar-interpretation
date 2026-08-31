@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T14:00:48.645819+00:00",
-  "window_start": "2026-08-29",
-  "window_end": "2026-09-05",
+  "generated_at": "2026-08-31T11:38:40.937967+00:00",
+  "window_start": "2026-08-30",
+  "window_end": "2026-09-06",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -118,76 +118,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 43,
+  "count": 46,
   "programmes": [
-    {
-      "start": "2026-08-29T08:36:00+00:00",
-      "stop": "2026-08-29T10:04:00+00:00",
-      "channel": "La Une",
-      "title": "Prière d'enquêter",
-      "subtitle": "C'était écrit",
-      "directors": [
-        "Laurence Katrian"
-      ],
-      "actors": [
-        "Sabrina Ouazani",
-        "Mathieu Spinosi",
-        "Jérôme Robart"
-      ],
-      "matched_actors": [
-        "Sabrina Ouazani",
-        "Jérôme Robart"
-      ],
-      "description": "Université de Montpellier. Une professeure, Nathalie Josserand, 45 ans, est trouvée morte dans un amphi. Premier suspect pour Elli : David Crosnier, 35 ans, maître-assistant, chez qui on retrouve l'arme du crime. Ex-compagnon de Nathalie, il entretient une relation amoureuse avec une de ses étudiantes... qui n'est autre que Maryam, la sœur d'Elli ! La relation entre Elli et Maryam (qui défend David contre vents et marées) est mise à mal, d'autant qu'Elli annonce à ses sœurs qu'elle va être obligée de vendre leur maison de famille... Alors qu'Elise focalise sur David, Clément entrevoit un autre suspect, Stéphane Rocques, président de l'université. Il semble avoir un secret qu'il veut préserver à tout prix.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-08-29T11:30:00+00:00",
-      "stop": "2026-08-29T13:15:00+00:00",
-      "channel": "Arte",
-      "title": "Rendez-vous avec la mort",
-      "subtitle": "",
-      "directors": [
-        "Michael Winner"
-      ],
-      "actors": [
-        "Peter Ustinov",
-        "Lauren Bacall",
-        "John Gielgud",
-        "Piper Laurie",
-        "Carrie Fisher",
-        "Hayley Mills"
-      ],
-      "matched_actors": [
-        "Lauren Bacall",
-        "Hayley Mills"
-      ],
-      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-29T12:25:00+00:00",
-      "stop": "2026-08-29T14:20:00+00:00",
-      "channel": "BBC Two",
-      "title": "Beaches",
-      "subtitle": "",
-      "directors": [
-        "Garry Marshall"
-      ],
-      "actors": [
-        "Bette Midler",
-        "Barbara Hershey",
-        "John Heard",
-        "Spalding Gray",
-        "Lainie Kazan",
-        "James Read"
-      ],
-      "matched_actors": [
-        "Bette Midler"
-      ],
-      "description": "Story of the 30-year oil-and-water friendship between free-spirited Bronx Jew CC Bloom and uptight San Francisco WASP Hillary Essex. The two met as children in Atlantic City and are reunited in the 1960s, when CC is a struggling singer and Hillary is trying to break free from her staid upbringing by becoming an activist.",
-      "category": "Movies"
-    },
     {
       "start": "2026-08-30T06:06:00+00:00",
       "stop": "2026-08-30T07:05:00+00:00",
@@ -1103,6 +1035,152 @@
       ],
       "description": "An ambitious British gangster known as Pinkie attempts to seduce and intimidate a waitress who can link him to a brutal murder. Based on the novel by Graham Greene.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-06T01:37:00+00:00",
+      "stop": "2026-09-06T04:11:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-06T12:20:00+00:00",
+      "stop": "2026-09-06T14:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Faster",
+      "subtitle": "",
+      "directors": [
+        "George Tillman Jr.",
+        "Geroge Tillman Jr.",
+        "Ge"
+      ],
+      "actors": [
+        "Dwayne Johnson",
+        "Billy Bob Thornton",
+        "Oliver Jackson-Cohen",
+        "Carla Gugino",
+        "Maggie Grace",
+        "Moon Bloodgood"
+      ],
+      "matched_actors": [
+        "Carla Gugino"
+      ],
+      "description": "'Faster' vertelt het verhaal van Driver, een man die net vrijkomt na een jarenlange gevangenisstraf. Hij zat vast omdat hij er tijdens een bankoverval in is geluisd. Daarnaast is zijn broer toen vermoord. Nu wil Driver maar één ding; zijn broer wreken.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-06T18:50:00+00:00",
+      "stop": "2026-09-06T20:54:00+00:00",
+      "channel": "Action",
+      "title": "Star Trek",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams",
+        "J.J Abrams",
+        "J. J. Abrams",
+        "JJ A"
+      ],
+      "actors": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy",
+        "Karl Urban",
+        "Ben Cross",
+        "Eric Bana"
+      ],
+      "matched_actors": [
+        "Leonard Nimoy",
+        "Karl Urban"
+      ],
+      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-06T20:00:00+00:00",
+      "stop": "2026-09-06T21:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Vigil",
+      "subtitle": "Episode 3",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-06T21:00:00+00:00",
+      "stop": "2026-09-06T22:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "subtitle": "",
+      "directors": [
+        "George Roy Hill",
+        "John C. Foreman"
+      ],
+      "actors": [
+        "Paul Newman",
+        "Robert Redford",
+        "Katharine Ross",
+        "Strother Martin",
+        "Jeff Corey",
+        "George Furth"
+      ],
+      "matched_actors": [
+        "Robert Redford"
+      ],
+      "description": "A seriocomic account of the exploits of two affable real-life outlaws trying to make a living at the turn-of-the-20th century, but discovering that banks and railroads are getting harder to rob, especially with a relentless superposse closing in on them. Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 1998.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-09-06T22:36:00+00:00",
+      "stop": "2026-09-06T23:32:00+00:00",
+      "channel": "Tipik",
+      "title": "Dix pour cent",
+      "subtitle": "Nathalie et Laura",
+      "directors": [
+        "Cédric Klapisch",
+        "Fanny Herrero"
+      ],
+      "actors": [
+        "Camille Cottin",
+        "Thibault de Montalembert",
+        "Grégory Montel",
+        "Liliane Rovère",
+        "Nathalie Baye",
+        "Laura Smet"
+      ],
+      "matched_actors": [
+        "Nathalie Baye"
+      ],
+      "description": "Une célèbre réalisatrice suédoise souhaiterait engager Nathalie Baye et sa fille Laura Smet dans son prochain film. Mais les deux femmes hésitent, angoissées à l'idée que ces quelques mois de tournage au beau milieu des fjords ne mettent leur relation en péril.",
+      "category": "Séries"
     }
   ]
 }
