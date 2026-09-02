@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T13:43:19.196726+00:00",
+  "generated_at": "2026-09-02T09:41:59.139331+00:00",
   "window_start": "2026-08-31",
-  "window_end": "2026-09-07",
+  "window_end": "2026-09-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -121,139 +121,6 @@
   "count": 46,
   "programmes": [
     {
-      "start": "2026-08-31T07:15:00+00:00",
-      "stop": "2026-08-31T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie au gré du vent",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie au gré du vent Julien rencontre Joanie et Hugues, deux militaires retraités, à quelques jours de leur départ pour les mers du Sud. À bord de leur catamaran, ils navigueront pendant cinq ans, à la recherche des plus beaux endroits de kitesurf au monde.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-31T09:32:00+00:00",
-      "stop": "2026-08-31T10:25:00+00:00",
-      "channel": "La Trois",
-      "title": "Apocalypse : la guerre des mondes 1945-1991",
-      "subtitle": "The Conquest (1953-1955)",
-      "directors": [
-        "Daniel Costelle",
-        "Isabelle Clarke"
-      ],
-      "actors": [
-        "Mathieu Kassovitz",
-        "Svetlana Alliluyeva",
-        "Marilyn Monroe"
-      ],
-      "matched_actors": [
-        "Marilyn Monroe"
-      ],
-      "description": "Mars 1953. Staline est mort. Le Petit Père des peuples n'est plus qu'un corps embaumé devant lequel se pressent avec zèle ses potentiels successeurs. À Berlin-Est, une vague d'espoir parcourt les ouvriers allemands, vite écrasés par la répression soviétique.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-31T12:26:00+00:00",
-      "stop": "2026-08-31T14:30:00+00:00",
-      "channel": "Tipik",
-      "title": "Calculs meurtriers",
-      "subtitle": "",
-      "directors": [
-        "Barbet Schroeder"
-      ],
-      "actors": [
-        "Sandra Bullock",
-        "Ben Chaplin",
-        "Ryan Gosling",
-        "Michael Pitt",
-        "Agnes Bruckner",
-        "Chris Penn"
-      ],
-      "matched_actors": [
-        "Sandra Bullock"
-      ],
-      "description": "Deux étudiants brillants se lancent le défi de commettre le crime parfait, apparemment pour le simple plaisir de narguer la police. Mais une policière pourrait être la seule faille dans leur plan... Mais pour Cassie, ce meurtre présente des similitudes avec une affaire lointaine sur laquelle elle eut à témoigner...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-31T18:34:00+00:00",
-      "stop": "2026-08-31T19:29:00+00:00",
-      "channel": "La Trois",
-      "title": "Apocalypse : la guerre des mondes 1945-1991",
-      "subtitle": "Le Mur 1956-1962",
-      "directors": [
-        "Daniel Costelle",
-        "Isabelle Clarke"
-      ],
-      "actors": [
-        "Marilyn Monroe",
-        "Mathieu Kassovitz",
-        "Jacqueline Kennedy",
-        "Laika"
-      ],
-      "matched_actors": [
-        "Marilyn Monroe"
-      ],
-      "description": "1956. Khrouchtchev ferme la porte aux années staliniennes. Décidé à ouvrir l'URSS au monde extérieur, ce \"Monsieur K\" au visage rond et sympathique étonne le monde entier lorsqu'il se rend aux États-Unis. Mais celui qui a écrasé dans le sang l'insurrection de Budapest n'a rien perdu de sa dureté.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-31T18:55:00+00:00",
-      "stop": "2026-08-31T20:35:00+00:00",
-      "channel": "Arte",
-      "title": "L'arme à gauche",
-      "subtitle": "",
-      "directors": [
-        "Claude Sautet"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Sylva Koscina",
-        "Alberto de Mendoza",
-        "Leo Gordon"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-31T20:00:00+00:00",
-      "stop": "2026-08-31T21:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Vigil",
-      "subtitle": "Episode 2",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy is on the clock to save a hostage, while Kirsten navigates international agendas in the Arctic in the hunt for a missing Chinese scientist.",
-      "category": "Serie"
-    },
-    {
       "start": "2026-08-31T21:30:00+00:00",
       "stop": "2026-09-01T00:40:00+00:00",
       "channel": "BBC Two",
@@ -369,7 +236,7 @@
     },
     {
       "start": "2026-09-01T22:25:00+00:00",
-      "stop": "2026-09-01T23:55:00+00:00",
+      "stop": "2026-09-01T23:53:00+00:00",
       "channel": "RAI Due",
       "title": "211 - Rapina in Corso",
       "subtitle": "",
@@ -416,8 +283,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-02T20:53:00+00:00",
-      "stop": "2026-09-02T21:52:00+00:00",
+      "start": "2026-09-02T20:55:00+00:00",
+      "stop": "2026-09-02T21:53:00+00:00",
       "channel": "Tipik",
       "title": "Dix pour cent",
       "subtitle": "Nathalie et Laura",
@@ -740,8 +607,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-05T15:39:00+00:00",
-      "stop": "2026-09-05T16:04:00+00:00",
+      "start": "2026-09-05T15:38:00+00:00",
+      "stop": "2026-09-05T16:02:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "La fille canon",
@@ -1140,7 +1007,7 @@
       "matched_actors": [
         "Suranne Jones"
       ],
-      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "description": "Henrik and Kirsten close in on the missing Jia, with Amy not far behind. But as tensions rise and new allegiances are formed, the danger of the Arctic wilderness becomes apparent.",
       "category": "Serie"
     },
     {
@@ -1189,6 +1056,147 @@
       ],
       "description": "An adventurous young British woman wins a scholarship to Oxford, where she falls in love with a fellow student. Later, their relationship is tested when he joins the military following the onset of World War I.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-08T01:32:00+00:00",
+      "stop": "2026-09-08T03:13:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-08T02:00:00+00:00",
+      "stop": "2026-09-08T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de simplicité dans la forêt acadienne",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de simplicité dans la forêt acadienne Julien est accueilli par Anne Galant qui a construit sa maison de ses propres mains sur l'Île-du-Prince-Édouard. Elle partage son parcours qui l'a menée à vivre une vie de simplicité dans son oasis de paix.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-08T19:00:00+00:00",
+      "stop": "2026-09-08T21:20:00+00:00",
+      "channel": "VTM 2",
+      "title": "Fast & Furious presents: Hobbs & Shaw",
+      "subtitle": "",
+      "directors": [
+        "David Leitch"
+      ],
+      "actors": [
+        "Dwayne Johnson",
+        "Jason Statham",
+        "Idris Elba",
+        "Vanessa Kirby",
+        "Helen Mirren",
+        "Eiza González"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "Geheim agent Luke Hobbs en voormalig elitesoldaat Deckard Shaw zijn niet bepaald vrienden, maar worden gedwongen samen te werken wanneer het lot hen samenbrengt. Ze moeten het opnemen tegen Brixton, een hoogintelligente, genetisch gemodificeerde terrorist die als 'Zwarte Superman' door het leven gaat.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-08T20:08:00+00:00",
+      "stop": "2026-09-08T21:01:00+00:00",
+      "channel": "La Trois",
+      "title": "Apocalypse : la guerre des mondes 1945-1991",
+      "subtitle": "Le Mur 1956-1962",
+      "directors": [
+        "Daniel Costelle",
+        "Isabelle Clarke"
+      ],
+      "actors": [
+        "Marilyn Monroe",
+        "Mathieu Kassovitz",
+        "Jacqueline Kennedy",
+        "Laika"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "1956. Khrouchtchev ferme la porte aux années staliniennes. Décidé à ouvrir l'URSS au monde extérieur, ce \"Monsieur K\" au visage rond et sympathique étonne le monde entier lorsqu'il se rend aux États-Unis. Mais celui qui a écrasé dans le sang l'insurrection de Budapest n'a rien perdu de sa dureté.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-08T22:05:00+00:00",
+      "stop": "2026-09-09T00:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "Gosford Park",
+      "subtitle": "",
+      "directors": [
+        "Robert Altman",
+        "Bob Balaban",
+        "David Levy"
+      ],
+      "actors": [
+        "Maggie Smith",
+        "Michael Gambon",
+        "Kristin Scott Thomas",
+        "Helen Mirren",
+        "Eileen Atkins",
+        "Kelly Macdonald"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "In 1930's England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-09-08T23:52:00+00:00",
+      "stop": "2026-09-08T23:55:00+00:00",
+      "channel": "RAI Due",
+      "title": "211 - Rapina in Corso",
+      "subtitle": "",
+      "directors": [
+        "York Alec Shackleton",
+        "York Shackleton",
+        "Yor"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Sophie Skelton",
+        "Michael Rainey Jr.",
+        "Amanda Cerny",
+        "Dwayne Cameron",
+        "Bleona Qereti"
+      ],
+      "matched_actors": [
+        "Nicolas Cage"
+      ],
+      "description": "Mike e suo genero Steve sono due poliziotti a cui viene affidato Kenny, un ragazzino di 11 anni obbligato a passare una giornata con una pattuglia come punizione per avere colpito un compagno di scuola. Quella che doveva essere una giornata educativa si trasforma in un dramma quando i tre rimangono coinvolti in una rapina in banca organizzata da una squadra di professionisti del crimine. Le squadre speciali della LAPD e della SWAT entrano in azione con il supporto dell'Interpol che da tempo era sulle tracce dei quattro rapinatori. Ma sarà l'agente Chandler (Nicolas Cage) a prendere il comando della negoziazione che si rivelerà la più lunga e sanguinaria della storia americana.",
+      "category": "Cinéma"
     }
   ]
 }
