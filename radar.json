@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T13:01:55.885727+00:00",
-  "window_start": "2026-09-01",
-  "window_end": "2026-09-09",
+  "generated_at": "2026-09-04T09:48:15.398102+00:00",
+  "window_start": "2026-09-03",
+  "window_end": "2026-09-10",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 112,
   "watchlist": [
@@ -121,78 +121,8 @@
   "count": 43,
   "programmes": [
     {
-      "start": "2026-09-01T22:05:00+00:00",
-      "stop": "2026-09-02T00:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Godfather, Part III",
-      "subtitle": "",
-      "directors": [
-        "Francis Ford Coppola"
-      ],
-      "actors": [
-        "Al Pacino",
-        "Diane Keaton",
-        "Talia Shire",
-        "Andy Garcia",
-        "Eli Wallach",
-        "Joe Mantegna"
-      ],
-      "matched_actors": [
-        "Diane Keaton"
-      ],
-      "description": "Michael Corleone worries about his empire and his offspring in the third installment of this powerful drama.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-02T16:57:00+00:00",
-      "stop": "2026-09-02T18:50:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-02T20:55:00+00:00",
-      "stop": "2026-09-02T21:53:00+00:00",
-      "channel": "Tipik",
-      "title": "Dix pour cent",
-      "subtitle": "Nathalie et Laura",
-      "directors": [
-        "Cédric Klapisch",
-        "Fanny Herrero"
-      ],
-      "actors": [
-        "Camille Cottin",
-        "Thibault de Montalembert",
-        "Grégory Montel",
-        "Liliane Rovère",
-        "Nathalie Baye",
-        "Laura Smet"
-      ],
-      "matched_actors": [
-        "Nathalie Baye"
-      ],
-      "description": "Une célèbre réalisatrice suédoise souhaiterait engager Nathalie Baye et sa fille Laura Smet dans son prochain film. Mais les deux femmes hésitent, angoissées à l'idée que ces quelques mois de tournage au beau milieu des fjords ne mettent leur relation en péril.",
-      "category": "Séries"
-    },
-    {
       "start": "2026-09-03T00:30:00+00:00",
-      "stop": "2026-09-03T02:10:00+00:00",
+      "stop": "2026-09-03T02:20:00+00:00",
       "channel": "RAI Due",
       "title": "Bombshell - La voce dello scandalo",
       "subtitle": "",
@@ -401,29 +331,6 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-04T19:05:00+00:00",
-      "stop": "2026-09-04T20:45:00+00:00",
-      "channel": "France 5",
-      "title": "The Queen",
-      "subtitle": "",
-      "directors": [
-        "Stephen Frears"
-      ],
-      "actors": [
-        "Helen Mirren",
-        "Michael Sheen",
-        "James Cromwell",
-        "Sylvia Syms",
-        "Alex Jennings",
-        "Helen McCrory"
-      ],
-      "matched_actors": [
-        "Helen Mirren"
-      ],
-      "description": "En août 1997, au lendemain de la mort de la princesse Diana, le nouveau premier ministre Tony Blair presse la reine Elizabeth II de briser son silence et de s'adresser au peuple en deuil. La vague d'émotion qui submerge le Royaume-Uni est sans précédent, le peuple tout entier pleure la princesse. Au château de Balmoral, en Écosse, la reine désemparée reste silencieuse, comme indifférente. Alors qu'une vague d'émotion et de chagrin submerge le pays, Tony Blair, élu à une écrasante majorité au mois de mai précédent, sent instantanément que quelque chose est en train de se passer, comme si le pays tout entier avait perdu une sœur, une mère ou une fille. Au château de Balmoral en Écosse, Elizabeth II reste silencieuse, distante, apparemment indifférente. Désemparée par la réaction des Britanniques, elle ne comprend pas l'onde de choc qui ébranle le pays. Pour Tony Blair, il appartient aux dirigeants de réconforter la nation meurtrie et il lui faut absolument trouver le moyen de rapprocher la reine de ses sujets éplorés.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-09-05T01:10:00+00:00",
       "stop": "2026-09-05T02:10:00+00:00",
       "channel": "BBC Two",
@@ -515,7 +422,7 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-05T19:40:00+00:00",
+      "start": "2026-09-05T19:50:00+00:00",
       "stop": "2026-09-05T21:50:00+00:00",
       "channel": "RTL TVI",
       "title": "Mon beau-père, mes parents et moi",
@@ -707,7 +614,7 @@
     },
     {
       "start": "2026-09-06T22:36:00+00:00",
-      "stop": "2026-09-06T23:32:00+00:00",
+      "stop": "2026-09-06T23:30:00+00:00",
       "channel": "Tipik",
       "title": "Dix pour cent",
       "subtitle": "Nathalie et Laura",
@@ -776,8 +683,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-07T08:25:00+00:00",
-      "stop": "2026-09-07T09:18:00+00:00",
+      "start": "2026-09-07T08:24:00+00:00",
+      "stop": "2026-09-07T09:17:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "Le Mur 1956-1962",
@@ -848,8 +755,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-07T14:50:00+00:00",
-      "stop": "2026-09-07T15:11:00+00:00",
+      "start": "2026-09-07T14:51:00+00:00",
+      "stop": "2026-09-07T15:13:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'incendie",
@@ -1126,6 +1033,98 @@
         "Brie Larson"
       ],
       "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-10T00:30:00+00:00",
+      "stop": "2026-09-10T02:10:00+00:00",
+      "channel": "RAI Due",
+      "title": "Bombshell - La voce dello scandalo",
+      "subtitle": "",
+      "directors": [
+        "Jay Roach"
+      ],
+      "actors": [
+        "Charlize Theron",
+        "Nicole Kidman",
+        "Margot Robbie",
+        "John Lithgow",
+        "Allison Janney",
+        "Malcolm McDowell"
+      ],
+      "matched_actors": [
+        "Allison Janney"
+      ],
+      "description": "Durante un dibattito televisivo in occasione della campagna elettorale americana del 2016, la giornalista Megyn Kelly chiede a Donald Trump spiegazioni su alcuni suoi comportamenti misogini, provocando l'ira del presidente della sua rete televisiva Roger Ailey. Kelly decide quindi di fare causa ad Ailey, incoraggiata da altre giornaliste che a loro volta lo accusano di molestie sessuali. Nel 2016 l'uomo è stato costretto a dare le dimissioni, dopo che un gruppo di donne che lavoravano con e per lui, decise a porre fine all'atmosfera tossica che si respirava all'interno dell'emitettente televisiva, lo ha accusato di molestie sessuali.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-10T02:01:00+00:00",
+      "stop": "2026-09-10T03:42:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-10T04:49:00+00:00",
+      "stop": "2026-09-10T06:42:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-10T19:00:00+00:00",
+      "stop": "2026-09-10T20:45:00+00:00",
+      "channel": "France 4",
+      "title": "Frères ennemis",
+      "subtitle": "",
+      "directors": [
+        "David Oelhoffen"
+      ],
+      "actors": [
+        "Matthias Schoenaerts",
+        "Reda Kateb",
+        "Sabrina Ouazani",
+        "Adel Bencherif",
+        "Nicolas Giraud",
+        "Sofiane Zermani"
+      ],
+      "matched_actors": [
+        "Sabrina Ouazani"
+      ],
+      "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
       "category": "Cinéma"
     }
   ]
