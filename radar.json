@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T12:56:26.851103+00:00",
-  "window_start": "2026-09-03",
-  "window_end": "2026-09-10",
+  "generated_at": "2026-09-05T09:08:01.335020+00:00",
+  "window_start": "2026-09-04",
+  "window_end": "2026-09-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -120,127 +120,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 43,
+  "count": 44,
   "programmes": [
-    {
-      "start": "2026-09-03T00:30:00+00:00",
-      "stop": "2026-09-03T02:20:00+00:00",
-      "channel": "RAI Due",
-      "title": "Bombshell - La voce dello scandalo",
-      "subtitle": "",
-      "directors": [
-        "Jay Roach"
-      ],
-      "actors": [
-        "Charlize Theron",
-        "Nicole Kidman",
-        "Margot Robbie",
-        "John Lithgow",
-        "Allison Janney",
-        "Malcolm McDowell"
-      ],
-      "matched_actors": [
-        "Allison Janney"
-      ],
-      "description": "Durante un dibattito televisivo in occasione della campagna elettorale americana del 2016, la giornalista Megyn Kelly chiede a Donald Trump spiegazioni su alcuni suoi comportamenti misogini, provocando l'ira del presidente della sua rete televisiva Roger Ailey. Kelly decide quindi di fare causa ad Ailey, incoraggiata da altre giornaliste che a loro volta lo accusano di molestie sessuali. Nel 2016 l'uomo è stato costretto a dare le dimissioni, dopo che un gruppo di donne che lavoravano con e per lui, decise a porre fine all'atmosfera tossica che si respirava all'interno dell'emitettente televisiva, lo ha accusato di molestie sessuali.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-03T15:58:00+00:00",
-      "stop": "2026-09-03T16:19:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La fille canon",
-      "directors": [
-        "Amy Heckerling",
-        "Ricky Gervais"
-      ],
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-03T18:35:00+00:00",
-      "stop": "2026-09-03T20:35:00+00:00",
-      "channel": "VTM 2",
-      "title": "Knock Knock",
-      "subtitle": "",
-      "directors": [
-        "Eli Roth"
-      ],
-      "actors": [
-        "Keanu Reeves",
-        "Lorenza Izzo",
-        "Ana de Armas",
-        "Aaron Burns",
-        "Ignacia Allamand",
-        "Colleen Camp"
-      ],
-      "matched_actors": [
-        "Ana de Armas"
-      ],
-      "description": "De architect Evan Webber is een toegewijde echtgenoot en een liefdevolle vader. Wanneer zijn vrouw en kinderen vertrekken voor een weekendje aan zee, blijft Evan alleen thuis om wat te werken. 's Avonds staan twee uitgeregende onschuldig ogende meisjes bij hem op de stoep. Hij laat hen binnen, maar beseft niet dat hem onheil boven het hoofd hangt. De twee hebben immers zin in een sadistisch spelletje.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-09-03T20:35:00+00:00",
-      "stop": "2026-09-03T22:25:00+00:00",
-      "channel": "VTM 2",
-      "title": "Faster",
-      "subtitle": "",
-      "directors": [
-        "George Tillman Jr.",
-        "Geroge Tillman Jr.",
-        "Ge"
-      ],
-      "actors": [
-        "Dwayne Johnson",
-        "Billy Bob Thornton",
-        "Oliver Jackson-Cohen",
-        "Carla Gugino",
-        "Maggie Grace",
-        "Moon Bloodgood"
-      ],
-      "matched_actors": [
-        "Carla Gugino"
-      ],
-      "description": "'Faster' vertelt het verhaal van Driver, een man die net vrijkomt na een jarenlange gevangenisstraf. Hij zat vast omdat hij er tijdens een bankoverval in is geluisd. Daarnaast is zijn broer toen vermoord. Nu wil Driver maar één ding; zijn broer wreken.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-09-03T21:08:00+00:00",
-      "stop": "2026-09-03T21:30:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La fille canon",
-      "directors": [
-        "Amy Heckerling",
-        "Ricky Gervais"
-      ],
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-04T01:25:00+00:00",
       "stop": "2026-09-04T02:20:00+00:00",
@@ -400,8 +281,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-05T15:38:00+00:00",
-      "stop": "2026-09-05T16:02:00+00:00",
+      "start": "2026-09-05T15:42:00+00:00",
+      "stop": "2026-09-05T16:07:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "La fille canon",
@@ -424,8 +305,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-05T19:50:00+00:00",
-      "stop": "2026-09-05T21:50:00+00:00",
+      "start": "2026-09-05T19:55:00+00:00",
+      "stop": "2026-09-05T22:10:00+00:00",
       "channel": "RTL TVI",
       "title": "Mon beau-père, mes parents et moi",
       "subtitle": "",
@@ -448,7 +329,7 @@
     },
     {
       "start": "2026-09-05T20:50:00+00:00",
-      "stop": "2026-09-05T22:50:00+00:00",
+      "stop": "2026-09-05T22:55:00+00:00",
       "channel": "VTM 2",
       "title": "Dante's Peak",
       "subtitle": "",
@@ -615,8 +496,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-09-06T22:36:00+00:00",
-      "stop": "2026-09-06T23:30:00+00:00",
+      "start": "2026-09-06T22:35:00+00:00",
+      "stop": "2026-09-06T23:29:00+00:00",
       "channel": "Tipik",
       "title": "Dix pour cent",
       "subtitle": "Nathalie et Laura",
@@ -758,7 +639,7 @@
     },
     {
       "start": "2026-09-07T14:51:00+00:00",
-      "stop": "2026-09-07T15:13:00+00:00",
+      "stop": "2026-09-07T15:12:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'incendie",
@@ -804,8 +685,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-09-07T20:50:00+00:00",
-      "stop": "2026-09-07T21:11:00+00:00",
+      "start": "2026-09-07T20:51:00+00:00",
+      "stop": "2026-09-07T21:12:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'incendie",
@@ -897,8 +778,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-08T19:00:00+00:00",
-      "stop": "2026-09-08T21:20:00+00:00",
+      "start": "2026-09-08T19:05:00+00:00",
+      "stop": "2026-09-08T21:25:00+00:00",
       "channel": "VTM 2",
       "title": "Fast & Furious presents: Hobbs & Shaw",
       "subtitle": "",
@@ -1039,7 +920,7 @@
     },
     {
       "start": "2026-09-10T00:30:00+00:00",
-      "stop": "2026-09-10T02:10:00+00:00",
+      "stop": "2026-09-10T02:20:00+00:00",
       "channel": "RAI Due",
       "title": "Bombshell - La voce dello scandalo",
       "subtitle": "",
@@ -1128,6 +1009,148 @@
       ],
       "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-11T00:35:00+00:00",
+      "stop": "2026-09-11T01:35:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 3",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Amy needs to help Kirsten after the death of someone on the hub. She is faced with a ticking clock to clear Kirsten's name before she is made into a scapegoat.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-11T01:35:00+00:00",
+      "stop": "2026-09-11T02:35:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 4",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Henrik and Kirsten close in on the missing Jia, with Amy not far behind. But as tensions rise and new allegiances are formed, the danger of the Arctic wilderness becomes apparent.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-11T12:59:00+00:00",
+      "stop": "2026-09-11T15:03:00+00:00",
+      "channel": "Action",
+      "title": "Star Trek",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams",
+        "J.J Abrams",
+        "J. J. Abrams",
+        "JJ A"
+      ],
+      "actors": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy",
+        "Karl Urban",
+        "Ben Cross",
+        "Eric Bana"
+      ],
+      "matched_actors": [
+        "Leonard Nimoy",
+        "Karl Urban"
+      ],
+      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-11T19:05:00+00:00",
+      "stop": "2026-09-11T20:45:00+00:00",
+      "channel": "France 5",
+      "title": "The Queen",
+      "subtitle": "",
+      "directors": [
+        "Stephen Frears"
+      ],
+      "actors": [
+        "Helen Mirren",
+        "Michael Sheen",
+        "James Cromwell",
+        "Sylvia Syms",
+        "Alex Jennings",
+        "Helen McCrory"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "En août 1997, au lendemain de la mort de la princesse Diana, le nouveau premier ministre Tony Blair presse la reine Elizabeth II de briser son silence et de s'adresser au peuple en deuil. La vague d'émotion qui submerge le Royaume-Uni est sans précédent, le peuple tout entier pleure la princesse. Au château de Balmoral, en Écosse, la reine désemparée reste silencieuse, comme indifférente. Alors qu'une vague d'émotion et de chagrin submerge le pays, Tony Blair, élu à une écrasante majorité au mois de mai précédent, sent instantanément que quelque chose est en train de se passer, comme si le pays tout entier avait perdu une sœur, une mère ou une fille. Au château de Balmoral en Écosse, Elizabeth II reste silencieuse, distante, apparemment indifférente. Désemparée par la réaction des Britanniques, elle ne comprend pas l'onde de choc qui ébranle le pays. Pour Tony Blair, il appartient aux dirigeants de réconforter la nation meurtrie et il lui faut absolument trouver le moyen de rapprocher la reine de ses sujets éplorés.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-11T19:10:00+00:00",
+      "stop": "2026-09-11T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "directors": [
+        "David Morley"
+      ],
+      "actors": [
+        "Christopher Bayemi",
+        "Juliette Plumecocq-Mech",
+        "Ophélia Kolb",
+        "Julien Boisselier",
+        "David Clavel",
+        "Pasquale d'Inca"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-11T21:00:00+00:00",
+      "stop": "2026-09-11T23:10:00+00:00",
+      "channel": "VTM 2",
+      "title": "Gone in Sixty Seconds",
+      "subtitle": "",
+      "directors": [
+        "Dominic Sena"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Angelina Jolie",
+        "Giovanni Ribisi",
+        "Robert Duvall",
+        "Delroy Lindo",
+        "Timothy Olyphant"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Randall Raines, alias Memphis, was een legendarische autodief, tot de politie hem te dicht op de hielen kwam en zijn moeder hem smeekte om zijn leven te verbeteren. Jammer genoeg is Randalls broer Kip in zijn criminele voetsporen getreden. Wanneer hij in de problemen terechtkomt en een gangsterbaas hem wil ombrengen, moet Randall zijn beloften breken om Kip te redden.",
+      "category": "Films"
     }
   ]
 }
