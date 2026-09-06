@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:07:24.540974+00:00",
-  "window_start": "2026-09-04",
-  "window_end": "2026-09-11",
+  "generated_at": "2026-09-06T09:29:06.497843+00:00",
+  "window_start": "2026-09-05",
+  "window_end": "2026-09-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -120,99 +120,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 44,
+  "count": 43,
   "programmes": [
-    {
-      "start": "2026-09-04T01:25:00+00:00",
-      "stop": "2026-09-04T02:20:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 1",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "DCI Silva and DI Longacre investigate the murder of a British citizen in the Arctic, but they soon find themselves caught in an escalating political situation.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-04T04:10:00+00:00",
-      "stop": "2026-09-04T05:00:00+00:00",
-      "channel": "RAI Due",
-      "title": "La grande vallata",
-      "subtitle": "Il buon ladrone",
-      "directors": [],
-      "actors": [
-        "Richard Long",
-        "Peter Breck",
-        "Lee Majors",
-        "Russell Johnson",
-        "Charles Grodin",
-        "Flip Mark"
-      ],
-      "matched_actors": [
-        "Charles Grodin"
-      ],
-      "description": "Nick e Heath riportano in città due fuorilegge che hanno ferito Jarrod durante una rapina, ma i loro concittadini, invece di condannarli, li considerano come benefattori. Episodio 76",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-04T11:31:00+00:00",
-      "stop": "2026-09-04T13:18:00+00:00",
-      "channel": "Action",
-      "title": "21 Jump Street",
-      "subtitle": "",
-      "directors": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "actors": [
-        "Jonah Hill",
-        "Channing Tatum",
-        "Brie Larson",
-        "Dave Franco",
-        "Rob Riggle",
-        "DeRay Davis"
-      ],
-      "matched_actors": [
-        "Brie Larson"
-      ],
-      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-04T15:31:00+00:00",
-      "stop": "2026-09-04T17:24:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-05T01:10:00+00:00",
       "stop": "2026-09-05T02:10:00+00:00",
@@ -1151,6 +1060,76 @@
       ],
       "description": "Randall Raines, alias Memphis, was een legendarische autodief, tot de politie hem te dicht op de hielen kwam en zijn moeder hem smeekte om zijn leven te verbeteren. Jammer genoeg is Randalls broer Kip in zijn criminele voetsporen getreden. Wanneer hij in de problemen terechtkomt en een gangsterbaas hem wil ombrengen, moet Randall zijn beloften breken om Kip te redden.",
       "category": "Films"
+    },
+    {
+      "start": "2026-09-12T02:04:00+00:00",
+      "stop": "2026-09-12T03:45:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-12T18:50:00+00:00",
+      "stop": "2026-09-12T20:37:00+00:00",
+      "channel": "Action",
+      "title": "21 Jump Street",
+      "subtitle": "",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Brie Larson",
+        "Dave Franco",
+        "Rob Riggle",
+        "DeRay Davis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-12T18:50:00+00:00",
+      "stop": "2026-09-12T20:32:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La chute d'Icare",
+      "directors": [
+        "Sylvie Ayme"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Fabien Baïardi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
+      "category": "Séries"
     }
   ]
 }
