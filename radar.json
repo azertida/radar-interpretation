@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T12:20:18.385282+00:00",
+  "generated_at": "2026-09-07T10:23:01.088011+00:00",
   "window_start": "2026-09-05",
-  "window_end": "2026-09-12",
+  "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -120,145 +120,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 43,
+  "count": 41,
   "programmes": [
-    {
-      "start": "2026-09-05T01:10:00+00:00",
-      "stop": "2026-09-05T02:10:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 2",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy is on the clock to save a hostage, while Kirsten navigates international agendas in the Arctic in the hunt for a missing Chinese scientist.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-05T05:40:00+00:00",
-      "stop": "2026-09-05T07:33:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-05T11:30:00+00:00",
-      "stop": "2026-09-05T13:15:00+00:00",
-      "channel": "Arte",
-      "title": "L'arme à gauche",
-      "subtitle": "",
-      "directors": [
-        "Claude Sautet"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Sylva Koscina",
-        "Alberto de Mendoza",
-        "Leo Gordon"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-05T15:42:00+00:00",
-      "stop": "2026-09-05T16:07:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La fille canon",
-      "directors": [
-        "Amy Heckerling",
-        "Ricky Gervais"
-      ],
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "Michael apprend qu'il peut remettre chaque mois un prix de 1 000 $ à l'employé de son choix. Parallèlement, il autorise Katy, une belle représentante, à vendre ses produits dans le bureau. Charmé par la jeune femme, il tente différentes approches pour s'attirer ses faveurs. Celle-ci fait d'ailleurs l'unanimité auprès de la gent masculine, au grand dam de Pam qui se sent méprisée par son fiancé. De son côté, Jim joue un tour à Dwight, ridiculisant le pauvre garçon...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-05T19:55:00+00:00",
-      "stop": "2026-09-05T22:10:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Mon beau-père, mes parents et moi",
-      "subtitle": "",
-      "directors": [
-        "Jay Roach"
-      ],
-      "actors": [
-        "Ben Stiller",
-        "Robert De Niro",
-        "Dustin Hoffman",
-        "Barbra Streisand",
-        "Blythe Danner",
-        "Teri Polo"
-      ],
-      "matched_actors": [
-        "Barbra Streisand"
-      ],
-      "description": "Greg Focker est un brave infirmier qui accumule les déboires, les maladresses et les faux-pas. Soucieux de plaire à tout le monde et de faire oublier son nom grotesque, sa première entrevue avec ses futurs beaux-parents Jack et Dina Byrnes fut un concentré exemplaire de tout ce qu'il ne faut pas faire dans de telles circonstances. Entre-temps, les choses se sont arrangées, et Greg a même réussi à amadouer le terrifiant Jack et à intégrer son cercle de confiance. Pam et lui peuvent donc envisager le mariage, mais il reste à organiser une réunion entre les Byrnes et les Focker. Un paisible week-end en Floride dans la propriété de Bernie et Roz Focker - lui fervent libéral, elle sexologue militante - permettra enfin aux deux familles de lier connaissance. Un ultime examen de passage, qui ne devrait pas poser de problème...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-05T20:50:00+00:00",
-      "stop": "2026-09-05T22:55:00+00:00",
-      "channel": "VTM 2",
-      "title": "Dante's Peak",
-      "subtitle": "",
-      "directors": [
-        "Roger Donaldson"
-      ],
-      "actors": [
-        "Pierce Brosnan",
-        "Linda Hamilton",
-        "Charles Hallahan",
-        "Grant Heslov",
-        "Elizabeth Hoffman",
-        "Jeremy Foley"
-      ],
-      "matched_actors": [
-        "Pierce Brosnan"
-      ],
-      "description": "De gerenommeerde vulkanoloog Harry Dalton belandt in het toeristische stadje Dante's Peak, aan de voet van de gelijknamige vulkaan. Hoewel de vulkaan al eeuwen rustig is, zijn er aanwijzingen dat er een uitbarsting op til is. Harry brengt de lokale overheden op de hoogte, maar die slaan zijn waarschuwingen in de wind. Het stadje is de afgelopen jaren immers een toeristische trekpleister geworden.",
-      "category": "Films"
-    },
     {
       "start": "2026-09-05T23:00:00+00:00",
       "stop": "2026-09-06T00:45:00+00:00",
@@ -405,8 +268,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-09-06T22:35:00+00:00",
-      "stop": "2026-09-06T23:29:00+00:00",
+      "start": "2026-09-06T22:24:00+00:00",
+      "stop": "2026-09-06T23:18:00+00:00",
       "channel": "Tipik",
       "title": "Dix pour cent",
       "subtitle": "Nathalie et Laura",
@@ -1130,6 +993,102 @@
       ],
       "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-13T11:00:00+00:00",
+      "stop": "2026-09-13T13:04:00+00:00",
+      "channel": "Action",
+      "title": "Star Trek",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams",
+        "J.J Abrams",
+        "J. J. Abrams",
+        "JJ A"
+      ],
+      "actors": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy",
+        "Karl Urban",
+        "Ben Cross",
+        "Eric Bana"
+      ],
+      "matched_actors": [
+        "Leonard Nimoy",
+        "Karl Urban"
+      ],
+      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-13T18:50:00+00:00",
+      "stop": "2026-09-13T20:34:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-13T20:00:00+00:00",
+      "stop": "2026-09-13T21:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Vigil",
+      "subtitle": "Episode 5",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-13T22:20:00+00:00",
+      "stop": "2026-09-14T00:30:00+00:00",
+      "channel": "BBC One",
+      "title": "Just Mercy",
+      "subtitle": "",
+      "directors": [
+        "Destin Daniel Cretton"
+      ],
+      "actors": [
+        "Brie Larson",
+        "Michael B. Jordan",
+        "Jamie Foxx",
+        "Rafe Spall",
+        "Tim Blake Nelson",
+        "O'Shea Jackson Jr."
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "Attorney Bryan Stevenson takes on the case of an African-American man wrongly imprisoned for the murder of a white woman. As Bryan becomes embroiled in a labyrinth of legal and political maneuverings, he fights for Walter with the odds - and a system - stacked against them.",
+      "category": "Movies"
     }
   ]
 }
