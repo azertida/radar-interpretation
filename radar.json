@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T14:29:41.891547+00:00",
-  "window_start": "2026-09-05",
-  "window_end": "2026-09-13",
+  "generated_at": "2026-09-08T09:45:22.246248+00:00",
+  "window_start": "2026-09-07",
+  "window_end": "2026-09-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -123,175 +123,6 @@
   "count": 41,
   "programmes": [
     {
-      "start": "2026-09-05T23:00:00+00:00",
-      "stop": "2026-09-06T00:45:00+00:00",
-      "channel": "BBC One",
-      "title": "Brighton Rock",
-      "subtitle": "",
-      "directors": [
-        "Rowan Joffe"
-      ],
-      "actors": [
-        "Sam Riley",
-        "Andrea Riseborough",
-        "Helen Mirren",
-        "John Hurt",
-        "Andy Serkis",
-        "Sean Harris"
-      ],
-      "matched_actors": [
-        "Helen Mirren"
-      ],
-      "description": "An ambitious British gangster known as Pinkie attempts to seduce and intimidate a waitress who can link him to a brutal murder. Based on the novel by Graham Greene.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-06T01:37:00+00:00",
-      "stop": "2026-09-06T04:11:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-06T12:20:00+00:00",
-      "stop": "2026-09-06T14:15:00+00:00",
-      "channel": "VTM 2",
-      "title": "Faster",
-      "subtitle": "",
-      "directors": [
-        "George Tillman Jr.",
-        "Geroge Tillman Jr.",
-        "Ge"
-      ],
-      "actors": [
-        "Dwayne Johnson",
-        "Billy Bob Thornton",
-        "Oliver Jackson-Cohen",
-        "Carla Gugino",
-        "Maggie Grace",
-        "Moon Bloodgood"
-      ],
-      "matched_actors": [
-        "Carla Gugino"
-      ],
-      "description": "'Faster' vertelt het verhaal van Driver, een man die net vrijkomt na een jarenlange gevangenisstraf. Hij zat vast omdat hij er tijdens een bankoverval in is geluisd. Daarnaast is zijn broer toen vermoord. Nu wil Driver maar één ding; zijn broer wreken.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-09-06T18:50:00+00:00",
-      "stop": "2026-09-06T20:54:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "matched_actors": [
-        "Leonard Nimoy",
-        "Karl Urban"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-06T20:00:00+00:00",
-      "stop": "2026-09-06T21:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Vigil",
-      "subtitle": "Episode 3",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy needs to help Kirsten after the death of someone on the hub. She is faced with a ticking clock to clear Kirsten's name before she is made into a scapegoat.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-06T21:00:00+00:00",
-      "stop": "2026-09-06T22:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "Butch Cassidy and the Sundance Kid",
-      "subtitle": "",
-      "directors": [
-        "George Roy Hill",
-        "John C. Foreman"
-      ],
-      "actors": [
-        "Paul Newman",
-        "Robert Redford",
-        "Katharine Ross",
-        "Strother Martin",
-        "Jeff Corey",
-        "George Furth"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "A seriocomic account of the exploits of two affable real-life outlaws trying to make a living at the turn-of-the-20th century, but discovering that banks and railroads are getting harder to rob, especially with a relentless superposse closing in on them. Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 1998.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-06T22:24:00+00:00",
-      "stop": "2026-09-06T23:18:00+00:00",
-      "channel": "Tipik",
-      "title": "Dix pour cent",
-      "subtitle": "Nathalie et Laura",
-      "directors": [
-        "Cédric Klapisch",
-        "Fanny Herrero"
-      ],
-      "actors": [
-        "Camille Cottin",
-        "Thibault de Montalembert",
-        "Grégory Montel",
-        "Liliane Rovère",
-        "Nathalie Baye",
-        "Laura Smet"
-      ],
-      "matched_actors": [
-        "Nathalie Baye"
-      ],
-      "description": "Une célèbre réalisatrice suédoise souhaiterait engager Nathalie Baye et sa fille Laura Smet dans son prochain film. Mais les deux femmes hésitent, angoissées à l'idée que ces quelques mois de tournage au beau milieu des fjords ne mettent leur relation en péril.",
-      "category": "Séries"
-    },
-    {
       "start": "2026-09-07T05:01:00+00:00",
       "stop": "2026-09-07T06:54:00+00:00",
       "channel": "Action",
@@ -338,8 +169,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-07T08:24:00+00:00",
-      "stop": "2026-09-07T09:17:00+00:00",
+      "start": "2026-09-07T08:25:00+00:00",
+      "stop": "2026-09-07T09:18:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "Le Mur 1956-1962",
@@ -410,8 +241,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-07T14:51:00+00:00",
-      "stop": "2026-09-07T15:12:00+00:00",
+      "start": "2026-09-07T14:50:00+00:00",
+      "stop": "2026-09-07T15:11:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'incendie",
@@ -573,8 +404,8 @@
       "category": "Films"
     },
     {
-      "start": "2026-09-08T20:08:00+00:00",
-      "stop": "2026-09-08T21:01:00+00:00",
+      "start": "2026-09-08T20:15:00+00:00",
+      "stop": "2026-09-08T21:11:00+00:00",
       "channel": "La Trois",
       "title": "Apocalypse : la guerre des mondes 1945-1991",
       "subtitle": "Le Mur 1956-1962",
@@ -688,29 +519,6 @@
         "Brie Larson"
       ],
       "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-10T00:30:00+00:00",
-      "stop": "2026-09-10T02:20:00+00:00",
-      "channel": "RAI Due",
-      "title": "Bombshell - La voce dello scandalo",
-      "subtitle": "",
-      "directors": [
-        "Jay Roach"
-      ],
-      "actors": [
-        "Charlize Theron",
-        "Nicole Kidman",
-        "Margot Robbie",
-        "John Lithgow",
-        "Allison Janney",
-        "Malcolm McDowell"
-      ],
-      "matched_actors": [
-        "Allison Janney"
-      ],
-      "description": "Durante un dibattito televisivo in occasione della campagna elettorale americana del 2016, la giornalista Megyn Kelly chiede a Donald Trump spiegazioni su alcuni suoi comportamenti misogini, provocando l'ira del presidente della sua rete televisiva Roger Ailey. Kelly decide quindi di fare causa ad Ailey, incoraggiata da altre giornaliste che a loro volta lo accusano di molestie sessuali. Nel 2016 l'uomo è stato costretto a dare le dimissioni, dopo che un gruppo di donne che lavoravano con e per lui, decise a porre fine all'atmosfera tossica che si respirava all'interno dell'emitettente televisiva, lo ha accusato di molestie sessuali.",
       "category": "Cinéma"
     },
     {
@@ -1064,7 +872,7 @@
       "matched_actors": [
         "Suranne Jones"
       ],
-      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "description": "The truth of Jia's discovery forces Amy and Kirsten to reassess the situation on Svalbard and embark on a rescue mission that has them facing a new, unexpected danger.",
       "category": "Serie"
     },
     {
@@ -1089,6 +897,184 @@
       ],
       "description": "Attorney Bryan Stevenson takes on the case of an African-American man wrongly imprisoned for the murder of a white woman. As Bryan becomes embroiled in a labyrinth of legal and political maneuverings, he fights for Walter with the odds - and a system - stacked against them.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-14T01:52:00+00:00",
+      "stop": "2026-09-14T04:32:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-14T07:15:00+00:00",
+      "stop": "2026-09-14T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de troubadour",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de troubadour Julien retrouve Anthony, musicien qui vit en van depuis cinq ans. Le jeune homme passe l'été à Halifax pour y jouer de la musique de rue. Un mode de vie qui lui demande une grande capacité d'adaptation.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-14T09:31:00+00:00",
+      "stop": "2026-09-14T11:15:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-14T11:35:00+00:00",
+      "stop": "2026-09-14T13:20:00+00:00",
+      "channel": "Arte",
+      "title": "L'arme à gauche",
+      "subtitle": "",
+      "directors": [
+        "Claude Sautet"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Sylva Koscina",
+        "Alberto de Mendoza",
+        "Leo Gordon"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-14T18:55:00+00:00",
+      "stop": "2026-09-14T20:50:00+00:00",
+      "channel": "Arte",
+      "title": "Julia",
+      "subtitle": "",
+      "directors": [
+        "Fred Zinnemann"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "Vanessa Redgrave",
+        "Jason Robards",
+        "Maximilian Schell",
+        "Hal Holbrook",
+        "Rosemary Murphy"
+      ],
+      "matched_actors": [
+        "Jane Fonda"
+      ],
+      "description": "Entre les deux guerres mondiales, la romancière Lillian Hellman vit avec l'écrivain Dashiell Hammett dans une maison face à l'océan sur la côte Est. Elle n'a plus de nouvelle de son amie d'enfance Julia partie étudier en Europe. Elle lui rend visite à Oxford quand Julia lui annonce qu'elle se prépare à rejoindre Vienne pour y étudier la médecine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgré les dangers de l'Europe en guerre, aidée par la résistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-14T20:00:00+00:00",
+      "stop": "2026-09-14T21:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Vigil",
+      "subtitle": "Episode 6",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-14T20:09:00+00:00",
+      "stop": "2026-09-14T21:50:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La chute d'Icare",
+      "directors": [
+        "Sylvie Ayme"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Fabien Baïardi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-14T20:50:00+00:00",
+      "stop": "2026-09-14T21:45:00+00:00",
+      "channel": "Arte",
+      "title": "Citizen Jane, l'Amérique selon Fonda",
+      "subtitle": "",
+      "directors": [
+        "Florence Platarets"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "Donald Sutherland"
+      ],
+      "matched_actors": [
+        "Jane Fonda"
+      ],
+      "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
+      "category": "Documentaire"
     }
   ]
 }
