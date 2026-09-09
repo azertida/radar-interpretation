@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T13:05:36.263993+00:00",
+  "generated_at": "2026-09-09T09:50:16.376655+00:00",
   "window_start": "2026-09-07",
-  "window_end": "2026-09-14",
+  "window_end": "2026-09-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -120,197 +120,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 41,
+  "count": 38,
   "programmes": [
-    {
-      "start": "2026-09-07T05:01:00+00:00",
-      "stop": "2026-09-07T06:54:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-07T07:15:00+00:00",
-      "stop": "2026-09-07T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de simplicité dans la forêt acadienne",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de simplicité dans la forêt acadienne Julien est accueilli par Anne Galant qui a construit sa maison de ses propres mains sur l'Île-du-Prince-Édouard. Elle partage son parcours qui l'a menée à vivre une vie de simplicité dans son oasis de paix.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-07T08:25:00+00:00",
-      "stop": "2026-09-07T09:18:00+00:00",
-      "channel": "La Trois",
-      "title": "Apocalypse : la guerre des mondes 1945-1991",
-      "subtitle": "Le Mur 1956-1962",
-      "directors": [
-        "Daniel Costelle",
-        "Isabelle Clarke"
-      ],
-      "actors": [
-        "Marilyn Monroe",
-        "Mathieu Kassovitz",
-        "Jacqueline Kennedy",
-        "Laika"
-      ],
-      "matched_actors": [
-        "Marilyn Monroe"
-      ],
-      "description": "1956. Khrouchtchev ferme la porte aux années staliniennes. Décidé à ouvrir l'URSS au monde extérieur, ce \"Monsieur K\" au visage rond et sympathique étonne le monde entier lorsqu'il se rend aux États-Unis. Mais celui qui a écrasé dans le sang l'insurrection de Budapest n'a rien perdu de sa dureté.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-07T08:48:00+00:00",
-      "stop": "2026-09-07T10:52:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "matched_actors": [
-        "Leonard Nimoy",
-        "Karl Urban"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-07T11:30:00+00:00",
-      "stop": "2026-09-07T13:05:00+00:00",
-      "channel": "Arte",
-      "title": "D'une vie à l'autre",
-      "subtitle": "",
-      "directors": [
-        "Richard LaGravenese"
-      ],
-      "actors": [
-        "Holly Hunter",
-        "Danny DeVito",
-        "Queen Latifah",
-        "Martin Donovan",
-        "Richard Schiff",
-        "Elias Koteas"
-      ],
-      "matched_actors": [
-        "Holly Hunter"
-      ],
-      "description": "Il s'agit de l'histoire d'une riche bourgeoise, Judith Nelson, amère et névrotique, depuis que son mari, médecin, l'a délaissée pour une ravissante pédiatre plus jeune qu'elle. Un soir, dans un club de jazz, un inconnu, la prenant pour une autre, l'embrasse fougueusement. Ce baiser inopiné va réveiller Judith. Quand elle rentre dans son luxueux appartement elle regarde pour la première fois le liftier, Pat, jusqu'alors invisible, petit homme rond et mélancolique. Que peuvent avoir en commun Judith et Pat?",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-07T14:50:00+00:00",
-      "stop": "2026-09-07T15:11:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "L'incendie",
-      "directors": [
-        "Ken Kwapis",
-        "Ricky Gervais"
-      ],
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "A la demande de son agence d'intérim, Ryan doit obtenir de Michael un bilan de ses compétences. Le manager régional ne s'en fait pas prier et en profite pour prodiguer à son employé des conseils très personnels pour réussir dans le monde de l'entreprise. Soudain, un incendie se déclare.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-07T20:00:00+00:00",
-      "stop": "2026-09-07T21:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Vigil",
-      "subtitle": "Episode 4",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Henrik and Kirsten close in on the missing Jia, with Amy not far behind. But as tensions rise and new allegiances are formed, the danger of the Arctic wilderness becomes apparent.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-07T20:51:00+00:00",
-      "stop": "2026-09-07T21:12:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "L'incendie",
-      "directors": [
-        "Ken Kwapis",
-        "Ricky Gervais"
-      ],
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Amy Adams"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "A la demande de son agence d'intérim, Ryan doit obtenir de Michael un bilan de ses compétences. Le manager régional ne s'en fait pas prier et en profite pour prodiguer à son employé des conseils très personnels pour réussir dans le monde de l'entreprise. Soudain, un incendie se déclare.",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-07T22:10:00+00:00",
       "stop": "2026-09-08T00:15:00+00:00",
@@ -781,7 +592,7 @@
     },
     {
       "start": "2026-09-12T18:50:00+00:00",
-      "stop": "2026-09-12T20:32:00+00:00",
+      "stop": "2026-09-12T20:34:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -1031,7 +842,7 @@
       "matched_actors": [
         "Suranne Jones"
       ],
-      "description": "When a crew member is found dead on board Trident nuclear submarine, HMS VIGIL, Detective Amy Silva is called to investigate. The catch? The UK's nuclear deterrent must remain unbroken so that the submarine stays on patrol – and Amy must join the crew to investigate.",
+      "description": "Amy finds herself on the wrong side of the law, and Kirsten puts herself in danger to keep Amy safe and get to the truth – leading to the hardest choice of their careers.",
       "category": "Serie"
     },
     {
@@ -1075,6 +886,129 @@
       ],
       "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-15T02:00:00+00:00",
+      "stop": "2026-09-15T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de troubadour",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de troubadour Julien retrouve Anthony, musicien qui vit en van depuis cinq ans. Le jeune homme passe l'été à Halifax pour y jouer de la musique de rue. Un mode de vie qui lui demande une grande capacité d'adaptation.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-15T18:33:00+00:00",
+      "stop": "2026-09-15T19:42:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "La poupée",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "1837. Alors que son oncle vient de mourir, la jeune Victoria est appelée à régner sur le Royaume-Uni. Mais la jeune femme est mal préparée à la tâche qui l'attend.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-15T19:42:00+00:00",
+      "stop": "2026-09-15T20:28:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Les dames de compagnie",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Les Tories s'impatientent. Ils s'attendent à un triomphe imminent. La popularité de Melbourne étant en perte de vitesse, le Duc de Cumberland entrevoit la possibilité d'amoindrir le pouvoir de sa nièce.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-15T20:37:00+00:00",
+      "stop": "2026-09-15T22:41:00+00:00",
+      "channel": "Action",
+      "title": "Star Trek",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams",
+        "J.J Abrams",
+        "J. J. Abrams",
+        "JJ A"
+      ],
+      "actors": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy",
+        "Karl Urban",
+        "Ben Cross",
+        "Eric Bana"
+      ],
+      "matched_actors": [
+        "Leonard Nimoy",
+        "Karl Urban"
+      ],
+      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-15T22:00:00+00:00",
+      "stop": "2026-09-15T23:30:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "directors": [
+        "David Morley"
+      ],
+      "actors": [
+        "Christopher Bayemi",
+        "Juliette Plumecocq-Mech",
+        "Ophélia Kolb",
+        "Julien Boisselier",
+        "David Clavel",
+        "Pasquale d'Inca"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries"
     }
   ]
 }
