@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T13:07:57.720317+00:00",
-  "window_start": "2026-09-08",
-  "window_end": "2026-09-16",
+  "generated_at": "2026-09-11T09:46:46.573083+00:00",
+  "window_start": "2026-09-10",
+  "window_end": "2026-09-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 114,
   "watchlist": [
@@ -120,104 +120,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 39,
+  "count": 38,
   "programmes": [
-    {
-      "start": "2026-09-08T22:05:00+00:00",
-      "stop": "2026-09-09T00:15:00+00:00",
-      "channel": "BBC Two",
-      "title": "Gosford Park",
-      "subtitle": "",
-      "directors": [
-        "Robert Altman",
-        "Bob Balaban",
-        "David Levy"
-      ],
-      "actors": [
-        "Maggie Smith",
-        "Michael Gambon",
-        "Kristin Scott Thomas",
-        "Helen Mirren",
-        "Eileen Atkins",
-        "Kelly Macdonald"
-      ],
-      "matched_actors": [
-        "Helen Mirren"
-      ],
-      "description": "Period piece set in the early 1930s with an all-star cast. A weekend shooting party at a country mansion turns into a murder mystery when the host is found dead.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-09T06:49:00+00:00",
-      "stop": "2026-09-09T08:42:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-09T11:35:00+00:00",
-      "stop": "2026-09-09T13:40:00+00:00",
-      "channel": "Arte",
-      "title": "Rendez-vous avec la mort",
-      "subtitle": "",
-      "directors": [
-        "Michael Winner"
-      ],
-      "actors": [
-        "Peter Ustinov",
-        "Lauren Bacall",
-        "John Gielgud",
-        "Piper Laurie",
-        "Carrie Fisher",
-        "Hayley Mills"
-      ],
-      "matched_actors": [
-        "Lauren Bacall",
-        "Hayley Mills"
-      ],
-      "description": "Emily Boynton est la belle-mère des trois enfants Boynton qu'elle tyrannise en profitant du fait que son mari décédé lui a laissé par testament le contrôle total sur sa fortune. La famille effectue une croisière vers la Palestine, à l'époque sous mandat britannique, puis séjourne à Jérusalem. Hercule Poirot, en vacances privées, enquête sur la mort de Boynton.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-09T11:56:00+00:00",
-      "stop": "2026-09-09T13:43:00+00:00",
-      "channel": "Action",
-      "title": "21 Jump Street",
-      "subtitle": "",
-      "directors": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "actors": [
-        "Jonah Hill",
-        "Channing Tatum",
-        "Brie Larson",
-        "Dave Franco",
-        "Rob Riggle",
-        "DeRay Davis"
-      ],
-      "matched_actors": [
-        "Brie Larson"
-      ],
-      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-10T02:01:00+00:00",
       "stop": "2026-09-10T03:42:00+00:00",
@@ -477,8 +381,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-12T18:50:00+00:00",
-      "stop": "2026-09-12T20:34:00+00:00",
+      "start": "2026-09-12T18:51:00+00:00",
+      "stop": "2026-09-12T20:33:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -732,8 +636,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-09-14T20:09:00+00:00",
-      "stop": "2026-09-14T21:50:00+00:00",
+      "start": "2026-09-14T20:15:00+00:00",
+      "stop": "2026-09-14T21:56:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -937,7 +841,7 @@
       "matched_actors": [
         "Julie London"
       ],
-      "description": "Julia Saxon, un'ex spia confederata, arriva a Stockton accusata di omicidio e Jarrod si impegna difenderla in tribunale in nome dei vecchi sentimenti... Con Richard Long, Peter Breck, Lee Majors, Linda Evans, Barbara Stanwyck Episodio 88 Con Richard Long, Peter Breck, Lee Majors, Linda Evans, Barbara Stanwyck Episodio 88",
+      "description": "Julia Saxon, un'ex spia confederata, arriva a Stockton accusata di omicidio e Jarrod si impegna difenderla in tribunale in nome dei vecchi sentimenti. Episodio 88",
       "category": "Séries"
     },
     {
@@ -1029,8 +933,75 @@
       "matched_actors": [
         "Pierce Brosnan"
       ],
-      "description": "Heist e action movie, a metà strada tra Ocean's Eleven e Fast & Furious.",
+      "description": "Il brillante ladro internazionale Richard Pace evade di prigione, ma viene catturato da una banda, di cui fa parte anche sua figlia, che vuole coinvolgerlo nella rapina del secolo.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-17T18:40:00+00:00",
+      "stop": "2026-09-17T20:40:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Les aventures de Rabbi Jacob",
+      "subtitle": "",
+      "directors": [
+        "Gérard Oury"
+      ],
+      "actors": [
+        "Marcel Dalio",
+        "Louis de Funès",
+        "Henri Guybet",
+        "Miou-Miou",
+        "Suzy Delair",
+        "Claude Giraud"
+      ],
+      "matched_actors": [
+        "Louis de Funès"
+      ],
+      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-17T20:41:00+00:00",
+      "stop": "2026-09-17T22:31:00+00:00",
+      "channel": "La Trois",
+      "title": "Un beau matin",
+      "subtitle": "",
+      "directors": [
+        "Mia Hansen-Løve"
+      ],
+      "actors": [
+        "Léa Seydoux",
+        "Pascal Greggory",
+        "Melvil Poupaud",
+        "Nicole Garcia"
+      ],
+      "matched_actors": [
+        "Léa Seydoux"
+      ],
+      "description": "Une jeune mère célibataire s'efforce de s'occuper de son père atteint d'une maladie neurodégénérative.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-17T23:20:00+00:00",
+      "stop": "2026-09-18T00:20:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 5",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "The truth of Jia's discovery forces Amy and Kirsten to reassess the situation on Svalbard and embark on a rescue mission that has them facing a new, unexpected danger.",
+      "category": "Serie"
     }
   ]
 }
