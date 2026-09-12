@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T13:15:21.383725+00:00",
-  "window_start": "2026-09-10",
-  "window_end": "2026-09-17",
+  "generated_at": "2026-09-12T09:25:22.219073+00:00",
+  "window_start": "2026-09-11",
+  "window_end": "2026-09-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,77 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 38,
+  "count": 41,
   "programmes": [
-    {
-      "start": "2026-09-10T02:01:00+00:00",
-      "stop": "2026-09-10T03:42:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-10T04:49:00+00:00",
-      "stop": "2026-09-10T06:42:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-10T19:00:00+00:00",
-      "stop": "2026-09-10T20:45:00+00:00",
-      "channel": "France 4",
-      "title": "Frères ennemis",
-      "subtitle": "",
-      "directors": [
-        "David Oelhoffen"
-      ],
-      "actors": [
-        "Matthias Schoenaerts",
-        "Reda Kateb",
-        "Sabrina Ouazani",
-        "Adel Bencherif",
-        "Nicolas Giraud",
-        "Sofiane Zermani"
-      ],
-      "matched_actors": [
-        "Sabrina Ouazani"
-      ],
-      "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-11T00:35:00+00:00",
       "stop": "2026-09-11T01:35:00+00:00",
@@ -637,8 +568,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-09-14T20:15:00+00:00",
-      "stop": "2026-09-14T21:56:00+00:00",
+      "start": "2026-09-14T20:10:00+00:00",
+      "stop": "2026-09-14T21:52:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -939,7 +870,7 @@
     },
     {
       "start": "2026-09-17T18:40:00+00:00",
-      "stop": "2026-09-17T20:40:00+00:00",
+      "stop": "2026-09-17T20:35:00+00:00",
       "channel": "RTL TVI",
       "title": "Les aventures de Rabbi Jacob",
       "subtitle": "",
@@ -1003,6 +934,144 @@
       ],
       "description": "The truth of Jia's discovery forces Amy and Kirsten to reassess the situation on Svalbard and embark on a rescue mission that has them facing a new, unexpected danger.",
       "category": "Serie"
+    },
+    {
+      "start": "2026-09-18T00:20:00+00:00",
+      "stop": "2026-09-18T01:20:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vigil",
+      "subtitle": "Episode 6",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Amy finds herself on the wrong side of the law, and Kirsten puts herself in danger to keep Amy safe and get to the truth – leading to the hardest choice of their careers.",
+      "category": "Serie"
+    },
+    {
+      "start": "2026-09-18T01:46:00+00:00",
+      "stop": "2026-09-18T03:27:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-18T10:54:00+00:00",
+      "stop": "2026-09-18T13:00:00+00:00",
+      "channel": "La Trois",
+      "title": "Brubaker",
+      "subtitle": "",
+      "directors": [
+        "Stuart Rosenberg"
+      ],
+      "actors": [
+        "Robert Redford",
+        "Yaphet Kotto",
+        "Jane Alexander",
+        "Murray Hamilton",
+        "David Keith",
+        "Morgan Freeman"
+      ],
+      "matched_actors": [
+        "Robert Redford"
+      ],
+      "description": "Henry Brubaker, nouveau directeur de la prison de Wakefield, fait son entrée dissimulé plusieurs jours durant parmi les trois cents détenus du centre pénitentiaire. Nommé pour assainir et réformer l'établissement, il va se retrouver confronté non seulement à l'administration, mais aussi aux détenus sur parole qui sont en charge du bon fonctionnement de la prison.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-18T11:35:00+00:00",
+      "stop": "2026-09-18T13:15:00+00:00",
+      "channel": "Arte",
+      "title": "D'une vie à l'autre",
+      "subtitle": "",
+      "directors": [
+        "Richard LaGravenese"
+      ],
+      "actors": [
+        "Holly Hunter",
+        "Danny DeVito",
+        "Queen Latifah",
+        "Martin Donovan",
+        "Richard Schiff",
+        "Elias Koteas"
+      ],
+      "matched_actors": [
+        "Holly Hunter"
+      ],
+      "description": "Il s'agit de l'histoire d'une riche bourgeoise, Judith Nelson, amère et névrotique, depuis que son mari, médecin, l'a délaissée pour une ravissante pédiatre plus jeune qu'elle. Un soir, dans un club de jazz, un inconnu, la prenant pour une autre, l'embrasse fougueusement. Ce baiser inopiné va réveiller Judith. Quand elle rentre dans son luxueux appartement elle regarde pour la première fois le liftier, Pat, jusqu'alors invisible, petit homme rond et mélancolique. Que peuvent avoir en commun Judith et Pat?",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-18T13:42:00+00:00",
+      "stop": "2026-09-18T15:26:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-18T15:26:00+00:00",
+      "stop": "2026-09-18T17:13:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
     }
   ]
 }
