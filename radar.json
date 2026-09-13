@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T12:22:33.369309+00:00",
-  "window_start": "2026-09-11",
-  "window_end": "2026-09-18",
+  "generated_at": "2026-09-13T10:20:36.605889+00:00",
+  "window_start": "2026-09-12",
+  "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,150 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 41,
+  "count": 39,
   "programmes": [
-    {
-      "start": "2026-09-11T00:35:00+00:00",
-      "stop": "2026-09-11T01:35:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 3",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy needs to help Kirsten after the death of someone on the hub. She is faced with a ticking clock to clear Kirsten's name before she is made into a scapegoat.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-11T01:35:00+00:00",
-      "stop": "2026-09-11T02:35:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 4",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Henrik and Kirsten close in on the missing Jia, with Amy not far behind. But as tensions rise and new allegiances are formed, the danger of the Arctic wilderness becomes apparent.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-11T12:59:00+00:00",
-      "stop": "2026-09-11T15:03:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "matched_actors": [
-        "Leonard Nimoy",
-        "Karl Urban"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-11T19:05:00+00:00",
-      "stop": "2026-09-11T20:45:00+00:00",
-      "channel": "France 5",
-      "title": "The Queen",
-      "subtitle": "",
-      "directors": [
-        "Stephen Frears"
-      ],
-      "actors": [
-        "Helen Mirren",
-        "Michael Sheen",
-        "James Cromwell",
-        "Sylvia Syms",
-        "Alex Jennings",
-        "Helen McCrory"
-      ],
-      "matched_actors": [
-        "Helen Mirren"
-      ],
-      "description": "En août 1997, au lendemain de la mort de la princesse Diana, le nouveau premier ministre Tony Blair presse la reine Elizabeth II de briser son silence et de s'adresser au peuple en deuil. La vague d'émotion qui submerge le Royaume-Uni est sans précédent, le peuple tout entier pleure la princesse. Au château de Balmoral, en Écosse, la reine désemparée reste silencieuse, comme indifférente. Alors qu'une vague d'émotion et de chagrin submerge le pays, Tony Blair, élu à une écrasante majorité au mois de mai précédent, sent instantanément que quelque chose est en train de se passer, comme si le pays tout entier avait perdu une sœur, une mère ou une fille. Au château de Balmoral en Écosse, Elizabeth II reste silencieuse, distante, apparemment indifférente. Désemparée par la réaction des Britanniques, elle ne comprend pas l'onde de choc qui ébranle le pays. Pour Tony Blair, il appartient aux dirigeants de réconforter la nation meurtrie et il lui faut absolument trouver le moyen de rapprocher la reine de ses sujets éplorés.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-11T19:10:00+00:00",
-      "stop": "2026-09-11T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "En eaux profondes",
-      "directors": [
-        "David Morley"
-      ],
-      "actors": [
-        "Christopher Bayemi",
-        "Juliette Plumecocq-Mech",
-        "Ophélia Kolb",
-        "Julien Boisselier",
-        "David Clavel",
-        "Pasquale d'Inca"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-11T21:05:00+00:00",
-      "stop": "2026-09-11T23:15:00+00:00",
-      "channel": "VTM 2",
-      "title": "Gone in Sixty Seconds",
-      "subtitle": "",
-      "directors": [
-        "Dominic Sena"
-      ],
-      "actors": [
-        "Nicolas Cage",
-        "Angelina Jolie",
-        "Giovanni Ribisi",
-        "Robert Duvall",
-        "Delroy Lindo",
-        "Timothy Olyphant"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Randall Raines, alias Memphis, was een legendarische autodief, tot de politie hem te dicht op de hielen kwam en zijn moeder hem smeekte om zijn leven te verbeteren. Jammer genoeg is Randalls broer Kip in zijn criminele voetsporen getreden. Wanneer hij in de problemen terechtkomt en een gangsterbaas hem wil ombrengen, moet Randall zijn beloften breken om Kip te redden.",
-      "category": "Films"
-    },
     {
       "start": "2026-09-12T02:04:00+00:00",
       "stop": "2026-09-12T03:45:00+00:00",
@@ -568,8 +426,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-09-14T20:10:00+00:00",
-      "stop": "2026-09-14T21:52:00+00:00",
+      "start": "2026-09-14T20:13:00+00:00",
+      "stop": "2026-09-14T21:55:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -1072,6 +930,100 @@
       ],
       "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-19T04:38:00+00:00",
+      "stop": "2026-09-19T06:25:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-19T15:02:00+00:00",
+      "stop": "2026-09-19T16:34:00+00:00",
+      "channel": "La Trois",
+      "title": "Angry Birds, le film",
+      "subtitle": "",
+      "directors": [
+        "Clay Kaytis",
+        "Fergal Reilly"
+      ],
+      "actors": [
+        "Danny McBride",
+        "Kate McKinnon",
+        "Tony Hale",
+        "Matthew J. McCarthy",
+        "Maddie Taylor",
+        "Mckenna Grace"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-09-19T18:40:00+00:00",
+      "stop": "2026-09-19T21:50:00+00:00",
+      "channel": "VTM",
+      "title": "Mission Impossible: Dead Reckoning - Part One",
+      "subtitle": "",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Rebecca Ferguson",
+        "Ving Rhames",
+        "Hayley Atwell",
+        "Pom Klementieff",
+        "Vanessa Kirby"
+      ],
+      "matched_actors": [
+        "Rebecca Ferguson",
+        "Hayley Atwell"
+      ],
+      "description": "Ethan Hunt en zijn IMF-collega's staan voor hun grootste uitdaging ooit als het voortbestaan van de mensheid op het spel komt te staan. Het team moet een huiveringwekkend wapen opsporen en verhinderen dat het in vijandelijke handen valt. Tijdens zijn wereldwijde zoektocht wordt Hunt geconfronteerd met zijn verleden. Hij moet de levensgevaarlijke missie zien te volbrengen terwijl zijn dierbaren bedreigd worden. Er volgt een dodelijke race rond de wereld waarbij controle over de toekomst en het lot van de wereld op het spel staan en Ethan wordt geconfronteerd met duistere krachten uit zijn verleden. In zijn krachtmeting met een mysterieuze en machtige vijand moet Ethan noodgedwongen de gedachte overwegen dat niets belangrijker kan zijn dan zijn missie, zelfs niet het leven van degenen die hem het meest dierbaar zijn.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-19T18:52:00+00:00",
+      "stop": "2026-09-19T20:33:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La Vallée des oubliés",
+      "directors": [
+        "Samuel Le Bihan"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Fabien Baïardi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alors qu'Angelo a depuis peu, une femme qui compte dans sa vie, celle-ci disparait sans laisser de traces ; la gendarmerie de Grenoble, mobilisée, ne trouve rien de concluant. En panique, Angelo appelle Alex à l'aide. Alors qu'elle n'a aucune légitimité pour enquêter dans le coin, l'équipe de la Rurale se reforme et ne tarde pas à découvrir qu'il ne s'agit pas de la première disparition non résolue dans cette vallée. .",
+      "category": "Séries"
     }
   ]
 }
