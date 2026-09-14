@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T13:29:36.479282+00:00",
-  "window_start": "2026-09-12",
-  "window_end": "2026-09-19",
+  "generated_at": "2026-09-14T10:44:06.879510+00:00",
+  "window_start": "2026-09-13",
+  "window_end": "2026-09-20",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -123,76 +123,6 @@
   ],
   "count": 39,
   "programmes": [
-    {
-      "start": "2026-09-12T02:04:00+00:00",
-      "stop": "2026-09-12T03:45:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-12T18:50:00+00:00",
-      "stop": "2026-09-12T20:37:00+00:00",
-      "channel": "Action",
-      "title": "21 Jump Street",
-      "subtitle": "",
-      "directors": [
-        "Phil Lord",
-        "Christopher Miller"
-      ],
-      "actors": [
-        "Jonah Hill",
-        "Channing Tatum",
-        "Brie Larson",
-        "Dave Franco",
-        "Rob Riggle",
-        "DeRay Davis"
-      ],
-      "matched_actors": [
-        "Brie Larson"
-      ],
-      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-12T18:51:00+00:00",
-      "stop": "2026-09-12T20:33:00+00:00",
-      "channel": "La Une",
-      "title": "Alex Hugo",
-      "subtitle": "La chute d'Icare",
-      "directors": [
-        "Sylvie Ayme"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-13T11:00:00+00:00",
       "stop": "2026-09-13T13:04:00+00:00",
@@ -1024,6 +954,73 @@
       ],
       "description": "Alors qu'Angelo a depuis peu, une femme qui compte dans sa vie, celle-ci disparait sans laisser de traces ; la gendarmerie de Grenoble, mobilisée, ne trouve rien de concluant. En panique, Angelo appelle Alex à l'aide. Alors qu'elle n'a aucune légitimité pour enquêter dans le coin, l'équipe de la Rurale se reforme et ne tarde pas à découvrir qu'il ne s'agit pas de la première disparition non résolue dans cette vallée. .",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-20T11:23:00+00:00",
+      "stop": "2026-09-20T13:07:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-20T11:30:00+00:00",
+      "stop": "2026-09-20T13:20:00+00:00",
+      "channel": "Arte",
+      "title": "L'arme à gauche",
+      "subtitle": "",
+      "directors": [
+        "Claude Sautet"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Sylva Koscina",
+        "Alberto de Mendoza",
+        "Leo Gordon"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-20T19:00:00+00:00",
+      "stop": "2026-09-20T22:15:00+00:00",
+      "channel": "Arte",
+      "title": "Le Parrain II",
+      "subtitle": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall",
+        "Diane Keaton",
+        "Talia Shire",
+        "John Cazale"
+      ],
+      "matched_actors": [
+        "Diane Keaton"
+      ],
+      "description": "Dans les années 1920, le jeune Sicilien Vito Corleone arrive à New York et bâtit peu à peu un empire du crime. À sa mort, son fils Michael lui succède. Amené à négocier avec Hyman Roth, le boss de la mafia juive, il échappe de peu à un attentat. Alors qu'il soupçonne Roth d'en être l'instigateur, il découvre que le coupable est en fait son propre frère, Freddie.",
+      "category": "Cinéma"
     }
   ]
 }
