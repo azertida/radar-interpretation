@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T15:17:06.234338+00:00",
+  "generated_at": "2026-09-15T10:08:31.329804+00:00",
   "window_start": "2026-09-13",
-  "window_end": "2026-09-20",
+  "window_end": "2026-09-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,81 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 39,
+  "count": 44,
   "programmes": [
-    {
-      "start": "2026-09-13T11:00:00+00:00",
-      "stop": "2026-09-13T13:04:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "matched_actors": [
-        "Leonard Nimoy",
-        "Karl Urban"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-13T18:50:00+00:00",
-      "stop": "2026-09-13T20:34:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-13T20:00:00+00:00",
-      "stop": "2026-09-13T21:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Vigil",
-      "subtitle": "Episode 5",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "The truth of Jia's discovery forces Amy and Kirsten to reassess the situation on Svalbard and embark on a rescue mission that has them facing a new, unexpected danger.",
-      "category": "Serie"
-    },
     {
       "start": "2026-09-13T22:20:00+00:00",
       "stop": "2026-09-14T00:30:00+00:00",
@@ -356,8 +283,8 @@
       "category": "Serie"
     },
     {
-      "start": "2026-09-14T20:13:00+00:00",
-      "stop": "2026-09-14T21:55:00+00:00",
+      "start": "2026-09-14T20:14:00+00:00",
+      "stop": "2026-09-14T21:56:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La chute d'Icare",
@@ -421,8 +348,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-15T18:33:00+00:00",
-      "stop": "2026-09-15T19:42:00+00:00",
+      "start": "2026-09-15T18:36:00+00:00",
+      "stop": "2026-09-15T19:49:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La poupée",
@@ -446,8 +373,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-15T19:42:00+00:00",
-      "stop": "2026-09-15T20:28:00+00:00",
+      "start": "2026-09-15T19:49:00+00:00",
+      "stop": "2026-09-15T20:37:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Les dames de compagnie",
@@ -611,8 +538,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-16T18:37:00+00:00",
-      "stop": "2026-09-16T20:43:00+00:00",
+      "start": "2026-09-16T18:39:00+00:00",
+      "stop": "2026-09-16T20:48:00+00:00",
       "channel": "La Trois",
       "title": "Brubaker",
       "subtitle": "",
@@ -681,7 +608,7 @@
     },
     {
       "start": "2026-09-17T20:41:00+00:00",
-      "stop": "2026-09-17T22:31:00+00:00",
+      "stop": "2026-09-17T22:30:00+00:00",
       "channel": "La Trois",
       "title": "Un beau matin",
       "subtitle": "",
@@ -770,8 +697,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-18T10:54:00+00:00",
-      "stop": "2026-09-18T13:00:00+00:00",
+      "start": "2026-09-18T11:04:00+00:00",
+      "stop": "2026-09-18T13:09:00+00:00",
       "channel": "La Trois",
       "title": "Brubaker",
       "subtitle": "",
@@ -882,6 +809,29 @@
         "Jean-Paul Belmondo"
       ],
       "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-19T13:15:00+00:00",
+      "stop": "2026-09-19T15:05:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Big Eyes",
+      "subtitle": "",
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Christoph Waltz",
+        "Danny Huston",
+        "Krysten Ritter",
+        "Jason Schwartzman",
+        "Terence Stamp"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "L'ascensione fenomenale della pittrice e artista Margaret Keane, la cui opera è caratterizzata da personaggi dagli occhi molto grandi. Negli anni '60 la donna si è impegnata in un braccio di ferro giuridico con suo marito, a cui aveva inizialmente permesso di attribuirsi la paternità dei suoi lavori per ragioni di marketing. I due finirono con il divorziare, arrivando ad una battaglia legale senza precedenti: un duello a colpi di pennello per ristabilire la giusta paternità delle opere.",
       "category": "Cinéma"
     },
     {
@@ -1020,6 +970,165 @@
         "Diane Keaton"
       ],
       "description": "Dans les années 1920, le jeune Sicilien Vito Corleone arrive à New York et bâtit peu à peu un empire du crime. À sa mort, son fils Michael lui succède. Amené à négocier avec Hyman Roth, le boss de la mafia juive, il échappe de peu à un attentat. Alors qu'il soupçonne Roth d'en être l'instigateur, il découvre que le coupable est en fait son propre frère, Freddie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-21T05:14:00+00:00",
+      "stop": "2026-09-21T07:01:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-21T11:03:00+00:00",
+      "stop": "2026-09-21T12:13:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "La poupée",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "1837. Alors que son oncle vient de mourir, la jeune Victoria est appelée à régner sur le Royaume-Uni. Mais la jeune femme est mal préparée à la tâche qui l'attend.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-21T12:13:00+00:00",
+      "stop": "2026-09-21T12:59:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Les dames de compagnie",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Les Tories s'impatientent. Ils s'attendent à un triomphe imminent. La popularité de Melbourne étant en perte de vitesse, le Duc de Cumberland entrevoit la possibilité d'amoindrir le pouvoir de sa nièce.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-21T18:55:00+00:00",
+      "stop": "2026-09-21T21:00:00+00:00",
+      "channel": "Arte",
+      "title": "Black Rain",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Michael Douglas",
+        "Andy Garcia",
+        "Ken Takakura",
+        "Kate Capshaw",
+        "Yusaku Matsuda",
+        "Shigeru Koyama"
+      ],
+      "matched_actors": [
+        "Michael Douglas"
+      ],
+      "description": "Deux policiers américains sont chargés d'escorter un criminel japonais à Osaka. Mais celui-ci s'échappe et les deux hommes doivent le poursuivre dans une ville et un pays dont ils ignorent tout.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-21T20:12:00+00:00",
+      "stop": "2026-09-21T21:09:00+00:00",
+      "channel": "La Une",
+      "title": "La belle étincelle - 1",
+      "subtitle": "",
+      "directors": [
+        "Hervé Mimran"
+      ],
+      "actors": [
+        "Bernard Campan",
+        "Mélanie Doutey",
+        "Lionnel Astier"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Philippe Lamarck, brillant chef étoilé au caractère compliqué, pousse la porte du restaurant La Belle Étincelle, ce restaurant pas comme les autres... Virginie, la gérante, pour permettre à Noé, son fils atteint de troubles autistiques de devenir cuisinier, a monté un restaurant inclusif et embauché d'autres jeunes porteurs de handicaps cognitifs.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-21T21:00:00+00:00",
+      "stop": "2026-09-21T22:20:00+00:00",
+      "channel": "Arte",
+      "title": "Hondo, l'homme du désert",
+      "subtitle": "",
+      "directors": [
+        "John Farrow"
+      ],
+      "actors": [
+        "John Wayne",
+        "Geraldine Page",
+        "Ward Bond",
+        "James Arness",
+        "Michael Pate",
+        "Rodolfo Acosta"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-21T21:09:00+00:00",
+      "stop": "2026-09-21T21:56:00+00:00",
+      "channel": "La Une",
+      "title": "La belle étincelle - 2",
+      "subtitle": "",
+      "directors": [
+        "Hervé Mimran"
+      ],
+      "actors": [
+        "Bernard Campan",
+        "Mélanie Doutey",
+        "Lionnel Astier"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Noé est un jeune adulte atteint de troubles autistiques passionné par la cuisine. Depuis ses 6 ans, il apprend des recettes par coeur. Malheureusement, il rencontre des difficultés à trouver un travail en cuisine et surtout à le garder, à cause de son rythme, de sa maladresse et de son relationnel. Mais sa grande force, c'est sa détermination, son odorat et son palais exceptionnels. Après un énième échec, sa mère Virginie va lui donner la chance de réaliser son rêve en rachetant un restaurant. Son projet, en faire un restaurant inclusif qui embauche des jeunes ayant des troubles autistiques et trisomiques.De son côté, Philippe Lamarck, un grand chef de restaurant étoilé, voit sa carrière voler en éclats. Au lieu de gagner une étoile pour son restaurant, il perd celle qu'il avait. Fou de rage, il blesse involontairement une serveuse du restaurant. La vidéo fait le tour de la toile. Il perd tout. Pour redorer son image, il accepte de travailler au sein du restaurant de Virginie : La Belle Etincelle...",
       "category": "Cinéma"
     }
   ]
