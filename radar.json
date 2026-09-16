@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T13:53:48.516296+00:00",
-  "window_start": "2026-09-13",
-  "window_end": "2026-09-21",
+  "generated_at": "2026-09-16T10:00:08.323414+00:00",
+  "window_start": "2026-09-15",
+  "window_end": "2026-09-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,209 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 44,
+  "count": 38,
   "programmes": [
-    {
-      "start": "2026-09-13T22:20:00+00:00",
-      "stop": "2026-09-14T00:30:00+00:00",
-      "channel": "BBC One",
-      "title": "Just Mercy",
-      "subtitle": "",
-      "directors": [
-        "Destin Daniel Cretton"
-      ],
-      "actors": [
-        "Brie Larson",
-        "Michael B. Jordan",
-        "Jamie Foxx",
-        "Rafe Spall",
-        "Tim Blake Nelson",
-        "O'Shea Jackson Jr."
-      ],
-      "matched_actors": [
-        "Brie Larson"
-      ],
-      "description": "Attorney Bryan Stevenson takes on the case of an African-American man wrongly imprisoned for the murder of a white woman. As Bryan becomes embroiled in a labyrinth of legal and political maneuverings, he fights for Walter with the odds - and a system - stacked against them.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-14T01:52:00+00:00",
-      "stop": "2026-09-14T04:32:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-14T07:15:00+00:00",
-      "stop": "2026-09-14T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de troubadour",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de troubadour Julien retrouve Anthony, musicien qui vit en van depuis cinq ans. Le jeune homme passe l'été à Halifax pour y jouer de la musique de rue. Un mode de vie qui lui demande une grande capacité d'adaptation.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-14T09:31:00+00:00",
-      "stop": "2026-09-14T11:15:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-14T11:35:00+00:00",
-      "stop": "2026-09-14T13:20:00+00:00",
-      "channel": "Arte",
-      "title": "L'arme à gauche",
-      "subtitle": "",
-      "directors": [
-        "Claude Sautet"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Sylva Koscina",
-        "Alberto de Mendoza",
-        "Leo Gordon"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-14T18:55:00+00:00",
-      "stop": "2026-09-14T20:50:00+00:00",
-      "channel": "Arte",
-      "title": "Julia",
-      "subtitle": "",
-      "directors": [
-        "Fred Zinnemann"
-      ],
-      "actors": [
-        "Jane Fonda",
-        "Vanessa Redgrave",
-        "Jason Robards",
-        "Maximilian Schell",
-        "Hal Holbrook",
-        "Rosemary Murphy"
-      ],
-      "matched_actors": [
-        "Jane Fonda"
-      ],
-      "description": "Entre les deux guerres mondiales, la romancière Lillian Hellman vit avec l'écrivain Dashiell Hammett dans une maison face à l'océan sur la côte Est. Elle n'a plus de nouvelle de son amie d'enfance Julia partie étudier en Europe. Elle lui rend visite à Oxford quand Julia lui annonce qu'elle se prépare à rejoindre Vienne pour y étudier la médecine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgré les dangers de l'Europe en guerre, aidée par la résistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-14T20:00:00+00:00",
-      "stop": "2026-09-14T21:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Vigil",
-      "subtitle": "Episode 6",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy finds herself on the wrong side of the law, and Kirsten puts herself in danger to keep Amy safe and get to the truth – leading to the hardest choice of their careers.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-14T20:14:00+00:00",
-      "stop": "2026-09-14T21:56:00+00:00",
-      "channel": "La Une",
-      "title": "Alex Hugo",
-      "subtitle": "La chute d'Icare",
-      "directors": [
-        "Sylvie Ayme"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Les deux câbles d'acier d'une tyrolienne font une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté, 400 mètres en contrebas. Sous la direction d'un guide, une jeune femme boucle son baudrier et s'élance. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris... Alors que cette aventure s'achève tragiquement, Alex Hugo va devoir faire face au maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-14T20:50:00+00:00",
-      "stop": "2026-09-14T21:45:00+00:00",
-      "channel": "Arte",
-      "title": "Citizen Jane, l'Amérique selon Fonda",
-      "subtitle": "",
-      "directors": [
-        "Florence Platarets"
-      ],
-      "actors": [
-        "Jane Fonda",
-        "Donald Sutherland"
-      ],
-      "matched_actors": [
-        "Jane Fonda"
-      ],
-      "description": "Un portrait haut en couleur de l'actrice Jane Fonda, en résonance avec l'histoire récente des États-Unis, ses rêves et ses désillusions.",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-09-15T02:00:00+00:00",
       "stop": "2026-09-15T02:30:00+00:00",
@@ -607,8 +406,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-17T20:41:00+00:00",
-      "stop": "2026-09-17T22:30:00+00:00",
+      "start": "2026-09-17T20:48:00+00:00",
+      "stop": "2026-09-17T22:38:00+00:00",
       "channel": "La Trois",
       "title": "Un beau matin",
       "subtitle": "",
@@ -1129,6 +928,79 @@
         "Lionnel Astier"
       ],
       "description": "Noé est un jeune adulte atteint de troubles autistiques passionné par la cuisine. Depuis ses 6 ans, il apprend des recettes par coeur. Malheureusement, il rencontre des difficultés à trouver un travail en cuisine et surtout à le garder, à cause de son rythme, de sa maladresse et de son relationnel. Mais sa grande force, c'est sa détermination, son odorat et son palais exceptionnels. Après un énième échec, sa mère Virginie va lui donner la chance de réaliser son rêve en rachetant un restaurant. Son projet, en faire un restaurant inclusif qui embauche des jeunes ayant des troubles autistiques et trisomiques.De son côté, Philippe Lamarck, un grand chef de restaurant étoilé, voit sa carrière voler en éclats. Au lieu de gagner une étoile pour son restaurant, il perd celle qu'il avait. Fou de rage, il blesse involontairement une serveuse du restaurant. La vidéo fait le tour de la toile. Il perd tout. Pour redorer son image, il accepte de travailler au sein du restaurant de Virginie : La Belle Etincelle...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-22T18:33:00+00:00",
+      "stop": "2026-09-22T19:20:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Brocket Hall",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Afin de garantir la pérennité de la monarchie, Victoria est poussée à épouser son cousin Albert.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-22T19:20:00+00:00",
+      "stop": "2026-09-22T20:07:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Son Altesse Sévérissime",
+      "directors": [
+        "Sandra Goldbacher",
+        "Tom Vaughan",
+        "Olly Black"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "A peine Albert arrive-t-il au palais que Victoria et lui se découvrent une antipathie immédiate.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-22T20:27:00+00:00",
+      "stop": "2026-09-22T22:11:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
       "category": "Cinéma"
     }
   ]
