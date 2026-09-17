@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T13:44:50.650811+00:00",
-  "window_start": "2026-09-15",
-  "window_end": "2026-09-22",
+  "generated_at": "2026-09-17T10:03:11.867855+00:00",
+  "window_start": "2026-09-16",
+  "window_end": "2026-09-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,131 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 38,
+  "count": 37,
   "programmes": [
-    {
-      "start": "2026-09-15T02:00:00+00:00",
-      "stop": "2026-09-15T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de troubadour",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de troubadour Julien retrouve Anthony, musicien qui vit en van depuis cinq ans. Le jeune homme passe l'été à Halifax pour y jouer de la musique de rue. Un mode de vie qui lui demande une grande capacité d'adaptation.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-15T18:36:00+00:00",
-      "stop": "2026-09-15T19:49:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "La poupée",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "1837. Alors que son oncle vient de mourir, la jeune Victoria est appelée à régner sur le Royaume-Uni. Mais la jeune femme est mal préparée à la tâche qui l'attend.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-15T19:49:00+00:00",
-      "stop": "2026-09-15T20:37:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Les dames de compagnie",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Les Tories s'impatientent. Ils s'attendent à un triomphe imminent. La popularité de Melbourne étant en perte de vitesse, le Duc de Cumberland entrevoit la possibilité d'amoindrir le pouvoir de sa nièce.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-15T20:37:00+00:00",
-      "stop": "2026-09-15T22:41:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "matched_actors": [
-        "Leonard Nimoy",
-        "Karl Urban"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-15T22:00:00+00:00",
-      "stop": "2026-09-15T23:30:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "En eaux profondes",
-      "directors": [
-        "David Morley"
-      ],
-      "actors": [
-        "Christopher Bayemi",
-        "Juliette Plumecocq-Mech",
-        "Ophélia Kolb",
-        "Julien Boisselier",
-        "David Clavel",
-        "Pasquale d'Inca"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-16T02:09:00+00:00",
       "stop": "2026-09-16T03:50:00+00:00",
@@ -383,8 +260,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-17T18:40:00+00:00",
-      "stop": "2026-09-17T20:35:00+00:00",
+      "start": "2026-09-17T18:45:00+00:00",
+      "stop": "2026-09-17T20:44:00+00:00",
       "channel": "RTL TVI",
       "title": "Les aventures de Rabbi Jacob",
       "subtitle": "",
@@ -496,8 +373,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-18T11:04:00+00:00",
-      "stop": "2026-09-18T13:09:00+00:00",
+      "start": "2026-09-18T11:00:00+00:00",
+      "stop": "2026-09-18T13:06:00+00:00",
       "channel": "La Trois",
       "title": "Brubaker",
       "subtitle": "",
@@ -868,8 +745,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T20:12:00+00:00",
-      "stop": "2026-09-21T21:09:00+00:00",
+      "start": "2026-09-21T20:16:00+00:00",
+      "stop": "2026-09-21T21:13:00+00:00",
       "channel": "La Une",
       "title": "La belle étincelle - 1",
       "subtitle": "",
@@ -911,8 +788,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T21:09:00+00:00",
-      "stop": "2026-09-21T21:56:00+00:00",
+      "start": "2026-09-21T21:13:00+00:00",
+      "stop": "2026-09-21T22:00:00+00:00",
       "channel": "La Une",
       "title": "La belle étincelle - 2",
       "subtitle": "",
@@ -1002,6 +879,98 @@
       ],
       "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-23T06:56:00+00:00",
+      "stop": "2026-09-23T08:43:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-23T11:35:00+00:00",
+      "stop": "2026-09-23T13:50:00+00:00",
+      "channel": "Arte",
+      "title": "Julia",
+      "subtitle": "",
+      "directors": [
+        "Fred Zinnemann"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "Vanessa Redgrave",
+        "Jason Robards",
+        "Maximilian Schell",
+        "Hal Holbrook",
+        "Rosemary Murphy"
+      ],
+      "matched_actors": [
+        "Jane Fonda"
+      ],
+      "description": "Entre les deux guerres mondiales, la romancière Lillian Hellman vit avec l'écrivain Dashiell Hammett dans une maison face à l'océan sur la côte Est. Elle n'a plus de nouvelle de son amie d'enfance Julia partie étudier en Europe. Elle lui rend visite à Oxford quand Julia lui annonce qu'elle se prépare à rejoindre Vienne pour y étudier la médecine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgré les dangers de l'Europe en guerre, aidée par la résistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-23T18:37:00+00:00",
+      "stop": "2026-09-23T20:27:00+00:00",
+      "channel": "La Trois",
+      "title": "Taxi Driver",
+      "subtitle": "",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Peter Boyle",
+        "Leonard Harris",
+        "Harvey Keitel"
+      ],
+      "matched_actors": [
+        "Jodie Foster"
+      ],
+      "description": "À son retour du Vietnam, le vétéran Travis Bickle, déséquilibré et souffrant d'insomnie, accepte un emploi de chauffeur de taxi. Chaque nuit, il sillonne les rues de New York. La violence et la décadence qui règnent dans la ville et dont il est le témoin impuissant le révoltent et l'horrifient. Un soir, une prostituée mineure monte dans son taxi. Bickle se met alors en tête de la délivrer de son souteneur.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-23T21:00:00+00:00",
+      "stop": "2026-09-23T22:35:00+00:00",
+      "channel": "France 2",
+      "title": "A l'instinct",
+      "subtitle": "En eaux profondes",
+      "directors": [
+        "David Morley"
+      ],
+      "actors": [
+        "Christopher Bayemi",
+        "Juliette Plumecocq-Mech",
+        "Ophélia Kolb",
+        "Julien Boisselier",
+        "David Clavel",
+        "Pasquale d'Inca"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
+      "category": "Séries"
     }
   ]
 }
