@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T13:48:55.247523+00:00",
-  "window_start": "2026-09-16",
-  "window_end": "2026-09-23",
+  "generated_at": "2026-09-18T09:49:15.379073+00:00",
+  "window_start": "2026-09-17",
+  "window_end": "2026-09-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,144 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 37,
+  "count": 34,
   "programmes": [
-    {
-      "start": "2026-09-16T02:09:00+00:00",
-      "stop": "2026-09-16T03:50:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-16T04:15:00+00:00",
-      "stop": "2026-09-16T05:05:00+00:00",
-      "channel": "RAI Due",
-      "title": "La grande vallata",
-      "subtitle": "La chiamarono Dalila",
-      "directors": [],
-      "actors": [
-        "Barbara Stanwyck",
-        "Richard Long",
-        "Paul Lambert",
-        "Robert Nichols",
-        "Julie London",
-        "Lee Majors"
-      ],
-      "matched_actors": [
-        "Julie London"
-      ],
-      "description": "Julia Saxon, un'ex spia confederata, arriva a Stockton accusata di omicidio e Jarrod si impegna difenderla in tribunale in nome dei vecchi sentimenti. Episodio 88",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-16T05:03:00+00:00",
-      "stop": "2026-09-16T06:56:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-16T17:03:00+00:00",
-      "stop": "2026-09-16T18:50:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-16T18:39:00+00:00",
-      "stop": "2026-09-16T20:48:00+00:00",
-      "channel": "La Trois",
-      "title": "Brubaker",
-      "subtitle": "",
-      "directors": [
-        "Stuart Rosenberg"
-      ],
-      "actors": [
-        "Robert Redford",
-        "Yaphet Kotto",
-        "Jane Alexander",
-        "Murray Hamilton",
-        "David Keith",
-        "Morgan Freeman"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "Henry Brubaker, nouveau directeur de la prison de Wakefield, fait son entrée dissimulé plusieurs jours durant parmi les trois cents détenus du centre pénitentiaire. Nommé pour assainir et réformer l'établissement, il va se retrouver confronté non seulement à l'administration, mais aussi aux détenus sur parole qui sont en charge du bon fonctionnement de la prison.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-16T21:00:00+00:00",
-      "stop": "2026-09-16T22:30:00+00:00",
-      "channel": "RAI Due",
-      "title": "The Misfits",
-      "subtitle": "",
-      "directors": [
-        "Renny Harlin"
-      ],
-      "actors": [
-        "Pierce Brosnan",
-        "Hermione Corfield",
-        "Nick Cannon",
-        "Rami Jaber",
-        "Jamie Chung",
-        "Mike Angelo"
-      ],
-      "matched_actors": [
-        "Pierce Brosnan"
-      ],
-      "description": "Il brillante ladro internazionale Richard Pace evade di prigione, ma viene catturato da una banda, di cui fa parte anche sua figlia, che vuole coinvolgerlo nella rapina del secolo.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-17T18:45:00+00:00",
       "stop": "2026-09-17T20:44:00+00:00",
@@ -511,8 +375,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-19T15:02:00+00:00",
-      "stop": "2026-09-19T16:34:00+00:00",
+      "start": "2026-09-19T14:59:00+00:00",
+      "stop": "2026-09-19T16:32:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -535,8 +399,8 @@
       "category": "Jeunesse"
     },
     {
-      "start": "2026-09-19T18:40:00+00:00",
-      "stop": "2026-09-19T21:50:00+00:00",
+      "start": "2026-09-19T18:45:00+00:00",
+      "stop": "2026-09-19T21:55:00+00:00",
       "channel": "VTM",
       "title": "Mission Impossible: Dead Reckoning - Part One",
       "subtitle": "",
@@ -672,8 +536,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T11:03:00+00:00",
-      "stop": "2026-09-21T12:13:00+00:00",
+      "start": "2026-09-21T11:00:00+00:00",
+      "stop": "2026-09-21T12:10:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La poupée",
@@ -697,8 +561,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-21T12:13:00+00:00",
-      "stop": "2026-09-21T12:59:00+00:00",
+      "start": "2026-09-21T12:10:00+00:00",
+      "stop": "2026-09-21T12:57:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Les dames de compagnie",
@@ -808,8 +672,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-22T18:33:00+00:00",
-      "stop": "2026-09-22T19:20:00+00:00",
+      "start": "2026-09-22T18:36:00+00:00",
+      "stop": "2026-09-22T19:25:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Brocket Hall",
@@ -833,8 +697,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-22T19:20:00+00:00",
-      "stop": "2026-09-22T20:07:00+00:00",
+      "start": "2026-09-22T19:25:00+00:00",
+      "stop": "2026-09-22T20:15:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Son Altesse Sévérissime",
@@ -927,8 +791,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-23T18:37:00+00:00",
-      "stop": "2026-09-23T20:27:00+00:00",
+      "start": "2026-09-23T18:36:00+00:00",
+      "stop": "2026-09-23T20:26:00+00:00",
       "channel": "La Trois",
       "title": "Taxi Driver",
       "subtitle": "",
@@ -971,6 +835,75 @@
       ],
       "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-24T05:35:00+00:00",
+      "stop": "2026-09-24T07:22:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-24T10:36:00+00:00",
+      "stop": "2026-09-24T12:20:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-24T20:35:00+00:00",
+      "stop": "2026-09-24T22:25:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Les aventures de Rabbi Jacob",
+      "subtitle": "",
+      "directors": [
+        "Gérard Oury"
+      ],
+      "actors": [
+        "Marcel Dalio",
+        "Louis de Funès",
+        "Henri Guybet",
+        "Miou-Miou",
+        "Suzy Delair",
+        "Claude Giraud"
+      ],
+      "matched_actors": [
+        "Louis de Funès"
+      ],
+      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
+      "category": "Cinéma"
     }
   ]
 }
