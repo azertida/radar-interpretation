@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T13:10:02.794398+00:00",
+  "generated_at": "2026-09-19T09:35:21.428713+00:00",
   "window_start": "2026-09-17",
-  "window_end": "2026-09-24",
+  "window_end": "2026-09-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 115,
   "watchlist": [
@@ -121,52 +121,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 34,
+  "count": 35,
   "programmes": [
-    {
-      "start": "2026-09-17T18:45:00+00:00",
-      "stop": "2026-09-17T20:44:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Les aventures de Rabbi Jacob",
-      "subtitle": "",
-      "directors": [
-        "Gérard Oury"
-      ],
-      "actors": [
-        "Marcel Dalio",
-        "Louis de Funès",
-        "Henri Guybet",
-        "Miou-Miou",
-        "Suzy Delair",
-        "Claude Giraud"
-      ],
-      "matched_actors": [
-        "Louis de Funès"
-      ],
-      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-17T20:48:00+00:00",
-      "stop": "2026-09-17T22:38:00+00:00",
-      "channel": "La Trois",
-      "title": "Un beau matin",
-      "subtitle": "",
-      "directors": [
-        "Mia Hansen-Løve"
-      ],
-      "actors": [
-        "Léa Seydoux",
-        "Pascal Greggory",
-        "Melvil Poupaud",
-        "Nicole Garcia"
-      ],
-      "matched_actors": [
-        "Léa Seydoux"
-      ],
-      "description": "Une jeune mère célibataire s'efforce de s'occuper de son père atteint d'une maladie neurodégénérative.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-17T23:20:00+00:00",
       "stop": "2026-09-18T00:20:00+00:00",
@@ -423,8 +379,8 @@
       "category": "Films"
     },
     {
-      "start": "2026-09-19T18:52:00+00:00",
-      "stop": "2026-09-19T20:33:00+00:00",
+      "start": "2026-09-19T18:55:00+00:00",
+      "stop": "2026-09-19T20:37:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La Vallée des oubliés",
@@ -536,8 +492,31 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T11:00:00+00:00",
-      "stop": "2026-09-21T12:10:00+00:00",
+      "start": "2026-09-21T07:15:00+00:00",
+      "stop": "2026-09-21T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie d'artisans des bois",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie d'artisans des bois Julien se rend dans le Bas-Saint-Laurent pour découvrir le mode de vie de Rémi, de Noémie et de leur petite Aurélie. Artisans des bois, ils habitent aujourd'hui la maison qu'ils ont construite de leurs mains et arrivent à vivre de leur art.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-21T11:01:00+00:00",
+      "stop": "2026-09-21T12:11:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La poupée",
@@ -561,8 +540,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-21T12:10:00+00:00",
-      "stop": "2026-09-21T12:57:00+00:00",
+      "start": "2026-09-21T12:11:00+00:00",
+      "stop": "2026-09-21T12:58:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Les dames de compagnie",
@@ -653,7 +632,7 @@
     },
     {
       "start": "2026-09-21T21:13:00+00:00",
-      "stop": "2026-09-21T22:00:00+00:00",
+      "stop": "2026-09-21T22:01:00+00:00",
       "channel": "La Une",
       "title": "La belle étincelle - 2",
       "subtitle": "",
@@ -670,6 +649,29 @@
       ],
       "description": "Noé est un jeune adulte atteint de troubles autistiques passionné par la cuisine. Depuis ses 6 ans, il apprend des recettes par coeur. Malheureusement, il rencontre des difficultés à trouver un travail en cuisine et surtout à le garder, à cause de son rythme, de sa maladresse et de son relationnel. Mais sa grande force, c'est sa détermination, son odorat et son palais exceptionnels. Après un énième échec, sa mère Virginie va lui donner la chance de réaliser son rêve en rachetant un restaurant. Son projet, en faire un restaurant inclusif qui embauche des jeunes ayant des troubles autistiques et trisomiques.De son côté, Philippe Lamarck, un grand chef de restaurant étoilé, voit sa carrière voler en éclats. Au lieu de gagner une étoile pour son restaurant, il perd celle qu'il avait. Fou de rage, il blesse involontairement une serveuse du restaurant. La vidéo fait le tour de la toile. Il perd tout. Pour redorer son image, il accepte de travailler au sein du restaurant de Virginie : La Belle Etincelle...",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-22T02:00:00+00:00",
+      "stop": "2026-09-22T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie d'artisans des bois",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie d'artisans des bois Julien se rend dans le Bas-Saint-Laurent pour découvrir le mode de vie de Rémi, de Noémie et de leur petite Aurélie. Artisans des bois, ils habitent aujourd'hui la maison qu'ils ont construite de leurs mains et arrivent à vivre de leur art.",
+      "category": "Documentaire"
     },
     {
       "start": "2026-09-22T18:36:00+00:00",
@@ -883,8 +885,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-24T20:35:00+00:00",
-      "stop": "2026-09-24T22:25:00+00:00",
+      "start": "2026-09-24T20:41:00+00:00",
+      "stop": "2026-09-24T22:29:00+00:00",
       "channel": "RTL TVI",
       "title": "Les aventures de Rabbi Jacob",
       "subtitle": "",
@@ -903,6 +905,29 @@
         "Louis de Funès"
       ],
       "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-25T11:12:00+00:00",
+      "stop": "2026-09-25T13:02:00+00:00",
+      "channel": "La Trois",
+      "title": "Taxi Driver",
+      "subtitle": "",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Peter Boyle",
+        "Leonard Harris",
+        "Harvey Keitel"
+      ],
+      "matched_actors": [
+        "Jodie Foster"
+      ],
+      "description": "À son retour du Vietnam, le vétéran Travis Bickle, déséquilibré et souffrant d'insomnie, accepte un emploi de chauffeur de taxi. Chaque nuit, il sillonne les rues de New York. La violence et la décadence qui règnent dans la ville et dont il est le témoin impuissant le révoltent et l'horrifient. Un soir, une prostituée mineure monte dans son taxi. Bickle se met alors en tête de la délivrer de son souteneur.",
       "category": "Cinéma"
     }
   ]
