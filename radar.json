@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T12:41:51.081588+00:00",
-  "window_start": "2026-09-17",
-  "window_end": "2026-09-25",
+  "generated_at": "2026-09-20T09:51:35.468563+00:00",
+  "window_start": "2026-09-19",
+  "window_end": "2026-09-26",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 115,
+  "watchlist_size": 116,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -72,6 +72,7 @@
     "Myrna Loy",
     "Melissa McCarthy",
     "Kate McKinnon",
+    "Anne Meara",
     "Bette Midler",
     "Sherry Miller",
     "Hayley Mills",
@@ -121,169 +122,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 35,
+  "count": 33,
   "programmes": [
-    {
-      "start": "2026-09-17T23:20:00+00:00",
-      "stop": "2026-09-18T00:20:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 5",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "The truth of Jia's discovery forces Amy and Kirsten to reassess the situation on Svalbard and embark on a rescue mission that has them facing a new, unexpected danger.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-18T00:20:00+00:00",
-      "stop": "2026-09-18T01:20:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vigil",
-      "subtitle": "Episode 6",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy finds herself on the wrong side of the law, and Kirsten puts herself in danger to keep Amy safe and get to the truth – leading to the hardest choice of their careers.",
-      "category": "Serie"
-    },
-    {
-      "start": "2026-09-18T01:46:00+00:00",
-      "stop": "2026-09-18T03:27:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-18T11:00:00+00:00",
-      "stop": "2026-09-18T13:06:00+00:00",
-      "channel": "La Trois",
-      "title": "Brubaker",
-      "subtitle": "",
-      "directors": [
-        "Stuart Rosenberg"
-      ],
-      "actors": [
-        "Robert Redford",
-        "Yaphet Kotto",
-        "Jane Alexander",
-        "Murray Hamilton",
-        "David Keith",
-        "Morgan Freeman"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "Henry Brubaker, nouveau directeur de la prison de Wakefield, fait son entrée dissimulé plusieurs jours durant parmi les trois cents détenus du centre pénitentiaire. Nommé pour assainir et réformer l'établissement, il va se retrouver confronté non seulement à l'administration, mais aussi aux détenus sur parole qui sont en charge du bon fonctionnement de la prison.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-18T11:35:00+00:00",
-      "stop": "2026-09-18T13:15:00+00:00",
-      "channel": "Arte",
-      "title": "D'une vie à l'autre",
-      "subtitle": "",
-      "directors": [
-        "Richard LaGravenese"
-      ],
-      "actors": [
-        "Holly Hunter",
-        "Danny DeVito",
-        "Queen Latifah",
-        "Martin Donovan",
-        "Richard Schiff",
-        "Elias Koteas"
-      ],
-      "matched_actors": [
-        "Holly Hunter"
-      ],
-      "description": "Il s'agit de l'histoire d'une riche bourgeoise, Judith Nelson, amère et névrotique, depuis que son mari, médecin, l'a délaissée pour une ravissante pédiatre plus jeune qu'elle. Un soir, dans un club de jazz, un inconnu, la prenant pour une autre, l'embrasse fougueusement. Ce baiser inopiné va réveiller Judith. Quand elle rentre dans son luxueux appartement elle regarde pour la première fois le liftier, Pat, jusqu'alors invisible, petit homme rond et mélancolique. Que peuvent avoir en commun Judith et Pat?",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-18T13:42:00+00:00",
-      "stop": "2026-09-18T15:26:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-18T15:26:00+00:00",
-      "stop": "2026-09-18T17:13:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-19T04:38:00+00:00",
       "stop": "2026-09-19T06:25:00+00:00",
@@ -588,8 +428,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T20:16:00+00:00",
-      "stop": "2026-09-21T21:13:00+00:00",
+      "start": "2026-09-21T20:14:00+00:00",
+      "stop": "2026-09-21T21:12:00+00:00",
       "channel": "La Une",
       "title": "La belle étincelle - 1",
       "subtitle": "",
@@ -631,8 +471,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-21T21:13:00+00:00",
-      "stop": "2026-09-21T22:01:00+00:00",
+      "start": "2026-09-21T21:12:00+00:00",
+      "stop": "2026-09-21T22:00:00+00:00",
       "channel": "La Une",
       "title": "La belle étincelle - 2",
       "subtitle": "",
@@ -929,6 +769,119 @@
       ],
       "description": "À son retour du Vietnam, le vétéran Travis Bickle, déséquilibré et souffrant d'insomnie, accepte un emploi de chauffeur de taxi. Chaque nuit, il sillonne les rues de New York. La violence et la décadence qui règnent dans la ville et dont il est le témoin impuissant le révoltent et l'horrifient. Un soir, une prostituée mineure monte dans son taxi. Bickle se met alors en tête de la délivrer de son souteneur.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-26T13:15:00+00:00",
+      "stop": "2026-09-26T15:05:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Big Eyes",
+      "subtitle": "",
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Christoph Waltz",
+        "Danny Huston",
+        "Krysten Ritter",
+        "Jason Schwartzman",
+        "Terence Stamp"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "L'ascensione fenomenale della pittrice e artista Margaret Keane, la cui opera è caratterizzata da personaggi dagli occhi molto grandi. Negli anni '60 la donna si è impegnata in un braccio di ferro giuridico con suo marito, a cui aveva inizialmente permesso di attribuirsi la paternità dei suoi lavori per ragioni di marketing. I due finirono con il divorziare, arrivando ad una battaglia legale senza precedenti: un duello a colpi di pennello per ristabilire la giusta paternità delle opere.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-26T15:11:00+00:00",
+      "stop": "2026-09-26T16:59:00+00:00",
+      "channel": "Action",
+      "title": "Infinite",
+      "subtitle": "",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson",
+        "Dylan O'Brien",
+        "Jason Mantzoukas",
+        "Rupert Friend"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-26T18:50:00+00:00",
+      "stop": "2026-09-26T20:32:00+00:00",
+      "channel": "La Une",
+      "title": "Alex Hugo",
+      "subtitle": "La vallée des vautours",
+      "directors": [],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Un couple d'Anglais et un randonneur sont froidement abattus dans un lieu isolé dominant la petite ville de Lusagne. Compte tenu de la nationalité des victimes, Brian Davies, inspecteur chevronné de la police britannique, se retrouve dépêché sur les lieux pour assister le commandant Alex Hugo dans son enquête. Si les deux hommes parviennent difficilement à concilier leurs méthodes d'investigation, ils vont peu à peu nouer une certaine complicité. Alors qu'ils peinent à identifier un suspect crédible, Alex et Brian finissent par découvrir une piste inattendue.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-26T20:20:00+00:00",
+      "stop": "2026-09-26T22:45:00+00:00",
+      "channel": "VTM 2",
+      "title": "Inside Man",
+      "subtitle": "",
+      "directors": [
+        "Spike Lee"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Clive Owen",
+        "Jodie Foster",
+        "Christopher Plummer",
+        "Willem Dafoe",
+        "Chiwetel Ejiofor"
+      ],
+      "matched_actors": [
+        "Jodie Foster",
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Een man heeft de perfecte bankoverval gepland. Vanuit zijn cel vertelt hij er ons alles over. De overvallers komen de bank binnen en alles verloopt prima totdat er mensen worden gegijzeld en de onderhandelingen van start gaan. De keiharde inspecteur Keith Miller krijgt heel wat kritiek over de manier waarop hij de zaak aanpakt en dan is er ook nog Madeleine White, een advocate met een heel aparte agenda ...",
+      "category": "Films"
+    },
+    {
+      "start": "2026-09-26T21:45:00+00:00",
+      "stop": "2026-09-26T23:15:00+00:00",
+      "channel": "BBC One",
+      "title": "Legally Blonde",
+      "subtitle": "",
+      "directors": [
+        "Robert Luketic"
+      ],
+      "actors": [
+        "Reese Witherspoon",
+        "Luke Wilson",
+        "Selma Blair",
+        "Matt Davis",
+        "Victor Garber",
+        "Jennifer Coolidge"
+      ],
+      "matched_actors": [
+        "Luke Wilson"
+      ],
+      "description": "Breezy comedy with Reese Witherspoon as a ditzy blonde who decides to attend Harvard Law School when her snobby boyfriend dumps her for a more \"appropriate\" woman.",
+      "category": "Movies"
     }
   ]
 }
