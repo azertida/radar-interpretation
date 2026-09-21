@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:13:38.301493+00:00",
-  "window_start": "2026-09-19",
-  "window_end": "2026-09-26",
+  "generated_at": "2026-09-21T10:47:20.697853+00:00",
+  "window_start": "2026-09-20",
+  "window_end": "2026-09-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 116,
   "watchlist": [
@@ -122,125 +122,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 32,
   "programmes": [
-    {
-      "start": "2026-09-19T04:38:00+00:00",
-      "stop": "2026-09-19T06:25:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-19T13:15:00+00:00",
-      "stop": "2026-09-19T15:05:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Big Eyes",
-      "subtitle": "",
-      "directors": [
-        "Tim Burton"
-      ],
-      "actors": [
-        "Amy Adams",
-        "Christoph Waltz",
-        "Danny Huston",
-        "Krysten Ritter",
-        "Jason Schwartzman",
-        "Terence Stamp"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "L'ascensione fenomenale della pittrice e artista Margaret Keane, la cui opera è caratterizzata da personaggi dagli occhi molto grandi. Negli anni '60 la donna si è impegnata in un braccio di ferro giuridico con suo marito, a cui aveva inizialmente permesso di attribuirsi la paternità dei suoi lavori per ragioni di marketing. I due finirono con il divorziare, arrivando ad una battaglia legale senza precedenti: un duello a colpi di pennello per ristabilire la giusta paternità delle opere.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-19T14:59:00+00:00",
-      "stop": "2026-09-19T16:32:00+00:00",
-      "channel": "La Trois",
-      "title": "Angry Birds, le film",
-      "subtitle": "",
-      "directors": [
-        "Clay Kaytis",
-        "Fergal Reilly"
-      ],
-      "actors": [
-        "Danny McBride",
-        "Kate McKinnon",
-        "Tony Hale",
-        "Matthew J. McCarthy",
-        "Maddie Taylor",
-        "Mckenna Grace"
-      ],
-      "matched_actors": [
-        "Kate McKinnon"
-      ],
-      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-09-19T18:45:00+00:00",
-      "stop": "2026-09-19T21:55:00+00:00",
-      "channel": "VTM",
-      "title": "Mission Impossible: Dead Reckoning - Part One",
-      "subtitle": "",
-      "directors": [
-        "Christopher McQuarrie"
-      ],
-      "actors": [
-        "Tom Cruise",
-        "Rebecca Ferguson",
-        "Ving Rhames",
-        "Hayley Atwell",
-        "Pom Klementieff",
-        "Vanessa Kirby"
-      ],
-      "matched_actors": [
-        "Rebecca Ferguson",
-        "Hayley Atwell"
-      ],
-      "description": "Ethan Hunt en zijn IMF-collega's staan voor hun grootste uitdaging ooit als het voortbestaan van de mensheid op het spel komt te staan. Het team moet een huiveringwekkend wapen opsporen en verhinderen dat het in vijandelijke handen valt. Tijdens zijn wereldwijde zoektocht wordt Hunt geconfronteerd met zijn verleden. Hij moet de levensgevaarlijke missie zien te volbrengen terwijl zijn dierbaren bedreigd worden. Er volgt een dodelijke race rond de wereld waarbij controle over de toekomst en het lot van de wereld op het spel staan en Ethan wordt geconfronteerd met duistere krachten uit zijn verleden. In zijn krachtmeting met een mysterieuze en machtige vijand moet Ethan noodgedwongen de gedachte overwegen dat niets belangrijker kan zijn dan zijn missie, zelfs niet het leven van degenen die hem het meest dierbaar zijn.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-09-19T18:55:00+00:00",
-      "stop": "2026-09-19T20:37:00+00:00",
-      "channel": "La Une",
-      "title": "Alex Hugo",
-      "subtitle": "La Vallée des oubliés",
-      "directors": [
-        "Samuel Le Bihan"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Alors qu'Angelo a depuis peu, une femme qui compte dans sa vie, celle-ci disparait sans laisser de traces ; la gendarmerie de Grenoble, mobilisée, ne trouve rien de concluant. En panique, Angelo appelle Alex à l'aide. Alors qu'elle n'a aucune légitimité pour enquêter dans le coin, l'équipe de la Rurale se reforme et ne tarde pas à découvrir qu'il ne s'agit pas de la première disparition non résolue dans cette vallée. .",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-20T11:23:00+00:00",
       "stop": "2026-09-20T13:07:00+00:00",
@@ -881,6 +764,101 @@
         "Luke Wilson"
       ],
       "description": "Breezy comedy with Reese Witherspoon as a ditzy blonde who decides to attend Harvard Law School when her snobby boyfriend dumps her for a more \"appropriate\" woman.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-09-27T11:35:00+00:00",
+      "stop": "2026-09-27T13:20:00+00:00",
+      "channel": "Arte",
+      "title": "Hondo, l'homme du désert",
+      "subtitle": "",
+      "directors": [
+        "John Farrow"
+      ],
+      "actors": [
+        "John Wayne",
+        "Geraldine Page",
+        "Ward Bond",
+        "James Arness",
+        "Michael Pate",
+        "Rodolfo Acosta"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-27T11:35:00+00:00",
+      "stop": "2026-09-27T13:30:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Rémi sans famille",
+      "subtitle": "",
+      "directors": [
+        "Antoine Blossier"
+      ],
+      "actors": [
+        "Daniel Auteuil",
+        "Maleaume Paquin",
+        "Virginie Ledoyen",
+        "Jonathan Zaccaï",
+        "Jacques Perrin",
+        "Ludivine Sagnier"
+      ],
+      "matched_actors": [
+        "Jacques Perrin"
+      ],
+      "description": "Rémi est orphelin et vit chez la douce Madame Barberin. Alors qu'il n'a que dix ans, il est arraché à son foyer adoptif et confié à un étrange musicien ambulant, le Signor Vitalis. Il apprend à ses côtés la vie de saltimbanque. Entourés de son chien Capi et de son singe Joli-Cœur, il sillonne la France, chantant pour gagner son pain. Le hasard des rencontres lui permet de découvrir ses origines.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-09-27T19:00:00+00:00",
+      "stop": "2026-09-27T21:30:00+00:00",
+      "channel": "Arte",
+      "title": "Le parrain, épilogue : la mort de Michael Corleone",
+      "subtitle": "",
+      "directors": [
+        "Francis Ford Coppola",
+        "Francis Coppola"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Andy Garcia",
+        "Eli Wallach",
+        "Joe Mantegna",
+        "Diane Keaton",
+        "Talia Shire"
+      ],
+      "matched_actors": [
+        "Diane Keaton"
+      ],
+      "description": "Atteignant la soixantaine, Michael Corleone désire à la fois renouer avec les siens et se réhabiliter aux yeux de la société, surtout de l'Église. Il arrivera presque à ses fins, mais sa vie passée et ses anciens ennemis le rattraperont plus vite. Michael Corleone est fatigué. Il veut prendre ses distances avec les activités mafieuses de sa famille. Il veut convertir ces activités en affaires légales.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-27T21:30:00+00:00",
+      "stop": "2026-09-27T23:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "subtitle": "",
+      "directors": [
+        "Charles Herman-Wurmfeld"
+      ],
+      "actors": [
+        "Reese Witherspoon",
+        "Sally Field",
+        "Regina King",
+        "Jennifer Coolidge",
+        "Luke Wilson",
+        "Bruce McGill"
+      ],
+      "matched_actors": [
+        "Sally Field",
+        "Regina King",
+        "Luke Wilson"
+      ],
+      "description": "In this sequel, the Perky lawyer Elle Woods goes to Washington, D.C., to persuade a congresswoman to back an animal-rights bill. Sally Field, Bruce McGill, Luke Wilson, Regina King, Alanna Ubach and Jennifer Coolidge costar in this fun and frisky follow-up to the box office smash \"Legally Blonde.\"",
       "category": "Movies"
     }
   ]
