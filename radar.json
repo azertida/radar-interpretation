@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T15:22:25.123804+00:00",
-  "window_start": "2026-09-20",
-  "window_end": "2026-09-27",
+  "generated_at": "2026-09-22T10:01:31.841257+00:00",
+  "window_start": "2026-09-21",
+  "window_end": "2026-09-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 116,
   "watchlist": [
@@ -122,75 +122,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 32,
+  "count": 34,
   "programmes": [
-    {
-      "start": "2026-09-20T11:23:00+00:00",
-      "stop": "2026-09-20T13:07:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-20T11:30:00+00:00",
-      "stop": "2026-09-20T13:20:00+00:00",
-      "channel": "Arte",
-      "title": "L'arme à gauche",
-      "subtitle": "",
-      "directors": [
-        "Claude Sautet"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Sylva Koscina",
-        "Alberto de Mendoza",
-        "Leo Gordon"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Dans les Caraïbes, un navigateur français au chômage, Jacques Cournot, est engagé par un mystérieux Hendrix qui sollicite son expertise pour acheter un yacht : le Dragoon. Subitement, le navire et Hendrix s'évaporent dans la nature. D'abord soupçonné par les forces de l'ordre, Cournot est ensuite contacté par Rae Osborne, la riche propriétaire du Dragoon, qui lui demande de retrouver le bateau disparu.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-20T19:00:00+00:00",
-      "stop": "2026-09-20T22:15:00+00:00",
-      "channel": "Arte",
-      "title": "Le Parrain II",
-      "subtitle": "",
-      "directors": [
-        "Francis Ford Coppola"
-      ],
-      "actors": [
-        "Al Pacino",
-        "Robert De Niro",
-        "Robert Duvall",
-        "Diane Keaton",
-        "Talia Shire",
-        "John Cazale"
-      ],
-      "matched_actors": [
-        "Diane Keaton"
-      ],
-      "description": "Dans les années 1920, le jeune Sicilien Vito Corleone arrive à New York et bâtit peu à peu un empire du crime. À sa mort, son fils Michael lui succède. Amené à négocier avec Hyman Roth, le boss de la mafia juive, il échappe de peu à un attentat. Alors qu'il soupçonne Roth d'en être l'instigateur, il découvre que le coupable est en fait son propre frère, Freddie.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-21T05:14:00+00:00",
       "stop": "2026-09-21T07:01:00+00:00",
@@ -238,8 +171,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-21T11:01:00+00:00",
-      "stop": "2026-09-21T12:11:00+00:00",
+      "start": "2026-09-21T11:02:00+00:00",
+      "stop": "2026-09-21T12:12:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La poupée",
@@ -263,8 +196,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-21T12:11:00+00:00",
-      "stop": "2026-09-21T12:58:00+00:00",
+      "start": "2026-09-21T12:12:00+00:00",
+      "stop": "2026-09-21T12:59:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Les dames de compagnie",
@@ -516,8 +449,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-23T18:36:00+00:00",
-      "stop": "2026-09-23T20:26:00+00:00",
+      "start": "2026-09-23T18:39:00+00:00",
+      "stop": "2026-09-23T20:33:00+00:00",
       "channel": "La Trois",
       "title": "Taxi Driver",
       "subtitle": "",
@@ -654,29 +587,6 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-26T13:15:00+00:00",
-      "stop": "2026-09-26T15:05:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Big Eyes",
-      "subtitle": "",
-      "directors": [
-        "Tim Burton"
-      ],
-      "actors": [
-        "Amy Adams",
-        "Christoph Waltz",
-        "Danny Huston",
-        "Krysten Ritter",
-        "Jason Schwartzman",
-        "Terence Stamp"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "L'ascensione fenomenale della pittrice e artista Margaret Keane, la cui opera è caratterizzata da personaggi dagli occhi molto grandi. Negli anni '60 la donna si è impegnata in un braccio di ferro giuridico con suo marito, a cui aveva inizialmente permesso di attribuirsi la paternità dei suoi lavori per ragioni di marketing. I due finirono con il divorziare, arrivando ad una battaglia legale senza precedenti: un duello a colpi di pennello per ristabilire la giusta paternità delle opere.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-09-26T15:11:00+00:00",
       "stop": "2026-09-26T16:59:00+00:00",
       "channel": "Action",
@@ -765,6 +675,29 @@
       ],
       "description": "Breezy comedy with Reese Witherspoon as a ditzy blonde who decides to attend Harvard Law School when her snobby boyfriend dumps her for a more \"appropriate\" woman.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-27T02:45:00+00:00",
+      "stop": "2026-09-27T04:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Shatranj-e baad",
+      "subtitle": "",
+      "directors": [
+        "Mohammad Reza Aslani"
+      ],
+      "actors": [
+        "Mohammadali Keshavarz",
+        "Shahram Golchin",
+        "Shohreh Aghdashloo",
+        "Akbar Zanjanpour",
+        "Fakhri Khorvash",
+        "Hamid Taati"
+      ],
+      "matched_actors": [
+        "Shohreh Aghdashloo"
+      ],
+      "description": "Iran, anni Venti. Alla morte della matriarca, gli eredi di una famiglia aristocratica si contendono l'eredità. In particolare il conflitto è tra la primogenita disabile Aghdas.",
+      "category": "Cinéma"
     },
     {
       "start": "2026-09-27T11:35:00+00:00",
@@ -860,6 +793,122 @@
       ],
       "description": "In this sequel, the Perky lawyer Elle Woods goes to Washington, D.C., to persuade a congresswoman to back an animal-rights bill. Sally Field, Bruce McGill, Luke Wilson, Regina King, Alanna Ubach and Jennifer Coolidge costar in this fun and frisky follow-up to the box office smash \"Legally Blonde.\"",
       "category": "Movies"
+    },
+    {
+      "start": "2026-09-28T11:25:00+00:00",
+      "stop": "2026-09-28T12:12:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Brocket Hall",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Afin de garantir la pérennité de la monarchie, Victoria est poussée à épouser son cousin Albert.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-28T12:12:00+00:00",
+      "stop": "2026-09-28T12:59:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Son Altesse Sévérissime",
+      "directors": [
+        "Sandra Goldbacher",
+        "Tom Vaughan",
+        "Olly Black"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "A peine Albert arrive-t-il au palais que Victoria et lui se découvrent une antipathie immédiate.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-28T19:10:00+00:00",
+      "stop": "2026-09-28T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 1",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Thompson, trafiquant d'art élégant, sort de prison et enlève Jean-Pierre Séguret, professeur d'histoire à la retraite, à l'issue son anniversaire en famille. Pour le libérer, il exige que Françoise, l'épouse de son otage, vole l'inventaire d'Estréchy conservé à Fontainebleau, première étape d'une chasse au trésor. Aidée par Oscar, un hacker lié à son passé, Françoise se révèle être bien plus qu'une simple épouse : une ancienne agente secrète de l'A.R.T.N., un service clandestin spécialisé dans la restitution d'oeuvres d'art. Sa fille Sophie, qui l'espionne, découvre avec stupeur la double vie de ses parents...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-28T19:55:00+00:00",
+      "stop": "2026-09-28T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 2",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Grâce aux connaissances pointues de Sophie sur la Renaissance, elle découvre que \"Léda et le cygne\" aurait été offert par Louis XIV à Madame de Maintenon et caché à Marly-le-Roi. Arrêtée puis relâchée faute de preuves, Françoise n'a que quatre jours pour retrouver le tableau. Christine Lardennois, qui ne croit pas en son innocence, décide de traquer les Séguret. et fait appel à un policier spécialisé dans le grand banditisme...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-28T20:45:00+00:00",
+      "stop": "2026-09-28T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 3",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Sophie explore les mémoires d'Arnold de Ville et déduit que \"Léda et le cygne\" pourrait être caché dans un des globes de Coronelli exposés à la BNF. Tandis qu'Oscar tente de la protéger en l'avertissant que Françoise est recherchée, il croise Juliette, convaincue qu'il est le nouveau compagnon de sa mère. Leur déjeuner est interrompu par l'arrivée de Nader, venu interroger Sophie. Elle parvient à dissimuler son implication, mais ressent une attirance naissante pour le policier...",
+      "category": "Séries"
     }
   ]
 }
