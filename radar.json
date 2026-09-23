@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T13:41:58.180019+00:00",
-  "window_start": "2026-09-21",
-  "window_end": "2026-09-28",
+  "generated_at": "2026-09-23T10:02:16.311163+00:00",
+  "window_start": "2026-09-22",
+  "window_end": "2026-09-29",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 116,
   "watchlist": [
@@ -122,190 +122,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 34,
+  "count": 29,
   "programmes": [
-    {
-      "start": "2026-09-21T05:14:00+00:00",
-      "stop": "2026-09-21T07:01:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-21T07:15:00+00:00",
-      "stop": "2026-09-21T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie d'artisans des bois",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie d'artisans des bois Julien se rend dans le Bas-Saint-Laurent pour découvrir le mode de vie de Rémi, de Noémie et de leur petite Aurélie. Artisans des bois, ils habitent aujourd'hui la maison qu'ils ont construite de leurs mains et arrivent à vivre de leur art.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-21T11:02:00+00:00",
-      "stop": "2026-09-21T12:12:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "La poupée",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "1837. Alors que son oncle vient de mourir, la jeune Victoria est appelée à régner sur le Royaume-Uni. Mais la jeune femme est mal préparée à la tâche qui l'attend.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-21T12:12:00+00:00",
-      "stop": "2026-09-21T12:59:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Les dames de compagnie",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Les Tories s'impatientent. Ils s'attendent à un triomphe imminent. La popularité de Melbourne étant en perte de vitesse, le Duc de Cumberland entrevoit la possibilité d'amoindrir le pouvoir de sa nièce.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-21T18:55:00+00:00",
-      "stop": "2026-09-21T21:00:00+00:00",
-      "channel": "Arte",
-      "title": "Black Rain",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "actors": [
-        "Michael Douglas",
-        "Andy Garcia",
-        "Ken Takakura",
-        "Kate Capshaw",
-        "Yusaku Matsuda",
-        "Shigeru Koyama"
-      ],
-      "matched_actors": [
-        "Michael Douglas"
-      ],
-      "description": "Deux policiers américains sont chargés d'escorter un criminel japonais à Osaka. Mais celui-ci s'échappe et les deux hommes doivent le poursuivre dans une ville et un pays dont ils ignorent tout.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-21T20:14:00+00:00",
-      "stop": "2026-09-21T21:12:00+00:00",
-      "channel": "La Une",
-      "title": "La belle étincelle - 1",
-      "subtitle": "",
-      "directors": [
-        "Hervé Mimran"
-      ],
-      "actors": [
-        "Bernard Campan",
-        "Mélanie Doutey",
-        "Lionnel Astier"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Philippe Lamarck, brillant chef étoilé au caractère compliqué, pousse la porte du restaurant La Belle Étincelle, ce restaurant pas comme les autres... Virginie, la gérante, pour permettre à Noé, son fils atteint de troubles autistiques de devenir cuisinier, a monté un restaurant inclusif et embauché d'autres jeunes porteurs de handicaps cognitifs.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-21T21:00:00+00:00",
-      "stop": "2026-09-21T22:20:00+00:00",
-      "channel": "Arte",
-      "title": "Hondo, l'homme du désert",
-      "subtitle": "",
-      "directors": [
-        "John Farrow"
-      ],
-      "actors": [
-        "John Wayne",
-        "Geraldine Page",
-        "Ward Bond",
-        "James Arness",
-        "Michael Pate",
-        "Rodolfo Acosta"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-21T21:12:00+00:00",
-      "stop": "2026-09-21T22:00:00+00:00",
-      "channel": "La Une",
-      "title": "La belle étincelle - 2",
-      "subtitle": "",
-      "directors": [
-        "Hervé Mimran"
-      ],
-      "actors": [
-        "Bernard Campan",
-        "Mélanie Doutey",
-        "Lionnel Astier"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Noé est un jeune adulte atteint de troubles autistiques passionné par la cuisine. Depuis ses 6 ans, il apprend des recettes par coeur. Malheureusement, il rencontre des difficultés à trouver un travail en cuisine et surtout à le garder, à cause de son rythme, de sa maladresse et de son relationnel. Mais sa grande force, c'est sa détermination, son odorat et son palais exceptionnels. Après un énième échec, sa mère Virginie va lui donner la chance de réaliser son rêve en rachetant un restaurant. Son projet, en faire un restaurant inclusif qui embauche des jeunes ayant des troubles autistiques et trisomiques.De son côté, Philippe Lamarck, un grand chef de restaurant étoilé, voit sa carrière voler en éclats. Au lieu de gagner une étoile pour son restaurant, il perd celle qu'il avait. Fou de rage, il blesse involontairement une serveuse du restaurant. La vidéo fait le tour de la toile. Il perd tout. Pour redorer son image, il accepte de travailler au sein du restaurant de Virginie : La Belle Etincelle...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-22T02:00:00+00:00",
       "stop": "2026-09-22T02:30:00+00:00",
@@ -330,8 +148,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-22T18:36:00+00:00",
-      "stop": "2026-09-22T19:25:00+00:00",
+      "start": "2026-09-22T18:37:00+00:00",
+      "stop": "2026-09-22T19:26:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Brocket Hall",
@@ -355,8 +173,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-22T19:25:00+00:00",
-      "stop": "2026-09-22T20:15:00+00:00",
+      "start": "2026-09-22T19:26:00+00:00",
+      "stop": "2026-09-22T20:16:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Son Altesse Sévérissime",
@@ -863,7 +681,7 @@
       "matched_actors": [
         "Lionnel Astier"
       ],
-      "description": "Thompson, trafiquant d'art élégant, sort de prison et enlève Jean-Pierre Séguret, professeur d'histoire à la retraite, à l'issue son anniversaire en famille. Pour le libérer, il exige que Françoise, l'épouse de son otage, vole l'inventaire d'Estréchy conservé à Fontainebleau, première étape d'une chasse au trésor. Aidée par Oscar, un hacker lié à son passé, Françoise se révèle être bien plus qu'une simple épouse : une ancienne agente secrète de l'A.R.T.N., un service clandestin spécialisé dans la restitution d'oeuvres d'art. Sa fille Sophie, qui l'espionne, découvre avec stupeur la double vie de ses parents...",
+      "description": "Thompson, trafiquant d'art élégant, sort de prison et enlève Jean-Pierre Séguret, professeur d'histoire à la retraite, à l'issue son anniversaire en famille. Pour le libérer, il exige que Françoise.",
       "category": "Séries"
     },
     {
@@ -885,7 +703,7 @@
       "matched_actors": [
         "Lionnel Astier"
       ],
-      "description": "Grâce aux connaissances pointues de Sophie sur la Renaissance, elle découvre que \"Léda et le cygne\" aurait été offert par Louis XIV à Madame de Maintenon et caché à Marly-le-Roi. Arrêtée puis relâchée faute de preuves, Françoise n'a que quatre jours pour retrouver le tableau. Christine Lardennois, qui ne croit pas en son innocence, décide de traquer les Séguret. et fait appel à un policier spécialisé dans le grand banditisme...",
+      "description": "Grâce aux connaissances pointues de Sophie sur la Renaissance, elle découvre que \"Léda et le cygne\" aurait été offert par Louis XIV à Madame de Maintenon et caché à Marly-le-Roi.",
       "category": "Séries"
     },
     {
@@ -907,7 +725,80 @@
       "matched_actors": [
         "Lionnel Astier"
       ],
-      "description": "Sophie explore les mémoires d'Arnold de Ville et déduit que \"Léda et le cygne\" pourrait être caché dans un des globes de Coronelli exposés à la BNF. Tandis qu'Oscar tente de la protéger en l'avertissant que Françoise est recherchée, il croise Juliette, convaincue qu'il est le nouveau compagnon de sa mère. Leur déjeuner est interrompu par l'arrivée de Nader, venu interroger Sophie. Elle parvient à dissimuler son implication, mais ressent une attirance naissante pour le policier...",
+      "description": "Sophie explore les mémoires d'Arnold de Ville et déduit que \"Léda et le cygne\" pourrait être caché dans un des globes de Coronelli exposés à la BNF.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-29T02:00:00+00:00",
+      "stop": "2026-09-29T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de partage avec la communauté",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de partage avec la communauté À Rivière-à-Claude, Julien découvre une coopérative de plein air fondée par Antoine. Complétement hors réseau, elle est habitée par dix jeunes adultes qui participent conjointement à tous les projets: des tâches ménagères à l'aménagement du jardin.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-29T18:34:00+00:00",
+      "stop": "2026-09-29T19:21:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Une femme comme les autres",
+      "directors": [
+        "Sandra Goldbacher",
+        "Tom Vaughan",
+        "Olly Black"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Alors que Victoria annonce ses fiançailles, la nouvelle est mal prise par le Parlement. Nombreux sont ceux qui voient d'un mauvais œil le consort, du fait de ses origines allemandes.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-29T19:21:00+00:00",
+      "stop": "2026-09-29T20:08:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "L'époux de la reine",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Alors qu'Albert a de plus en plus de mal à trouver sa place, Victoria doit ruser afin de lui offrir l'estime et les égards qu'il mérite.",
       "category": "Séries"
     }
   ]
