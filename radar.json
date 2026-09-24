@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T13:53:47.199052+00:00",
-  "window_start": "2026-09-22",
-  "window_end": "2026-09-29",
+  "generated_at": "2026-09-24T10:05:05.235152+00:00",
+  "window_start": "2026-09-23",
+  "window_end": "2026-09-30",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 116,
+  "watchlist_size": 117,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -116,110 +116,15 @@
     "Hannah Waddingham",
     "Susan Kelechi Watson",
     "John Wayne",
+    "Hugo Weaving",
     "Kristen Wiig",
     "Luke Wilson",
     "Natalie Wood",
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 29,
+  "count": 27,
   "programmes": [
-    {
-      "start": "2026-09-22T02:00:00+00:00",
-      "stop": "2026-09-22T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie d'artisans des bois",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie d'artisans des bois Julien se rend dans le Bas-Saint-Laurent pour découvrir le mode de vie de Rémi, de Noémie et de leur petite Aurélie. Artisans des bois, ils habitent aujourd'hui la maison qu'ils ont construite de leurs mains et arrivent à vivre de leur art.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-22T18:37:00+00:00",
-      "stop": "2026-09-22T19:26:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Brocket Hall",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Afin de garantir la pérennité de la monarchie, Victoria est poussée à épouser son cousin Albert.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-22T19:26:00+00:00",
-      "stop": "2026-09-22T20:16:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Son Altesse Sévérissime",
-      "directors": [
-        "Sandra Goldbacher",
-        "Tom Vaughan",
-        "Olly Black"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "A peine Albert arrive-t-il au palais que Victoria et lui se découvrent une antipathie immédiate.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-22T20:27:00+00:00",
-      "stop": "2026-09-22T22:11:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-23T06:56:00+00:00",
       "stop": "2026-09-23T08:43:00+00:00",
@@ -267,7 +172,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-23T18:39:00+00:00",
+      "start": "2026-09-23T18:40:00+00:00",
       "stop": "2026-09-23T20:33:00+00:00",
       "channel": "La Trois",
       "title": "Taxi Driver",
@@ -359,8 +264,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-24T20:41:00+00:00",
-      "stop": "2026-09-24T22:29:00+00:00",
+      "start": "2026-09-24T20:42:00+00:00",
+      "stop": "2026-09-24T22:30:00+00:00",
       "channel": "RTL TVI",
       "title": "Les aventures de Rabbi Jacob",
       "subtitle": "",
@@ -382,8 +287,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-25T11:12:00+00:00",
-      "stop": "2026-09-25T13:02:00+00:00",
+      "start": "2026-09-25T11:09:00+00:00",
+      "stop": "2026-09-25T12:59:00+00:00",
       "channel": "La Trois",
       "title": "Taxi Driver",
       "subtitle": "",
@@ -613,8 +518,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-09-28T11:25:00+00:00",
-      "stop": "2026-09-28T12:12:00+00:00",
+      "start": "2026-09-28T11:28:00+00:00",
+      "stop": "2026-09-28T12:14:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Brocket Hall",
@@ -638,8 +543,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-28T12:12:00+00:00",
-      "stop": "2026-09-28T12:59:00+00:00",
+      "start": "2026-09-28T12:14:00+00:00",
+      "stop": "2026-09-28T13:01:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Son Altesse Sévérissime",
@@ -752,8 +657,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-29T18:34:00+00:00",
-      "stop": "2026-09-29T19:21:00+00:00",
+      "start": "2026-09-29T18:32:00+00:00",
+      "stop": "2026-09-29T19:20:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Une femme comme les autres",
@@ -777,8 +682,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-29T19:21:00+00:00",
-      "stop": "2026-09-29T20:08:00+00:00",
+      "start": "2026-09-29T19:20:00+00:00",
+      "stop": "2026-09-29T20:06:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "L'époux de la reine",
@@ -800,6 +705,52 @@
       ],
       "description": "Alors qu'Albert a de plus en plus de mal à trouver sa place, Victoria doit ruser afin de lui offrir l'estime et les égards qu'il mérite.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-30T05:08:00+00:00",
+      "stop": "2026-09-30T06:55:00+00:00",
+      "channel": "Action",
+      "title": "Une chance sur deux",
+      "subtitle": "",
+      "directors": [
+        "Patrice Leconte"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Alain Delon",
+        "Vanessa Paradis",
+        "Andre Brizard",
+        "Steven Poster",
+        "Patrice Leconte"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-30T19:20:00+00:00",
+      "stop": "2026-09-30T21:10:00+00:00",
+      "channel": "RAI Due",
+      "title": "Doppia colpa",
+      "subtitle": "",
+      "directors": [
+        "Simon Kaijser"
+      ],
+      "actors": [
+        "Pierce Brosnan",
+        "Minnie Driver",
+        "Guy Pearce",
+        "Alexandra Shipp",
+        "Odeya Rush",
+        "Clark Gregg"
+      ],
+      "matched_actors": [
+        "Pierce Brosnan"
+      ],
+      "description": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai...",
+      "category": "Cinéma"
     }
   ]
 }
