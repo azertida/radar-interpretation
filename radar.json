@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T13:47:58.330700+00:00",
-  "window_start": "2026-09-23",
-  "window_end": "2026-09-30",
+  "generated_at": "2026-09-25T10:14:17.403903+00:00",
+  "window_start": "2026-09-24",
+  "window_end": "2026-10-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -126,98 +126,6 @@
   "count": 27,
   "programmes": [
     {
-      "start": "2026-09-23T06:56:00+00:00",
-      "stop": "2026-09-23T08:43:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-23T11:35:00+00:00",
-      "stop": "2026-09-23T13:50:00+00:00",
-      "channel": "Arte",
-      "title": "Julia",
-      "subtitle": "",
-      "directors": [
-        "Fred Zinnemann"
-      ],
-      "actors": [
-        "Jane Fonda",
-        "Vanessa Redgrave",
-        "Jason Robards",
-        "Maximilian Schell",
-        "Hal Holbrook",
-        "Rosemary Murphy"
-      ],
-      "matched_actors": [
-        "Jane Fonda"
-      ],
-      "description": "Entre les deux guerres mondiales, la romancière Lillian Hellman vit avec l'écrivain Dashiell Hammett dans une maison face à l'océan sur la côte Est. Elle n'a plus de nouvelle de son amie d'enfance Julia partie étudier en Europe. Elle lui rend visite à Oxford quand Julia lui annonce qu'elle se prépare à rejoindre Vienne pour y étudier la médecine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgré les dangers de l'Europe en guerre, aidée par la résistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-23T18:40:00+00:00",
-      "stop": "2026-09-23T20:33:00+00:00",
-      "channel": "La Trois",
-      "title": "Taxi Driver",
-      "subtitle": "",
-      "directors": [
-        "Martin Scorsese"
-      ],
-      "actors": [
-        "Robert De Niro",
-        "Jodie Foster",
-        "Cybill Shepherd",
-        "Peter Boyle",
-        "Leonard Harris",
-        "Harvey Keitel"
-      ],
-      "matched_actors": [
-        "Jodie Foster"
-      ],
-      "description": "À son retour du Vietnam, le vétéran Travis Bickle, déséquilibré et souffrant d'insomnie, accepte un emploi de chauffeur de taxi. Chaque nuit, il sillonne les rues de New York. La violence et la décadence qui règnent dans la ville et dont il est le témoin impuissant le révoltent et l'horrifient. Un soir, une prostituée mineure monte dans son taxi. Bickle se met alors en tête de la délivrer de son souteneur.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-23T21:00:00+00:00",
-      "stop": "2026-09-23T22:35:00+00:00",
-      "channel": "France 2",
-      "title": "A l'instinct",
-      "subtitle": "En eaux profondes",
-      "directors": [
-        "David Morley"
-      ],
-      "actors": [
-        "Christopher Bayemi",
-        "Juliette Plumecocq-Mech",
-        "Ophélia Kolb",
-        "Julien Boisselier",
-        "David Clavel",
-        "Pasquale d'Inca"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Après les évènements de Nantes, le capitaine Téva Royer rencontre la commandante spéciale Oriane Girard. Il l'accompagne désormais dans les affaires singulières et mystérieuses qu'elle est chargée d'élucider. Leur première scène de crime remue de douloureux souvenirs dans le petit village de Saint-Avène. Un an après un tragique accident de car qui a coûté la vie à quatre enfants du bourg, une voiture finit sa course au même endroit, dans le même ravin. La conductrice, Amalia, décédée sur le coup, n'est autre que la soeur du conducteur du car. Téva et Oriane savent qu'ils interviennent sur une scène de crime inexplicable. Ce n'est ni un défaut technique, ni un suicide, ni une faute de conduite, et encore moins une malveillance qui a conduit à cet accident...",
-      "category": "Séries"
-    },
-    {
       "start": "2026-09-24T05:35:00+00:00",
       "stop": "2026-09-24T07:22:00+00:00",
       "channel": "Action",
@@ -264,7 +172,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-24T20:42:00+00:00",
+      "start": "2026-09-24T20:46:00+00:00",
       "stop": "2026-09-24T22:30:00+00:00",
       "channel": "RTL TVI",
       "title": "Les aventures de Rabbi Jacob",
@@ -288,7 +196,7 @@
     },
     {
       "start": "2026-09-25T11:09:00+00:00",
-      "stop": "2026-09-25T12:59:00+00:00",
+      "stop": "2026-09-25T13:00:00+00:00",
       "channel": "La Trois",
       "title": "Taxi Driver",
       "subtitle": "",
@@ -353,8 +261,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-26T20:20:00+00:00",
-      "stop": "2026-09-26T22:45:00+00:00",
+      "start": "2026-09-26T20:25:00+00:00",
+      "stop": "2026-09-26T22:50:00+00:00",
       "channel": "VTM 2",
       "title": "Inside Man",
       "subtitle": "",
@@ -751,6 +659,98 @@
       ],
       "description": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai...",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-01T18:50:00+00:00",
+      "stop": "2026-10-01T21:22:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Top Gun: Maverick",
+      "subtitle": "",
+      "directors": [
+        "Joseph Kosinski"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Jennifer Connelly",
+        "Val Kilmer",
+        "Miles Teller",
+        "Monica Barbaro",
+        "Glen Powell"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Après avoir été l'un des meilleurs pilotes de chasse de la Marine américaine pendant plus de trente ans, Pete “Maverick\" Mitchell (Tom Cruise) continue à repousser ses limites en tant que pilote d'essai. Il refuse de monter en grade, car cela l'obligerait à renoncer à voler. Il est chargé de former un détachement de jeunes diplômés de l'école Top Gun pour une mission spéciale qu'aucun pilote n'aurait jamais imaginée Lors de cette mission, Maverick rencontre le lieutenant Bradley “Rooster” Bradshaw, le fils de son défunt ami, le navigateur Nick “Goose” Bradshaw. Face à un avenir incertain, hanté par ses fantômes, Maverick va devoir affronter ses pires cauchemars au cours d'une mission qui exigera les plus grands sacrifices.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-01T20:55:00+00:00",
+      "stop": "2026-10-01T22:45:00+00:00",
+      "channel": "France 4",
+      "title": "Frères ennemis",
+      "subtitle": "",
+      "directors": [
+        "David Oelhoffen"
+      ],
+      "actors": [
+        "Matthias Schoenaerts",
+        "Reda Kateb",
+        "Sabrina Ouazani",
+        "Adel Bencherif",
+        "Nicolas Giraud",
+        "Sofiane Zermani"
+      ],
+      "matched_actors": [
+        "Sabrina Ouazani"
+      ],
+      "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-01T21:25:00+00:00",
+      "stop": "2026-10-01T23:21:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Top Gun",
+      "subtitle": "",
+      "directors": [
+        "Tony Scott"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Kelly McGillis",
+        "Anthony Edwards",
+        "Val Kilmer",
+        "Tim Robbins",
+        "Tom Skerritt"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Pete \"Maverick\" Mitchell, un jeune pilote doué mais tête-brûlée, est envoyé dans une prestigieuse école aéronavale de l'armée américaine pour y suivre un entraînement intensif. Il y rencontre la belle Charlotte, une instructrice dont il tombe amoureux. Dépressif après un accident en vol qui coûte la vie à son équipier et dont il se sent responsable, il tente de surmonter sa crise et de reprendre confiance en lui.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-01T22:05:00+00:00",
+      "stop": "2026-10-01T23:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "Florence Foster Jenkins",
+      "subtitle": "",
+      "directors": [
+        "Stephen Frears"
+      ],
+      "actors": [
+        "Meryl Streep",
+        "Hugh Grant",
+        "Simon Helberg",
+        "Rebecca Ferguson",
+        "Nina Arianda",
+        "Stanley Townsend"
+      ],
+      "matched_actors": [
+        "Rebecca Ferguson"
+      ],
+      "description": "Heiress Florence Foster Jenkins longs to become an opera star in 1940s New York, despite possessing a horrible singing voice. With the help of her husband and a talented musician, she finds a strange kind of success as a performer and recording artist. But when Florence stages a huge concert at Carnegie Hall, he faces his greatest challenge to make sure her performance hits all the right notes.",
+      "category": "Movies"
     }
   ]
 }
