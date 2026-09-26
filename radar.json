@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T14:11:02.475635+00:00",
-  "window_start": "2026-09-24",
-  "window_end": "2026-10-01",
+  "generated_at": "2026-09-26T09:55:13.509406+00:00",
+  "window_start": "2026-09-25",
+  "window_end": "2026-10-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,77 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 27,
+  "count": 25,
   "programmes": [
-    {
-      "start": "2026-09-24T05:35:00+00:00",
-      "stop": "2026-09-24T07:22:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-24T10:36:00+00:00",
-      "stop": "2026-09-24T12:20:00+00:00",
-      "channel": "Action",
-      "title": "Infinite",
-      "subtitle": "",
-      "directors": [
-        "Antoine Fuqua"
-      ],
-      "actors": [
-        "Mark Wahlberg",
-        "Chiwetel Ejiofor",
-        "Sophie Cookson",
-        "Dylan O'Brien",
-        "Jason Mantzoukas",
-        "Rupert Friend"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Pour Evan McCauley, des compétences qu'il n'a jamais acquises et des souvenirs d'endroits qu'il n'a jamais visités hantent son quotidien. Automédicamenté et au bord de la dépression nerveuse, Evan est recherché par un groupe secret qui se fait appeler \"Infinis\", lui révélant que ses souvenirs sont peut-être réels - mais qu'ils proviennent de plusieurs vies passées.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-24T20:46:00+00:00",
-      "stop": "2026-09-24T22:30:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Les aventures de Rabbi Jacob",
-      "subtitle": "",
-      "directors": [
-        "Gérard Oury"
-      ],
-      "actors": [
-        "Marcel Dalio",
-        "Louis de Funès",
-        "Henri Guybet",
-        "Miou-Miou",
-        "Suzy Delair",
-        "Claude Giraud"
-      ],
-      "matched_actors": [
-        "Louis de Funès"
-      ],
-      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-25T11:09:00+00:00",
       "stop": "2026-09-25T13:00:00+00:00",
@@ -242,7 +173,7 @@
     },
     {
       "start": "2026-09-26T18:50:00+00:00",
-      "stop": "2026-09-26T20:32:00+00:00",
+      "stop": "2026-09-26T20:33:00+00:00",
       "channel": "La Une",
       "title": "Alex Hugo",
       "subtitle": "La vallée des vautours",
@@ -331,6 +262,29 @@
       "category": "Cinéma"
     },
     {
+      "start": "2026-09-27T11:30:00+00:00",
+      "stop": "2026-09-27T13:30:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Rémi sans famille",
+      "subtitle": "",
+      "directors": [
+        "Antoine Blossier"
+      ],
+      "actors": [
+        "Daniel Auteuil",
+        "Maleaume Paquin",
+        "Virginie Ledoyen",
+        "Jonathan Zaccaï",
+        "Jacques Perrin",
+        "Ludivine Sagnier"
+      ],
+      "matched_actors": [
+        "Jacques Perrin"
+      ],
+      "description": "Rémi est orphelin et vit chez la douce Madame Barberin. Alors qu'il n'a que dix ans, il est arraché à son foyer adoptif et confié à un étrange musicien ambulant, le Signor Vitalis. Il apprend à ses côtés la vie de saltimbanque. Entourés de son chien Capi et de son singe Joli-Cœur, il sillonne la France, chantant pour gagner son pain. Le hasard des rencontres lui permet de découvrir ses origines.",
+      "category": "Jeunesse"
+    },
+    {
       "start": "2026-09-27T11:35:00+00:00",
       "stop": "2026-09-27T13:20:00+00:00",
       "channel": "Arte",
@@ -352,29 +306,6 @@
       ],
       "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
       "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-27T11:35:00+00:00",
-      "stop": "2026-09-27T13:30:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Rémi sans famille",
-      "subtitle": "",
-      "directors": [
-        "Antoine Blossier"
-      ],
-      "actors": [
-        "Daniel Auteuil",
-        "Maleaume Paquin",
-        "Virginie Ledoyen",
-        "Jonathan Zaccaï",
-        "Jacques Perrin",
-        "Ludivine Sagnier"
-      ],
-      "matched_actors": [
-        "Jacques Perrin"
-      ],
-      "description": "Rémi est orphelin et vit chez la douce Madame Barberin. Alors qu'il n'a que dix ans, il est arraché à son foyer adoptif et confié à un étrange musicien ambulant, le Signor Vitalis. Il apprend à ses côtés la vie de saltimbanque. Entourés de son chien Capi et de son singe Joli-Cœur, il sillonne la France, chantant pour gagner son pain. Le hasard des rencontres lui permet de découvrir ses origines.",
-      "category": "Jeunesse"
     },
     {
       "start": "2026-09-27T19:00:00+00:00",
@@ -426,8 +357,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-09-28T11:28:00+00:00",
-      "stop": "2026-09-28T12:14:00+00:00",
+      "start": "2026-09-28T11:23:00+00:00",
+      "stop": "2026-09-28T12:10:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Brocket Hall",
@@ -451,8 +382,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-28T12:14:00+00:00",
-      "stop": "2026-09-28T13:01:00+00:00",
+      "start": "2026-09-28T12:10:00+00:00",
+      "stop": "2026-09-28T12:57:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Son Altesse Sévérissime",
@@ -561,12 +492,12 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie de partage avec la communauté À Rivière-à-Claude, Julien découvre une coopérative de plein air fondée par Antoine. Complétement hors réseau, elle est habitée par dix jeunes adultes qui participent conjointement à tous les projets: des tâches ménagères à l'aménagement du jardin.",
+      "description": "La vie de partage avec la communauté À Rivière-à-Claude, Julien découvre une coopérative de plein air fondée par Antoine. Complétement hors réseau.",
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-29T18:32:00+00:00",
-      "stop": "2026-09-29T19:20:00+00:00",
+      "start": "2026-09-29T18:35:00+00:00",
+      "stop": "2026-09-29T19:26:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Une femme comme les autres",
@@ -590,8 +521,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-29T19:20:00+00:00",
-      "stop": "2026-09-29T20:06:00+00:00",
+      "start": "2026-09-29T19:26:00+00:00",
+      "stop": "2026-09-29T20:15:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "L'époux de la reine",
@@ -707,8 +638,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-01T21:25:00+00:00",
-      "stop": "2026-10-01T23:21:00+00:00",
+      "start": "2026-10-01T21:23:00+00:00",
+      "stop": "2026-10-01T23:19:00+00:00",
       "channel": "RTL TVI",
       "title": "Top Gun",
       "subtitle": "",
@@ -751,6 +682,30 @@
       ],
       "description": "Heiress Florence Foster Jenkins longs to become an opera star in 1940s New York, despite possessing a horrible singing voice. With the help of her husband and a talented musician, she finds a strange kind of success as a performer and recording artist. But when Florence stages a huge concert at Carnegie Hall, he faces his greatest challenge to make sure her performance hits all the right notes.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-10-02T08:45:00+00:00",
+      "stop": "2026-10-02T09:40:00+00:00",
+      "channel": "Arte",
+      "title": "Sous-marins",
+      "subtitle": "Risque en eau profonde",
+      "directors": [
+        "Tanja Dammertz",
+        "Anja Kindler"
+      ],
+      "actors": [
+        "Iain Ballantyne",
+        "Stefan Bryxi",
+        "Lothar G. Buchheim",
+        "Jacques-Yves Cousteau",
+        "Tony Curtis",
+        "François Dupont"
+      ],
+      "matched_actors": [
+        "Tony Curtis"
+      ],
+      "description": "Dans ce second volet, on découvre l'évolution technologique rapide des sous-marins avec le déclenchement de la Seconde Guerre mondiale, notamment en matière de propulsion et d'armement (torpilles, missiles...). Célébrés par la propagande nazie, les redoutables U-Boote se sont taillé une réputation d'invincibilité, masquant une tout autre réalité, que le film Das Boot (Le bateau) de Wolfgang Petersen dépeint de façon si poignante : près des deux tiers des équipages embarqués dans le conflit ont perdu la vie. Des tragédies maritimes qui endeuillent encore les amirautés, comme en témoigne le naufrage, avec ses 118 marins, en 2000, du sous-marin nucléaire lanceur de missiles Koursk, fleuron de la marine russe.",
+      "category": "Documentaire"
     }
   ]
 }
