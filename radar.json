@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T13:23:29.143589+00:00",
-  "window_start": "2026-09-25",
-  "window_end": "2026-10-02",
+  "generated_at": "2026-09-27T10:35:48.559409+00:00",
+  "window_start": "2026-09-26",
+  "window_end": "2026-10-03",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,29 +125,6 @@
   ],
   "count": 25,
   "programmes": [
-    {
-      "start": "2026-09-25T11:09:00+00:00",
-      "stop": "2026-09-25T13:00:00+00:00",
-      "channel": "La Trois",
-      "title": "Taxi Driver",
-      "subtitle": "",
-      "directors": [
-        "Martin Scorsese"
-      ],
-      "actors": [
-        "Robert De Niro",
-        "Jodie Foster",
-        "Cybill Shepherd",
-        "Peter Boyle",
-        "Leonard Harris",
-        "Harvey Keitel"
-      ],
-      "matched_actors": [
-        "Jodie Foster"
-      ],
-      "description": "À son retour du Vietnam, le vétéran Travis Bickle, déséquilibré et souffrant d'insomnie, accepte un emploi de chauffeur de taxi. Chaque nuit, il sillonne les rues de New York. La violence et la décadence qui règnent dans la ville et dont il est le témoin impuissant le révoltent et l'horrifient. Un soir, une prostituée mineure monte dans son taxi. Bickle se met alors en tête de la délivrer de son souteneur.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-26T15:11:00+00:00",
       "stop": "2026-09-26T16:59:00+00:00",
@@ -706,6 +683,29 @@
       ],
       "description": "Dans ce second volet, on découvre l'évolution technologique rapide des sous-marins avec le déclenchement de la Seconde Guerre mondiale, notamment en matière de propulsion et d'armement (torpilles, missiles...). Célébrés par la propagande nazie, les redoutables U-Boote se sont taillé une réputation d'invincibilité, masquant une tout autre réalité, que le film Das Boot (Le bateau) de Wolfgang Petersen dépeint de façon si poignante : près des deux tiers des équipages embarqués dans le conflit ont perdu la vie. Des tragédies maritimes qui endeuillent encore les amirautés, comme en témoigne le naufrage, avec ses 118 marins, en 2000, du sous-marin nucléaire lanceur de missiles Koursk, fleuron de la marine russe.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-10-03T11:30:00+00:00",
+      "stop": "2026-10-03T13:05:00+00:00",
+      "channel": "Arte",
+      "title": "Hondo, l'homme du désert",
+      "subtitle": "",
+      "directors": [
+        "John Farrow"
+      ],
+      "actors": [
+        "John Wayne",
+        "Geraldine Page",
+        "Ward Bond",
+        "James Arness",
+        "Michael Pate",
+        "Rodolfo Acosta"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
+      "category": "Cinéma"
     }
   ]
 }
