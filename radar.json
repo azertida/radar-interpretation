@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T17:02:08.020049+00:00",
-  "window_start": "2026-09-27",
-  "window_end": "2026-10-04",
+  "generated_at": "2026-09-29T11:24:44.002015+00:00",
+  "window_start": "2026-09-28",
+  "window_end": "2026-10-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -126,126 +126,8 @@
   "count": 24,
   "programmes": [
     {
-      "start": "2026-09-27T02:45:00+00:00",
-      "stop": "2026-09-27T04:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Shatranj-e baad",
-      "subtitle": "",
-      "directors": [
-        "Mohammad Reza Aslani"
-      ],
-      "actors": [
-        "Mohammadali Keshavarz",
-        "Shahram Golchin",
-        "Shohreh Aghdashloo",
-        "Akbar Zanjanpour",
-        "Fakhri Khorvash",
-        "Hamid Taati"
-      ],
-      "matched_actors": [
-        "Shohreh Aghdashloo"
-      ],
-      "description": "Iran, anni Venti. Alla morte della matriarca, gli eredi di una famiglia aristocratica si contendono l'eredità. In particolare il conflitto è tra la primogenita disabile Aghdas.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-27T11:30:00+00:00",
-      "stop": "2026-09-27T13:30:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Rémi sans famille",
-      "subtitle": "",
-      "directors": [
-        "Antoine Blossier"
-      ],
-      "actors": [
-        "Daniel Auteuil",
-        "Maleaume Paquin",
-        "Virginie Ledoyen",
-        "Jonathan Zaccaï",
-        "Jacques Perrin",
-        "Ludivine Sagnier"
-      ],
-      "matched_actors": [
-        "Jacques Perrin"
-      ],
-      "description": "Rémi est orphelin et vit chez la douce Madame Barberin. Alors qu'il n'a que dix ans, il est arraché à son foyer adoptif et confié à un étrange musicien ambulant, le Signor Vitalis. Il apprend à ses côtés la vie de saltimbanque. Entourés de son chien Capi et de son singe Joli-Cœur, il sillonne la France, chantant pour gagner son pain. Le hasard des rencontres lui permet de découvrir ses origines.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-09-27T11:35:00+00:00",
-      "stop": "2026-09-27T13:20:00+00:00",
-      "channel": "Arte",
-      "title": "Hondo, l'homme du désert",
-      "subtitle": "",
-      "directors": [
-        "John Farrow"
-      ],
-      "actors": [
-        "John Wayne",
-        "Geraldine Page",
-        "Ward Bond",
-        "James Arness",
-        "Michael Pate",
-        "Rodolfo Acosta"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-27T19:00:00+00:00",
-      "stop": "2026-09-27T21:30:00+00:00",
-      "channel": "Arte",
-      "title": "Le parrain, épilogue : la mort de Michael Corleone",
-      "subtitle": "",
-      "directors": [
-        "Francis Ford Coppola",
-        "Francis Coppola"
-      ],
-      "actors": [
-        "Al Pacino",
-        "Andy Garcia",
-        "Eli Wallach",
-        "Joe Mantegna",
-        "Diane Keaton",
-        "Talia Shire"
-      ],
-      "matched_actors": [
-        "Diane Keaton"
-      ],
-      "description": "Atteignant la soixantaine, Michael Corleone désire à la fois renouer avec les siens et se réhabiliter aux yeux de la société, surtout de l'Église. Il arrivera presque à ses fins, mais sa vie passée et ses anciens ennemis le rattraperont plus vite. Michael Corleone est fatigué. Il veut prendre ses distances avec les activités mafieuses de sa famille. Il veut convertir ces activités en affaires légales.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-27T21:30:00+00:00",
-      "stop": "2026-09-27T23:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Legally Blonde 2: Red, White & Blonde",
-      "subtitle": "",
-      "directors": [
-        "Charles Herman-Wurmfeld"
-      ],
-      "actors": [
-        "Reese Witherspoon",
-        "Sally Field",
-        "Regina King",
-        "Jennifer Coolidge",
-        "Luke Wilson",
-        "Bruce McGill"
-      ],
-      "matched_actors": [
-        "Sally Field",
-        "Regina King",
-        "Luke Wilson"
-      ],
-      "description": "In this sequel, the Perky lawyer Elle Woods goes to Washington, D.C., to persuade a congresswoman to back an animal-rights bill. Sally Field, Bruce McGill, Luke Wilson, Regina King, Alanna Ubach and Jennifer Coolidge costar in this fun and frisky follow-up to the box office smash \"Legally Blonde.\"",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-28T11:23:00+00:00",
-      "stop": "2026-09-28T12:10:00+00:00",
+      "start": "2026-09-28T11:24:00+00:00",
+      "stop": "2026-09-28T12:11:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Brocket Hall",
@@ -269,8 +151,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-28T12:10:00+00:00",
-      "stop": "2026-09-28T12:57:00+00:00",
+      "start": "2026-09-28T12:11:00+00:00",
+      "stop": "2026-09-28T12:58:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Son Altesse Sévérissime",
@@ -409,7 +291,7 @@
     },
     {
       "start": "2026-09-29T19:26:00+00:00",
-      "stop": "2026-09-29T20:15:00+00:00",
+      "stop": "2026-09-29T20:16:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "L'époux de la reine",
@@ -618,29 +500,6 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-04T02:45:00+00:00",
-      "stop": "2026-10-04T04:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Shatranj-e baad",
-      "subtitle": "",
-      "directors": [
-        "Mohammad Reza Aslani"
-      ],
-      "actors": [
-        "Mohammadali Keshavarz",
-        "Shahram Golchin",
-        "Shohreh Aghdashloo",
-        "Akbar Zanjanpour",
-        "Fakhri Khorvash",
-        "Hamid Taati"
-      ],
-      "matched_actors": [
-        "Shohreh Aghdashloo"
-      ],
-      "description": "Iran, anni Venti. Alla morte della matriarca, gli eredi di una famiglia aristocratica si contendono l'eredità. In particolare il conflitto è tra la primogenita disabile Aghdas.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-10-04T02:53:00+00:00",
       "stop": "2026-10-04T05:42:00+00:00",
       "channel": "Action",
@@ -684,6 +543,145 @@
       ],
       "description": "En 1793, Nicolas Philibert revient en France après un exil en Amérique. Il veut divorcer de Charlotte, son épouse, afin de convoler en justes noces avec sa nouvelle conquête. Pris dans les affres de la révolution, Nicolas va avoir toutes les peines du monde à mettre la main sur Charlotte, passée dans le camp des royalistes.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-05T07:15:00+00:00",
+      "stop": "2026-10-05T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie d'une famille de cinq en yourte",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge. Il découvre le quotidien de cette famille, rempli de défis et toute l'ingéniosité déployée pour les relever.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-10-05T11:22:00+00:00",
+      "stop": "2026-10-05T12:09:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Une femme comme les autres",
+      "directors": [
+        "Sandra Goldbacher",
+        "Tom Vaughan",
+        "Olly Black"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Alors que Victoria annonce ses fiançailles, la nouvelle est mal prise par le Parlement. Nombreux sont ceux qui voient d'un mauvais œil le consort, du fait de ses origines allemandes.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T12:09:00+00:00",
+      "stop": "2026-10-05T12:59:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "L'époux de la reine",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Alors qu'Albert a de plus en plus de mal à trouver sa place, Victoria doit ruser afin de lui offrir l'estime et les égards qu'il mérite.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T19:10:00+00:00",
+      "stop": "2026-10-05T19:55:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 4",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Guidées par un codex trouvé dans un globe de Coronelli, Françoise et Sophie suivent la piste de Vaux-le-Vicomte. Convaincues que le tableau s'y cache, elles profitent d'une sortie scolaire organisée par Sophie pour s'introduire dans les souterrains du château. Entre-temps, Nader découvre grâce à Oscar que Sophie est impliquée et déploie ses hommes pour l'arrêter...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T19:55:00+00:00",
+      "stop": "2026-10-05T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 5",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "JP réussit à fuir de l'hôpital et retrouve Françoise, elle aussi libérée. Ensemble, ils découvrent que Sophie a été enlevée et décident de la secourir. A leur grande surprise, Juliette, leur petite-fille, les accompagne, ayant suivi JP depuis l'hôpital. Les grands-parents ordonnent à Juliette de se mettre en sécurité chez son père et partent retrouver Sophie. Avant l'intervention, Françoise confie à JP ses doutes : Thompson pourrait être le père biologique de Sophie, mais JP affirme qu'il l'a élevée et reste son vrai père. En localisant la planque de Thomspon, ils sont arrêtés par ses hommes de main. Sous la menace, la famille tente de déchiffrer l'Homme de Vitruve et découvre le mot \"Salamandra\", emblème de François Ier...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T20:45:00+00:00",
+      "stop": "2026-10-05T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventurières",
+      "subtitle": "Episode 6",
+      "directors": [
+        "Lea Fazer"
+      ],
+      "actors": [
+        "Fanny Cottençon",
+        "Charlie Bruneau",
+        "Lionnel Astier",
+        "Thibault de Montalembert",
+        "Bruno Sanchez"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Nader met les Séguret et Oscar en prison, mais ces derniers réussissent à se libérer. Emouvantes retrouvailles entre Oscar et ses anciens mentors, mais Nader soupçonne une taupe au Ministère et pense à Lardennois. Les Séguret simulent une prise d'otage pour tromper Nader. Tandis que Sophie et Thompson poursuivent l'énigme menant au Leda, ils découvrent que le lieu des amours de Vinci et de son jeune modèle Salaï Mandra se situe dans une abbaye d'Ile-de-France. Lors de la confrontation, Oscar révèle sa trahison et prend les Séguret en otages. Thomson s'empare de Sophie et du tableau trouvé sur une île du parc. Juliette neutralise Oscar et attend Nader...",
+      "category": "Séries"
     }
   ]
 }
