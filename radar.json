@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:40:03.270147+00:00",
+  "generated_at": "2026-10-01T15:41:39.740055+00:00",
   "window_start": "2026-09-30",
   "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 21,
+  "count": 22,
   "programmes": [
     {
       "start": "2026-09-30T05:08:00+00:00",
@@ -173,7 +173,7 @@
     },
     {
       "start": "2026-10-01T18:50:00+00:00",
-      "stop": "2026-10-01T21:13:00+00:00",
+      "stop": "2026-10-01T21:14:00+00:00",
       "channel": "RTL TVI",
       "title": "Top Gun: Maverick",
       "subtitle": "",
@@ -215,6 +215,29 @@
         "Sabrina Ouazani"
       ],
       "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-01T21:15:00+00:00",
+      "stop": "2026-10-01T23:03:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Top Gun",
+      "subtitle": "",
+      "directors": [
+        "Tony Scott"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Kelly McGillis",
+        "Anthony Edwards",
+        "Val Kilmer",
+        "Tim Robbins",
+        "Tom Skerritt"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Pete \"Maverick\" Mitchell, un jeune pilote doué mais tête-brûlée, est envoyé dans une prestigieuse école aéronavale de l'armée américaine pour y suivre un entraînement intensif. Il y rencontre la belle Charlotte, une instructrice dont il tombe amoureux. Dépressif après un accident en vol qui coûte la vie à son équipier et dont il se sent responsable, il tente de surmonter sa crise et de reprendre confiance en lui.",
       "category": "Cinéma"
     },
     {
