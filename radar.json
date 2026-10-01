@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T15:22:10.697570+00:00",
-  "window_start": "2026-09-29",
-  "window_end": "2026-10-06",
+  "generated_at": "2026-10-01T11:40:03.270147+00:00",
+  "window_start": "2026-09-30",
+  "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,81 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 22,
+  "count": 21,
   "programmes": [
-    {
-      "start": "2026-09-29T02:00:00+00:00",
-      "stop": "2026-09-29T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de partage avec la communauté",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de partage avec la communauté À Rivière-à-Claude, Julien découvre une coopérative de plein air fondée par Antoine. Complétement hors réseau.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-29T18:35:00+00:00",
-      "stop": "2026-09-29T19:26:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Une femme comme les autres",
-      "directors": [
-        "Sandra Goldbacher",
-        "Tom Vaughan",
-        "Olly Black"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Alors que Victoria annonce ses fiançailles, la nouvelle est mal prise par le Parlement. Nombreux sont ceux qui voient d'un mauvais œil le consort, du fait de ses origines allemandes.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-29T19:26:00+00:00",
-      "stop": "2026-09-29T20:16:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "L'époux de la reine",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Alors qu'Albert a de plus en plus de mal à trouver sa place, Victoria doit ruser afin de lui offrir l'estime et les égards qu'il mérite.",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-30T05:08:00+00:00",
       "stop": "2026-09-30T06:55:00+00:00",
@@ -425,11 +352,11 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge. Il découvre le quotidien de cette famille, rempli de défis et toute l'ingéniosité déployée pour les relever.",
+      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge.",
       "category": "Documentaire"
     },
     {
-      "start": "2026-10-05T11:22:00+00:00",
+      "start": "2026-10-05T11:23:00+00:00",
       "stop": "2026-10-05T12:09:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
@@ -564,7 +491,7 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge. Il découvre le quotidien de cette famille, rempli de défis et toute l'ingéniosité déployée pour les relever.",
+      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge.",
       "category": "Documentaire"
     },
     {
@@ -591,8 +518,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-06T18:34:00+00:00",
-      "stop": "2026-10-06T19:21:00+00:00",
+      "start": "2026-10-06T18:32:00+00:00",
+      "stop": "2026-10-06T19:19:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Le moteur du changement",
@@ -616,8 +543,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-06T19:21:00+00:00",
-      "stop": "2026-10-06T20:12:00+00:00",
+      "start": "2026-10-06T19:19:00+00:00",
+      "stop": "2026-10-06T20:10:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La jeune Angleterre",
@@ -639,6 +566,52 @@
       ],
       "description": "Victoria supporte de moins en moins les manigances d'Albert et de sa mère. Elle ne veut plus être confinée au palais. Alors qu'elle est prête à donner naissance à son premier enfant, le Duc de Cumberland accourt à Londres, dans l'espoir que sa nièce mourra en couches.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-07T19:00:00+00:00",
+      "stop": "2026-10-07T21:30:00+00:00",
+      "channel": "Arte",
+      "title": "Zero Dark Thirty",
+      "subtitle": "",
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "actors": [
+        "Jessica Chastain",
+        "Jennifer Ehle",
+        "Jason Clarke",
+        "Kyle Chandler",
+        "Chris Pratt",
+        "James Gandolfini"
+      ],
+      "matched_actors": [
+        "Jessica Chastain"
+      ],
+      "description": "Dans la nuit du 2 mai 2011, la chasse à l'homme la plus importante de l'histoire prend fin : Oussama Ben Laden est éliminé. Au lendemain des attentats du 11 septembre 2001 et pendant plus de dix ans, une équipe d'officiers d'élite des forces spéciales américaines a travaillé en secret et traqué sans relâche le terroriste le plus recherché. Jusqu'à cette nuit fatidique qui marque le dénouement de l'opération.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-07T19:20:00+00:00",
+      "stop": "2026-10-07T21:10:00+00:00",
+      "channel": "RAI Due",
+      "title": "Doppia colpa",
+      "subtitle": "",
+      "directors": [
+        "Simon Kaijser"
+      ],
+      "actors": [
+        "Pierce Brosnan",
+        "Minnie Driver",
+        "Guy Pearce",
+        "Alexandra Shipp",
+        "Odeya Rush",
+        "Clark Gregg"
+      ],
+      "matched_actors": [
+        "Pierce Brosnan"
+      ],
+      "description": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai...",
+      "category": "Cinéma"
     }
   ]
 }
