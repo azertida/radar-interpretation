@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T15:41:39.740055+00:00",
-  "window_start": "2026-09-30",
-  "window_end": "2026-10-07",
+  "generated_at": "2026-10-02T11:09:56.709701+00:00",
+  "window_start": "2026-10-01",
+  "window_end": "2026-10-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,54 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 22,
+  "count": 21,
   "programmes": [
-    {
-      "start": "2026-09-30T05:08:00+00:00",
-      "stop": "2026-09-30T06:55:00+00:00",
-      "channel": "Action",
-      "title": "Une chance sur deux",
-      "subtitle": "",
-      "directors": [
-        "Patrice Leconte"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Alain Delon",
-        "Vanessa Paradis",
-        "Andre Brizard",
-        "Steven Poster",
-        "Patrice Leconte"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "Alice sort de prison après avoir purgé une peine de huit mois ferme pour vol de voiture. Sa mère qui vient de mourir lui a laissé une cassette ou elle lui avoue le mystère de sa naissance. Alice n'a jamais connu son père. Il y a vingt ans, sa mère a aimé deux hommes. L'un des deux l'a conçue sans le savoir puisqu'elle ne leur a rien dit. Alice va découvrir deux gros gabarits. Avant de savoir lequel des deux est son papa, elle va les entraîner dans une sacrée aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-30T19:20:00+00:00",
-      "stop": "2026-09-30T21:10:00+00:00",
-      "channel": "RAI Due",
-      "title": "Doppia colpa",
-      "subtitle": "",
-      "directors": [
-        "Simon Kaijser"
-      ],
-      "actors": [
-        "Pierce Brosnan",
-        "Minnie Driver",
-        "Guy Pearce",
-        "Alexandra Shipp",
-        "Odeya Rush",
-        "Clark Gregg"
-      ],
-      "matched_actors": [
-        "Pierce Brosnan"
-      ],
-      "description": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-01T18:50:00+00:00",
       "stop": "2026-10-01T21:14:00+00:00",
@@ -219,7 +173,7 @@
     },
     {
       "start": "2026-10-01T21:15:00+00:00",
-      "stop": "2026-10-01T23:03:00+00:00",
+      "stop": "2026-10-01T23:04:00+00:00",
       "channel": "RTL TVI",
       "title": "Top Gun",
       "subtitle": "",
@@ -614,26 +568,49 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-07T19:20:00+00:00",
-      "stop": "2026-10-07T21:10:00+00:00",
-      "channel": "RAI Due",
-      "title": "Doppia colpa",
-      "subtitle": "",
+      "start": "2026-10-08T03:32:00+00:00",
+      "stop": "2026-10-08T05:14:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
       "directors": [
-        "Simon Kaijser"
+        "Patrick Dewolf"
       ],
       "actors": [
-        "Pierce Brosnan",
-        "Minnie Driver",
-        "Guy Pearce",
-        "Alexandra Shipp",
-        "Odeya Rush",
-        "Clark Gregg"
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
       ],
       "matched_actors": [
-        "Pierce Brosnan"
+        "Jean-Pierre Cassel"
       ],
-      "description": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai...",
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-08T19:00:00+00:00",
+      "stop": "2026-10-08T20:45:00+00:00",
+      "channel": "France 4",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "matched_actors": [
+        "Lauren Bacall"
+      ],
+      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
       "category": "Cinéma"
     }
   ]
