@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T15:01:37.390230+00:00",
-  "window_start": "2026-10-01",
-  "window_end": "2026-10-08",
+  "generated_at": "2026-10-03T10:27:44.910016+00:00",
+  "window_start": "2026-10-02",
+  "window_end": "2026-10-09",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,100 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 21,
+  "count": 19,
   "programmes": [
-    {
-      "start": "2026-10-01T18:50:00+00:00",
-      "stop": "2026-10-01T21:14:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Top Gun: Maverick",
-      "subtitle": "",
-      "directors": [
-        "Joseph Kosinski"
-      ],
-      "actors": [
-        "Tom Cruise",
-        "Jennifer Connelly",
-        "Val Kilmer",
-        "Miles Teller",
-        "Monica Barbaro",
-        "Glen Powell"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Après avoir été l'un des meilleurs pilotes de chasse de la Marine américaine pendant plus de trente ans, Pete “Maverick\" Mitchell (Tom Cruise) continue à repousser ses limites en tant que pilote d'essai. Il refuse de monter en grade, car cela l'obligerait à renoncer à voler. Il est chargé de former un détachement de jeunes diplômés de l'école Top Gun pour une mission spéciale qu'aucun pilote n'aurait jamais imaginée Lors de cette mission, Maverick rencontre le lieutenant Bradley “Rooster” Bradshaw, le fils de son défunt ami, le navigateur Nick “Goose” Bradshaw. Face à un avenir incertain, hanté par ses fantômes, Maverick va devoir affronter ses pires cauchemars au cours d'une mission qui exigera les plus grands sacrifices.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-01T20:55:00+00:00",
-      "stop": "2026-10-01T22:45:00+00:00",
-      "channel": "France 4",
-      "title": "Frères ennemis",
-      "subtitle": "",
-      "directors": [
-        "David Oelhoffen"
-      ],
-      "actors": [
-        "Matthias Schoenaerts",
-        "Reda Kateb",
-        "Sabrina Ouazani",
-        "Adel Bencherif",
-        "Nicolas Giraud",
-        "Sofiane Zermani"
-      ],
-      "matched_actors": [
-        "Sabrina Ouazani"
-      ],
-      "description": "Driss et Manuel sont deux amis d'enfance qui ont grandi dans la même cité. Eux qui étaient inséparables, ont pris des chemins totalement opposés : Manuel est trafiquant de drogue tandis que Driss, policier, est promu à la brigade des stups. Lorsqu'il retrouve Manuel, dont le dernier deal tourne mal, les deux hommes réalisent qu'ils ont besoin de s'aider mutuellement pour survivre dans leurs mondes respectifs.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-01T21:15:00+00:00",
-      "stop": "2026-10-01T23:04:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Top Gun",
-      "subtitle": "",
-      "directors": [
-        "Tony Scott"
-      ],
-      "actors": [
-        "Tom Cruise",
-        "Kelly McGillis",
-        "Anthony Edwards",
-        "Val Kilmer",
-        "Tim Robbins",
-        "Tom Skerritt"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Pete \"Maverick\" Mitchell, un jeune pilote doué mais tête-brûlée, est envoyé dans une prestigieuse école aéronavale de l'armée américaine pour y suivre un entraînement intensif. Il y rencontre la belle Charlotte, une instructrice dont il tombe amoureux. Dépressif après un accident en vol qui coûte la vie à son équipier et dont il se sent responsable, il tente de surmonter sa crise et de reprendre confiance en lui.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-01T22:05:00+00:00",
-      "stop": "2026-10-01T23:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "Florence Foster Jenkins",
-      "subtitle": "",
-      "directors": [
-        "Stephen Frears"
-      ],
-      "actors": [
-        "Meryl Streep",
-        "Hugh Grant",
-        "Simon Helberg",
-        "Rebecca Ferguson",
-        "Nina Arianda",
-        "Stanley Townsend"
-      ],
-      "matched_actors": [
-        "Rebecca Ferguson"
-      ],
-      "description": "Heiress Florence Foster Jenkins longs to become an opera star in 1940s New York, despite possessing a horrible singing voice. With the help of her husband and a talented musician, she finds a strange kind of success as a performer and recording artist. But when Florence stages a huge concert at Carnegie Hall, he faces his greatest challenge to make sure her performance hits all the right notes.",
-      "category": "Movies"
-    },
     {
       "start": "2026-10-02T08:45:00+00:00",
       "stop": "2026-10-02T09:40:00+00:00",
@@ -611,6 +519,52 @@
         "Lauren Bacall"
       ],
       "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-09T04:20:00+00:00",
+      "stop": "2026-10-09T06:06:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-09T19:05:00+00:00",
+      "stop": "2026-10-09T21:15:00+00:00",
+      "channel": "France 5",
+      "title": "She Said",
+      "subtitle": "",
+      "directors": [
+        "Maria Schrader"
+      ],
+      "actors": [
+        "Carey Mulligan",
+        "Zoe Kazan",
+        "Patricia Clarkson",
+        "Andre Braugher",
+        "Jennifer Ehle",
+        "Angela Yeoh"
+      ],
+      "matched_actors": [
+        "Andre Braugher"
+      ],
+      "description": "Les journalistes du New York Times Jodi Kantor et Megan Twohey tentent de reconstituer les détails de l'une des histoires les plus controversées de l'histoire récente, celle qui aiderait à lancer le mouvement #MeToo. Leur objectif est de découvrir la vérité sur les allégations de harcèlement sexuel contre le poids lourd hollywoodien Harvey Weinstein.",
       "category": "Cinéma"
     }
   ]
