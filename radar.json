@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T13:56:51.576356+00:00",
-  "window_start": "2026-10-02",
+  "generated_at": "2026-10-04T11:10:18.886949+00:00",
+  "window_start": "2026-10-03",
   "window_end": "2026-10-09",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
@@ -123,32 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 19,
+  "count": 18,
   "programmes": [
-    {
-      "start": "2026-10-02T08:45:00+00:00",
-      "stop": "2026-10-02T09:40:00+00:00",
-      "channel": "Arte",
-      "title": "Sous-marins",
-      "subtitle": "Risque en eau profonde",
-      "directors": [
-        "Tanja Dammertz",
-        "Anja Kindler"
-      ],
-      "actors": [
-        "Iain Ballantyne",
-        "Stefan Bryxi",
-        "Lothar G. Buchheim",
-        "Jacques-Yves Cousteau",
-        "Tony Curtis",
-        "François Dupont"
-      ],
-      "matched_actors": [
-        "Tony Curtis"
-      ],
-      "description": "Dans ce second volet, on découvre l'évolution technologique rapide des sous-marins avec le déclenchement de la Seconde Guerre mondiale, notamment en matière de propulsion et d'armement (torpilles, missiles...). Célébrés par la propagande nazie, les redoutables U-Boote se sont taillé une réputation d'invincibilité, masquant une tout autre réalité, que le film Das Boot (Le bateau) de Wolfgang Petersen dépeint de façon si poignante : près des deux tiers des équipages embarqués dans le conflit ont perdu la vie. Des tragédies maritimes qui endeuillent encore les amirautés, comme en témoigne le naufrage, avec ses 118 marins, en 2000, du sous-marin nucléaire lanceur de missiles Koursk, fleuron de la marine russe.",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-10-03T11:30:00+00:00",
       "stop": "2026-10-03T13:05:00+00:00",
@@ -241,8 +217,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-10-05T11:23:00+00:00",
-      "stop": "2026-10-05T12:09:00+00:00",
+      "start": "2026-10-05T11:21:00+00:00",
+      "stop": "2026-10-05T12:07:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Une femme comme les autres",
@@ -266,8 +242,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-05T12:09:00+00:00",
-      "stop": "2026-10-05T12:59:00+00:00",
+      "start": "2026-10-05T12:07:00+00:00",
+      "stop": "2026-10-05T12:58:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "L'époux de la reine",
@@ -403,8 +379,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-06T18:32:00+00:00",
-      "stop": "2026-10-06T19:19:00+00:00",
+      "start": "2026-10-06T18:36:00+00:00",
+      "stop": "2026-10-06T19:23:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Le moteur du changement",
@@ -428,8 +404,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-06T19:19:00+00:00",
-      "stop": "2026-10-06T20:10:00+00:00",
+      "start": "2026-10-06T19:23:00+00:00",
+      "stop": "2026-10-06T20:17:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La jeune Angleterre",
