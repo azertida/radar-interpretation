@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:23:16.552139+00:00",
-  "window_start": "2026-10-03",
-  "window_end": "2026-10-09",
+  "generated_at": "2026-10-05T12:19:51.906140+00:00",
+  "window_start": "2026-10-04",
+  "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,31 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 18,
+  "count": 19,
   "programmes": [
-    {
-      "start": "2026-10-03T11:30:00+00:00",
-      "stop": "2026-10-03T13:05:00+00:00",
-      "channel": "Arte",
-      "title": "Hondo, l'homme du désert",
-      "subtitle": "",
-      "directors": [
-        "John Farrow"
-      ],
-      "actors": [
-        "John Wayne",
-        "Geraldine Page",
-        "Ward Bond",
-        "James Arness",
-        "Michael Pate",
-        "Rodolfo Acosta"
-      ],
-      "matched_actors": [
-        "John Wayne"
-      ],
-      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-04T02:53:00+00:00",
       "stop": "2026-10-04T05:42:00+00:00",
@@ -541,6 +518,53 @@
         "Andre Braugher"
       ],
       "description": "Les journalistes du New York Times Jodi Kantor et Megan Twohey tentent de reconstituer les détails de l'une des histoires les plus controversées de l'histoire récente, celle qui aiderait à lancer le mouvement #MeToo. Leur objectif est de découvrir la vérité sur les allégations de harcèlement sexuel contre le poids lourd hollywoodien Harvey Weinstein.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-11T08:02:00+00:00",
+      "stop": "2026-10-11T09:34:00+00:00",
+      "channel": "La Trois",
+      "title": "Angry Birds, le film",
+      "subtitle": "",
+      "directors": [
+        "Clay Kaytis",
+        "Fergal Reilly"
+      ],
+      "actors": [
+        "Danny McBride",
+        "Kate McKinnon",
+        "Tony Hale",
+        "Matthew J. McCarthy",
+        "Maddie Taylor",
+        "Mckenna Grace"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "Sur une île paradisiaque, un groupe d'oiseaux quasiment incapables de voler mène une existence heureuse. Trois d'entre eux ont toujours été tenus à l'écart des autres : Red, qui a de sérieux problèmes de gestion de la colère, Chuck, toujours pressé, et Bomb l'imprévisible. Un jour, d'étranges petits cochons verts débarquent sur l'île...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-11T19:10:00+00:00",
+      "stop": "2026-10-11T21:20:00+00:00",
+      "channel": "France 2",
+      "title": "Désigné coupable",
+      "subtitle": "",
+      "directors": [
+        "Kevin Macdonald"
+      ],
+      "actors": [
+        "Tahar Rahim",
+        "Baya Belal",
+        "Jodie Foster",
+        "Shailene Woodley",
+        "Clayton Boyd",
+        "Denis Ménochet"
+      ],
+      "matched_actors": [
+        "Jodie Foster"
+      ],
+      "description": "Après les tragiques attentats terroristes du 11 septembre, Mohamedou Ould Slahi est capturé par les autorités américaines, soupçonné d'être lié à ces événements. Il est en détenu à Guantanamo Bay pendant 14 ans sans être inculpé et sans la possibilité d'être jugé. Alors qu'il perd espoir, il rencontre Nancy Hollander, avocate de la défense, et son associée Teri Duncan. Leur plaidoyer polémique, ainsi que les preuves découvertes par le redoutable procureur militaire, le lieutenant-colonel Stuart Couch, finiront par démasquer une conspiration aussi vaste que scandaleuse. L'incroyable histoire vraie d'un combat acharné pour la survie et les droits d'un homme.",
       "category": "Cinéma"
     }
   ]
