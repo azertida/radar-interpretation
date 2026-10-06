@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T17:25:15.130800+00:00",
-  "window_start": "2026-10-04",
-  "window_end": "2026-10-11",
+  "generated_at": "2026-10-06T12:05:08.669792+00:00",
+  "window_start": "2026-10-05",
+  "window_end": "2026-10-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,53 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 19,
+  "count": 22,
   "programmes": [
-    {
-      "start": "2026-10-04T02:53:00+00:00",
-      "stop": "2026-10-04T05:42:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-04T11:30:00+00:00",
-      "stop": "2026-10-04T13:10:00+00:00",
-      "channel": "Arte",
-      "title": "Les Mariés De L'an Deux",
-      "subtitle": "",
-      "directors": [
-        "Jean-Paul Rappeneau"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Marlène Jobert",
-        "Laura Antonelli",
-        "Michel Auclair",
-        "Julien Guiomar"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "En 1793, Nicolas Philibert revient en France après un exil en Amérique. Il veut divorcer de Charlotte, son épouse, afin de convoler en justes noces avec sa nouvelle conquête. Pris dans les affres de la révolution, Nicolas va avoir toutes les peines du monde à mettre la main sur Charlotte, passée dans le camp des royalistes.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-05T07:15:00+00:00",
       "stop": "2026-10-05T07:50:00+00:00",
@@ -195,7 +150,7 @@
     },
     {
       "start": "2026-10-05T11:21:00+00:00",
-      "stop": "2026-10-05T12:07:00+00:00",
+      "stop": "2026-10-05T12:08:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Une femme comme les autres",
@@ -219,8 +174,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-05T12:07:00+00:00",
-      "stop": "2026-10-05T12:58:00+00:00",
+      "start": "2026-10-05T12:08:00+00:00",
+      "stop": "2026-10-05T12:59:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "L'époux de la reine",
@@ -521,8 +476,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-11T08:02:00+00:00",
-      "stop": "2026-10-11T09:34:00+00:00",
+      "start": "2026-10-11T08:00:00+00:00",
+      "stop": "2026-10-11T09:31:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -566,6 +521,124 @@
       ],
       "description": "Après les tragiques attentats terroristes du 11 septembre, Mohamedou Ould Slahi est capturé par les autorités américaines, soupçonné d'être lié à ces événements. Il est en détenu à Guantanamo Bay pendant 14 ans sans être inculpé et sans la possibilité d'être jugé. Alors qu'il perd espoir, il rencontre Nancy Hollander, avocate de la défense, et son associée Teri Duncan. Leur plaidoyer polémique, ainsi que les preuves découvertes par le redoutable procureur militaire, le lieutenant-colonel Stuart Couch, finiront par démasquer une conspiration aussi vaste que scandaleuse. L'incroyable histoire vraie d'un combat acharné pour la survie et les droits d'un homme.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-12T03:29:00+00:00",
+      "stop": "2026-10-12T05:25:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-12T07:15:00+00:00",
+      "stop": "2026-10-12T07:50:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de travailleurs nomades en autobus scolaire",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de travailleurs nomades en autobus scolaire Sébastien et Thalie ont converti eux-mêmes un bus scolaire en maison sur roues pour alterner entre travail et découvertes sur la route. Julien les rejoint au Yukon pour comprendre comment ils conservent l'équilibre dans leur nouvelle vie nomade.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-10-12T11:22:00+00:00",
+      "stop": "2026-10-12T12:09:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "Le moteur du changement",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Victoria tient absolument à accompagner Albert dans le nord industriel du pays. Elle veut ainsi l'aider à asseoir sa légitimité.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-12T11:30:00+00:00",
+      "stop": "2026-10-12T13:10:00+00:00",
+      "channel": "Arte",
+      "title": "Les Mariés De L'an Deux",
+      "subtitle": "",
+      "directors": [
+        "Jean-Paul Rappeneau"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Marlène Jobert",
+        "Laura Antonelli",
+        "Michel Auclair",
+        "Julien Guiomar"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "En 1793, Nicolas Philibert revient en France après un exil en Amérique. Il veut divorcer de Charlotte, son épouse, afin de convoler en justes noces avec sa nouvelle conquête. Pris dans les affres de la révolution, Nicolas va avoir toutes les peines du monde à mettre la main sur Charlotte, passée dans le camp des royalistes.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-12T12:09:00+00:00",
+      "stop": "2026-10-12T12:57:00+00:00",
+      "channel": "La Trois",
+      "title": "Victoria",
+      "subtitle": "La jeune Angleterre",
+      "directors": [
+        "Tom Vaughan",
+        "Olly Blackburn",
+        "Sandra Goldba"
+      ],
+      "actors": [
+        "Jenna Coleman",
+        "Rufus Sewell",
+        "Peter Firth",
+        "Catherine Flemming",
+        "Daniela Holtz",
+        "Ferdinand Kingsley"
+      ],
+      "matched_actors": [
+        "Jenna Coleman"
+      ],
+      "description": "Victoria supporte de moins en moins les manigances d'Albert et de sa mère. Elle ne veut plus être confinée au palais. Alors qu'elle est prête à donner naissance à son premier enfant, le Duc de Cumberland accourt à Londres, dans l'espoir que sa nièce mourra en couches.",
+      "category": "Séries"
     }
   ]
 }
