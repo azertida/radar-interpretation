@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T15:29:40.547724+00:00",
-  "window_start": "2026-10-05",
-  "window_end": "2026-10-12",
+  "generated_at": "2026-10-07T11:50:40.405892+00:00",
+  "window_start": "2026-10-06",
+  "window_end": "2026-10-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,147 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 22,
+  "count": 18,
   "programmes": [
-    {
-      "start": "2026-10-05T07:15:00+00:00",
-      "stop": "2026-10-05T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La Vie D'une Famille de 5 en Yourte",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-10-05T11:21:00+00:00",
-      "stop": "2026-10-05T12:08:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Une femme comme les autres",
-      "directors": [
-        "Sandra Goldbacher",
-        "Tom Vaughan",
-        "Olly Black"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Alors que Victoria annonce ses fiançailles, la nouvelle est mal prise par le Parlement. Nombreux sont ceux qui voient d'un mauvais œil le consort, du fait de ses origines allemandes.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-05T12:08:00+00:00",
-      "stop": "2026-10-05T12:59:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "L'époux de la reine",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Alors qu'Albert a de plus en plus de mal à trouver sa place, Victoria doit ruser afin de lui offrir l'estime et les égards qu'il mérite.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-05T19:10:00+00:00",
-      "stop": "2026-10-05T19:55:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 4",
-      "directors": [
-        "Lea Fazer"
-      ],
-      "actors": [
-        "Fanny Cottençon",
-        "Charlie Bruneau",
-        "Lionnel Astier",
-        "Thibault de Montalembert",
-        "Bruno Sanchez"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Guidées par un codex trouvé dans un globe de Coronelli, Françoise et Sophie suivent la piste de Vaux-le-Vicomte. Convaincues que le tableau s'y cache.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-05T19:55:00+00:00",
-      "stop": "2026-10-05T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 5",
-      "directors": [
-        "Lea Fazer"
-      ],
-      "actors": [
-        "Fanny Cottençon",
-        "Charlie Bruneau",
-        "Lionnel Astier",
-        "Thibault de Montalembert",
-        "Bruno Sanchez"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "JP réussit à fuir de l'hôpital et retrouve Françoise, elle aussi libérée. Ensemble, ils découvrent que Sophie a été enlevée et décident de la secourir. A leur grande surprise, Juliette.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-05T20:45:00+00:00",
-      "stop": "2026-10-05T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventurières",
-      "subtitle": "Episode 6",
-      "directors": [
-        "Lea Fazer"
-      ],
-      "actors": [
-        "Fanny Cottençon",
-        "Charlie Bruneau",
-        "Lionnel Astier",
-        "Thibault de Montalembert",
-        "Bruno Sanchez"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Nader met les Séguret et Oscar en prison, mais ces derniers réussissent à se libérer. Emouvantes retrouvailles entre Oscar et ses anciens mentors.",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-06T02:00:00+00:00",
       "stop": "2026-10-06T02:30:00+00:00",
@@ -565,7 +426,7 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie de travailleurs nomades en autobus scolaire Sébastien et Thalie ont converti eux-mêmes un bus scolaire en maison sur roues pour alterner entre travail et découvertes sur la route. Julien les rejoint au Yukon pour comprendre comment ils conservent l'équilibre dans leur nouvelle vie nomade.",
+      "description": "La vie de travailleurs nomades en autobus scolaire Sébastien et Thalie ont converti eux-mêmes un bus scolaire en maison sur roues pour alterner entre travail et découvertes sur la route.",
       "category": "Documentaire"
     },
     {
@@ -639,6 +500,52 @@
       ],
       "description": "Victoria supporte de moins en moins les manigances d'Albert et de sa mère. Elle ne veut plus être confinée au palais. Alors qu'elle est prête à donner naissance à son premier enfant, le Duc de Cumberland accourt à Londres, dans l'espoir que sa nièce mourra en couches.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-13T02:00:00+00:00",
+      "stop": "2026-10-13T02:30:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie de travailleurs nomades en autobus scolaire",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie de travailleurs nomades en autobus scolaire Sébastien et Thalie ont converti eux-mêmes un bus scolaire en maison sur roues pour alterner entre travail et découvertes sur la route.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-10-13T19:00:00+00:00",
+      "stop": "2026-10-13T21:10:00+00:00",
+      "channel": "France 4",
+      "title": "France",
+      "subtitle": "",
+      "directors": [
+        "Bruno Dumont"
+      ],
+      "actors": [
+        "Léa Seydoux",
+        "Blanche Gardin",
+        "Benjamin Biolay",
+        "Emanuele Arioli",
+        "Juliane Köhler",
+        "Gaëtan Amiel"
+      ],
+      "matched_actors": [
+        "Léa Seydoux"
+      ],
+      "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
+      "category": "Cinéma"
     }
   ]
 }
