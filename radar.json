@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T15:49:32.946214+00:00",
-  "window_start": "2026-10-06",
-  "window_end": "2026-10-13",
+  "generated_at": "2026-10-08T12:04:58.422881+00:00",
+  "window_start": "2026-10-07",
+  "window_end": "2026-10-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,104 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 18,
+  "count": 15,
   "programmes": [
-    {
-      "start": "2026-10-06T02:00:00+00:00",
-      "stop": "2026-10-06T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La Vie D'une Famille de 5 en Yourte",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie d'une famille de 5 en yourte Julien part à la rencontre d'Audrey et Michael, installés dans le Yukon dans une yourte hors réseau avec leurs trois enfants en bas âge.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-10-06T03:39:00+00:00",
-      "stop": "2026-10-06T05:53:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-06T18:36:00+00:00",
-      "stop": "2026-10-06T19:23:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "Le moteur du changement",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Victoria tient absolument à accompagner Albert dans le nord industriel du pays. Elle veut ainsi l'aider à asseoir sa légitimité.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-06T19:23:00+00:00",
-      "stop": "2026-10-06T20:17:00+00:00",
-      "channel": "La Trois",
-      "title": "Victoria",
-      "subtitle": "La jeune Angleterre",
-      "directors": [
-        "Tom Vaughan",
-        "Olly Blackburn",
-        "Sandra Goldba"
-      ],
-      "actors": [
-        "Jenna Coleman",
-        "Rufus Sewell",
-        "Peter Firth",
-        "Catherine Flemming",
-        "Daniela Holtz",
-        "Ferdinand Kingsley"
-      ],
-      "matched_actors": [
-        "Jenna Coleman"
-      ],
-      "description": "Victoria supporte de moins en moins les manigances d'Albert et de sa mère. Elle ne veut plus être confinée au palais. Alors qu'elle est prête à donner naissance à son premier enfant, le Duc de Cumberland accourt à Londres, dans l'espoir que sa nièce mourra en couches.",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-07T19:00:00+00:00",
       "stop": "2026-10-07T21:30:00+00:00",
@@ -431,7 +335,7 @@
     },
     {
       "start": "2026-10-12T11:22:00+00:00",
-      "stop": "2026-10-12T12:09:00+00:00",
+      "stop": "2026-10-12T12:08:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "Le moteur du changement",
@@ -477,7 +381,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-12T12:09:00+00:00",
+      "start": "2026-10-12T12:08:00+00:00",
       "stop": "2026-10-12T12:57:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
@@ -546,6 +450,29 @@
       ],
       "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-14T02:49:00+00:00",
+      "stop": "2026-10-14T05:07:00+00:00",
+      "channel": "Action",
+      "title": "Crimes en série",
+      "subtitle": "Histoires d'amour",
+      "directors": [
+        "Patrick Dewolf"
+      ],
+      "actors": [
+        "Pascal Légitimus",
+        "Yvon Back",
+        "Clémence Boué",
+        "Christian Hecq",
+        "Pascale Arbillot",
+        "Jean-Pierre Cassel"
+      ],
+      "matched_actors": [
+        "Jean-Pierre Cassel"
+      ],
+      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
+      "category": "Séries"
     }
   ]
 }
