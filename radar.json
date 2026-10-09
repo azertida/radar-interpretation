@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T15:54:42.712450+00:00",
-  "window_start": "2026-10-07",
+  "generated_at": "2026-10-09T11:56:32.881851+00:00",
+  "window_start": "2026-10-08",
   "window_end": "2026-10-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
@@ -123,31 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 15,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-07T19:00:00+00:00",
-      "stop": "2026-10-07T21:30:00+00:00",
-      "channel": "Arte",
-      "title": "Zero Dark Thirty",
-      "subtitle": "",
-      "directors": [
-        "Kathryn Bigelow"
-      ],
-      "actors": [
-        "Jessica Chastain",
-        "Jennifer Ehle",
-        "Jason Clarke",
-        "Kyle Chandler",
-        "Chris Pratt",
-        "James Gandolfini"
-      ],
-      "matched_actors": [
-        "Jessica Chastain"
-      ],
-      "description": "Dans la nuit du 2 mai 2011, la chasse à l'homme la plus importante de l'histoire prend fin : Oussama Ben Laden est éliminé. Au lendemain des attentats du 11 septembre 2001 et pendant plus de dix ans, une équipe d'officiers d'élite des forces spéciales américaines a travaillé en secret et traqué sans relâche le terroriste le plus recherché. Jusqu'à cette nuit fatidique qui marque le dénouement de l'opération.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-08T03:32:00+00:00",
       "stop": "2026-10-08T05:14:00+00:00",
@@ -241,7 +218,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-11T08:00:00+00:00",
+      "start": "2026-10-11T07:59:00+00:00",
       "stop": "2026-10-11T09:31:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
@@ -334,7 +311,7 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-10-12T11:22:00+00:00",
+      "start": "2026-10-12T11:21:00+00:00",
       "stop": "2026-10-12T12:08:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
@@ -382,7 +359,7 @@
     },
     {
       "start": "2026-10-12T12:08:00+00:00",
-      "stop": "2026-10-12T12:57:00+00:00",
+      "stop": "2026-10-12T12:56:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
       "subtitle": "La jeune Angleterre",
