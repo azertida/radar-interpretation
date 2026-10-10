@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:34:45.397917+00:00",
-  "window_start": "2026-10-08",
-  "window_end": "2026-10-14",
+  "generated_at": "2026-10-10T11:14:26.917742+00:00",
+  "window_start": "2026-10-09",
+  "window_end": "2026-10-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,54 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 14,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-10-08T03:32:00+00:00",
-      "stop": "2026-10-08T05:14:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-08T19:00:00+00:00",
-      "stop": "2026-10-08T20:45:00+00:00",
-      "channel": "France 4",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "matched_actors": [
-        "Lauren Bacall"
-      ],
-      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-09T04:20:00+00:00",
       "stop": "2026-10-09T06:06:00+00:00",
@@ -219,7 +173,7 @@
     },
     {
       "start": "2026-10-11T07:59:00+00:00",
-      "stop": "2026-10-11T09:31:00+00:00",
+      "stop": "2026-10-11T09:30:00+00:00",
       "channel": "La Trois",
       "title": "Angry Birds, le film",
       "subtitle": "",
@@ -311,7 +265,7 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-10-12T11:21:00+00:00",
+      "start": "2026-10-12T11:20:00+00:00",
       "stop": "2026-10-12T12:08:00+00:00",
       "channel": "La Trois",
       "title": "Victoria",
@@ -337,7 +291,7 @@
     },
     {
       "start": "2026-10-12T11:30:00+00:00",
-      "stop": "2026-10-12T13:10:00+00:00",
+      "stop": "2026-10-12T13:05:00+00:00",
       "channel": "Arte",
       "title": "Les Mariés De L'an Deux",
       "subtitle": "",
@@ -450,6 +404,29 @@
       ],
       "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-16T21:00:00+00:00",
+      "stop": "2026-10-16T22:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Silence of the Lambs",
+      "subtitle": "",
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine",
+        "Anthony Heald",
+        "Diane Baker"
+      ],
+      "matched_actors": [
+        "Jodie Foster"
+      ],
+      "description": "Clarice Starling, an FBI agent, is dealing with a serial killer who has murdered several women. She has no choice but to take the help of Hannibal Lecter, another psychopathic serial killer, to nab this serial killer.",
+      "category": "Movies"
     }
   ]
 }
