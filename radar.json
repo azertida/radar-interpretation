@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T14:46:49.207237+00:00",
-  "window_start": "2026-10-09",
-  "window_end": "2026-10-16",
+  "generated_at": "2026-10-11T11:26:30.327313+00:00",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,52 +125,6 @@
   ],
   "count": 13,
   "programmes": [
-    {
-      "start": "2026-10-09T04:20:00+00:00",
-      "stop": "2026-10-09T06:06:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-09T19:05:00+00:00",
-      "stop": "2026-10-09T21:15:00+00:00",
-      "channel": "France 5",
-      "title": "She Said",
-      "subtitle": "",
-      "directors": [
-        "Maria Schrader"
-      ],
-      "actors": [
-        "Carey Mulligan",
-        "Zoe Kazan",
-        "Patricia Clarkson",
-        "Andre Braugher",
-        "Jennifer Ehle",
-        "Angela Yeoh"
-      ],
-      "matched_actors": [
-        "Andre Braugher"
-      ],
-      "description": "Les journalistes du New York Times Jodi Kantor et Megan Twohey tentent de reconstituer les détails de l'une des histoires les plus controversées de l'histoire récente, celle qui aiderait à lancer le mouvement #MeToo. Leur objectif est de découvrir la vérité sur les allégations de harcèlement sexuel contre le poids lourd hollywoodien Harvey Weinstein.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-11T07:59:00+00:00",
       "stop": "2026-10-11T09:30:00+00:00",
@@ -427,6 +381,52 @@
       ],
       "description": "Clarice Starling, an FBI agent, is dealing with a serial killer who has murdered several women. She has no choice but to take the help of Hannibal Lecter, another psychopathic serial killer, to nab this serial killer.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-10-17T13:15:00+00:00",
+      "stop": "2026-10-17T15:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "North by Northwest",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis",
+        "Philip Ober",
+        "Martin Landau"
+      ],
+      "matched_actors": [
+        "Cary Grant"
+      ],
+      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-10-17T18:40:00+00:00",
+      "stop": "2026-10-17T21:05:00+00:00",
+      "channel": "VTM",
+      "title": "The Fall Guy",
+      "subtitle": "",
+      "directors": [
+        "David Leitch"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Emily Blunt",
+        "Aaron Taylor-Johnson",
+        "Hannah Waddingham",
+        "Teresa Palmer",
+        "Stephanie Hsu"
+      ],
+      "matched_actors": [
+        "Hannah Waddingham"
+      ],
+      "description": "Stuntman Colt Seavers heeft net een ongeluk achter de rug en moet een vermiste filmster opsporen, een samenzwering oplossen en proberen de liefde van zijn leven terug te winnen terwijl hij nog steeds zijn dagelijkse werk doet.",
+      "category": "Films"
     }
   ]
 }
