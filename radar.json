@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T15:05:40.435606+00:00",
+  "generated_at": "2026-10-12T13:14:04.834346+00:00",
   "window_start": "2026-10-11",
-  "window_end": "2026-10-17",
+  "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 16,
   "programmes": [
     {
       "start": "2026-10-11T07:59:00+00:00",
@@ -427,6 +427,76 @@
       ],
       "description": "Stuntman Colt Seavers heeft net een ongeluk achter de rug en moet een vermiste filmster opsporen, een samenzwering oplossen en proberen de liefde van zijn leven terug te winnen terwijl hij nog steeds zijn dagelijkse werk doet.",
       "category": "Films"
+    },
+    {
+      "start": "2026-10-18T19:00:00+00:00",
+      "stop": "2026-10-18T21:45:00+00:00",
+      "channel": "Arte",
+      "title": "Interstellar",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Casey Affleck",
+        "Topher Grace"
+      ],
+      "matched_actors": [
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-18T19:10:00+00:00",
+      "stop": "2026-10-18T20:45:00+00:00",
+      "channel": "France 2",
+      "title": "Les aventures de Rabbi Jacob",
+      "subtitle": "",
+      "directors": [
+        "Gérard Oury"
+      ],
+      "actors": [
+        "Marcel Dalio",
+        "Louis de Funès",
+        "Henri Guybet",
+        "Miou-Miou",
+        "Suzy Delair",
+        "Claude Giraud"
+      ],
+      "matched_actors": [
+        "Louis de Funès"
+      ],
+      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-18T22:40:00+00:00",
+      "stop": "2026-10-19T00:20:00+00:00",
+      "channel": "BBC One",
+      "title": "Children of Men",
+      "subtitle": "",
+      "directors": [
+        "Alfonso Cuaron"
+      ],
+      "actors": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Set in a dystopian future where infertility has led mankind to the brink of extinction, a sole pregnant woman holds the key to the survival of humanity. In 2027, the world's youngest person has died at the age of 18. Infertility has ravaged the world, leading it into anarchy. Eastern European and African societies have collapsed, causing their remaining populace to flee to England. Set against a backdrop of London torn apart by violence, the film follows one of the champions of Earth's survival: Theo (Clive Owen), a disillusioned ex-activist turned bureaucrat, who faces his own demons and must protect the planet's last remaining hope for a future generation.",
+      "category": "Movies"
     }
   ]
 }
