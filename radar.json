@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T14:03:32.875478+00:00",
-  "window_start": "2026-10-13",
-  "window_end": "2026-10-20",
+  "generated_at": "2026-10-15T09:59:15.485392+00:00",
+  "window_start": "2026-10-14",
+  "window_end": "2026-10-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,52 +125,6 @@
   ],
   "count": 13,
   "programmes": [
-    {
-      "start": "2026-10-13T02:00:00+00:00",
-      "stop": "2026-10-13T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de travailleurs nomades en autobus scolaire",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de travailleurs nomades en autobus scolaire Sébastien et Thalie ont converti eux-mêmes un bus scolaire en maison sur roues pour alterner entre travail et découvertes sur la route.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-10-13T19:00:00+00:00",
-      "stop": "2026-10-13T21:10:00+00:00",
-      "channel": "France 4",
-      "title": "France",
-      "subtitle": "",
-      "directors": [
-        "Bruno Dumont"
-      ],
-      "actors": [
-        "Léa Seydoux",
-        "Blanche Gardin",
-        "Benjamin Biolay",
-        "Emanuele Arioli",
-        "Juliane Köhler",
-        "Gaëtan Amiel"
-      ],
-      "matched_actors": [
-        "Léa Seydoux"
-      ],
-      "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-14T02:49:00+00:00",
       "stop": "2026-10-14T05:07:00+00:00",
@@ -424,6 +378,53 @@
       ],
       "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-21T11:35:00+00:00",
+      "stop": "2026-10-21T14:30:00+00:00",
+      "channel": "Arte",
+      "title": "Interstellar",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Casey Affleck",
+        "Topher Grace"
+      ],
+      "matched_actors": [
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-21T18:37:00+00:00",
+      "stop": "2026-10-21T21:26:00+00:00",
+      "channel": "La Trois",
+      "title": "La mélodie du bonheur",
+      "subtitle": "",
+      "directors": [
+        "Robert Wise"
+      ],
+      "actors": [
+        "Julie Andrews",
+        "Christopher Plummer",
+        "Eleanor Parker",
+        "Richard Haydn",
+        "Charmian Carr",
+        "Peggy Wood"
+      ],
+      "matched_actors": [
+        "Julie Andrews"
+      ],
+      "description": "Maria veut devenir nonne. Distraite, elle passe son temps à rêver dans la nature. La mère supérieure l'envoie chez le Capitaine Von Trapp, veuf et père de sept enfants, afin qu'elle y exerce comme gouvernante. La jeune femme se heurte tout d'abord à l'autorité débordante de l'ancien officier de marine. Joyeuse, gentille avec les enfants, Maria parvient à s'attirer leur affection ainsi que celle de leur père.",
+      "category": "Jeunesse"
     }
   ]
 }
