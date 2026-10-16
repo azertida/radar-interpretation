@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T13:43:48.369886+00:00",
-  "window_start": "2026-10-14",
+  "generated_at": "2026-10-16T09:53:37.897538+00:00",
+  "window_start": "2026-10-16",
   "window_end": "2026-10-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
@@ -123,31 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-10-14T02:49:00+00:00",
-      "stop": "2026-10-14T05:07:00+00:00",
-      "channel": "Action",
-      "title": "Crimes en série",
-      "subtitle": "Histoires d'amour",
-      "directors": [
-        "Patrick Dewolf"
-      ],
-      "actors": [
-        "Pascal Légitimus",
-        "Yvon Back",
-        "Clémence Boué",
-        "Christian Hecq",
-        "Pascale Arbillot",
-        "Jean-Pierre Cassel"
-      ],
-      "matched_actors": [
-        "Jean-Pierre Cassel"
-      ],
-      "description": "Une ancienne connaissance du lieutenant Pierre Denard semble s'être suicidée. Denard ne croit pas à cette hypothèse...",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-16T21:00:00+00:00",
       "stop": "2026-10-16T22:50:00+00:00",
@@ -357,29 +334,6 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-10-20T23:25:00+00:00",
-      "stop": "2026-10-21T00:54:00+00:00",
-      "channel": "TF1",
-      "title": "Made in Italy",
-      "subtitle": "",
-      "directors": [
-        "Stéphane Giusti"
-      ],
-      "actors": [
-        "Gilbert Melki",
-        "Amira Casar",
-        "Françoise Fabian",
-        "Caterina Murino",
-        "Vittoria Scognamiglio",
-        "Elli Medeiros"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-10-21T11:35:00+00:00",
       "stop": "2026-10-21T14:30:00+00:00",
       "channel": "Arte",
@@ -405,7 +359,7 @@
     },
     {
       "start": "2026-10-21T18:37:00+00:00",
-      "stop": "2026-10-21T21:26:00+00:00",
+      "stop": "2026-10-21T21:25:00+00:00",
       "channel": "La Trois",
       "title": "La mélodie du bonheur",
       "subtitle": "",
