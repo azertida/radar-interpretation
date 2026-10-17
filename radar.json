@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T13:32:30.769078+00:00",
+  "generated_at": "2026-10-17T09:25:28.633636+00:00",
   "window_start": "2026-10-16",
-  "window_end": "2026-10-21",
+  "window_end": "2026-10-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 11,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-10-16T21:00:00+00:00",
@@ -379,6 +379,52 @@
       ],
       "description": "Maria veut devenir nonne. Distraite, elle passe son temps à rêver dans la nature. La mère supérieure l'envoie chez le Capitaine Von Trapp, veuf et père de sept enfants, afin qu'elle y exerce comme gouvernante. La jeune femme se heurte tout d'abord à l'autorité débordante de l'ancien officier de marine. Joyeuse, gentille avec les enfants, Maria parvient à s'attirer leur affection ainsi que celle de leur père.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-23T18:50:00+00:00",
+      "stop": "2026-10-23T20:45:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-23T19:05:00+00:00",
+      "stop": "2026-10-23T21:15:00+00:00",
+      "channel": "France 5",
+      "title": "Les hommes du Président",
+      "subtitle": "",
+      "directors": [
+        "Alan J. Pakula"
+      ],
+      "actors": [
+        "Dustin Hoffman",
+        "Robert Redford",
+        "Jack Warden",
+        "Martin Balsam",
+        "Hal Holbrook",
+        "Jason Robards"
+      ],
+      "matched_actors": [
+        "Robert Redford"
+      ],
+      "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
+      "category": "Cinéma"
     }
   ]
 }
