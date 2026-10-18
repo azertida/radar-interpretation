@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T12:25:39.933802+00:00",
-  "window_start": "2026-10-16",
-  "window_end": "2026-10-23",
+  "generated_at": "2026-10-18T09:41:26.924722+00:00",
+  "window_start": "2026-10-17",
+  "window_end": "2026-10-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,31 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 13,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-16T21:00:00+00:00",
-      "stop": "2026-10-16T22:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Silence of the Lambs",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Demme"
-      ],
-      "actors": [
-        "Jodie Foster",
-        "Anthony Hopkins",
-        "Scott Glenn",
-        "Ted Levine",
-        "Anthony Heald",
-        "Diane Baker"
-      ],
-      "matched_actors": [
-        "Jodie Foster"
-      ],
-      "description": "Clarice Starling, an FBI agent, is dealing with a serial killer who has murdered several women. She has no choice but to take the help of Hannibal Lecter, another psychopathic serial killer, to nab this serial killer.",
-      "category": "Movies"
-    },
     {
       "start": "2026-10-17T13:15:00+00:00",
       "stop": "2026-10-17T15:25:00+00:00",
@@ -424,6 +401,52 @@
         "Robert Redford"
       ],
       "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-24T09:57:00+00:00",
+      "stop": "2026-10-24T11:52:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-24T23:36:00+00:00",
+      "stop": "2026-10-25T02:17:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
       "category": "Cinéma"
     }
   ]
