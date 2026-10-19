@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T12:48:57.719736+00:00",
-  "window_start": "2026-10-17",
-  "window_end": "2026-10-24",
+  "generated_at": "2026-10-19T10:49:22.381998+00:00",
+  "window_start": "2026-10-18",
+  "window_end": "2026-10-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,52 +125,6 @@
   ],
   "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-17T13:15:00+00:00",
-      "stop": "2026-10-17T15:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "North by Northwest",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "actors": [
-        "Cary Grant",
-        "Eva Marie Saint",
-        "James Mason",
-        "Jessie Royce Landis",
-        "Philip Ober",
-        "Martin Landau"
-      ],
-      "matched_actors": [
-        "Cary Grant"
-      ],
-      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-10-17T18:40:00+00:00",
-      "stop": "2026-10-17T21:05:00+00:00",
-      "channel": "VTM",
-      "title": "The Fall Guy",
-      "subtitle": "",
-      "directors": [
-        "David Leitch"
-      ],
-      "actors": [
-        "Ryan Gosling",
-        "Emily Blunt",
-        "Aaron Taylor-Johnson",
-        "Hannah Waddingham",
-        "Teresa Palmer",
-        "Stephanie Hsu"
-      ],
-      "matched_actors": [
-        "Hannah Waddingham"
-      ],
-      "description": "Stuntman Colt Seavers heeft net een ongeluk achter de rug en moet een vermiste filmster opsporen, een samenzwering oplossen en proberen de liefde van zijn leven terug te winnen terwijl hij nog steeds zijn dagelijkse werk doet.",
-      "category": "Films"
-    },
     {
       "start": "2026-10-18T19:00:00+00:00",
       "stop": "2026-10-18T21:45:00+00:00",
@@ -448,6 +402,52 @@
       ],
       "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-25T20:15:00+00:00",
+      "stop": "2026-10-25T22:23:00+00:00",
+      "channel": "TF1",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "subtitle": "",
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Benedict Cumberbatch",
+        "Elizabeth Olsen",
+        "Chiwetel Ejiofor",
+        "Benedict Wong",
+        "Xochitl Gomez",
+        "Michael Stuhlbarg"
+      ],
+      "matched_actors": [
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Après les événements de Spider-Man No Way Home, le docteur Strange doit faire face aux conséquences de l'ouverture du multivers. Avec l'aide de Wong, Strange affronte différentes versions de lui-même et fait équipe avec la jeune America Chavez qui peut voyager à travers les multivers. En cours de route, Strange et ses alliés réalisent qu'ils doivent affronter un nouvel adversaire puissant.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-25T22:45:00+00:00",
+      "stop": "2026-10-26T00:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "matched_actors": [
+        "Lauren Bacall"
+      ],
+      "description": "Angry that he killed off her hero, a woman holds her favorite novelist hostage to make him write a new book the way she wants it.",
+      "category": "Movies"
     }
   ]
 }
