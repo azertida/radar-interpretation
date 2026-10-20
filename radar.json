@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T15:52:39.113874+00:00",
+  "generated_at": "2026-10-20T10:07:47.467307+00:00",
   "window_start": "2026-10-18",
-  "window_end": "2026-10-25",
+  "window_end": "2026-10-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,55 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 14,
+  "count": 15,
   "programmes": [
-    {
-      "start": "2026-10-18T19:00:00+00:00",
-      "stop": "2026-10-18T21:45:00+00:00",
-      "channel": "Arte",
-      "title": "Interstellar",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "actors": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain",
-        "Michael Caine",
-        "Casey Affleck",
-        "Topher Grace"
-      ],
-      "matched_actors": [
-        "Anne Hathaway",
-        "Jessica Chastain"
-      ],
-      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-18T19:10:00+00:00",
-      "stop": "2026-10-18T20:45:00+00:00",
-      "channel": "France 2",
-      "title": "Les aventures de Rabbi Jacob",
-      "subtitle": "",
-      "directors": [
-        "Gérard Oury"
-      ],
-      "actors": [
-        "Marcel Dalio",
-        "Louis de Funès",
-        "Henri Guybet",
-        "Miou-Miou",
-        "Suzy Delair",
-        "Claude Giraud"
-      ],
-      "matched_actors": [
-        "Louis de Funès"
-      ],
-      "description": "Pour échapper à deux individus patibulaires, Victor Pivert, un homme d'affaires raciste et xénophobe, emprunte les vêtements d'un rabbin de passage en France. Ainsi déguisé, Pivert est bien sûr pris pour Rabbi Jacob et amené triomphalement parmi les siens, tandis que le véritable rabbin est arrêté par la police...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-18T22:40:00+00:00",
       "stop": "2026-10-19T00:20:00+00:00",
@@ -446,8 +399,78 @@
       "matched_actors": [
         "Lauren Bacall"
       ],
-      "description": "Angry that he killed off her hero, a woman holds her favorite novelist hostage to make him write a new book the way she wants it.",
+      "description": "A car accident on a remote snowy road injures author Paul Sheldon, saved by nurse Annie Wilkes, a great fan of his work. However, her devotion soon takes a sinister turn.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-10-26T12:35:00+00:00",
+      "stop": "2026-10-26T14:10:00+00:00",
+      "channel": "Arte",
+      "title": "Ascenseur pour l'échafaud",
+      "subtitle": "",
+      "directors": [
+        "Louis Maille",
+        "Louis Malle"
+      ],
+      "actors": [
+        "Jeanne Moreau",
+        "Maurice Ronet",
+        "Lino Ventura",
+        "Georges Poujouly",
+        "Jean-Claude Brialy",
+        "Gérard Darrieu"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Julien Tavernier et sa maîtresse, Florence Carala, ont concocté un plan parfait pour supprimer le mari de cette dernière. Mais une fois le meurtre commis, Julien doit revenir sur ses pas pour faire disparaître un indice compromettant, et se retrouve bloqué dans l'ascenseur par une coupure de courant. Florence l'attend vainement à la terrasse d'un café, tandis qu'un jeune couple vole la voiture de Julien...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-26T19:55:00+00:00",
+      "stop": "2026-10-26T21:35:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme de l'ouest",
+      "subtitle": "",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "actors": [
+        "Gary Cooper",
+        "Julie London",
+        "Lee J. Cobb",
+        "Arthur O'Connell",
+        "Jack Lord",
+        "John Dehner"
+      ],
+      "matched_actors": [
+        "Julie London"
+      ],
+      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-26T20:05:00+00:00",
+      "stop": "2026-10-26T21:54:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Mourir d'aimer",
+      "subtitle": "",
+      "directors": [
+        "André Cayatte"
+      ],
+      "actors": [
+        "Annie Girardot",
+        "François Simon",
+        "Bruno Pradal",
+        "Monique Mélinand",
+        "Nathalie Nell",
+        "Nicolas Dumayet"
+      ],
+      "matched_actors": [
+        "Annie Girardot"
+      ],
+      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
+      "category": "Cinéma"
     }
   ]
 }
