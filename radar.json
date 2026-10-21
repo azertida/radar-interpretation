@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T13:51:29.158757+00:00",
-  "window_start": "2026-10-18",
-  "window_end": "2026-10-26",
+  "generated_at": "2026-10-21T10:13:41.077103+00:00",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -126,75 +126,6 @@
   "count": 15,
   "programmes": [
     {
-      "start": "2026-10-18T22:40:00+00:00",
-      "stop": "2026-10-19T00:20:00+00:00",
-      "channel": "BBC One",
-      "title": "Children of Men",
-      "subtitle": "",
-      "directors": [
-        "Alfonso Cuaron"
-      ],
-      "actors": [
-        "Clive Owen",
-        "Clare-Hope Ashitey",
-        "Chiwetel Ejiofor",
-        "Julianne Moore",
-        "Michael Caine",
-        "Pam Ferris"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Set in a dystopian future where infertility has led mankind to the brink of extinction, a sole pregnant woman holds the key to the survival of humanity. In 2027, the world's youngest person has died at the age of 18. Infertility has ravaged the world, leading it into anarchy. Eastern European and African societies have collapsed, causing their remaining populace to flee to England. Set against a backdrop of London torn apart by violence, the film follows one of the champions of Earth's survival: Theo (Clive Owen), a disillusioned ex-activist turned bureaucrat, who faces his own demons and must protect the planet's last remaining hope for a future generation.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-10-19T07:15:00+00:00",
-      "stop": "2026-10-19T07:50:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie d'amoureux du Grand Nord",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie d'amoureux du Grand Nord Julien rencontre Fabien, Raphaëlle et leur petite Rose.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-10-19T18:55:00+00:00",
-      "stop": "2026-10-19T20:55:00+00:00",
-      "channel": "Arte",
-      "title": "Cadavres exquis",
-      "subtitle": "",
-      "directors": [
-        "Francesco Rosi"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Tino Carraro",
-        "Marcel Bozzuffi",
-        "Paolo Bonacelli",
-        "Alain Cuny",
-        "Maria Carta"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-10-20T02:00:00+00:00",
       "stop": "2026-10-20T02:30:00+00:00",
       "channel": "TV5 Monde",
@@ -242,8 +173,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-21T18:37:00+00:00",
-      "stop": "2026-10-21T21:25:00+00:00",
+      "start": "2026-10-21T18:40:00+00:00",
+      "stop": "2026-10-21T21:30:00+00:00",
       "channel": "La Trois",
       "title": "La mélodie du bonheur",
       "subtitle": "",
@@ -358,7 +289,7 @@
     },
     {
       "start": "2026-10-25T20:15:00+00:00",
-      "stop": "2026-10-25T22:23:00+00:00",
+      "stop": "2026-10-25T22:35:00+00:00",
       "channel": "TF1",
       "title": "Doctor Strange in the Multiverse of Madness",
       "subtitle": "",
@@ -470,6 +401,75 @@
         "Annie Girardot"
       ],
       "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-27T01:15:00+00:00",
+      "stop": "2026-10-27T02:56:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-27T13:05:00+00:00",
+      "stop": "2026-10-27T14:57:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Mourir d'aimer",
+      "subtitle": "",
+      "directors": [
+        "André Cayatte"
+      ],
+      "actors": [
+        "Annie Girardot",
+        "François Simon",
+        "Bruno Pradal",
+        "Monique Mélinand",
+        "Nathalie Nell",
+        "Nicolas Dumayet"
+      ],
+      "matched_actors": [
+        "Annie Girardot"
+      ],
+      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-27T19:32:00+00:00",
+      "stop": "2026-10-27T21:04:00+00:00",
+      "channel": "La Trois",
+      "title": "The Duke",
+      "subtitle": "",
+      "directors": [
+        "Roger Michell"
+      ],
+      "actors": [
+        "Charlotte Spencer",
+        "Matthew Goode",
+        "Helen Mirren",
+        "Anna Maxwell-Martin",
+        "Jim Broadbent",
+        "Fionn Whitehead"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "En 1961, Kempton Burton, un chauffeur de taxi londonien de 60 ans, vole un tableau de Goya à la National Gallery. Son épouse Dorothy, ignorant le crime, découvre accidentellement l'œuvre d'art cachée dans leur maison. Mais alors qu'il est appréhendé pour le vol, la nation se révolte lorsque l'avocat Jeremy Hutchinson tente de prouver son innocence et de justifier l'acte comme un geste héroïque. Cette histoire vraie raconte comment un inoffensif retraité s'est vu recherché par toutes les polices de Grande Bretagne, accomplissant le premier (et unique) vol dans l'histoire du musée.",
       "category": "Cinéma"
     }
   ]
