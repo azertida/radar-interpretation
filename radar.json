@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T18:27:32.051750+00:00",
-  "window_start": "2026-10-21",
-  "window_end": "2026-10-28",
+  "generated_at": "2026-10-22T10:14:37.956117+00:00",
+  "window_start": "2026-10-23",
+  "window_end": "2026-10-29",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,55 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 18,
+  "count": 20,
   "programmes": [
-    {
-      "start": "2026-10-21T11:35:00+00:00",
-      "stop": "2026-10-21T14:30:00+00:00",
-      "channel": "Arte",
-      "title": "Interstellar",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "actors": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain",
-        "Michael Caine",
-        "Casey Affleck",
-        "Topher Grace"
-      ],
-      "matched_actors": [
-        "Anne Hathaway",
-        "Jessica Chastain"
-      ],
-      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-10-21T18:40:00+00:00",
-      "stop": "2026-10-21T21:30:00+00:00",
-      "channel": "La Trois",
-      "title": "La mélodie du bonheur",
-      "subtitle": "",
-      "directors": [
-        "Robert Wise"
-      ],
-      "actors": [
-        "Julie Andrews",
-        "Christopher Plummer",
-        "Eleanor Parker",
-        "Richard Haydn",
-        "Charmian Carr",
-        "Peggy Wood"
-      ],
-      "matched_actors": [
-        "Julie Andrews"
-      ],
-      "description": "Maria veut devenir nonne. Distraite, elle passe son temps à rêver dans la nature. La mère supérieure l'envoie chez le Capitaine Von Trapp, veuf et père de sept enfants, afin qu'elle y exerce comme gouvernante. La jeune femme se heurte tout d'abord à l'autorité débordante de l'ancien officier de marine. Joyeuse, gentille avec les enfants, Maria parvient à s'attirer leur affection ainsi que celle de leur père.",
-      "category": "Movies"
-    },
     {
       "start": "2026-10-23T18:50:00+00:00",
       "stop": "2026-10-23T20:45:00+00:00",
@@ -539,6 +492,98 @@
       ],
       "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-10-29T12:35:00+00:00",
+      "stop": "2026-10-29T14:05:00+00:00",
+      "channel": "Arte",
+      "title": "Hondo, l'homme du désert",
+      "subtitle": "",
+      "directors": [
+        "John Farrow"
+      ],
+      "actors": [
+        "John Wayne",
+        "Geraldine Page",
+        "Ward Bond",
+        "James Arness",
+        "Michael Pate",
+        "Rodolfo Acosta"
+      ],
+      "matched_actors": [
+        "John Wayne"
+      ],
+      "description": "Éclaireur pour l'armée, Hondo Lane sillonne l'Ouest pour prévenir les conflits entre le gouvernement américain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse mère de famille élevant seule son fils Johnny. Entre la femme et Hondo naît une passion amoureuse. Le valeureux cavalier fera l'impossible pour protéger sa bien-aimée des Indiens.",
+      "category": "Western"
+    },
+    {
+      "start": "2026-10-29T13:25:00+00:00",
+      "stop": "2026-10-29T14:30:00+00:00",
+      "channel": "France 3",
+      "title": "Ouija, un été meurtrier",
+      "subtitle": "Malédiction",
+      "directors": [
+        "Thomas Bourguignon"
+      ],
+      "actors": [
+        "Bruno Solo",
+        "Patrick Mille",
+        "Ophélia Kolb",
+        "Anne Le Ny",
+        "Catherine Mouchet",
+        "Victor Lefebvre"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Eté 1982. Alors que l'Allemagne et la France disputent la Coupe du monde de football, les habitants d'une petite ville de Provence s'apprêtent à recevoir les correspondants allemands de leurs enfants lycéens. Tandis que Pierre Seguin, le maire, fait la connaissance des professeurs allemands, son petit-fils Vincent rencontre Frank, son correspondant, qui est aveugle. Mais Pierre a la tête ailleurs. Sa nuit a été agitée : lui et sa femme ont été réveillés par ce qu'ils ont pris pour un intrus. Il n'y avait personne, mais Pierre est persuadé d'avoir vu une bizarre phosphorescence verte. Les jeunes semblent bien s'entendre, malgré la barrière de la langue. Jusqu'au moment où ils vont faire à leur tour l'expérience du surnaturel.",
+      "category": "Fantasy"
+    },
+    {
+      "start": "2026-10-29T14:30:00+00:00",
+      "stop": "2026-10-29T15:25:00+00:00",
+      "channel": "France 3",
+      "title": "Ouija, un été meurtrier",
+      "subtitle": "Profanation",
+      "directors": [
+        "Thomas Bourguignon"
+      ],
+      "actors": [
+        "Bruno Solo",
+        "Patrick Mille",
+        "Ophélia Kolb",
+        "Anne Le Ny",
+        "Catherine Mouchet",
+        "Victor Lefebvre"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Les autorités recherchent discrètement Philippe, en essayant de ne pas alarmer les correspondants allemands. Vincent, le fils du maire, a entraîné ses camarades sur un site de mauvaise réputation, où les lycéens ont entamé une séance du spiritisme. Mais tout a mal tourné. Pierre semble cacher quelque chose.",
+      "category": "Fantasy"
+    },
+    {
+      "start": "2026-10-29T15:25:00+00:00",
+      "stop": "2026-10-29T16:25:00+00:00",
+      "channel": "France 3",
+      "title": "Ouija, un été meurtrier",
+      "subtitle": "France",
+      "directors": [
+        "Thomas Bourguignon"
+      ],
+      "actors": [
+        "Bruno Solo",
+        "Patrick Mille",
+        "Ophélia Kolb",
+        "Anne Le Ny",
+        "Catherine Mouchet",
+        "Victor Lefebvre"
+      ],
+      "matched_actors": [
+        "Ophélia Kolb"
+      ],
+      "description": "Après la découverte du corps de Philippe au fond de la rivière, le père de Yasmina est aussitôt soupçonné. Sa fille pense que c'est parce qu'il est arabe. Pierre est dépassé par les événements. Les jeunes comprennent qu'il leur revient de résoudre cet affaire. Le père de Yasmina est hors de cause. C'est le ouija qui a tout déclenché. Ils doivent ouvrir une certaine tombe afin de lever la malédiction. Ce qu'ils ignorent, c'est le drame terrible qui s'est produit en ville à la fin de la guerre, et auquel tous les événements semblent reliés.",
+      "category": "Fantasy"
     }
   ]
 }
