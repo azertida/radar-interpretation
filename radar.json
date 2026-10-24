@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T13:49:52.872885+00:00",
-  "window_start": "2026-10-23",
-  "window_end": "2026-10-30",
+  "generated_at": "2026-10-24T09:34:09.148069+00:00",
+  "window_start": "2026-10-24",
+  "window_end": "2026-10-31",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -126,52 +126,6 @@
   "count": 24,
   "programmes": [
     {
-      "start": "2026-10-23T18:50:00+00:00",
-      "stop": "2026-10-23T20:45:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-10-23T19:05:00+00:00",
-      "stop": "2026-10-23T21:15:00+00:00",
-      "channel": "France 5",
-      "title": "Les hommes du Président",
-      "subtitle": "",
-      "directors": [
-        "Alan J. Pakula"
-      ],
-      "actors": [
-        "Dustin Hoffman",
-        "Robert Redford",
-        "Jack Warden",
-        "Martin Balsam",
-        "Hal Holbrook",
-        "Jason Robards"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
-      "category": "Thriller"
-    },
-    {
       "start": "2026-10-24T09:57:00+00:00",
       "stop": "2026-10-24T11:52:00+00:00",
       "channel": "Action",
@@ -218,7 +172,7 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-10-25T20:15:00+00:00",
+      "start": "2026-10-25T20:14:00+00:00",
       "stop": "2026-10-25T22:36:00+00:00",
       "channel": "TF1",
       "title": "Doctor Strange in the Multiverse of Madness",
@@ -380,8 +334,8 @@
       "category": "Drama"
     },
     {
-      "start": "2026-10-27T19:32:00+00:00",
-      "stop": "2026-10-27T21:04:00+00:00",
+      "start": "2026-10-27T19:35:00+00:00",
+      "stop": "2026-10-27T21:10:00+00:00",
       "channel": "La Trois",
       "title": "The Duke",
       "subtitle": "",
@@ -403,8 +357,8 @@
       "category": "Drama"
     },
     {
-      "start": "2026-10-28T00:47:00+00:00",
-      "stop": "2026-10-28T02:14:00+00:00",
+      "start": "2026-10-28T00:52:00+00:00",
+      "stop": "2026-10-28T02:21:00+00:00",
       "channel": "TF1",
       "title": "Made in Italy",
       "subtitle": "",
@@ -536,7 +490,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "Eté 1982. Alors que l'Allemagne et la France disputent la Coupe du monde de football, les habitants d'une petite ville de Provence s'apprêtent à recevoir les correspondants allemands de leurs enfants lycéens. Tandis que Pierre Seguin, le maire, fait la connaissance des professeurs allemands, son petit-fils Vincent rencontre Frank, son correspondant, qui est aveugle. Mais Pierre a la tête ailleurs. Sa nuit a été agitée : lui et sa femme ont été réveillés par ce qu'ils ont pris pour un intrus. Il n'y avait personne, mais Pierre est persuadé d'avoir vu une bizarre phosphorescence verte. Les jeunes semblent bien s'entendre, malgré la barrière de la langue. Jusqu'au moment où ils vont faire à leur tour l'expérience du surnaturel.",
+      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
       "category": "Fantasy"
     },
     {
@@ -559,7 +513,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "Les autorités recherchent discrètement Philippe, en essayant de ne pas alarmer les correspondants allemands. Vincent, le fils du maire, a entraîné ses camarades sur un site de mauvaise réputation, où les lycéens ont entamé une séance du spiritisme. Mais tout a mal tourné. Pierre semble cacher quelque chose.",
+      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
       "category": "Fantasy"
     },
     {
@@ -582,7 +536,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "Après la découverte du corps de Philippe au fond de la rivière, le père de Yasmina est aussitôt soupçonné. Sa fille pense que c'est parce qu'il est arabe. Pierre est dépassé par les événements. Les jeunes comprennent qu'il leur revient de résoudre cet affaire. Le père de Yasmina est hors de cause. C'est le ouija qui a tout déclenché. Ils doivent ouvrir une certaine tombe afin de lever la malédiction. Ce qu'ils ignorent, c'est le drame terrible qui s'est produit en ville à la fin de la guerre, et auquel tous les événements semblent reliés.",
+      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
       "category": "Fantasy"
     },
     {
@@ -676,6 +630,52 @@
       ],
       "description": "Les journalistes du New York Times Jodi Kantor et Megan Twohey tentent de reconstituer les détails de l'une des histoires les plus controversées de l'histoire récente, celle qui aiderait à lancer le mouvement #MeToo. Leur objectif est de découvrir la vérité sur les allégations de harcèlement sexuel contre le poids lourd hollywoodien Harvey Weinstein.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-10-31T00:50:00+00:00",
+      "stop": "2026-10-31T02:31:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-31T17:55:00+00:00",
+      "stop": "2026-10-31T19:50:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
     }
   ]
 }
