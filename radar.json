@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T13:22:22.334005+00:00",
-  "window_start": "2026-10-24",
-  "window_end": "2026-11-01",
+  "generated_at": "2026-10-26T11:09:31.187760+00:00",
+  "window_start": "2026-10-25",
+  "window_end": "2026-11-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,54 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 26,
+  "count": 28,
   "programmes": [
-    {
-      "start": "2026-10-24T23:36:00+00:00",
-      "stop": "2026-10-25T02:17:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-10-25T20:14:00+00:00",
-      "stop": "2026-10-25T22:36:00+00:00",
-      "channel": "TF1",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "subtitle": "",
-      "directors": [
-        "Sam Raimi"
-      ],
-      "actors": [
-        "Benedict Cumberbatch",
-        "Elizabeth Olsen",
-        "Chiwetel Ejiofor",
-        "Benedict Wong",
-        "Xochitl Gomez",
-        "Michael Stuhlbarg"
-      ],
-      "matched_actors": [
-        "Chiwetel Ejiofor"
-      ],
-      "description": "Après les événements de Spider-Man No Way Home, le docteur Strange doit faire face aux conséquences de l'ouverture du multivers.  Avec l'aide de Wong, Strange affronte différentes versions de lui-même et fait équipe avec la jeune America Chavez qui peut voyager à travers les multivers. En cours de route, Strange et ses alliés réalisent qu'ils doivent affronter un nouvel adversaire puissant.",
-      "category": "Action"
-    },
     {
       "start": "2026-10-25T22:45:00+00:00",
       "stop": "2026-10-26T00:25:00+00:00",
@@ -723,6 +677,98 @@
       ],
       "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-02T00:27:00+00:00",
+      "stop": "2026-11-02T02:08:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-02T02:30:00+00:00",
+      "stop": "2026-11-02T03:00:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie sur le territoire de mes ancêtres",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie sur le territoire de mes ancêtres Julien rend visite à Jean-Luc Kanapé sur la terre de ses ancêtres, où il a choisi d'ériger son petit chalet hors réseau. Gardien du territoire du caribou, il partage son amour de la forêt et de la transmission du savoir ancestral innu avec Julien.",
+      "category": "Consumer"
+    },
+    {
+      "start": "2026-11-02T14:46:00+00:00",
+      "stop": "2026-11-02T16:41:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "matched_actors": [
+        "Angelina Jolie"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-02T22:35:00+00:00",
+      "stop": "2026-11-03T00:24:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Mourir d'aimer",
+      "subtitle": "",
+      "directors": [
+        "André Cayatte"
+      ],
+      "actors": [
+        "Annie Girardot",
+        "François Simon",
+        "Bruno Pradal",
+        "Monique Mélinand",
+        "Nathalie Nell",
+        "Nicolas Dumayet"
+      ],
+      "matched_actors": [
+        "Annie Girardot"
+      ],
+      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
+      "category": "Drama"
     }
   ]
 }
