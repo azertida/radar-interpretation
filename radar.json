@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:09:31.187760+00:00",
+  "generated_at": "2026-10-26T15:29:11.450866+00:00",
   "window_start": "2026-10-25",
   "window_end": "2026-11-02",
   "source": "Pickx via iptv-org/epg",
@@ -288,29 +288,6 @@
       "category": "Drama"
     },
     {
-      "start": "2026-10-28T00:52:00+00:00",
-      "stop": "2026-10-28T02:21:00+00:00",
-      "channel": "TF1",
-      "title": "Made in Italy",
-      "subtitle": "",
-      "directors": [
-        "Stéphane Giusti"
-      ],
-      "actors": [
-        "Gilbert Melki",
-        "Amira Casar",
-        "Françoise Fabian",
-        "Caterina Murino",
-        "Vittoria Scognamiglio",
-        "Elli Medeiros"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
-      "category": "Drama"
-    },
-    {
       "start": "2026-10-28T12:35:00+00:00",
       "stop": "2026-10-28T14:25:00+00:00",
       "channel": "Arte",
@@ -471,6 +448,29 @@
       "category": "Fantasy"
     },
     {
+      "start": "2026-10-30T00:26:00+00:00",
+      "stop": "2026-10-30T02:06:00+00:00",
+      "channel": "TF1",
+      "title": "Made in Italy",
+      "subtitle": "",
+      "directors": [
+        "Stéphane Giusti"
+      ],
+      "actors": [
+        "Gilbert Melki",
+        "Amira Casar",
+        "Françoise Fabian",
+        "Caterina Murino",
+        "Vittoria Scognamiglio",
+        "Elli Medeiros"
+      ],
+      "matched_actors": [
+        "Caterina Murino"
+      ],
+      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
+      "category": "Drama"
+    },
+    {
       "start": "2026-10-30T13:25:00+00:00",
       "stop": "2026-10-30T14:25:00+00:00",
       "channel": "France 3",
@@ -490,7 +490,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "Farid avoue à Louis être le meurtrier de Philippe. Mais Isabelle comprend que ses aveux sont douteux. Pendant ce temps, les ados convainquent Mathieu que rien n'est perdu, à condition qu'il rentre chez lui avant son père. Celui-ci commence à avoir des soupçons. Le soir venu, des relations étranges se nouent entre les personnages. Mais quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien. Alors que les autres cherchent Oliver dans la forêt, Frank et Alice sont les témoins d'une scène de 1944 : le moment où Gaston, désireux de montrer qu'il est un résistant, menace de tuer le déserteur de la Wehrmacht.",
+      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
       "category": "Fantasy"
     },
     {
@@ -513,7 +513,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "La France et l'Allemagne s'apprêtent à s'affronter en demi-finale de la Coupe du monde. En ville, les ados ont d'autres préoccupations. Mathieu songe avant tout à sauver sa grand-mère des griffes de Jacques. Heureusement, Oliver trouve un moyen de l'enfermer à la cave. Quand Mathieu demande des explications à son père, celui-ci lui explique n'avoir voulu que protéger sa mère. Il lui révèle alors l'histoire familiale. Jacques est le fils d'un Allemand, et sa mère a été tondue à la Libération. Il a vécu toute son enfance dans la honte. Bouleversé, Mathieu demande à son père s'il est le meurtrier de Philippe.",
+      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
       "category": "Fantasy"
     },
     {
@@ -536,7 +536,7 @@
       "matched_actors": [
         "Ophélia Kolb"
       ],
-      "description": "Après l'agression de Battiston par Schumacher, les Allemands n'ont plus la cote en ville. Frank est agressé par des loubards parce qu'il est allemand. Le père Antoine recueille certains correspondants. Isabelle et Louis découvrent Jacques mort dans sa cellule. Terrorisé par la foule en colère à cause de la défaite, Klaus fait son coming out. Frank essaie de convaincre Alice qu'il faut tout arrêter. La jeune femme est persuadée au contraire qu'il faut aller jusqu'au bout et révéler la vérité sur ce qui s'est passé quarante ans plus tôt. Mais pour cela, il faut finit la pièce de théâtre. Pierre est de nouveau victime d'une vision nocturne.",
+      "description": "Après l'agression de Battiston par Schumacher. Frank est agressé par des loubards. Isabelle et Louis découvrent Jacques mort dans sa cellule.",
       "category": "Fantasy"
     },
     {
