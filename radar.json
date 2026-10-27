@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T15:29:11.450866+00:00",
-  "window_start": "2026-10-25",
-  "window_end": "2026-11-02",
+  "generated_at": "2026-10-27T10:37:27.137277+00:00",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-03",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,101 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 28,
+  "count": 32,
   "programmes": [
-    {
-      "start": "2026-10-25T22:45:00+00:00",
-      "stop": "2026-10-26T00:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "matched_actors": [
-        "Lauren Bacall"
-      ],
-      "description": "A car accident on a remote snowy road injures author Paul Sheldon, saved by nurse Annie Wilkes, a great fan of his work. However, her devotion soon takes a sinister turn.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-10-26T12:35:00+00:00",
-      "stop": "2026-10-26T14:10:00+00:00",
-      "channel": "Arte",
-      "title": "Ascenseur pour l'échafaud",
-      "subtitle": "",
-      "directors": [
-        "Louis Maille",
-        "Louis Malle"
-      ],
-      "actors": [
-        "Jeanne Moreau",
-        "Maurice Ronet",
-        "Lino Ventura",
-        "Georges Poujouly",
-        "Jean-Claude Brialy",
-        "Gérard Darrieu"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Julien Tavernier et sa maîtresse, Florence Carala, ont concocté un plan parfait pour supprimer le mari de cette dernière. Mais une fois le meurtre commis, Julien doit revenir sur ses pas pour faire disparaître un indice compromettant, et se retrouve bloqué dans l'ascenseur par une coupure de courant. Florence l'attend vainement à la terrasse d'un café, tandis qu'un jeune couple vole la voiture de Julien...",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-10-26T19:55:00+00:00",
-      "stop": "2026-10-26T21:35:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme de l'ouest",
-      "subtitle": "",
-      "directors": [
-        "Anthony Mann"
-      ],
-      "actors": [
-        "Gary Cooper",
-        "Julie London",
-        "Lee J. Cobb",
-        "Arthur O'Connell",
-        "Jack Lord",
-        "John Dehner"
-      ],
-      "matched_actors": [
-        "Julie London"
-      ],
-      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
-      "category": "Western"
-    },
-    {
-      "start": "2026-10-26T20:05:00+00:00",
-      "stop": "2026-10-26T21:54:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Mourir d'aimer",
-      "subtitle": "",
-      "directors": [
-        "André Cayatte"
-      ],
-      "actors": [
-        "Annie Girardot",
-        "François Simon",
-        "Bruno Pradal",
-        "Monique Mélinand",
-        "Nathalie Nell",
-        "Nicolas Dumayet"
-      ],
-      "matched_actors": [
-        "Annie Girardot"
-      ],
-      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
-      "category": "Drama"
-    },
     {
       "start": "2026-10-27T01:15:00+00:00",
       "stop": "2026-10-27T02:56:00+00:00",
@@ -311,7 +218,7 @@
     },
     {
       "start": "2026-10-28T20:00:00+00:00",
-      "stop": "2026-10-28T22:05:00+00:00",
+      "stop": "2026-10-28T22:00:00+00:00",
       "channel": "Arte",
       "title": "The Game",
       "subtitle": "",
@@ -563,6 +470,28 @@
       "category": "Drama"
     },
     {
+      "start": "2026-10-30T23:25:00+00:00",
+      "stop": "2026-10-31T01:04:00+00:00",
+      "channel": "RAI Due",
+      "title": "Non pensarci",
+      "subtitle": "",
+      "directors": [
+        "Gianni Zanasi"
+      ],
+      "actors": [
+        "Valerio Mastandrea",
+        "Caterina Murino",
+        "Anita Caprioli",
+        "Dino Abbrescia",
+        "Giuseppe Battiston"
+      ],
+      "matched_actors": [
+        "Caterina Murino"
+      ],
+      "description": "Un chitarrista rock di 35 anni (Valerio Mastandrea), trasferitosi a Roma per sfondare, sbarca il lunario tra un concerto e l'altro sognando di incidere un disco. Ma i finanziamenti non arrivano e la crisi creativa incombe. La scoperta del tradimento della fidanzata è la goccia che fa traboccare il vaso e lo convince a prendersi una pausa di riflessione. Quale luogo migliore della natìa Rimini, da dove manca da quattro anni?",
+      "category": "Drama"
+    },
+    {
       "start": "2026-10-31T00:50:00+00:00",
       "stop": "2026-10-31T02:31:00+00:00",
       "channel": "Action",
@@ -721,7 +650,7 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie sur le territoire de mes ancêtres Julien rend visite à Jean-Luc Kanapé sur la terre de ses ancêtres, où il a choisi d'ériger son petit chalet hors réseau. Gardien du territoire du caribou, il partage son amour de la forêt et de la transmission du savoir ancestral innu avec Julien.",
+      "description": "La vie sur le territoire de mes ancêtres Julien rend visite à Jean-Luc Kanapé sur la terre de ses ancêtres, où il a choisi d'ériger son petit chalet hors réseau. Gardien du territoire du caribou.",
       "category": "Consumer"
     },
     {
@@ -769,6 +698,168 @@
       ],
       "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-03T12:35:00+00:00",
+      "stop": "2026-11-03T14:50:00+00:00",
+      "channel": "Arte",
+      "title": "Cadavres exquis",
+      "subtitle": "",
+      "directors": [
+        "Francesco Rosi"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Tino Carraro",
+        "Marcel Bozzuffi",
+        "Paolo Bonacelli",
+        "Alain Cuny",
+        "Maria Carta"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-03T20:10:00+00:00",
+      "stop": "2026-11-03T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La Vallée des oubliés",
+      "directors": [
+        "Samuel Le Bihan"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Fabien Baïardi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "La nouvelle compagne d'Angelo, l'ex-chef de la police rurale aujourd'hui à la retraite, disparaît soudainement sans laisser de traces. Face à l'impuissance de la gendarmerie de Grenoble qui ne trouve aucune piste solide, Angelo, paniqué, appelle Alex à la rescousse. Bien qu'elle n'ait aucune autorité légale pour enquêter dans cette région, l'équipe de la Rurale se reforme. Très vite, leurs investigations officieuses les mènent vers une découverte inquiétante : il ne s'agit pas de la première disparition non résolue dans cette mystérieuse vallée. Alex et Angelo envisagent alors la possibilité qu'un tueur en série rôde dans la région...",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-03T21:14:00+00:00",
+      "stop": "2026-11-03T22:17:00+00:00",
+      "channel": "La Une",
+      "title": "Vigil",
+      "subtitle": "Episode 1",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Amy Silva et Kirsten Longacre enquêtent sur le meurtre d'un ressortissant britannique dans l'Arctique. Sur l'archipel de Svalbard, Amy soupçonne une conspiration tandis que Kirsten se heurte à des habitants russes hostiles. La découverte d'une personne disparue fait monter la tension.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-03T21:40:00+00:00",
+      "stop": "2026-11-03T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Pour le meilleur et pour le pire",
+      "directors": [
+        "Muriel Aubin",
+        "Aubin Muriel"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-03T22:17:00+00:00",
+      "stop": "2026-11-03T23:22:00+00:00",
+      "channel": "La Une",
+      "title": "Vigil",
+      "subtitle": "Episode 2",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Amy doit agir rapidement pour sauver un otage tandis que Kirsten poursuit ses recherches dans l'Arctique. Son enquête l'amène sur la piste d'une scientifique chinoise portée disparue. Les investigations prennent une dimension internationale qui menace de faire basculer la situation.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-03T23:16:00+00:00",
+      "stop": "2026-11-04T00:57:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-03T23:30:00+00:00",
+      "stop": "2026-11-04T01:40:00+00:00",
+      "channel": "BBC Two",
+      "title": "Queer",
+      "subtitle": "",
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Daan de Wit",
+        "Jason Schwartzman",
+        "Henrique Zaga",
+        "Colin Bates",
+        "Drew Starkey"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "NEW Lee (Daniel Craig), a solitary American in Mexico City, falls for a beautiful, elusive former soldier, & the chance for an intimate and infinite love. Daniel Craig, Drew Starkey.",
+      "category": "Biography"
     }
   ]
 }
