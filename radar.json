@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T15:28:33.754446+00:00",
+  "generated_at": "2026-10-29T11:32:34.930427+00:00",
   "window_start": "2026-10-28",
-  "window_end": "2026-11-04",
+  "window_end": "2026-11-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,53 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 35,
   "programmes": [
-    {
-      "start": "2026-10-28T12:35:00+00:00",
-      "stop": "2026-10-28T14:25:00+00:00",
-      "channel": "Arte",
-      "title": "Les Mariés De L'an Deux",
-      "subtitle": "",
-      "directors": [
-        "Jean-Paul Rappeneau"
-      ],
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Marlène Jobert",
-        "Laura Antonelli",
-        "Michel Auclair",
-        "Julien Guiomar"
-      ],
-      "matched_actors": [
-        "Jean-Paul Belmondo"
-      ],
-      "description": "En 1793, Nicolas Philibert revient en France après un exil en Amérique. Il veut divorcer de Charlotte, son épouse, afin de convoler en justes noces avec sa nouvelle conquête. Pris dans les affres de la révolution, Nicolas va avoir toutes les peines du monde à mettre la main sur Charlotte, passée dans le camp des royalistes.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-10-28T20:00:00+00:00",
-      "stop": "2026-10-28T22:00:00+00:00",
-      "channel": "Arte",
-      "title": "The Game",
-      "subtitle": "",
-      "directors": [
-        "David Fincher"
-      ],
-      "actors": [
-        "Michael Douglas",
-        "Sean Penn",
-        "Deborah Kara Unger",
-        "James Rebhorn",
-        "Peter Donat",
-        "Carroll Baker"
-      ],
-      "matched_actors": [
-        "Michael Douglas"
-      ],
-      "description": "Le jour de son anniversaire, Nicholas Van Orton, un riche homme d'affaires de San Francisco, reçoit un étrange cadeau de la part de son frère Conrad. Il s'agit d'un jeu, supposé apporter du piment dans sa vie. Bien qu'il ne soit certain ni des règles ni du but réel de ce jeu, Nicholas accepte d'y prendre part. Peu à peu, il se retrouve pris au piège dans un jeu vicieux qui pourrait bien faire voler sa vie en éclats. Il prend peu à peu conscience qu'il est manipulé jusque dans sa propre maison par des conspirateurs inconnus qui semblent vouloir faire voler sa vie en éclats.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-10-28T23:12:00+00:00",
       "stop": "2026-10-29T00:53:00+00:00",
@@ -789,7 +744,7 @@
       "matched_actors": [
         "Daniel Craig"
       ],
-      "description": "NEW Lee (Daniel Craig), a solitary American in Mexico City, falls for a beautiful, elusive former soldier, & the chance for an intimate and infinite love. Daniel Craig, Drew Starkey.",
+      "description": "When William Lee meets an enigmatic student in Mexico City, he becomes obsessed and begins a desperate journey into darkness.",
       "category": "Biography"
     },
     {
@@ -835,7 +790,7 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie de nomades créateurs de contenu Julien rejoint Vale et Alex, le duo de nomades derrière la chaîne YouTube Prêts pour la route, pour partir à la découverte de l'île Grand Manan. On découvre le mode de vie de ces créateurs de contenu à bord de leur caravane de 7 m2.",
+      "description": "La vie de nomades créateurs de contenu Julien rejoint Vale et Alex, le duo de nomades derrière la chaîne YouTube Prêts pour la route, pour partir à la découverte de l'île Grand Manan.",
       "category": "Consumer"
     },
     {
@@ -882,6 +837,99 @@
         "Angelina Jolie"
       ],
       "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-05T00:00:00+00:00",
+      "stop": "2026-11-05T01:40:00+00:00",
+      "channel": "BBC One",
+      "title": "Office Christmas Party",
+      "subtitle": "",
+      "directors": [
+        "Will Speck",
+        "Josh Gordon"
+      ],
+      "actors": [
+        "Jason Bateman",
+        "Olivia Munn",
+        "T.J. Miller",
+        "Kate McKinnon",
+        "Jennifer Aniston",
+        "Jillian Bell"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "A manager throws a wild Christmas party for his office, which he hopes will help land a client necessary to keep their business afloat.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-05T01:41:00+00:00",
+      "stop": "2026-11-05T02:07:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "La belle vie",
+      "subtitle": "La vie sur une terre nourricière",
+      "directors": [
+        "Gérard Marx"
+      ],
+      "actors": [
+        "Jean Yanne",
+        "Danièle Evenou",
+        "Paulette Dubost",
+        "Vanessa Devraine",
+        "Christian Rauth",
+        "Daniel Rialet"
+      ],
+      "matched_actors": [
+        "Christian Rauth"
+      ],
+      "description": "La vie sur une terre nourricière Julien va à la rencontre des Murph'Ariens, une famille qui mène une vie hors réseau. Un mode de vie basé sur les principes de la permaculture, afin de garder l'équilibre entre la nécessité de se nourrir et celle de prendre soin de la terre.",
+      "category": "Consumer"
+    },
+    {
+      "start": "2026-11-05T13:20:00+00:00",
+      "stop": "2026-11-05T15:15:00+00:00",
+      "channel": "Tipik",
+      "title": "Une nouvelle chance",
+      "subtitle": "",
+      "directors": [
+        "Robert Lorenz"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Clint Eastwood",
+        "Justin Timberlake",
+        "John Goodman",
+        "Scott Eastwood",
+        "Matt Bush"
+      ],
+      "matched_actors": [
+        "Amy Adams"
+      ],
+      "description": "Gus Lobel est l'un des meilleurs découvreurs de talents dans le monde du base-ball. Les années passant, il voit sa vue baisser dangereusement. La direction des Atlanta Braves se met à douter de son jugement et lui donne une dernière opportunité. Il doit se rendre en Caroline du Nord en quête d'un nouveau talent. Sa fille Mickey, dont Gus n'est pas très proche, se joint à lui pour ce voyage de la dernière chance. Toutefois, malgré l'appui de son ami de longue date et collègue, Pete Klein, ses employeurs, dont l'ambitieux Philip Sanderson, pensent ne pas renouveler son contrat en raison de son inaptitude à s'adapter aux nouvelles technologies et de la fiabilité de son jugement, concernant l'un de ses derniers recrutements, Billy Clark, dont les résultats déçoivent.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-05T21:40:00+00:00",
+      "stop": "2026-11-05T23:30:00+00:00",
+      "channel": "France 4",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "matched_actors": [
+        "Lauren Bacall"
+      ],
+      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
       "category": "Thriller"
     }
   ]
