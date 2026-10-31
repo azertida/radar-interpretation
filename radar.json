@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T15:21:02.835722+00:00",
+  "generated_at": "2026-10-31T10:56:37.626796+00:00",
   "window_start": "2026-10-30",
-  "window_end": "2026-11-06",
+  "window_end": "2026-11-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,100 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 34,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-10-30T00:35:00+00:00",
-      "stop": "2026-10-30T02:10:00+00:00",
-      "channel": "TF1",
-      "title": "Made in Italy",
-      "subtitle": "",
-      "directors": [
-        "Stéphane Giusti"
-      ],
-      "actors": [
-        "Gilbert Melki",
-        "Amira Casar",
-        "Françoise Fabian",
-        "Caterina Murino",
-        "Vittoria Scognamiglio",
-        "Elli Medeiros"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-10-30T13:25:00+00:00",
-      "stop": "2026-10-30T14:25:00+00:00",
-      "channel": "France 3",
-      "title": "Ouija, un été meurtrier",
-      "subtitle": "La nuit des étoiles filantes",
-      "directors": [
-        "Thomas Bourguignon"
-      ],
-      "actors": [
-        "Bruno Solo",
-        "Patrick Mille",
-        "Ophélia Kolb",
-        "Anne Le Ny",
-        "Catherine Mouchet",
-        "Victor Lefebvre"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
-      "category": "Fantasy"
-    },
-    {
-      "start": "2026-10-30T14:25:00+00:00",
-      "stop": "2026-10-30T15:25:00+00:00",
-      "channel": "France 3",
-      "title": "Ouija, un été meurtrier",
-      "subtitle": "La nuit de Séville",
-      "directors": [
-        "Thomas Bourguignon"
-      ],
-      "actors": [
-        "Bruno Solo",
-        "Patrick Mille",
-        "Ophélia Kolb",
-        "Anne Le Ny",
-        "Catherine Mouchet",
-        "Victor Lefebvre"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Farid avoue être le meurtrier de Philippe. Isabelle ne le croit pas. Quand Jacques découvre ce qu'Oliver a fait avec Laure, il lâche le chien.",
-      "category": "Fantasy"
-    },
-    {
-      "start": "2026-10-30T15:25:00+00:00",
-      "stop": "2026-10-30T16:25:00+00:00",
-      "channel": "France 3",
-      "title": "Ouija, un été meurtrier",
-      "subtitle": "Catharsis",
-      "directors": [
-        "Thomas Bourguignon"
-      ],
-      "actors": [
-        "Bruno Solo",
-        "Patrick Mille",
-        "Ophélia Kolb",
-        "Anne Le Ny",
-        "Catherine Mouchet",
-        "Victor Lefebvre"
-      ],
-      "matched_actors": [
-        "Ophélia Kolb"
-      ],
-      "description": "Après l'agression de Battiston par Schumacher. Frank est agressé par des loubards. Isabelle et Louis découvrent Jacques mort dans sa cellule.",
-      "category": "Fantasy"
-    },
     {
       "start": "2026-10-30T22:25:00+00:00",
       "stop": "2026-10-31T00:20:00+00:00",
@@ -517,8 +425,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-03T21:10:00+00:00",
-      "stop": "2026-11-03T22:14:00+00:00",
+      "start": "2026-11-03T21:18:00+00:00",
+      "stop": "2026-11-03T22:23:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 1",
@@ -564,8 +472,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-03T22:14:00+00:00",
-      "stop": "2026-11-03T23:19:00+00:00",
+      "start": "2026-11-03T22:23:00+00:00",
+      "stop": "2026-11-03T23:28:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 2",
@@ -860,7 +768,7 @@
       "matched_actors": [
         "Christian Rauth"
       ],
-      "description": "La vie dans une maison conteneur flottante Julien se rend en Ontario pour rencontrer Joe et Erin. Tout récemment, Joe a réussi à réaliser son rêve, celui de construire leur maison flottante à partir de conteneurs industriels.",
+      "description": "La vie dans une maison conteneur flottante Julien se rend en Ontario pour rencontrer Joe et Erin. Tout récemment, Joe a réussi à réaliser son rêve.",
       "category": "Consumer"
     },
     {
@@ -906,6 +814,29 @@
         "Caterina Murino"
       ],
       "description": "Un chitarrista rock di 35 anni (Valerio Mastandrea), trasferitosi a Roma per sfondare, sbarca il lunario tra un concerto e l'altro sognando di incidere un disco. Ma i finanziamenti non arrivano e la crisi creativa incombe. La scoperta del tradimento della fidanzata è la goccia che fa traboccare il vaso e lo convince a prendersi una pausa di riflessione. Quale luogo migliore della natìa Rimini, da dove manca da quattro anni?",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-07T22:10:00+00:00",
+      "stop": "2026-11-08T00:20:00+00:00",
+      "channel": "France 4",
+      "title": "France",
+      "subtitle": "",
+      "directors": [
+        "Bruno Dumont"
+      ],
+      "actors": [
+        "Léa Seydoux",
+        "Blanche Gardin",
+        "Benjamin Biolay",
+        "Emanuele Arioli",
+        "Juliane Köhler",
+        "Gaëtan Amiel"
+      ],
+      "matched_actors": [
+        "Léa Seydoux"
+      ],
+      "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
       "category": "Drama"
     }
   ]
