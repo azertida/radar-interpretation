@@ -30,6 +30,7 @@ CHANNEL_NAMES = {
     "LaTrois.be@HD": "La Trois",
     "Tipik.be@HD": "Tipik",
     "RTLTVI.be@HD": "RTL TVI",
+    "AB3.be@HD": "AB3",
     "VRT1.be@HD": "VRT 1",
     "VRTCanvas.be@HD": "VRT Canvas",
     "VTM.be@HD": "VTM",

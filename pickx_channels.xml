@@ -15,6 +15,7 @@
   <channel site="pickx.be" lang="fr" xmltv_id="LaTrois.be@HD" ntv_id="1008" site_id="UID50334">La Trois</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="Tipik.be@HD" ntv_id="1001" site_id="UID0047">Tipik</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="RTLTVI.be@HD" ntv_id="1002" site_id="UID0102">RTL TVI</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="AB3.be@HD">AB3</channel>
   
   <!-- Chaînes flamandes -->
   <channel site="pickx.be" lang="nl" xmltv_id="VRT1.be@HD" ntv_id="1144" site_id="UID50208">VRT 1</channel>
