@@ -35,6 +35,8 @@ CHANNEL_NAMES = {
     "VRTCanvas.be@HD": "VRT Canvas",
     "VTM.be@HD": "VTM",
     "VTM2.be@HD": "VTM 2",
+    "VTM3.be@HD": "VTM 3",
+    "VTM4.be@HD": "VTM 4",
     "BBCOne.uk@HD": "BBC One",
     "BBCTwo.uk@HD": "BBC Two",
     "Rai1.it@HD": "RAI Uno",

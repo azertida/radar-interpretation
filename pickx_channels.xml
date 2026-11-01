@@ -22,6 +22,8 @@
   <channel site="pickx.be" lang="nl" xmltv_id="VRTCanvas.be@HD" ntv_id="1145" site_id="UID50306">VRT Canvas</channel>
   <channel site="pickx.be" lang="nl" xmltv_id="VTM.be@HD" ntv_id="1146" site_id="UID50297">VTM</channel>
   <channel site="pickx.be" lang="nl" xmltv_id="VTM2.be@HD" ntv_id="1149" site_id="UID0039">VTM 2</channel>
+  <channel site="pickx.be" lang="nl" xmltv_id="VTM3.be@HD">VTM 3</channel>
+  <channel site="pickx.be" lang="nl" xmltv_id="VTM4.be@HD">VTM 4</channel>
   
   <!-- Chaînes britanniques -->
   <channel site="pickx.be" lang="en" xmltv_id="BBCOne.uk@HD" ntv_id="1164" site_id="UID2355">BBC One</channel>
