@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:06:04.101216+00:00",
+  "generated_at": "2026-11-01T20:23:37.109438+00:00",
   "window_start": "2026-11-01",
   "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 39,
   "programmes": [
     {
       "start": "2026-11-01T09:09:00+00:00",
@@ -338,6 +338,30 @@
       "category": "Thriller"
     },
     {
+      "start": "2026-11-02T17:20:00+00:00",
+      "stop": "2026-11-02T17:50:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Bad Crazy",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Abby Elliott"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Ted maakt het maar niet uit met z'n gekke vriendinnetje Jeanette. Ondertussen hecht Robin zich aan Marvin nadat ze hem voor het eerst vasthoudt.",
+      "category": "Comedy"
+    },
+    {
       "start": "2026-11-02T22:35:00+00:00",
       "stop": "2026-11-03T00:24:00+00:00",
       "channel": "TV5 Monde",
@@ -382,6 +406,30 @@
       ],
       "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-03T17:20:00+00:00",
+      "stop": "2026-11-03T17:50:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Ashtray",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Kyle MacLachlan"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als Ted onverwacht gebeld wordt door de kapitein, haalt de groep herinneringen op aan hun laatste rare ontmoeting met hem.",
+      "category": "Comedy"
     },
     {
       "start": "2026-11-03T20:10:00+00:00",
@@ -569,6 +617,30 @@
       "category": "Consumer"
     },
     {
+      "start": "2026-11-04T17:20:00+00:00",
+      "stop": "2026-11-04T17:50:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Weekend at Barney's",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Abby Elliott"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Ted en Jeanette gaan uit elkaar en Barney helpt hem iemand te versieren met het beruchte trucjesboek dat hij volgens Robin had verbrand. Lily hoopt indruk te maken bij een galerie-opening, maar Marshall trekt onbedoeld de aandacht.",
+      "category": "Comedy"
+    },
+    {
       "start": "2026-11-04T19:50:00+00:00",
       "stop": "2026-11-04T21:45:00+00:00",
       "channel": "Tipik",
@@ -685,6 +757,31 @@
       "category": "Drama"
     },
     {
+      "start": "2026-11-05T17:10:00+00:00",
+      "stop": "2026-11-05T17:40:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Fortress",
+      "directors": [
+        "Michael Shea",
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Kyle MacLachlan"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Robin en Barney praten over waar ze binnenkort als getrouwd stel gaan wonen. Marshall kan het moeilijk hebben dat Lily door haar veeleisende baan bij de Captain nooit meer thuis is.",
+      "category": "Comedy"
+    },
+    {
       "start": "2026-11-05T21:40:00+00:00",
       "stop": "2026-11-05T23:30:00+00:00",
       "channel": "France 4",
@@ -777,6 +874,29 @@
       "category": "Drama"
     },
     {
+      "start": "2026-11-06T17:15:00+00:00",
+      "stop": "2026-11-06T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Time Travelers",
+      "directors": [
+        "Pamela Fryman"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Lou Ferrigno Jr."
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "De Ted en Barney uit de toekomst proberen Ted ervan te overtuigen om naar Robots Versus Wrestlers te gaan. Marshall daagt Robin uit voor een danswedstrijd.",
+      "category": "Comedy"
+    },
+    {
       "start": "2026-11-06T23:25:00+00:00",
       "stop": "2026-11-07T01:04:00+00:00",
       "channel": "RAI Due",
@@ -846,6 +966,31 @@
       ],
       "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-07T23:55:00+00:00",
+      "stop": "2026-11-08T00:25:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Fortress",
+      "directors": [
+        "Michael Shea",
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Kyle MacLachlan"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Robin en Barney praten over waar ze binnenkort als getrouwd stel gaan wonen. Marshall kan het moeilijk hebben dat Lily door haar veeleisende baan bij de Captain nooit meer thuis is.",
+      "category": "Comedy"
     },
     {
       "start": "2026-11-08T12:30:00+00:00",
