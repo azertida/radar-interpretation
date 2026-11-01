@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:28:35.690253+00:00",
+  "generated_at": "2026-11-01T20:06:04.101216+00:00",
   "window_start": "2026-11-01",
   "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 28,
+  "count": 33,
   "programmes": [
     {
       "start": "2026-11-01T09:09:00+00:00",
@@ -194,6 +194,79 @@
       ],
       "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-01T16:40:00+00:00",
+      "stop": "2026-11-01T19:20:00+00:00",
+      "channel": "AB3",
+      "title": "The Dark Knight Rises",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Gary Oldman",
+        "Anne Hathaway",
+        "Tom Hardy",
+        "Marion Cotillard"
+      ],
+      "matched_actors": [
+        "Anne Hathaway"
+      ],
+      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-01T19:20:00+00:00",
+      "stop": "2026-11-01T21:10:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "matched_actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-01T21:10:00+00:00",
+      "stop": "2026-11-01T23:15:00+00:00",
+      "channel": "AB3",
+      "title": "Madame Doubtfire",
+      "subtitle": "",
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Robin Williams",
+        "Sally Field",
+        "Pierce Brosnan",
+        "Harvey Fierstein",
+        "Polly Holliday",
+        "Lisa Jakub"
+      ],
+      "matched_actors": [
+        "Sally Field",
+        "Pierce Brosnan"
+      ],
+      "description": "Après un divorce difficile, Daniel Hillard, doubleur de dessins animés, n'est autorisé à voir ses enfants que deux heures par semaine. Privé de sa progéniture adorée, il ne supporte pas cette situation. Il apprend que son ex-femme cherche une gouvernante. Prêt à tout pour passer plus de temps avec ses enfants, il se présente à un entretien, sous les traits de Madame Doubtfire, respectable gouvernante irlandaise.",
+      "category": "Comedy"
     },
     {
       "start": "2026-11-02T00:27:00+00:00",
@@ -726,6 +799,32 @@
       "category": "Drama"
     },
     {
+      "start": "2026-11-07T20:55:00+00:00",
+      "stop": "2026-11-07T22:45:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "matched_actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
+    },
+    {
       "start": "2026-11-07T22:10:00+00:00",
       "stop": "2026-11-08T00:20:00+00:00",
       "channel": "France 4",
@@ -770,6 +869,29 @@
       ],
       "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
       "category": "Western"
+    },
+    {
+      "start": "2026-11-08T21:10:00+00:00",
+      "stop": "2026-11-08T23:50:00+00:00",
+      "channel": "AB3",
+      "title": "The Dark Knight Rises",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Gary Oldman",
+        "Anne Hathaway",
+        "Tom Hardy",
+        "Marion Cotillard"
+      ],
+      "matched_actors": [
+        "Anne Hathaway"
+      ],
+      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
+      "category": "Action"
     }
   ]
 }
