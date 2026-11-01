@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T14:46:23.444969+00:00",
-  "window_start": "2026-10-30",
-  "window_end": "2026-11-07",
+  "generated_at": "2026-11-01T11:51:54.848018+00:00",
+  "window_start": "2026-11-01",
+  "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,99 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 31,
+  "count": 28,
   "programmes": [
-    {
-      "start": "2026-10-30T22:25:00+00:00",
-      "stop": "2026-10-31T00:20:00+00:00",
-      "channel": "France 5",
-      "title": "She Said",
-      "subtitle": "",
-      "directors": [
-        "Maria Schrader"
-      ],
-      "actors": [
-        "Carey Mulligan",
-        "Zoe Kazan",
-        "Patricia Clarkson",
-        "Andre Braugher",
-        "Jennifer Ehle",
-        "Angela Yeoh"
-      ],
-      "matched_actors": [
-        "Andre Braugher"
-      ],
-      "description": "Les journalistes du New York Times Jodi Kantor et Megan Twohey tentent de reconstituer les détails de l'une des histoires les plus controversées de l'histoire récente, celle qui aiderait à lancer le mouvement #MeToo. Leur objectif est de découvrir la vérité sur les allégations de harcèlement sexuel contre le poids lourd hollywoodien Harvey Weinstein.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-10-30T23:25:00+00:00",
-      "stop": "2026-10-31T01:04:00+00:00",
-      "channel": "RAI Due",
-      "title": "Non pensarci",
-      "subtitle": "",
-      "directors": [
-        "Gianni Zanasi"
-      ],
-      "actors": [
-        "Valerio Mastandrea",
-        "Caterina Murino",
-        "Anita Caprioli",
-        "Dino Abbrescia",
-        "Giuseppe Battiston"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Un chitarrista rock di 35 anni (Valerio Mastandrea), trasferitosi a Roma per sfondare, sbarca il lunario tra un concerto e l'altro sognando di incidere un disco. Ma i finanziamenti non arrivano e la crisi creativa incombe. La scoperta del tradimento della fidanzata è la goccia che fa traboccare il vaso e lo convince a prendersi una pausa di riflessione. Quale luogo migliore della natìa Rimini, da dove manca da quattro anni?",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-10-31T00:50:00+00:00",
-      "stop": "2026-10-31T02:31:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-10-31T17:55:00+00:00",
-      "stop": "2026-10-31T19:50:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-01T09:09:00+00:00",
       "stop": "2026-11-01T11:04:00+00:00",
@@ -838,6 +747,29 @@
       ],
       "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-08T12:30:00+00:00",
+      "stop": "2026-11-08T14:15:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme de l'ouest",
+      "subtitle": "",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "actors": [
+        "Gary Cooper",
+        "Julie London",
+        "Lee J. Cobb",
+        "Arthur O'Connell",
+        "Jack Lord",
+        "John Dehner"
+      ],
+      "matched_actors": [
+        "Julie London"
+      ],
+      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
+      "category": "Western"
     }
   ]
 }
