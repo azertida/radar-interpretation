@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T20:23:37.109438+00:00",
-  "window_start": "2026-11-01",
-  "window_end": "2026-11-08",
+  "generated_at": "2026-11-02T13:32:13.773882+00:00",
+  "window_start": "2026-11-02",
+  "window_end": "2026-11-09",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,151 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 39,
+  "count": 36,
   "programmes": [
-    {
-      "start": "2026-11-01T09:09:00+00:00",
-      "stop": "2026-11-01T11:04:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-01T12:30:00+00:00",
-      "stop": "2026-11-01T15:20:00+00:00",
-      "channel": "Arte",
-      "title": "Interstellar",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "actors": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain",
-        "Michael Caine",
-        "Casey Affleck",
-        "Topher Grace"
-      ],
-      "matched_actors": [
-        "Anne Hathaway",
-        "Jessica Chastain"
-      ],
-      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-01T15:10:00+00:00",
-      "stop": "2026-11-01T17:25:00+00:00",
-      "channel": "France 5",
-      "title": "Les hommes du Président",
-      "subtitle": "",
-      "directors": [
-        "Alan J. Pakula"
-      ],
-      "actors": [
-        "Dustin Hoffman",
-        "Robert Redford",
-        "Jack Warden",
-        "Martin Balsam",
-        "Hal Holbrook",
-        "Jason Robards"
-      ],
-      "matched_actors": [
-        "Robert Redford"
-      ],
-      "description": "Les journalistes Woodward et Bernstein découvrent certains éléments à l'origine du plus grand scandale politique de l'après‐guerre: l'affaire du Watergate qui força le président Nixon à démissionner...",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-01T16:40:00+00:00",
-      "stop": "2026-11-01T19:20:00+00:00",
-      "channel": "AB3",
-      "title": "The Dark Knight Rises",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "actors": [
-        "Christian Bale",
-        "Michael Caine",
-        "Gary Oldman",
-        "Anne Hathaway",
-        "Tom Hardy",
-        "Marion Cotillard"
-      ],
-      "matched_actors": [
-        "Anne Hathaway"
-      ],
-      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
-      "category": "Action"
-    },
-    {
-      "start": "2026-11-01T19:20:00+00:00",
-      "stop": "2026-11-01T21:10:00+00:00",
-      "channel": "AB3",
-      "title": "SOS Fantômes",
-      "subtitle": "",
-      "directors": [
-        "Paul Feig",
-        "Ivan Reitman"
-      ],
-      "actors": [
-        "Melissa McCarthy",
-        "Kristen Wiig",
-        "Kate McKinnon",
-        "Leslie Jones",
-        "Charles Dance",
-        "Chris Hemsworth"
-      ],
-      "matched_actors": [
-        "Melissa McCarthy",
-        "Kristen Wiig",
-        "Kate McKinnon"
-      ],
-      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-01T21:10:00+00:00",
-      "stop": "2026-11-01T23:15:00+00:00",
-      "channel": "AB3",
-      "title": "Madame Doubtfire",
-      "subtitle": "",
-      "directors": [
-        "Chris Columbus"
-      ],
-      "actors": [
-        "Robin Williams",
-        "Sally Field",
-        "Pierce Brosnan",
-        "Harvey Fierstein",
-        "Polly Holliday",
-        "Lisa Jakub"
-      ],
-      "matched_actors": [
-        "Sally Field",
-        "Pierce Brosnan"
-      ],
-      "description": "Après un divorce difficile, Daniel Hillard, doubleur de dessins animés, n'est autorisé à voir ses enfants que deux heures par semaine. Privé de sa progéniture adorée, il ne supporte pas cette situation. Il apprend que son ex-femme cherche une gouvernante. Prêt à tout pour passer plus de temps avec ses enfants, il se présente à un entretien, sous les traits de Madame Doubtfire, respectable gouvernante irlandaise.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-02T00:27:00+00:00",
       "stop": "2026-11-02T02:08:00+00:00",
@@ -1037,6 +894,76 @@
       ],
       "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-09T00:30:00+00:00",
+      "stop": "2026-11-09T02:25:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Mourir d'aimer",
+      "subtitle": "",
+      "directors": [
+        "André Cayatte"
+      ],
+      "actors": [
+        "Annie Girardot",
+        "François Simon",
+        "Bruno Pradal",
+        "Monique Mélinand",
+        "Nathalie Nell",
+        "Nicolas Dumayet"
+      ],
+      "matched_actors": [
+        "Annie Girardot"
+      ],
+      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-09T17:15:00+00:00",
+      "stop": "2026-11-09T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Romeward Bound",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Kyle MacLachlan"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als The Captain aan Lily vraagt of ze een jaar naar Rome wil om zijn kunstadviseur te worden, is ze bang dat Marshall boos zal worden. Ted en Barney raken geobsedeerd door een meisje dat haar prachtige lichaam verbergt in een dikke jas.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-09T20:10:00+00:00",
+      "stop": "2026-11-09T21:50:00+00:00",
+      "channel": "France 3",
+      "title": "Un singe en hiver",
+      "subtitle": "",
+      "directors": [
+        "Henri Verneuil"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Jean Gabin",
+        "Suzanne Flon",
+        "Paul Frankeur",
+        "Gabrielle Dorziat",
+        "Marcelle Arnold"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "L'hôtelier d'une petite station balnéaire de Normandie a juré à sa femme de ne plus toucher à un verre d'alcool. C'était sans compter avec l'arrivée de Fouquet qui surgit avec la tentation.",
+      "category": "Drama"
     }
   ]
 }
