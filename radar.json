@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T18:50:45.223120+00:00",
+  "generated_at": "2026-11-03T12:49:41.977544+00:00",
   "window_start": "2026-11-02",
-  "window_end": "2026-11-09",
+  "window_end": "2026-11-10",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,99 +125,6 @@
   ],
   "count": 36,
   "programmes": [
-    {
-      "start": "2026-11-02T00:27:00+00:00",
-      "stop": "2026-11-02T02:08:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-02T02:30:00+00:00",
-      "stop": "2026-11-02T03:00:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie sur le territoire de mes ancêtres",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie sur le territoire de mes ancêtres Julien rend visite à Jean-Luc Kanapé sur la terre de ses ancêtres, où il a choisi d'ériger son petit chalet hors réseau. Gardien du territoire du caribou.",
-      "category": "Consumer"
-    },
-    {
-      "start": "2026-11-02T14:46:00+00:00",
-      "stop": "2026-11-02T16:41:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-02T17:20:00+00:00",
-      "stop": "2026-11-02T17:50:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Bad Crazy",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Abby Elliott"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Ted maakt het maar niet uit met z'n gekke vriendinnetje Jeanette. Ondertussen hecht Robin zich aan Marvin nadat ze hem voor het eerst vasthoudt.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-02T22:35:00+00:00",
       "stop": "2026-11-03T00:24:00+00:00",
@@ -754,28 +661,6 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-06T23:25:00+00:00",
-      "stop": "2026-11-07T01:04:00+00:00",
-      "channel": "RAI Due",
-      "title": "Non pensarci",
-      "subtitle": "",
-      "directors": [
-        "Gianni Zanasi"
-      ],
-      "actors": [
-        "Valerio Mastandrea",
-        "Caterina Murino",
-        "Anita Caprioli",
-        "Dino Abbrescia",
-        "Giuseppe Battiston"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Un chitarrista rock di 35 anni (Valerio Mastandrea), trasferitosi a Roma per sfondare, sbarca il lunario tra un concerto e l'altro sognando di incidere un disco. Ma i finanziamenti non arrivano e la crisi creativa incombe. La scoperta del tradimento della fidanzata è la goccia che fa traboccare il vaso e lo convince a prendersi una pausa di riflessione. Quale luogo migliore della natìa Rimini, da dove manca da quattro anni?",
-      "category": "Drama"
-    },
-    {
       "start": "2026-11-07T20:55:00+00:00",
       "stop": "2026-11-07T22:45:00+00:00",
       "channel": "AB3",
@@ -964,6 +849,122 @@
       ],
       "description": "L'hôtelier d'une petite station balnéaire de Normandie a juré à sa femme de ne plus toucher à un verre d'alcool. C'était sans compter avec l'arrivée de Fouquet qui surgit avec la tentation.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-10T17:10:00+00:00",
+      "stop": "2026-11-10T17:40:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Bro Mitzvah",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Ralph Macchio"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Ted, Marshall en Lily kidnappen Barney en brengen hem naar een geheime locatie waar ze zich proberen te houden aan de richtlijnen uit Barneys 'Bro-Mitzvah'-pakket. Ondertussen heeft Robin een ongemakkelijk etentje met Barneys moeder.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-10T20:10:00+00:00",
+      "stop": "2026-11-10T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La chute d'Icare",
+      "directors": [
+        "Sylvie Ayme"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Fabien Baïardi"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Les deux câbles d'acier d'une tyrolienne dessinent une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté. Sous la direction d'un guide, Justine, une femme sportive de 35 ans, boucle son baudrier et s'élance à pleine vitesse au-dessus du vide. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris en la voyant faire une chute soudaine. Quelque chose a lâché. Le corps de Justine, balancé à 50 km à l'heure, s'écrase en contrebas. Alors que cette aventure s'est achevée tragiquement, Alex Hugo va devoir faire face à la maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets...",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-10T21:21:00+00:00",
+      "stop": "2026-11-10T22:24:00+00:00",
+      "channel": "La Une",
+      "title": "Vigil",
+      "subtitle": "Episode 3",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Après la mort d'une personne au centre de recherche, Amy doit venir en aide à Kirsten. Alors que cette dernière risque de devenir la coupable idéale, Amy dispose de très peu de temps pour retrouver le véritable responsable et comprendre les circonstances de cette nouvelle affaire.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-10T21:40:00+00:00",
+      "stop": "2026-11-10T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Celle qui pardonne",
+      "directors": [
+        "Sylvie Ayme"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Jean-Marie Winling"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-10T22:24:00+00:00",
+      "stop": "2026-11-10T23:32:00+00:00",
+      "channel": "La Une",
+      "title": "Vigil",
+      "subtitle": "Episode 4",
+      "directors": [
+        "James Strong"
+      ],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Kirsten et Henrik se rapprochent de Jia, la scientifique chinoise disparue, tandis qu'Amy suit leur piste. Les tensions s'exacerbent et de nouvelles alliances se nouent. Dans l'immensité hostile de l'Arctique, le danger devient de plus en plus difficile à maîtriser.",
+      "category": "Crime"
     }
   ]
 }
