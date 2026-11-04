@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:00:31.981670+00:00",
+  "generated_at": "2026-11-04T16:35:50.837154+00:00",
   "window_start": "2026-11-03",
   "window_end": "2026-11-11",
   "source": "Pickx via iptv-org/epg",
@@ -123,7 +123,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 32,
+  "count": 33,
   "programmes": [
     {
       "start": "2026-11-03T23:16:00+00:00",
@@ -802,6 +802,29 @@
       ],
       "description": "Kirsten et Henrik se rapprochent de Jia, la scientifique chinoise disparue, tandis qu'Amy suit leur piste. Les tensions s'exacerbent et de nouvelles alliances se nouent. Dans l'immensité hostile de l'Arctique, le danger devient de plus en plus difficile à maîtriser.",
       "category": "Crime"
+    },
+    {
+      "start": "2026-11-11T00:37:00+00:00",
+      "stop": "2026-11-11T02:04:00+00:00",
+      "channel": "TF1",
+      "title": "Made in Italy",
+      "subtitle": "",
+      "directors": [
+        "Stéphane Giusti"
+      ],
+      "actors": [
+        "Gilbert Melki",
+        "Amira Casar",
+        "Françoise Fabian",
+        "Caterina Murino",
+        "Vittoria Scognamiglio",
+        "Elli Medeiros"
+      ],
+      "matched_actors": [
+        "Caterina Murino"
+      ],
+      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
+      "category": "Drama"
     },
     {
       "start": "2026-11-11T17:15:00+00:00",
