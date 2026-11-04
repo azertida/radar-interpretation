@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T16:36:12.511222+00:00",
-  "window_start": "2026-11-02",
-  "window_end": "2026-11-10",
+  "generated_at": "2026-11-04T13:00:31.981670+00:00",
+  "window_start": "2026-11-03",
+  "window_end": "2026-11-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,171 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 36,
+  "count": 32,
   "programmes": [
-    {
-      "start": "2026-11-02T22:35:00+00:00",
-      "stop": "2026-11-03T00:24:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Mourir d'aimer",
-      "subtitle": "",
-      "directors": [
-        "André Cayatte"
-      ],
-      "actors": [
-        "Annie Girardot",
-        "François Simon",
-        "Bruno Pradal",
-        "Monique Mélinand",
-        "Nathalie Nell",
-        "Nicolas Dumayet"
-      ],
-      "matched_actors": [
-        "Annie Girardot"
-      ],
-      "description": "Danielle Guenot, 32 ans, divorcée avec deux enfants, est enseignante dans un lycée de Rouen. Elle connait avec ses élèves l'exaltation de mai 1968. Avec l'un d'eux, Gérard, 17 ans, elle noue une relation amoureuse et profonde. Les parents du jeune homme, qui affichent pourtant des idées libérales, accusent Danielle de détournement de mineur. La justice se met en branle, Danielle est emprisonnée, Gérard envoyé en maison psychiatrique...",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-03T12:35:00+00:00",
-      "stop": "2026-11-03T14:50:00+00:00",
-      "channel": "Arte",
-      "title": "Cadavres exquis",
-      "subtitle": "",
-      "directors": [
-        "Francesco Rosi"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Tino Carraro",
-        "Marcel Bozzuffi",
-        "Paolo Bonacelli",
-        "Alain Cuny",
-        "Maria Carta"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-03T17:20:00+00:00",
-      "stop": "2026-11-03T17:50:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Ashtray",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Kyle MacLachlan"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Als Ted onverwacht gebeld wordt door de kapitein, haalt de groep herinneringen op aan hun laatste rare ontmoeting met hem.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-03T20:10:00+00:00",
-      "stop": "2026-11-03T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La Vallée des oubliés",
-      "directors": [
-        "Samuel Le Bihan"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "La nouvelle compagne d'Angelo, l'ex-chef de la police rurale aujourd'hui à la retraite, disparaît soudainement sans laisser de traces. Face à l'impuissance de la gendarmerie de Grenoble qui ne trouve aucune piste solide, Angelo, paniqué, appelle Alex à la rescousse. Bien qu'elle n'ait aucune autorité légale pour enquêter dans cette région, l'équipe de la Rurale se reforme. Très vite, leurs investigations officieuses les mènent vers une découverte inquiétante : il ne s'agit pas de la première disparition non résolue dans cette mystérieuse vallée. Alex et Angelo envisagent alors la possibilité qu'un tueur en série rôde dans la région...",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-03T21:18:00+00:00",
-      "stop": "2026-11-03T22:23:00+00:00",
-      "channel": "La Une",
-      "title": "Vigil",
-      "subtitle": "Episode 1",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy Silva et Kirsten Longacre enquêtent sur le meurtre d'un ressortissant britannique dans l'Arctique. Sur l'archipel de Svalbard, Amy soupçonne une conspiration tandis que Kirsten se heurte à des habitants russes hostiles. La découverte d'une personne disparue fait monter la tension.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-03T21:40:00+00:00",
-      "stop": "2026-11-03T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Pour le meilleur et pour le pire",
-      "directors": [
-        "Muriel Aubin",
-        "Aubin Muriel"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Marilyne Canto"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-03T22:23:00+00:00",
-      "stop": "2026-11-03T23:28:00+00:00",
-      "channel": "La Une",
-      "title": "Vigil",
-      "subtitle": "Episode 2",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Amy doit agir rapidement pour sauver un otage tandis que Kirsten poursuit ses recherches dans l'Arctique. Son enquête l'amène sur la piste d'une scientifique chinoise portée disparue. Les investigations prennent une dimension internationale qui menace de faire basculer la situation.",
-      "category": "Crime"
-    },
     {
       "start": "2026-11-03T23:16:00+00:00",
       "stop": "2026-11-04T00:57:00+00:00",
@@ -406,7 +243,7 @@
     },
     {
       "start": "2026-11-04T19:50:00+00:00",
-      "stop": "2026-11-04T21:45:00+00:00",
+      "stop": "2026-11-04T21:48:00+00:00",
       "channel": "Tipik",
       "title": "Une nouvelle chance",
       "subtitle": "",
@@ -498,8 +335,8 @@
       "category": "Consumer"
     },
     {
-      "start": "2026-11-05T13:20:00+00:00",
-      "stop": "2026-11-05T15:15:00+00:00",
+      "start": "2026-11-05T13:11:00+00:00",
+      "stop": "2026-11-05T15:10:00+00:00",
       "channel": "Tipik",
       "title": "Une nouvelle chance",
       "subtitle": "",
@@ -965,6 +802,76 @@
       ],
       "description": "Kirsten et Henrik se rapprochent de Jia, la scientifique chinoise disparue, tandis qu'Amy suit leur piste. Les tensions s'exacerbent et de nouvelles alliances se nouent. Dans l'immensité hostile de l'Arctique, le danger devient de plus en plus difficile à maîtriser.",
       "category": "Crime"
+    },
+    {
+      "start": "2026-11-11T17:15:00+00:00",
+      "stop": "2026-11-11T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Something Old",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Ray Wise"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Robin wil heel graag 'iets ouds' opgraven wat ze jaren voor de bruiloft heeft begraven in Central Park. Marshall en Lily vragen of Ted wil helpen met pakken voor Italië en Barney heeft het leuk met Robin.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-11T19:37:00+00:00",
+      "stop": "2026-11-11T21:34:00+00:00",
+      "channel": "La Trois",
+      "title": "Le clan des Siciliens",
+      "subtitle": "",
+      "directors": [
+        "Henri Verneuil"
+      ],
+      "actors": [
+        "Jean Gabin",
+        "Alain Delon",
+        "Lino Ventura",
+        "Irina Demick",
+        "Amedeo Nazzari",
+        "Sydney Chaplin"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Roger Sartet, un escroc notoire, est parvenu à s'évader du fourgon qui le ramenait à sa cellule grâce à l'aide de Vittorio Manalese, un mafieux. Pour payer sa dette, il aide Vittorio à dérober une collection de bijoux présentée lors d'une exposition à Rome... Manalese fait alors venir son ami Tony Nicosia, un «professionnel» et Sartet prend l'identité d'un diamantaire chargé du convoi des bijoux. L'avion est détourné en vol mais Sartet, qui a eu une brève liaison avec Jeanne, la belle-fille de Manalese, est dénoncé à ce dernier. Manalese fait revenir Sartet à Paris et le tue. Peu de temps après, le clan des Siciliens est arrêté par la police.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-11T22:30:00+00:00",
+      "stop": "2026-11-12T00:05:00+00:00",
+      "channel": "Arte",
+      "title": "Cluedo",
+      "subtitle": "",
+      "directors": [
+        "Jonathan Lynn"
+      ],
+      "actors": [
+        "Eileen Brennan",
+        "Tim Curry",
+        "Madeline Kahn",
+        "Christopher Lloyd",
+        "Michael McKean",
+        "Martin Mull"
+      ],
+      "matched_actors": [
+        "Madeline Kahn"
+      ],
+      "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
+      "category": "Comedy"
     }
   ]
 }
