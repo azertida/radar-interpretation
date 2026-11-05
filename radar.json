@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T16:35:50.837154+00:00",
-  "window_start": "2026-11-03",
-  "window_end": "2026-11-11",
+  "generated_at": "2026-11-05T13:14:09.465835+00:00",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,170 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 28,
   "programmes": [
-    {
-      "start": "2026-11-03T23:16:00+00:00",
-      "stop": "2026-11-04T00:57:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-03T23:30:00+00:00",
-      "stop": "2026-11-04T01:40:00+00:00",
-      "channel": "BBC Two",
-      "title": "Queer",
-      "subtitle": "",
-      "directors": [
-        "Luca Guadagnino"
-      ],
-      "actors": [
-        "Daniel Craig",
-        "Daan de Wit",
-        "Jason Schwartzman",
-        "Henrique Zaga",
-        "Colin Bates",
-        "Drew Starkey"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "When William Lee meets an enigmatic student in Mexico City, he becomes obsessed and begins a desperate journey into darkness.",
-      "category": "Biography"
-    },
-    {
-      "start": "2026-11-04T00:13:00+00:00",
-      "stop": "2026-11-04T01:49:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Ma mère, le crabe et moi",
-      "subtitle": "",
-      "directors": [
-        "Yann Samuell"
-      ],
-      "actors": [
-        "Lorette Nyssen",
-        "Jérôme Robart",
-        "Miveck Packa",
-        "Melchior LeBeaut",
-        "Jean-Michel Fête",
-        "Carole Franck"
-      ],
-      "matched_actors": [
-        "Jérôme Robart"
-      ],
-      "description": "Des mensonges au combat, en passant par les inquiétudes et le soutien, le cancer d'une mère vu et vécu par son adolescente de fille, qui se révèle une précieuse alliée.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-04T01:49:00+00:00",
-      "stop": "2026-11-04T02:16:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie de nomades créateurs de contenu",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie de nomades créateurs de contenu Julien rejoint Vale et Alex, le duo de nomades derrière la chaîne YouTube Prêts pour la route, pour partir à la découverte de l'île Grand Manan.",
-      "category": "Consumer"
-    },
-    {
-      "start": "2026-11-04T17:20:00+00:00",
-      "stop": "2026-11-04T17:50:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Weekend at Barney's",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Abby Elliott"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Ted en Jeanette gaan uit elkaar en Barney helpt hem iemand te versieren met het beruchte trucjesboek dat hij volgens Robin had verbrand. Lily hoopt indruk te maken bij een galerie-opening, maar Marshall trekt onbedoeld de aandacht.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-04T19:50:00+00:00",
-      "stop": "2026-11-04T21:48:00+00:00",
-      "channel": "Tipik",
-      "title": "Une nouvelle chance",
-      "subtitle": "",
-      "directors": [
-        "Robert Lorenz"
-      ],
-      "actors": [
-        "Amy Adams",
-        "Clint Eastwood",
-        "Justin Timberlake",
-        "John Goodman",
-        "Scott Eastwood",
-        "Matt Bush"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "Gus Lobel est l'un des meilleurs découvreurs de talents dans le monde du base-ball. Les années passant, il voit sa vue baisser dangereusement. La direction des Atlanta Braves se met à douter de son jugement et lui donne une dernière opportunité. Il doit se rendre en Caroline du Nord en quête d'un nouveau talent. Sa fille Mickey, dont Gus n'est pas très proche, se joint à lui pour ce voyage de la dernière chance. Toutefois, malgré l'appui de son ami de longue date et collègue, Pete Klein, ses employeurs, dont l'ambitieux Philip Sanderson, pensent ne pas renouveler son contrat en raison de son inaptitude à s'adapter aux nouvelles technologies et de la fiabilité de son jugement, concernant l'un de ses derniers recrutements, Billy Clark, dont les résultats déçoivent.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-04T21:35:00+00:00",
-      "stop": "2026-11-04T23:30:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "matched_actors": [
-        "Angelina Jolie"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-05T00:00:00+00:00",
       "stop": "2026-11-05T01:40:00+00:00",
@@ -476,7 +314,7 @@
     },
     {
       "start": "2026-11-06T17:15:00+00:00",
-      "stop": "2026-11-06T17:45:00+00:00",
+      "stop": "2026-11-06T17:50:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
       "subtitle": "The Time Travelers",
@@ -573,7 +411,7 @@
     },
     {
       "start": "2026-11-08T12:30:00+00:00",
-      "stop": "2026-11-08T14:15:00+00:00",
+      "stop": "2026-11-08T14:10:00+00:00",
       "channel": "Arte",
       "title": "L'homme de l'ouest",
       "subtitle": "",
@@ -735,8 +573,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-10T21:21:00+00:00",
-      "stop": "2026-11-10T22:24:00+00:00",
+      "start": "2026-11-10T21:23:00+00:00",
+      "stop": "2026-11-10T22:26:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 3",
@@ -781,8 +619,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-10T22:24:00+00:00",
-      "stop": "2026-11-10T23:32:00+00:00",
+      "start": "2026-11-10T22:26:00+00:00",
+      "stop": "2026-11-10T23:34:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 4",
@@ -851,8 +689,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-11T19:37:00+00:00",
-      "stop": "2026-11-11T21:34:00+00:00",
+      "start": "2026-11-11T19:36:00+00:00",
+      "stop": "2026-11-11T21:33:00+00:00",
       "channel": "La Trois",
       "title": "Le clan des Siciliens",
       "subtitle": "",
@@ -894,6 +732,53 @@
         "Madeline Kahn"
       ],
       "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-12T12:35:00+00:00",
+      "stop": "2026-11-12T14:50:00+00:00",
+      "channel": "Arte",
+      "title": "Cadavres exquis",
+      "subtitle": "",
+      "directors": [
+        "Francesco Rosi"
+      ],
+      "actors": [
+        "Lino Ventura",
+        "Tino Carraro",
+        "Marcel Bozzuffi",
+        "Paolo Bonacelli",
+        "Alain Cuny",
+        "Maria Carta"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-12T17:15:00+00:00",
+      "stop": "2026-11-12T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Something New",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Keegan-Michael Key"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "De groep bereidt zich voor op Robin en Barney's bruiloft. Ted laat Lily het huis zien dat hij eindelijk heeft opgeknapt. Ondertussen verpest een vervelend stel Robin en Barney's ontspanavondje en Marshall neemt de baby mee naar Minnesota.",
       "category": "Comedy"
     }
   ]
