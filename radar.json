@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T16:51:55.233596+00:00",
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-12",
+  "generated_at": "2026-11-06T12:58:32.345048+00:00",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,126 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 28,
+  "count": 26,
   "programmes": [
-    {
-      "start": "2026-11-05T00:00:00+00:00",
-      "stop": "2026-11-05T01:40:00+00:00",
-      "channel": "BBC One",
-      "title": "Office Christmas Party",
-      "subtitle": "",
-      "directors": [
-        "Will Speck",
-        "Josh Gordon"
-      ],
-      "actors": [
-        "Jason Bateman",
-        "Olivia Munn",
-        "T.J. Miller",
-        "Kate McKinnon",
-        "Jennifer Aniston",
-        "Jillian Bell"
-      ],
-      "matched_actors": [
-        "Kate McKinnon"
-      ],
-      "description": "A manager throws a wild Christmas party for his office, which he hopes will help land a client necessary to keep their business afloat.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-05T01:41:00+00:00",
-      "stop": "2026-11-05T02:07:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie sur une terre nourricière",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie sur une terre nourricière Julien va à la rencontre des Murph'Ariens, une famille qui mène une vie hors réseau. Un mode de vie basé sur les principes de la permaculture.",
-      "category": "Consumer"
-    },
-    {
-      "start": "2026-11-05T13:11:00+00:00",
-      "stop": "2026-11-05T15:10:00+00:00",
-      "channel": "Tipik",
-      "title": "Une nouvelle chance",
-      "subtitle": "",
-      "directors": [
-        "Robert Lorenz"
-      ],
-      "actors": [
-        "Amy Adams",
-        "Clint Eastwood",
-        "Justin Timberlake",
-        "John Goodman",
-        "Scott Eastwood",
-        "Matt Bush"
-      ],
-      "matched_actors": [
-        "Amy Adams"
-      ],
-      "description": "Gus Lobel est l'un des meilleurs découvreurs de talents dans le monde du base-ball. Les années passant, il voit sa vue baisser dangereusement. La direction des Atlanta Braves se met à douter de son jugement et lui donne une dernière opportunité. Il doit se rendre en Caroline du Nord en quête d'un nouveau talent. Sa fille Mickey, dont Gus n'est pas très proche, se joint à lui pour ce voyage de la dernière chance. Toutefois, malgré l'appui de son ami de longue date et collègue, Pete Klein, ses employeurs, dont l'ambitieux Philip Sanderson, pensent ne pas renouveler son contrat en raison de son inaptitude à s'adapter aux nouvelles technologies et de la fiabilité de son jugement, concernant l'un de ses derniers recrutements, Billy Clark, dont les résultats déçoivent.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-05T17:10:00+00:00",
-      "stop": "2026-11-05T17:40:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Fortress",
-      "directors": [
-        "Michael Shea",
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Kyle MacLachlan"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Robin en Barney praten over waar ze binnenkort als getrouwd stel gaan wonen. Marshall kan het moeilijk hebben dat Lily door haar veeleisende baan bij de Captain nooit meer thuis is.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-05T21:40:00+00:00",
-      "stop": "2026-11-05T23:30:00+00:00",
-      "channel": "France 4",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "matched_actors": [
-        "Lauren Bacall"
-      ],
-      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-06T01:14:00+00:00",
       "stop": "2026-11-06T02:55:00+00:00",
@@ -386,7 +268,7 @@
     },
     {
       "start": "2026-11-07T23:55:00+00:00",
-      "stop": "2026-11-08T00:25:00+00:00",
+      "stop": "2026-11-08T00:20:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
       "subtitle": "The Fortress",
@@ -573,8 +455,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-10T21:23:00+00:00",
-      "stop": "2026-11-10T22:26:00+00:00",
+      "start": "2026-11-10T21:19:00+00:00",
+      "stop": "2026-11-10T22:22:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 3",
@@ -619,8 +501,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-10T22:26:00+00:00",
-      "stop": "2026-11-10T23:34:00+00:00",
+      "start": "2026-11-10T22:22:00+00:00",
+      "stop": "2026-11-10T23:32:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 4",
@@ -779,6 +661,76 @@
         "Cobie Smulders"
       ],
       "description": "De groep bereidt zich voor op Robin en Barney's bruiloft. Ted laat Lily het huis zien dat hij eindelijk heeft opgeknapt. Ondertussen verpest een vervelend stel Robin en Barney's ontspanavondje en Marshall neemt de baby mee naar Minnesota.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-13T12:02:00+00:00",
+      "stop": "2026-11-13T14:00:00+00:00",
+      "channel": "La Trois",
+      "title": "Le clan des Siciliens",
+      "subtitle": "",
+      "directors": [
+        "Henri Verneuil"
+      ],
+      "actors": [
+        "Jean Gabin",
+        "Alain Delon",
+        "Lino Ventura",
+        "Irina Demick",
+        "Amedeo Nazzari",
+        "Sydney Chaplin"
+      ],
+      "matched_actors": [
+        "Lino Ventura"
+      ],
+      "description": "Roger Sartet, un escroc notoire, est parvenu à s'évader du fourgon qui le ramenait à sa cellule grâce à l'aide de Vittorio Manalese, un mafieux. Pour payer sa dette, il aide Vittorio à dérober une collection de bijoux présentée lors d'une exposition à Rome... Manalese fait alors venir son ami Tony Nicosia, un «professionnel» et Sartet prend l'identité d'un diamantaire chargé du convoi des bijoux. L'avion est détourné en vol mais Sartet, qui a eu une brève liaison avec Jeanne, la belle-fille de Manalese, est dénoncé à ce dernier. Manalese fait revenir Sartet à Paris et le tue. Peu de temps après, le clan des Siciliens est arrêté par la police.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-13T17:10:00+00:00",
+      "stop": "2026-11-13T17:40:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The locket",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Cristin Milioti"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Onderweg naar Long Island voor hun bruiloftsweekend doen Robin en Barney een verrassende familieontdekking. Marshall ziet iets online wat z'n reis terug naar het oosten verandert en Lily confronteert Ted ermee dat hij Robin los moet laten.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-13T21:45:00+00:00",
+      "stop": "2026-11-13T23:50:00+00:00",
+      "channel": "VTM 3",
+      "title": "Identity Thief",
+      "subtitle": "",
+      "directors": [
+        "Seth Gordon"
+      ],
+      "actors": [
+        "Jason Bateman",
+        "Melissa McCarthy",
+        "Jon Favreau",
+        "Maggie Elizabeth Jones",
+        "Amanda Peet",
+        "Tip \"T.I.\" Harris"
+      ],
+      "matched_actors": [
+        "Melissa McCarthy"
+      ],
+      "description": "Sandy Patterson komt erachter dat iemand zijn identiteit heeft gestolen en grote schulden heeft gemaakt op zijn naam. De politie kan hem niet helpen en dus gaat hij zelf achter de vrouw aan. Ze is echter niet zo onschuldig als ze op het eerste gezicht lijkt. Sandy blijkt namelijk niet de enige die haar achterna zit en ze moeten samen op de vlucht slaan voor een bende criminelen.",
       "category": "Comedy"
     }
   ]
