@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T16:18:50.497908+00:00",
-  "window_start": "2026-11-06",
+  "generated_at": "2026-11-07T11:45:08.793112+00:00",
+  "window_start": "2026-11-07",
   "window_end": "2026-11-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
@@ -123,100 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 26,
+  "count": 22,
   "programmes": [
-    {
-      "start": "2026-11-06T01:14:00+00:00",
-      "stop": "2026-11-06T02:55:00+00:00",
-      "channel": "Action",
-      "title": "Une pierre dans la bouche",
-      "subtitle": "",
-      "directors": [
-        "Jean-Louis Leconte"
-      ],
-      "actors": [
-        "Michel Robin",
-        "Greta Rubens",
-        "Jeffrey Kime",
-        "Richard Anconina",
-        "Hugues Quester",
-        "Bruno Balp"
-      ],
-      "matched_actors": [
-        "Richard Anconina"
-      ],
-      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-06T02:02:00+00:00",
-      "stop": "2026-11-06T02:30:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "La belle vie",
-      "subtitle": "La vie dans une maison conteneur flottante",
-      "directors": [
-        "Gérard Marx"
-      ],
-      "actors": [
-        "Jean Yanne",
-        "Danièle Evenou",
-        "Paulette Dubost",
-        "Vanessa Devraine",
-        "Christian Rauth",
-        "Daniel Rialet"
-      ],
-      "matched_actors": [
-        "Christian Rauth"
-      ],
-      "description": "La vie dans une maison conteneur flottante Julien se rend en Ontario pour rencontrer Joe et Erin. Tout récemment, Joe a réussi à réaliser son rêve.",
-      "category": "Consumer"
-    },
-    {
-      "start": "2026-11-06T13:05:00+00:00",
-      "stop": "2026-11-06T14:40:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Ma mère, le crabe et moi",
-      "subtitle": "",
-      "directors": [
-        "Yann Samuell"
-      ],
-      "actors": [
-        "Lorette Nyssen",
-        "Jérôme Robart",
-        "Miveck Packa",
-        "Melchior LeBeaut",
-        "Jean-Michel Fête",
-        "Carole Franck"
-      ],
-      "matched_actors": [
-        "Jérôme Robart"
-      ],
-      "description": "Des mensonges au combat, en passant par les inquiétudes et le soutien, le cancer d'une mère vu et vécu par son adolescente de fille, qui se révèle une précieuse alliée.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-06T17:15:00+00:00",
-      "stop": "2026-11-06T17:50:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Time Travelers",
-      "directors": [
-        "Pamela Fryman"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Lou Ferrigno Jr."
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "De Ted en Barney uit de toekomst proberen Ted ervan te overtuigen om naar Robots Versus Wrestlers te gaan. Marshall daagt Robin uit voor een danswedstrijd.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-07T20:55:00+00:00",
       "stop": "2026-11-07T22:45:00+00:00",
