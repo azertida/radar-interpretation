@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T15:10:49.779729+00:00",
+  "generated_at": "2026-11-08T11:57:46.085418+00:00",
   "window_start": "2026-11-07",
-  "window_end": "2026-11-13",
+  "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,34 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 22,
+  "count": 26,
   "programmes": [
-    {
-      "start": "2026-11-07T21:03:00+00:00",
-      "stop": "2026-11-07T22:59:00+00:00",
-      "channel": "AB3",
-      "title": "SOS Fantômes",
-      "subtitle": "",
-      "directors": [
-        "Paul Feig",
-        "Ivan Reitman"
-      ],
-      "actors": [
-        "Melissa McCarthy",
-        "Kristen Wiig",
-        "Kate McKinnon",
-        "Leslie Jones",
-        "Charles Dance",
-        "Chris Hemsworth"
-      ],
-      "matched_actors": [
-        "Melissa McCarthy",
-        "Kristen Wiig",
-        "Kate McKinnon"
-      ],
-      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-07T22:10:00+00:00",
       "stop": "2026-11-08T00:20:00+00:00",
@@ -640,6 +614,125 @@
       ],
       "description": "Sandy Patterson komt erachter dat iemand zijn identiteit heeft gestolen en grote schulden heeft gemaakt op zijn naam. De politie kan hem niet helpen en dus gaat hij zelf achter de vrouw aan. Ze is echter niet zo onschuldig als ze op het eerste gezicht lijkt. Sandy blijkt namelijk niet de enige die haar achterna zit en ze moeten samen op de vlucht slaan voor een bende criminelen.",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-11-15T13:05:00+00:00",
+      "stop": "2026-11-15T15:15:00+00:00",
+      "channel": "VTM 3",
+      "title": "Identity Thief",
+      "subtitle": "",
+      "directors": [
+        "Seth Gordon"
+      ],
+      "actors": [
+        "Jason Bateman",
+        "Melissa McCarthy",
+        "Jon Favreau",
+        "Maggie Elizabeth Jones",
+        "Amanda Peet",
+        "Tip \"T.I.\" Harris"
+      ],
+      "matched_actors": [
+        "Melissa McCarthy"
+      ],
+      "description": "Sandy Patterson komt erachter dat iemand zijn identiteit heeft gestolen en grote schulden heeft gemaakt op zijn naam. De politie kan hem niet helpen en dus gaat hij zelf achter de vrouw aan. Ze is echter niet zo onschuldig als ze op het eerste gezicht lijkt. Sandy blijkt namelijk niet de enige die haar achterna zit en ze moeten samen op de vlucht slaan voor een bende criminelen.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-15T14:40:00+00:00",
+      "stop": "2026-11-15T16:20:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Pour le meilleur et pour le pire",
+      "directors": [
+        "Muriel Aubin",
+        "Aubin Muriel"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alex Hugo est très heureux d'être le témoin du mariage de Juliette et Martin. Dans une chapelle isolée, au coeur de la montagne, les alliances sont échangées. Devant l'église, tout le monde a le sourire aux lèvres et les enfants jettent du riz. Soudain, des coups de feu retentissent au moment où le marié se penche pour embrasser sa belle. Qui pouvait vouloir tuer Martin ? Cet herboriste, adepte de la médecine douce aurait-il des ennemis ? Ou bien des choses à cacher ? Sinon pourquoi vivrait-il dans la montagne sous une fausse identité ? Et pourquoi, à la veille d'un procès important, le lieutenant d'un des principaux trafiquants de drogue de Marseille est-il à ses trousses ? Juliette apprend à Alex qu'elle est enceinte. Alex a beau vouloir la protéger, il ne peut pas lui cacher plus longtemps les zones d'ombre de la personnalité de son mari.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-15T20:10:00+00:00",
+      "stop": "2026-11-15T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "La traversée de Paris",
+      "subtitle": "",
+      "directors": [
+        "Claude Autant-Lara"
+      ],
+      "actors": [
+        "Jean Gabin",
+        "Bourvil",
+        "Jeanette Batti",
+        "Louis de Funès",
+        "Georgette Anys",
+        "Robert Arnoux"
+      ],
+      "matched_actors": [
+        "Louis de Funès"
+      ],
+      "description": "Sous l'Occupation, Martin, brave homme au chômage, doit convoyer à l'autre bout de Paris quatre valises pleines de porc. Son acolyte habituel ayant été arrêté, il fait appel à un inconnu, Grandgil. Mais celui-ci se révèle vite incontrôlable et le trajet périlleux. Au terme de leur périple, Martin découvrira que Grandgil est un peintre connu qui s'est offert le luxe d'une petite aventure. Ils finiront par se faire arrêter et Martin paiera seul le prix de cette traversée.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-15T21:00:00+00:00",
+      "stop": "2026-11-15T22:50:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "matched_actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-15T21:35:00+00:00",
+      "stop": "2026-11-15T23:15:00+00:00",
+      "channel": "France 2",
+      "title": "Un singe en hiver",
+      "subtitle": "",
+      "directors": [
+        "Henri Verneuil"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Jean Gabin",
+        "Suzanne Flon",
+        "Paul Frankeur",
+        "Gabrielle Dorziat",
+        "Marcelle Arnold"
+      ],
+      "matched_actors": [
+        "Jean-Paul Belmondo"
+      ],
+      "description": "L'hôtelier d'une petite station balnéaire de Normandie a juré à sa femme de ne plus toucher à un verre d'alcool. C'était sans compter avec l'arrivée de Fouquet qui surgit avec la tentation.",
+      "category": "Drama"
     }
   ]
 }
