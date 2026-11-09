@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T15:36:17.432914+00:00",
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-15",
+  "generated_at": "2026-11-09T13:56:17.486840+00:00",
+  "window_start": "2026-11-09",
+  "window_end": "2026-11-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -123,102 +123,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 26,
+  "count": 28,
   "programmes": [
-    {
-      "start": "2026-11-07T22:10:00+00:00",
-      "stop": "2026-11-08T00:20:00+00:00",
-      "channel": "France 4",
-      "title": "France",
-      "subtitle": "",
-      "directors": [
-        "Bruno Dumont"
-      ],
-      "actors": [
-        "Léa Seydoux",
-        "Blanche Gardin",
-        "Benjamin Biolay",
-        "Emanuele Arioli",
-        "Juliane Köhler",
-        "Gaëtan Amiel"
-      ],
-      "matched_actors": [
-        "Léa Seydoux"
-      ],
-      "description": "La journaliste France de Meurs semble mener une vie glamour. Mais derrière les apparences se cache une femme au bord du gouffre, incapable de gérer sa carrière et sa vie personnelle. Sa vie bascule à jamais lorsqu'elle est impliquée dans un accident de voiture, l'obligeant à reconsidérer ses valeurs et ses désirs.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-07T23:55:00+00:00",
-      "stop": "2026-11-08T00:20:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Fortress",
-      "directors": [
-        "Michael Shea",
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Kyle MacLachlan"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Robin en Barney praten over waar ze binnenkort als getrouwd stel gaan wonen. Marshall kan het moeilijk hebben dat Lily door haar veeleisende baan bij de Captain nooit meer thuis is.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-08T12:30:00+00:00",
-      "stop": "2026-11-08T14:10:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme de l'ouest",
-      "subtitle": "",
-      "directors": [
-        "Anthony Mann"
-      ],
-      "actors": [
-        "Gary Cooper",
-        "Julie London",
-        "Lee J. Cobb",
-        "Arthur O'Connell",
-        "Jack Lord",
-        "John Dehner"
-      ],
-      "matched_actors": [
-        "Julie London"
-      ],
-      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
-      "category": "Western"
-    },
-    {
-      "start": "2026-11-08T21:10:00+00:00",
-      "stop": "2026-11-08T23:50:00+00:00",
-      "channel": "AB3",
-      "title": "The Dark Knight Rises",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "actors": [
-        "Christian Bale",
-        "Michael Caine",
-        "Gary Oldman",
-        "Anne Hathaway",
-        "Tom Hardy",
-        "Marion Cotillard"
-      ],
-      "matched_actors": [
-        "Anne Hathaway"
-      ],
-      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-09T00:30:00+00:00",
       "stop": "2026-11-09T02:25:00+00:00",
@@ -733,6 +639,144 @@
       ],
       "description": "L'hôtelier d'une petite station balnéaire de Normandie a juré à sa femme de ne plus toucher à un verre d'alcool. C'était sans compter avec l'arrivée de Fouquet qui surgit avec la tentation.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-16T00:30:00+00:00",
+      "stop": "2026-11-16T02:05:00+00:00",
+      "channel": "Arte",
+      "title": "Cluedo",
+      "subtitle": "",
+      "directors": [
+        "Jonathan Lynn"
+      ],
+      "actors": [
+        "Eileen Brennan",
+        "Tim Curry",
+        "Madeline Kahn",
+        "Christopher Lloyd",
+        "Michael McKean",
+        "Martin Mull"
+      ],
+      "matched_actors": [
+        "Madeline Kahn"
+      ],
+      "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-16T12:35:00+00:00",
+      "stop": "2026-11-16T14:35:00+00:00",
+      "channel": "Arte",
+      "title": "L'homme de l'ouest",
+      "subtitle": "",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "actors": [
+        "Gary Cooper",
+        "Julie London",
+        "Lee J. Cobb",
+        "Arthur O'Connell",
+        "Jack Lord",
+        "John Dehner"
+      ],
+      "matched_actors": [
+        "Julie London"
+      ],
+      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
+      "category": "Western"
+    },
+    {
+      "start": "2026-11-16T17:10:00+00:00",
+      "stop": "2026-11-16T17:40:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Coming back",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Cristin Milioti"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als James vertelt dat hij gaat scheiden, is Robin bang voor de reactie van Barney. Marshall probeert op tijd in New York te komen voor de bruiloft en Ted zit alleen in een romantisch hotel.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-16T19:50:00+00:00",
+      "stop": "2026-11-16T22:04:00+00:00",
+      "channel": "Action",
+      "title": "Les disparues",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Cate Blanchett",
+        "Evan Rachel Wood",
+        "Jenna Boyd",
+        "Aaron Eckhart",
+        "Val Kilmer"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-16T19:55:00+00:00",
+      "stop": "2026-11-16T21:30:00+00:00",
+      "channel": "Arte",
+      "title": "Compartiment tueurs",
+      "subtitle": "",
+      "directors": [
+        "Costa-Gavras"
+      ],
+      "actors": [
+        "Catherine Allegret",
+        "Jacques Perrin",
+        "Jean-Louis Trintignant",
+        "Simone Signoret",
+        "Yves Montand"
+      ],
+      "matched_actors": [
+        "Jacques Perrin"
+      ],
+      "description": "Une représentante en parfumerie est étranglée dans un train de nuit entre Paris et Marseille. Suite à ce meurtre, les autres occupants du wagon sont assassinés les uns après les autres. La police enquête, mais le tueur est plus rapide. Alors qu'ils s'emploient à retrouver les autres occupants du même compartiment, pour les auditionner, ceux-là sont assassinés tour à tour. Le commissaire Tarquin (Pierre Mondy) somme les inspecteurs de mettre fin rapidement à cette vague de crimes.  Détail étrange : le tueur est plus rapide que la police pour retrouver ses potentielles victimes, les cinq occupants survivants du compartiment. Qui est l'assassin ?  (Adaptation du livre de Sébastien Japrisot, publié en 1962.)",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-16T20:10:00+00:00",
+      "stop": "2026-11-16T22:35:00+00:00",
+      "channel": "France 3",
+      "title": "Casino Royale",
+      "subtitle": "",
+      "directors": [
+        "Martin Campbell"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Eva Green",
+        "Mads Mikkelsen",
+        "Judi Dench",
+        "Jeffrey Wright",
+        "Giancarlo Giannini"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "La première mission de James Bond, fraîchement devenu l'agent 007, consiste à affronter Le Chiffre, un puissant terroriste international, lors d'une partie de poker au Casino Royale. Pour surveiller l'utilisation que James Bond fait de l'argent remis par le gouvernement britannique pour la partie, on lui adjoint une charmante jeune femme, Vesper Lynd, attachée au Trésor. La partie s'annonce difficile... La très belle Vesper, attachée au Trésor, l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme prévu. Alors que Bond et Vesper s'efforcent d'échapper aux tentatives d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre eux, ce qui ne fera que les rendre plus vulnérables...",
+      "category": "Action"
     }
   ]
 }
