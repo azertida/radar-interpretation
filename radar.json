@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:29:56.642563+00:00",
+  "generated_at": "2026-11-10T16:37:29.666665+00:00",
   "window_start": "2026-11-10",
   "window_end": "2026-11-17",
   "source": "Pickx via iptv-org/epg",
@@ -242,8 +242,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-11T00:46:00+00:00",
-      "stop": "2026-11-11T02:09:00+00:00",
+      "start": "2026-11-11T00:45:00+00:00",
+      "stop": "2026-11-11T02:07:00+00:00",
       "channel": "TF1",
       "title": "Made in Italy",
       "subtitle": "",
