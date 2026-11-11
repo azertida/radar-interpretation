@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T16:37:29.666665+00:00",
-  "window_start": "2026-11-10",
-  "window_end": "2026-11-17",
+  "generated_at": "2026-11-11T12:45:00.658017+00:00",
+  "window_start": "2026-11-11",
+  "window_end": "2026-11-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 117,
   "watchlist": [
@@ -125,122 +125,6 @@
   ],
   "count": 30,
   "programmes": [
-    {
-      "start": "2026-11-10T17:15:00+00:00",
-      "stop": "2026-11-10T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Bro Mitzvah",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Ralph Macchio"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Ted, Marshall en Lily kidnappen Barney en brengen hem naar een geheime locatie waar ze zich proberen te houden aan de richtlijnen uit Barneys 'Bro-Mitzvah'-pakket. Ondertussen heeft Robin een ongemakkelijk etentje met Barneys moeder.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-10T20:10:00+00:00",
-      "stop": "2026-11-10T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "La chute d'Icare",
-      "directors": [
-        "Sylvie Ayme"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Fabien Baïardi"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Les deux câbles d'acier d'une tyrolienne dessinent une courbe vertigineuse qui survole le canyon pour aller s'accrocher de l'autre côté. Sous la direction d'un guide, Justine, une femme sportive de 35 ans, boucle son baudrier et s'élance à pleine vitesse au-dessus du vide. Sur le palier de départ, les quatre randonneurs qui attendent leur tour poussent des cris en la voyant faire une chute soudaine. Quelque chose a lâché. Le corps de Justine, balancé à 50 km à l'heure, s'écrase en contrebas. Alors que cette aventure s'est achevée tragiquement, Alex Hugo va devoir faire face à la maire et à son nouveau projet touristique, découvrant des sabotages, des motifs cachés et des secrets...",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-10T21:15:00+00:00",
-      "stop": "2026-11-10T22:17:00+00:00",
-      "channel": "La Une",
-      "title": "Vigil",
-      "subtitle": "Episode 3",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Après la mort d'une personne au centre de recherche, Amy doit venir en aide à Kirsten. Alors que cette dernière risque de devenir la coupable idéale, Amy dispose de très peu de temps pour retrouver le véritable responsable et comprendre les circonstances de cette nouvelle affaire.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-10T21:40:00+00:00",
-      "stop": "2026-11-10T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Celle qui pardonne",
-      "directors": [
-        "Sylvie Ayme"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Jean-Marie Winling"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-10T22:17:00+00:00",
-      "stop": "2026-11-10T23:24:00+00:00",
-      "channel": "La Une",
-      "title": "Vigil",
-      "subtitle": "Episode 4",
-      "directors": [
-        "James Strong"
-      ],
-      "actors": [
-        "Suranne Jones",
-        "Rose Leslie",
-        "Shaun Evans",
-        "Paterson Joseph",
-        "Adam James",
-        "Connor Swindells"
-      ],
-      "matched_actors": [
-        "Suranne Jones"
-      ],
-      "description": "Kirsten et Henrik se rapprochent de Jia, la scientifique chinoise disparue, tandis qu'Amy suit leur piste. Les tensions s'exacerbent et de nouvelles alliances se nouent. Dans l'immensité hostile de l'Arctique, le danger devient de plus en plus difficile à maîtriser.",
-      "category": "Crime"
-    },
     {
       "start": "2026-11-11T00:45:00+00:00",
       "stop": "2026-11-11T02:07:00+00:00",
@@ -383,7 +267,7 @@
     },
     {
       "start": "2026-11-13T12:02:00+00:00",
-      "stop": "2026-11-13T14:00:00+00:00",
+      "stop": "2026-11-13T13:59:00+00:00",
       "channel": "La Trois",
       "title": "Le clan des Siciliens",
       "subtitle": "",
@@ -405,8 +289,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-13T17:10:00+00:00",
-      "stop": "2026-11-13T17:40:00+00:00",
+      "start": "2026-11-13T17:15:00+00:00",
+      "stop": "2026-11-13T17:45:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
       "subtitle": "The locket",
@@ -429,8 +313,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-13T21:45:00+00:00",
-      "stop": "2026-11-13T23:50:00+00:00",
+      "start": "2026-11-13T21:50:00+00:00",
+      "stop": "2026-11-13T23:55:00+00:00",
       "channel": "VTM 3",
       "title": "Identity Thief",
       "subtitle": "",
@@ -804,7 +688,7 @@
     },
     {
       "start": "2026-11-17T22:20:00+00:00",
-      "stop": "2026-11-17T23:28:00+00:00",
+      "stop": "2026-11-17T23:26:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 6",
@@ -824,6 +708,120 @@
       ],
       "description": "Amy se retrouve accusée et confrontée à la justice, tandis que Kirsten prend des risques pour la protéger et poursuivre l'enquête. Sous une forte pression politique, les deux policières doivent affronter les conséquences de leurs découvertes et faire face au choix le plus difficile de leur carrière.",
       "category": "Crime"
+    },
+    {
+      "start": "2026-11-18T10:36:00+00:00",
+      "stop": "2026-11-18T12:50:00+00:00",
+      "channel": "Action",
+      "title": "Les disparues",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Cate Blanchett",
+        "Evan Rachel Wood",
+        "Jenna Boyd",
+        "Aaron Eckhart",
+        "Val Kilmer"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-18T17:15:00+00:00",
+      "stop": "2026-11-18T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The broken code",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Tim Gunn"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als Lily Teds lijst ontdekt van de dingen die hij in New York wil doen voor hij naar Chicago verhuist, frustreert het haar dat zij de enige is die van zijn plannen afweet.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-18T19:20:00+00:00",
+      "stop": "2026-11-18T21:25:00+00:00",
+      "channel": "AB3",
+      "title": "Fast & Furious : Hobbs & Shaw",
+      "subtitle": "",
+      "directors": [
+        "David Leitch"
+      ],
+      "actors": [
+        "Dwayne Johnson",
+        "Jason Statham",
+        "Idris Elba",
+        "Vanessa Kirby",
+        "Helen Mirren",
+        "Eiza González"
+      ],
+      "matched_actors": [
+        "Helen Mirren"
+      ],
+      "description": "Depuis Fast and Furious 7, Hobbs et Shaw sont mus par une rivalité sans limite et se font tous les coups tordus possibles. C'est alors que surgit Brixton, un terroriste génétiquement modifié, qui bat la soeur de Shaw et menace de s'emparer d'une arme de destruction massive. Les deux hommes vont devoir mettre leur conflit de côté et faire équipe. Mais l'un comme l'autre ont leur fierté... Hattie a disparu dans la nature, après qu'un terroriste mi-humain mi-robot ait décimé son équipe. Ce dernier est prêt à tout afin de mettre la main sur cette arme capable de décimer la moitié de l'humanité.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-18T19:50:00+00:00",
+      "stop": "2026-11-18T22:00:00+00:00",
+      "channel": "Tipik",
+      "title": "Speed 2 : Cap sur le danger",
+      "subtitle": "",
+      "directors": [
+        "Jan de Bont"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Jason Patric",
+        "Willem Dafoe",
+        "Temuera Morrison",
+        "Brian McCardie",
+        "Christine Firkins"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "Annie Porter a fini par se séparer de Jack et pense avoir trouvé le calme auprès d'Alex, un surveillant de baignade. Mais elle découvre, furieuse, qu'Alex appartient en réalité aux forces anti-gang de Los Angeles. Pour se faire pardonner, le policier l'invite à une croisière aux Caraïbes. Tout irait pour le mieux si John Geiger, ancien employé de la compagnie maritime muni de bombes, ne s'était pas invité lui aussi.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-18T21:00:00+00:00",
+      "stop": "2026-11-18T22:59:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Kung Fu Zohra",
+      "subtitle": "",
+      "directors": [
+        "Mabrouk El Mechri"
+      ],
+      "actors": [
+        "Sabrina Ouazani",
+        "Ramzy Bedia",
+        "Eye Haidara",
+        "Tien Shue"
+      ],
+      "matched_actors": [
+        "Sabrina Ouazani"
+      ],
+      "description": "Convaincue qu'un divorce détruirait la vie de sa fille, Zohra ne peut se résoudre à quitter son mari violent. Elle subit ses coups en silence. Mais tout cela change lorsqu'elle rencontre Chang Sue, l'agent de sécurité du gymnase où elle travaille. Zohra, qui a toujours aimé les films de kung fu, se lance alors dans l'apprentissage de l'art martial asiatique.",
+      "category": "Action"
     }
   ]
 }
