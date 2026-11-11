@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T12:45:00.658017+00:00",
+  "generated_at": "2026-11-11T15:40:57.142961+00:00",
   "window_start": "2026-11-11",
   "window_end": "2026-11-18",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 117,
+  "watchlist_size": 118,
   "watchlist": [
     "Amy Adams",
     "Uzo Aduba",
@@ -56,6 +56,7 @@
     "Audrey Hepburn",
     "Katharine Hepburn",
     "Holly Hunter",
+    "Ella Lily Hyland",
     "Allison Janney",
     "Angelina Jolie",
     "Ron Cephas Jones",
@@ -127,7 +128,7 @@
   "programmes": [
     {
       "start": "2026-11-11T00:45:00+00:00",
-      "stop": "2026-11-11T02:07:00+00:00",
+      "stop": "2026-11-11T02:08:00+00:00",
       "channel": "TF1",
       "title": "Made in Italy",
       "subtitle": "",
@@ -636,7 +637,7 @@
       "matched_actors": [
         "Lionnel Astier"
       ],
-      "description": "Une scierie tourne à plein régime. Les grumes de plus de 1000 kilos sont soulevées par des palans, basculées sur la chaîne de sciage, équarries et finalement débitées en planches. Face aux écrans de contrôle, un homme veille au bon déroulement de l'opération. Il semble soudain remarquer une anomalie et demande à Elodie d'aller jeter un oeil à l'équarrissage. La jeune ouvrière dégringole l'escalier de ferraille au-dessus du défilé de planches qui s'enfilent en flot continu dans l'engrenage de la trieuse. Soudain, une marche de l'échelle cède sous ses pieds. Une sirène hurle dans la cour de la scierie. Les ouvriers courent partout. Un mot circule : Il y a eu un accident ! Un sac mortuaire se referme sur le visage ensanglanté d'Elodie. Dans les bâtiments, Alex remonte l'échelle métallique au-dessus des machines pour rejoindre Tony...",
+      "description": "De nombreux braquages perturbent les habitants de Lusagne : à chaque fois, ce sont des cargaisons de produits de première nécessité qui sont volés.",
       "category": "Crime"
     },
     {
