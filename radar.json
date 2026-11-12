@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T16:37:36.998212+00:00",
+  "generated_at": "2026-11-12T13:47:43.874878+00:00",
   "window_start": "2026-11-11",
-  "window_end": "2026-11-18",
+  "window_end": "2026-11-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -126,76 +126,6 @@
   ],
   "count": 30,
   "programmes": [
-    {
-      "start": "2026-11-11T00:45:00+00:00",
-      "stop": "2026-11-11T02:08:00+00:00",
-      "channel": "TF1",
-      "title": "Made in Italy",
-      "subtitle": "",
-      "directors": [
-        "Stéphane Giusti"
-      ],
-      "actors": [
-        "Gilbert Melki",
-        "Amira Casar",
-        "Françoise Fabian",
-        "Caterina Murino",
-        "Vittoria Scognamiglio",
-        "Elli Medeiros"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-11T17:15:00+00:00",
-      "stop": "2026-11-11T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Something Old",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Ray Wise"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Robin wil heel graag 'iets ouds' opgraven wat ze jaren voor de bruiloft heeft begraven in Central Park. Marshall en Lily vragen of Ted wil helpen met pakken voor Italië en Barney heeft het leuk met Robin.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-11T19:39:00+00:00",
-      "stop": "2026-11-11T21:38:00+00:00",
-      "channel": "La Trois",
-      "title": "Le clan des Siciliens",
-      "subtitle": "",
-      "directors": [
-        "Henri Verneuil"
-      ],
-      "actors": [
-        "Jean Gabin",
-        "Alain Delon",
-        "Lino Ventura",
-        "Irina Demick",
-        "Amedeo Nazzari",
-        "Sydney Chaplin"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Roger Sartet, un escroc notoire, est parvenu à s'évader du fourgon qui le ramenait à sa cellule grâce à l'aide de Vittorio Manalese, un mafieux. Pour payer sa dette, il aide Vittorio à dérober une collection de bijoux présentée lors d'une exposition à Rome... Manalese fait alors venir son ami Tony Nicosia, un «professionnel» et Sartet prend l'identité d'un diamantaire chargé du convoi des bijoux. L'avion est détourné en vol mais Sartet, qui a eu une brève liaison avec Jeanne, la belle-fille de Manalese, est dénoncé à ce dernier. Manalese fait revenir Sartet à Paris et le tue. Peu de temps après, le clan des Siciliens est arrêté par la police.",
-      "category": "Crime"
-    },
     {
       "start": "2026-11-11T22:30:00+00:00",
       "stop": "2026-11-12T00:05:00+00:00",
@@ -822,6 +752,76 @@
         "Sabrina Ouazani"
       ],
       "description": "Convaincue qu'un divorce détruirait la vie de sa fille, Zohra ne peut se résoudre à quitter son mari violent. Elle subit ses coups en silence. Mais tout cela change lorsqu'elle rencontre Chang Sue, l'agent de sécurité du gymnase où elle travaille. Zohra, qui a toujours aimé les films de kung fu, se lance alors dans l'apprentissage de l'art martial asiatique.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-19T13:23:00+00:00",
+      "stop": "2026-11-19T15:32:00+00:00",
+      "channel": "Tipik",
+      "title": "Speed 2 : Cap sur le danger",
+      "subtitle": "",
+      "directors": [
+        "Jan de Bont"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Jason Patric",
+        "Willem Dafoe",
+        "Temuera Morrison",
+        "Brian McCardie",
+        "Christine Firkins"
+      ],
+      "matched_actors": [
+        "Sandra Bullock"
+      ],
+      "description": "Annie Porter a fini par se séparer de Jack et pense avoir trouvé le calme auprès d'Alex, un surveillant de baignade. Mais elle découvre, furieuse, qu'Alex appartient en réalité aux forces anti-gang de Los Angeles. Pour se faire pardonner, le policier l'invite à une croisière aux Caraïbes. Tout irait pour le mieux si John Geiger, ancien employé de la compagnie maritime muni de bombes, ne s'était pas invité lui aussi.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-19T17:15:00+00:00",
+      "stop": "2026-11-19T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The poker game",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Sherry Stringfield"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als Barney een kant moet kiezen in een ruzie tussen Robin en zijn moeder, leert Lily hem hoe hij kan zorgen dat hij zijn relatie niet verpest. Ted en Marshall kibbelen over huwelijkscadeaus en bedankbriefjes.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-19T22:36:00+00:00",
+      "stop": "2026-11-20T01:10:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Black Panther",
+      "subtitle": "",
+      "directors": [
+        "Ryan Coogler"
+      ],
+      "actors": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman",
+        "Daniel Kaluuya"
+      ],
+      "matched_actors": [
+        "Chadwick Boseman"
+      ],
+      "description": "Suite à l'affrontement entre Iron Man et Captain America, T'Challa revient au Wakanda, une nation africaine technologiquement très avancée, afin de reprendre sa place sur le trône. Mais le roi se voit bientôt défier par des factions rebelles : pour éviter que le Wakanda soit emporté dans un conflit sanglant, T'Challa est contraint de s'allier à Everett K. Ross, un agent de la CIA, ainsi qu'aux forces spéciales.",
       "category": "Action"
     }
   ]
