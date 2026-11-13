@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T17:05:49.052783+00:00",
-  "window_start": "2026-11-11",
-  "window_end": "2026-11-19",
+  "generated_at": "2026-11-13T13:08:57.659239+00:00",
+  "window_start": "2026-11-13",
+  "window_end": "2026-11-20",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,78 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 30,
+  "count": 29,
   "programmes": [
-    {
-      "start": "2026-11-11T22:30:00+00:00",
-      "stop": "2026-11-12T00:05:00+00:00",
-      "channel": "Arte",
-      "title": "Cluedo",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Lynn"
-      ],
-      "actors": [
-        "Eileen Brennan",
-        "Tim Curry",
-        "Madeline Kahn",
-        "Christopher Lloyd",
-        "Michael McKean",
-        "Martin Mull"
-      ],
-      "matched_actors": [
-        "Madeline Kahn"
-      ],
-      "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-12T12:35:00+00:00",
-      "stop": "2026-11-12T14:50:00+00:00",
-      "channel": "Arte",
-      "title": "Cadavres exquis",
-      "subtitle": "",
-      "directors": [
-        "Francesco Rosi"
-      ],
-      "actors": [
-        "Lino Ventura",
-        "Tino Carraro",
-        "Marcel Bozzuffi",
-        "Paolo Bonacelli",
-        "Alain Cuny",
-        "Maria Carta"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Une série d'assassinats de magistrats a lieu. L'enquête est confiée à l'inspecteur Rogas qui soupçonne la mafia. Mais il découvre que les hommes au pouvoir utilisent cette affaire à des fins politiques: l'Etat est compromis avec des extremistes dans le but de destabiliser le gouvernement.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-12T17:15:00+00:00",
-      "stop": "2026-11-12T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Something New",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Keegan-Michael Key"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "De groep bereidt zich voor op Robin en Barney's bruiloft. Ted laat Lily het huis zien dat hij eindelijk heeft opgeknapt. Ondertussen verpest een vervelend stel Robin en Barney's ontspanavondje en Marshall neemt de baby mee naar Minnesota.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-13T12:02:00+00:00",
       "stop": "2026-11-13T13:59:00+00:00",
@@ -267,7 +197,7 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-15T13:05:00+00:00",
+      "start": "2026-11-15T13:10:00+00:00",
       "stop": "2026-11-15T15:15:00+00:00",
       "channel": "VTM 3",
       "title": "Identity Thief",
@@ -823,6 +753,52 @@
       ],
       "description": "Suite à l'affrontement entre Iron Man et Captain America, T'Challa revient au Wakanda, une nation africaine technologiquement très avancée, afin de reprendre sa place sur le trône. Mais le roi se voit bientôt défier par des factions rebelles : pour éviter que le Wakanda soit emporté dans un conflit sanglant, T'Challa est contraint de s'allier à Everett K. Ross, un agent de la CIA, ainsi qu'aux forces spéciales.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-20T12:35:00+00:00",
+      "stop": "2026-11-20T14:10:00+00:00",
+      "channel": "Arte",
+      "title": "Compartiment tueurs",
+      "subtitle": "",
+      "directors": [
+        "Costa-Gavras"
+      ],
+      "actors": [
+        "Catherine Allegret",
+        "Jacques Perrin",
+        "Jean-Louis Trintignant",
+        "Simone Signoret",
+        "Yves Montand"
+      ],
+      "matched_actors": [
+        "Jacques Perrin"
+      ],
+      "description": "Une représentante en parfumerie est étranglée dans un train de nuit entre Paris et Marseille. Suite à ce meurtre, les autres occupants du wagon sont assassinés les uns après les autres. La police enquête, mais le tueur est plus rapide. Alors qu'ils s'emploient à retrouver les autres occupants du même compartiment, pour les auditionner, ceux-là sont assassinés tour à tour. Le commissaire Tarquin (Pierre Mondy) somme les inspecteurs de mettre fin rapidement à cette vague de crimes.  Détail étrange : le tueur est plus rapide que la police pour retrouver ses potentielles victimes, les cinq occupants survivants du compartiment. Qui est l'assassin ?  (Adaptation du livre de Sébastien Japrisot, publié en 1962.)",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-20T17:15:00+00:00",
+      "stop": "2026-11-20T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Knight vision",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Anna Camp"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Als Ted moet kiezen tussen drie dates voor het huwelijksweekend, maakt hij een slechte keuze. Barney en Robin krijgen ruzie met hun predikant en Marshall leert zijn carpoolmaatje Daphne beter kennen.",
+      "category": "Comedy"
     }
   ]
 }
