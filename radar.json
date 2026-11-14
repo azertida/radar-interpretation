@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T16:44:41.068172+00:00",
-  "window_start": "2026-11-13",
-  "window_end": "2026-11-20",
+  "generated_at": "2026-11-14T12:13:34.811796+00:00",
+  "window_start": "2026-11-15",
+  "window_end": "2026-11-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -126,76 +126,6 @@
   ],
   "count": 29,
   "programmes": [
-    {
-      "start": "2026-11-13T12:02:00+00:00",
-      "stop": "2026-11-13T13:59:00+00:00",
-      "channel": "La Trois",
-      "title": "Le clan des Siciliens",
-      "subtitle": "",
-      "directors": [
-        "Henri Verneuil"
-      ],
-      "actors": [
-        "Jean Gabin",
-        "Alain Delon",
-        "Lino Ventura",
-        "Irina Demick",
-        "Amedeo Nazzari",
-        "Sydney Chaplin"
-      ],
-      "matched_actors": [
-        "Lino Ventura"
-      ],
-      "description": "Roger Sartet, un escroc notoire, est parvenu à s'évader du fourgon qui le ramenait à sa cellule grâce à l'aide de Vittorio Manalese, un mafieux. Pour payer sa dette, il aide Vittorio à dérober une collection de bijoux présentée lors d'une exposition à Rome... Manalese fait alors venir son ami Tony Nicosia, un «professionnel» et Sartet prend l'identité d'un diamantaire chargé du convoi des bijoux. L'avion est détourné en vol mais Sartet, qui a eu une brève liaison avec Jeanne, la belle-fille de Manalese, est dénoncé à ce dernier. Manalese fait revenir Sartet à Paris et le tue. Peu de temps après, le clan des Siciliens est arrêté par la police.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-13T17:15:00+00:00",
-      "stop": "2026-11-13T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The locket",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Onderweg naar Long Island voor hun bruiloftsweekend doen Robin en Barney een verrassende familieontdekking. Marshall ziet iets online wat z'n reis terug naar het oosten verandert en Lily confronteert Ted ermee dat hij Robin los moet laten.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-13T21:50:00+00:00",
-      "stop": "2026-11-13T23:55:00+00:00",
-      "channel": "VTM 3",
-      "title": "Identity Thief",
-      "subtitle": "",
-      "directors": [
-        "Seth Gordon"
-      ],
-      "actors": [
-        "Jason Bateman",
-        "Melissa McCarthy",
-        "Jon Favreau",
-        "Maggie Elizabeth Jones",
-        "Amanda Peet",
-        "Tip \"T.I.\" Harris"
-      ],
-      "matched_actors": [
-        "Melissa McCarthy"
-      ],
-      "description": "Sandy Patterson komt erachter dat iemand zijn identiteit heeft gestolen en grote schulden heeft gemaakt op zijn naam. De politie kan hem niet helpen en dus gaat hij zelf achter de vrouw aan. Ze is echter niet zo onschuldig als ze op het eerste gezicht lijkt. Sandy blijkt namelijk niet de enige die haar achterna zit en ze moeten samen op de vlucht slaan voor een bende criminelen.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-15T13:10:00+00:00",
       "stop": "2026-11-15T15:15:00+00:00",
@@ -362,8 +292,8 @@
       "category": "Western"
     },
     {
-      "start": "2026-11-16T17:10:00+00:00",
-      "stop": "2026-11-16T17:40:00+00:00",
+      "start": "2026-11-16T17:15:00+00:00",
+      "stop": "2026-11-16T17:45:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
       "subtitle": "Coming back",
@@ -799,6 +729,75 @@
       ],
       "description": "Als Ted moet kiezen tussen drie dates voor het huwelijksweekend, maakt hij een slechte keuze. Barney en Robin krijgen ruzie met hun predikant en Marshall leert zijn carpoolmaatje Daphne beter kennen.",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-11-21T14:28:00+00:00",
+      "stop": "2026-11-21T16:42:00+00:00",
+      "channel": "Action",
+      "title": "Les disparues",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Cate Blanchett",
+        "Evan Rachel Wood",
+        "Jenna Boyd",
+        "Aaron Eckhart",
+        "Val Kilmer"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-21T19:20:00+00:00",
+      "stop": "2026-11-21T20:45:00+00:00",
+      "channel": "AB3",
+      "title": "Shrek 2",
+      "subtitle": "",
+      "directors": [
+        "Conrad Vernon",
+        "Kelly Asbury",
+        "Andrew Adamson"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "Julie Andrews",
+        "Antonio Banderas",
+        "John Cleese"
+      ],
+      "matched_actors": [
+        "Julie Andrews"
+      ],
+      "description": "Shrek et Fiona sont partis en voyage de noces. Heureux jeunes mariés, en parfaits ogres, ils croquent la vie à pleine dents. À leur retour, les parents de Fiona les invitent à dîner. Quelle n'est pas leur surprise quand ils découvrent que Fiona est devenue une véritable ogresse et ne ressemble plus à la fille qui avait quitté leur nid ! Au cours du dîner, les relations beau-père et gendre tournent au vinaigre...",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-11-21T19:30:00+00:00",
+      "stop": "2026-11-21T21:40:00+00:00",
+      "channel": "VTM 3",
+      "title": "Jack Reacher: Never Go Back",
+      "subtitle": "",
+      "directors": [],
+      "actors": [
+        "Tom Cruise",
+        "Cobie Smulders",
+        "Aldis Hodge",
+        "Danika Yarosh",
+        "Sean Boyd",
+        "Nicole Barré"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Bij zijn terugkeer naar de militaire basis waar hij vroeger werkte, wacht Jack Reacher een onaangename verrassing. Zijn opvolgster, majoor Susan Turner, staat onder verdenking van verraad en zit achter de tralies. Bovendien krijgt Jack van een ex-prostituee te horen dat hij een dochter heeft. Jack zet alles op alles om Turners naam te zuiveren en slaat met zijn dochter op de vlucht.",
+      "category": "Action"
     }
   ]
 }
