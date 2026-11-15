@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T15:20:50.940600+00:00",
+  "generated_at": "2026-11-15T12:46:29.388453+00:00",
   "window_start": "2026-11-15",
-  "window_end": "2026-11-21",
+  "window_end": "2026-11-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,7 +124,7 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 29,
+  "count": 32,
   "programmes": [
     {
       "start": "2026-11-15T13:10:00+00:00",
@@ -798,6 +798,75 @@
       ],
       "description": "Bij zijn terugkeer naar de militaire basis waar hij vroeger werkte, wacht Jack Reacher een onaangename verrassing. Zijn opvolgster, majoor Susan Turner, staat onder verdenking van verraad en zit achter de tralies. Bovendien krijgt Jack van een ex-prostituee te horen dat hij een dochter heeft. Jack zet alles op alles om Turners naam te zuiveren en slaat met zijn dochter op de vlucht.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-22T14:40:00+00:00",
+      "stop": "2026-11-22T16:20:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Celle qui pardonne",
+      "directors": [
+        "Sylvie Ayme"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Jean-Marie Winling"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-22T21:20:00+00:00",
+      "stop": "2026-11-22T23:10:00+00:00",
+      "channel": "RTL TVI",
+      "title": "La revanche d'une blonde",
+      "subtitle": "",
+      "directors": [
+        "Robert Luketic"
+      ],
+      "actors": [
+        "Reese Witherspoon",
+        "Luke Wilson",
+        "Selma Blair",
+        "Matt Davis",
+        "Victor Garber",
+        "Jennifer Coolidge"
+      ],
+      "matched_actors": [
+        "Luke Wilson"
+      ],
+      "description": "Une séduisante et insouciante étudiante en mode est délaissée par son petit ami, sous prétexte d'être \"trop blonde\". Se promettant de le reconquérir, elle s'inscrit dans la même université de droit que lui : Havard. Malheureusement, les ambitions politiques de son fiancé - un fauteuil de sénateur avant la trentaine - s'accommodent mal d'une compagne blonde (c'est-à-dire fatalement écervelée, narcissique et débile). C'est ainsi qu'un triste soir, Elle se voit larguée par l'homme de sa vie. Malgré cette rupture soudaine et inattendue, celle-ci est bien décidée à prouver ses capacités et s'inscrit en droit à Harvard pour faire la conquête de la plus prestigieuse université américaine.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-22T21:30:00+00:00",
+      "stop": "2026-11-22T23:30:00+00:00",
+      "channel": "VTM 4",
+      "title": "L'aile ou la cuisse",
+      "subtitle": "",
+      "directors": [
+        "Claude Zidi"
+      ],
+      "actors": [
+        "Louis de Funès",
+        "Coluche",
+        "Julien Guiomar",
+        "Claude Gensac",
+        "Ann Zacharias",
+        "Raymond Bussières"
+      ],
+      "matched_actors": [
+        "Louis de Funès"
+      ],
+      "description": "Charles Duchemin is een fijnproever en uitgever van een Franse restaurantgids. Hij voert een privé-oorlog tegen de Tricatel fastfoodketen om de teloorgang van de Franse keuken te bestrijden. Nadat hij instemt om deel te nemen aan een televisieshow om zijn kennis van eten en wijn te etaleren, doen er zich twee rampen voor: zijn zoon Gérard wil niet langer in zijn voetsporen stappen maar een carrière uitbouwen als clown en Duchemins smaakpapillen begeven het.",
+      "category": "Comedy"
     }
   ]
 }
