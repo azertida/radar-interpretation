@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T18:56:31.038814+00:00",
-  "window_start": "2026-11-16",
-  "window_end": "2026-11-23",
+  "generated_at": "2026-11-17T14:28:06.816621+00:00",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,146 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 32,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-11-16T00:30:00+00:00",
-      "stop": "2026-11-16T02:05:00+00:00",
-      "channel": "Arte",
-      "title": "Cluedo",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Lynn"
-      ],
-      "actors": [
-        "Eileen Brennan",
-        "Tim Curry",
-        "Madeline Kahn",
-        "Christopher Lloyd",
-        "Michael McKean",
-        "Martin Mull"
-      ],
-      "matched_actors": [
-        "Madeline Kahn"
-      ],
-      "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-16T12:35:00+00:00",
-      "stop": "2026-11-16T14:35:00+00:00",
-      "channel": "Arte",
-      "title": "L'homme de l'ouest",
-      "subtitle": "",
-      "directors": [
-        "Anthony Mann"
-      ],
-      "actors": [
-        "Gary Cooper",
-        "Julie London",
-        "Lee J. Cobb",
-        "Arthur O'Connell",
-        "Jack Lord",
-        "John Dehner"
-      ],
-      "matched_actors": [
-        "Julie London"
-      ],
-      "description": "Après l'attaque du train dans lequel ils voyageaient, Link Jones, une chanteuse, et un commis voyageur tombent aux mains d'une bande de pillards qui les contraignent à participer à l'attaque de la banque d'une ville fantôme.",
-      "category": "Western"
-    },
-    {
-      "start": "2026-11-16T17:15:00+00:00",
-      "stop": "2026-11-16T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Coming back",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Als James vertelt dat hij gaat scheiden, is Robin bang voor de reactie van Barney. Marshall probeert op tijd in New York te komen voor de bruiloft en Ted zit alleen in een romantisch hotel.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-16T19:50:00+00:00",
-      "stop": "2026-11-16T22:04:00+00:00",
-      "channel": "Action",
-      "title": "Les disparues",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tommy Lee Jones",
-        "Cate Blanchett",
-        "Evan Rachel Wood",
-        "Jenna Boyd",
-        "Aaron Eckhart",
-        "Val Kilmer"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-16T19:55:00+00:00",
-      "stop": "2026-11-16T21:30:00+00:00",
-      "channel": "Arte",
-      "title": "Compartiment tueurs",
-      "subtitle": "",
-      "directors": [
-        "Costa-Gavras"
-      ],
-      "actors": [
-        "Catherine Allegret",
-        "Jacques Perrin",
-        "Jean-Louis Trintignant",
-        "Simone Signoret",
-        "Yves Montand"
-      ],
-      "matched_actors": [
-        "Jacques Perrin"
-      ],
-      "description": "Une représentante en parfumerie est étranglée dans un train de nuit entre Paris et Marseille. Suite à ce meurtre, les autres occupants du wagon sont assassinés les uns après les autres. La police enquête, mais le tueur est plus rapide. Alors qu'ils s'emploient à retrouver les autres occupants du même compartiment, pour les auditionner, ceux-là sont assassinés tour à tour. Le commissaire Tarquin (Pierre Mondy) somme les inspecteurs de mettre fin rapidement à cette vague de crimes.  Détail étrange : le tueur est plus rapide que la police pour retrouver ses potentielles victimes, les cinq occupants survivants du compartiment. Qui est l'assassin ?  (Adaptation du livre de Sébastien Japrisot, publié en 1962.)",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-16T20:10:00+00:00",
-      "stop": "2026-11-16T22:35:00+00:00",
-      "channel": "France 3",
-      "title": "Casino Royale",
-      "subtitle": "",
-      "directors": [
-        "Martin Campbell"
-      ],
-      "actors": [
-        "Daniel Craig",
-        "Eva Green",
-        "Mads Mikkelsen",
-        "Judi Dench",
-        "Jeffrey Wright",
-        "Giancarlo Giannini"
-      ],
-      "matched_actors": [
-        "Daniel Craig"
-      ],
-      "description": "La première mission de James Bond, fraîchement devenu l'agent 007, consiste à affronter Le Chiffre, un puissant terroriste international, lors d'une partie de poker au Casino Royale. Pour surveiller l'utilisation que James Bond fait de l'argent remis par le gouvernement britannique pour la partie, on lui adjoint une charmante jeune femme, Vesper Lynd, attachée au Trésor. La partie s'annonce difficile... La très belle Vesper, attachée au Trésor, l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme prévu. Alors que Bond et Vesper s'efforcent d'échapper aux tentatives d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre eux, ce qui ne fera que les rendre plus vulnérables...",
-      "category": "Action"
-    },
     {
       "start": "2026-11-17T17:15:00+00:00",
       "stop": "2026-11-17T17:45:00+00:00",
@@ -312,8 +174,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-17T21:18:00+00:00",
-      "stop": "2026-11-17T22:20:00+00:00",
+      "start": "2026-11-17T21:10:00+00:00",
+      "stop": "2026-11-17T22:14:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 5",
@@ -359,8 +221,8 @@
       "category": "Crime"
     },
     {
-      "start": "2026-11-17T22:20:00+00:00",
-      "stop": "2026-11-17T23:26:00+00:00",
+      "start": "2026-11-17T22:14:00+00:00",
+      "stop": "2026-11-17T23:19:00+00:00",
       "channel": "La Une",
       "title": "Vigil",
       "subtitle": "Episode 6",
@@ -452,8 +314,8 @@
       "category": "Action"
     },
     {
-      "start": "2026-11-18T19:50:00+00:00",
-      "stop": "2026-11-18T22:00:00+00:00",
+      "start": "2026-11-18T19:49:00+00:00",
+      "stop": "2026-11-18T22:03:00+00:00",
       "channel": "Tipik",
       "title": "Speed 2 : Cap sur le danger",
       "subtitle": "",
@@ -475,8 +337,8 @@
       "category": "Action"
     },
     {
-      "start": "2026-11-18T21:05:00+00:00",
-      "stop": "2026-11-18T23:00:00+00:00",
+      "start": "2026-11-18T21:07:00+00:00",
+      "stop": "2026-11-18T22:55:00+00:00",
       "channel": "RTL TVI",
       "title": "Kung Fu Zohra",
       "subtitle": "",
@@ -860,6 +722,121 @@
       ],
       "description": "L'agent secret 007 recherche toujours les responsables de l'organisation qui ont forcé Vesper à le trahir. James Bond rencontre Camille, une jeune femme intrigante elle aussi en quête de vengeance. Celle-ci le lance sur les traces de l'impitoyable Dominic Greene, un homme d'affaires sans scrupules qui serait l'un des piliers de la mystérieuse organisation. 007 découvre que Greene prépare un coup d'état en Bolivie. Utilisant ses associés dans l'organisation et manipulant ses puissant contacts dans la CIA et au gouvernement britannique, Greene promet de renverser le gouvernement d'un pays d'Amérique latine, cédant son contrôle au général en échange d'un lot de terre qui semble anodin.Sur un terrain miné par la trahison, le meurtre et la déception, Bond s'allie avec de vieux amis dans sa quête de vérité. À mesure qu'il se rapproche de l'homme responsable de la trahison de Vesper, 007 doit rester un pas en avant de la CIA, de terroristes et même de M pour déjouer les sinistres projets de Greene et de l'organisation.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-24T11:56:00+00:00",
+      "stop": "2026-11-24T14:10:00+00:00",
+      "channel": "Action",
+      "title": "Les disparues",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Cate Blanchett",
+        "Evan Rachel Wood",
+        "Jenna Boyd",
+        "Aaron Eckhart",
+        "Val Kilmer"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-24T17:15:00+00:00",
+      "stop": "2026-11-24T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The Lighthouse",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Frances Conroy"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Het conflict tussen Robin en Loretta escaleert en Barney zit tussen hen in. Marshall en Daphne hebben een verstekeling op hun roadtrip en Ted en Cassie proberen te genieten van een reisje naar een vuurtoren.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-24T20:10:00+00:00",
+      "stop": "2026-11-24T21:40:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Cold case",
+      "directors": [],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Thierry Petit"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Après la fonte des neiges, le corps d'une femme est découvert. La victime serait morte il y a plus de 25 ans. Alex et Leblanc débutent l'enquête et retrouvent une lettre manuscrite écrite par une amie de la jeune femme, Mathilde. Recherches effectuées, Alex découvre que cette personne fait partie de la police. Prévenue, elle se saisit aussitôt de l'enquête et arrive à Lusagne. Les deux flics vont tenter de s'apprivoiser et de comprendre ce drame d'il y a presque 30 ans, quand une jeune activiste idéaliste avait débarqué à Lusagne, aux côtés d'autres \"écoguerrières\"...",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-24T21:40:00+00:00",
+      "stop": "2026-11-24T23:15:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "Mémoire morte",
+      "directors": [
+        "Thierry Petit",
+        "Jean-Pierre Petit"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Suite à un accident de voiture, Alex a perdu la mémoire et ne se souvient plus des six derniers mois de sa vie. Un pistolet qui a visiblement servi est découvert à l'intérieur de son véhicule. Et dans la cuisine de son chalet, plusieurs bouteilles d'alcool vides sont retrouvées...",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-24T23:30:00+00:00",
+      "stop": "2026-11-25T01:30:00+00:00",
+      "channel": "BBC One",
+      "title": "The Mauritanian",
+      "subtitle": "",
+      "directors": [
+        "Kevin Macdonald"
+      ],
+      "actors": [
+        "Tahar Rahim",
+        "Baya Belal",
+        "Jodie Foster",
+        "Shailene Woodley",
+        "Clayton Boyd",
+        "Denis Ménochet"
+      ],
+      "matched_actors": [
+        "Jodie Foster"
+      ],
+      "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release. Their controversial advocacy, along with evidence uncovered by a formidable military prosecutor, Lt. Colonel Stuart Couch, uncovers shocking truths and ultimately proves that the human spirit cannot be locked up.",
+      "category": "Thriller"
     }
   ]
 }
