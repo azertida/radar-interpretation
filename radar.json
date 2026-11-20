@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T17:41:04.751090+00:00",
+  "generated_at": "2026-11-20T14:03:07.382407+00:00",
   "window_start": "2026-11-19",
-  "window_end": "2026-11-26",
+  "window_end": "2026-11-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,58 +124,11 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 31,
+  "count": 33,
   "programmes": [
     {
-      "start": "2026-11-19T13:12:00+00:00",
-      "stop": "2026-11-19T15:24:00+00:00",
-      "channel": "Tipik",
-      "title": "Speed 2 : Cap sur le danger",
-      "subtitle": "",
-      "directors": [
-        "Jan de Bont"
-      ],
-      "actors": [
-        "Sandra Bullock",
-        "Jason Patric",
-        "Willem Dafoe",
-        "Temuera Morrison",
-        "Brian McCardie",
-        "Christine Firkins"
-      ],
-      "matched_actors": [
-        "Sandra Bullock"
-      ],
-      "description": "Annie Porter a fini par se séparer de Jack et pense avoir trouvé le calme auprès d'Alex, un surveillant de baignade. Mais elle découvre, furieuse, qu'Alex appartient en réalité aux forces anti-gang de Los Angeles. Pour se faire pardonner, le policier l'invite à une croisière aux Caraïbes. Tout irait pour le mieux si John Geiger, ancien employé de la compagnie maritime muni de bombes, ne s'était pas invité lui aussi.",
-      "category": "Action"
-    },
-    {
-      "start": "2026-11-19T17:15:00+00:00",
-      "stop": "2026-11-19T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The poker game",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Sherry Stringfield"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Als Barney een kant moet kiezen in een ruzie tussen Robin en zijn moeder, leert Lily hem hoe hij kan zorgen dat hij zijn relatie niet verpest. Ted en Marshall kibbelen over huwelijkscadeaus en bedankbriefjes.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-19T22:31:00+00:00",
-      "stop": "2026-11-20T00:54:00+00:00",
+      "start": "2026-11-19T22:32:00+00:00",
+      "stop": "2026-11-20T00:55:00+00:00",
       "channel": "RTL TVI",
       "title": "Black Panther",
       "subtitle": "",
@@ -359,7 +312,7 @@
     },
     {
       "start": "2026-11-22T21:30:00+00:00",
-      "stop": "2026-11-22T23:30:00+00:00",
+      "stop": "2026-11-22T23:35:00+00:00",
       "channel": "VTM 4",
       "title": "L'aile ou la cuisse",
       "subtitle": "",
@@ -835,6 +788,99 @@
         "Val Kilmer"
       ],
       "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-27T11:18:00+00:00",
+      "stop": "2026-11-27T13:32:00+00:00",
+      "channel": "Action",
+      "title": "Les disparues",
+      "subtitle": "",
+      "directors": [
+        "Ron Howard"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Cate Blanchett",
+        "Evan Rachel Wood",
+        "Jenna Boyd",
+        "Aaron Eckhart",
+        "Val Kilmer"
+      ],
+      "matched_actors": [
+        "Val Kilmer"
+      ],
+      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-27T14:15:00+00:00",
+      "stop": "2026-11-27T16:20:00+00:00",
+      "channel": "VTM 3",
+      "title": "Meet the Fockers",
+      "subtitle": "",
+      "directors": [
+        "Jay Roach"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Dustin Hoffman",
+        "Barbra Streisand",
+        "Blythe Danner",
+        "Teri Polo"
+      ],
+      "matched_actors": [
+        "Barbra Streisand"
+      ],
+      "description": "Nadat voormalig CIA-agent Jack Byrnes de mannelijke verpleger Gaylord Focker toestemming heeft gegeven om met zijn dochter Pam te trouwen, is het tijd om de ouders van de twee eindelijk eens met elkaar kennis te laten maken. Jack reist samen met zijn vrouw, kleinzoon en het toekomstige echtpaar naar Miami, waar ze de Focker-familie leren kennen.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-27T17:15:00+00:00",
+      "stop": "2026-11-27T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Bedtime stories",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Cristin Milioti"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Marshall en baby Marvin zijn nog steeds op weg naar de bruiloft, nu met de bus, en zitten vast in het verkeer. Om Marvin in slaap te krijgen, moet Marshall liedjes verzinnen, want het kinderliedjesboek heeft hij in de auto laten liggen.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-27T23:25:00+00:00",
+      "stop": "2026-11-28T01:20:00+00:00",
+      "channel": "BBC Two",
+      "title": "Coriolanus",
+      "subtitle": "",
+      "directors": [
+        "Ralph Fiennes"
+      ],
+      "actors": [
+        "Ralph Fiennes",
+        "Gerard Butler",
+        "Vanessa Redgrave",
+        "Brian Cox",
+        "Jessica Chastain",
+        "John Kani"
+      ],
+      "matched_actors": [
+        "Jessica Chastain"
+      ],
+      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
       "category": "Drama"
     }
   ]
