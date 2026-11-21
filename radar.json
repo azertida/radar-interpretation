@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T17:18:20.725118+00:00",
-  "window_start": "2026-11-19",
-  "window_end": "2026-11-27",
+  "generated_at": "2026-11-21T13:29:43.919690+00:00",
+  "window_start": "2026-11-21",
+  "window_end": "2026-11-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,77 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 33,
+  "count": 31,
   "programmes": [
-    {
-      "start": "2026-11-19T22:32:00+00:00",
-      "stop": "2026-11-20T00:55:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Black Panther",
-      "subtitle": "",
-      "directors": [
-        "Ryan Coogler"
-      ],
-      "actors": [
-        "Chadwick Boseman",
-        "Michael B. Jordan",
-        "Lupita Nyong'o",
-        "Danai Gurira",
-        "Martin Freeman",
-        "Daniel Kaluuya"
-      ],
-      "matched_actors": [
-        "Chadwick Boseman"
-      ],
-      "description": "Suite à l'affrontement entre Iron Man et Captain America, T'Challa revient au Wakanda, une nation africaine technologiquement très avancée, afin de reprendre sa place sur le trône. Mais le roi se voit bientôt défier par des factions rebelles : pour éviter que le Wakanda soit emporté dans un conflit sanglant, T'Challa est contraint de s'allier à Everett K. Ross, un agent de la CIA, ainsi qu'aux forces spéciales.",
-      "category": "Action"
-    },
-    {
-      "start": "2026-11-20T12:35:00+00:00",
-      "stop": "2026-11-20T14:10:00+00:00",
-      "channel": "Arte",
-      "title": "Compartiment tueurs",
-      "subtitle": "",
-      "directors": [
-        "Costa-Gavras"
-      ],
-      "actors": [
-        "Catherine Allegret",
-        "Jacques Perrin",
-        "Jean-Louis Trintignant",
-        "Simone Signoret",
-        "Yves Montand"
-      ],
-      "matched_actors": [
-        "Jacques Perrin"
-      ],
-      "description": "Une représentante en parfumerie est étranglée dans un train de nuit entre Paris et Marseille. Suite à ce meurtre, les autres occupants du wagon sont assassinés les uns après les autres. La police enquête, mais le tueur est plus rapide. Alors qu'ils s'emploient à retrouver les autres occupants du même compartiment, pour les auditionner, ceux-là sont assassinés tour à tour. Le commissaire Tarquin (Pierre Mondy) somme les inspecteurs de mettre fin rapidement à cette vague de crimes.  Détail étrange : le tueur est plus rapide que la police pour retrouver ses potentielles victimes, les cinq occupants survivants du compartiment. Qui est l'assassin ?  (Adaptation du livre de Sébastien Japrisot, publié en 1962.)",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-20T17:15:00+00:00",
-      "stop": "2026-11-20T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Knight vision",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Anna Camp"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Als Ted moet kiezen tussen drie dates voor het huwelijksweekend, maakt hij een slechte keuze. Barney en Robin krijgen ruzie met hun predikant en Marshall leert zijn carpoolmaatje Daphne beter kennen.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-21T14:28:00+00:00",
       "stop": "2026-11-21T16:42:00+00:00",
@@ -355,7 +286,7 @@
       "category": "Action"
     },
     {
-      "start": "2026-11-23T14:50:00+00:00",
+      "start": "2026-11-23T14:55:00+00:00",
       "stop": "2026-11-23T15:50:00+00:00",
       "channel": "VTM 4",
       "title": "Xena - Warrior Princess",
@@ -882,6 +813,31 @@
       ],
       "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-28T20:45:00+00:00",
+      "stop": "2026-11-28T22:15:00+00:00",
+      "channel": "AB3",
+      "title": "Shrek 2",
+      "subtitle": "",
+      "directors": [
+        "Conrad Vernon",
+        "Kelly Asbury",
+        "Andrew Adamson"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "Julie Andrews",
+        "Antonio Banderas",
+        "John Cleese"
+      ],
+      "matched_actors": [
+        "Julie Andrews"
+      ],
+      "description": "Shrek et Fiona sont partis en voyage de noces. Heureux jeunes mariés, en parfaits ogres, ils croquent la vie à pleine dents. À leur retour, les parents de Fiona les invitent à dîner. Quelle n'est pas leur surprise quand ils découvrent que Fiona est devenue une véritable ogresse et ne ressemble plus à la fille qui avait quitté leur nid ! Au cours du dîner, les relations beau-père et gendre tournent au vinaigre...",
+      "category": "Movies"
     }
   ]
 }
