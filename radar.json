@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T16:23:56.905260+00:00",
-  "window_start": "2026-11-21",
-  "window_end": "2026-11-28",
+  "generated_at": "2026-11-22T13:23:02.095500+00:00",
+  "window_start": "2026-11-22",
+  "window_end": "2026-11-29",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,77 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 32,
+  "count": 36,
   "programmes": [
-    {
-      "start": "2026-11-21T14:28:00+00:00",
-      "stop": "2026-11-21T16:42:00+00:00",
-      "channel": "Action",
-      "title": "Les disparues",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tommy Lee Jones",
-        "Cate Blanchett",
-        "Evan Rachel Wood",
-        "Jenna Boyd",
-        "Aaron Eckhart",
-        "Val Kilmer"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-21T19:20:00+00:00",
-      "stop": "2026-11-21T20:54:00+00:00",
-      "channel": "AB3",
-      "title": "Shrek 2",
-      "subtitle": "",
-      "directors": [
-        "Conrad Vernon",
-        "Kelly Asbury",
-        "Andrew Adamson"
-      ],
-      "actors": [
-        "Mike Myers",
-        "Eddie Murphy",
-        "Cameron Diaz",
-        "Julie Andrews",
-        "Antonio Banderas",
-        "John Cleese"
-      ],
-      "matched_actors": [
-        "Julie Andrews"
-      ],
-      "description": "Shrek et Fiona sont partis en voyage de noces. Heureux jeunes mariés, en parfaits ogres, ils croquent la vie à pleine dents. À leur retour, les parents de Fiona les invitent à dîner. Quelle n'est pas leur surprise quand ils découvrent que Fiona est devenue une véritable ogresse et ne ressemble plus à la fille qui avait quitté leur nid ! Au cours du dîner, les relations beau-père et gendre tournent au vinaigre...",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-11-21T19:30:00+00:00",
-      "stop": "2026-11-21T21:40:00+00:00",
-      "channel": "VTM 3",
-      "title": "Jack Reacher: Never Go Back",
-      "subtitle": "",
-      "directors": [],
-      "actors": [
-        "Tom Cruise",
-        "Cobie Smulders",
-        "Aldis Hodge",
-        "Danika Yarosh",
-        "Sean Boyd",
-        "Nicole Barré"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Bij zijn terugkeer naar de militaire basis waar hij vroeger werkte, wacht Jack Reacher een onaangename verrassing. Zijn opvolgster, majoor Susan Turner, staat onder verdenking van verraad en zit achter de tralies. Bovendien krijgt Jack van een ex-prostituee te horen dat hij een dochter heeft. Jack zet alles op alles om Turners naam te zuiveren en slaat met zijn dochter op de vlucht.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-22T00:29:00+00:00",
       "stop": "2026-11-22T01:52:00+00:00",
@@ -861,6 +792,172 @@
       ],
       "description": "Shrek et Fiona sont partis en voyage de noces. Heureux jeunes mariés, en parfaits ogres, ils croquent la vie à pleine dents. À leur retour, les parents de Fiona les invitent à dîner. Quelle n'est pas leur surprise quand ils découvrent que Fiona est devenue une véritable ogresse et ne ressemble plus à la fille qui avait quitté leur nid ! Au cours du dîner, les relations beau-père et gendre tournent au vinaigre...",
       "category": "Movies"
+    },
+    {
+      "start": "2026-11-29T02:00:00+00:00",
+      "stop": "2026-11-29T03:41:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-29T08:45:00+00:00",
+      "stop": "2026-11-29T10:15:00+00:00",
+      "channel": "AB3",
+      "title": "Shrek 2",
+      "subtitle": "",
+      "directors": [
+        "Conrad Vernon",
+        "Kelly Asbury",
+        "Andrew Adamson"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "Julie Andrews",
+        "Antonio Banderas",
+        "John Cleese"
+      ],
+      "matched_actors": [
+        "Julie Andrews"
+      ],
+      "description": "Shrek et Fiona sont partis en voyage de noces. Heureux jeunes mariés, en parfaits ogres, ils croquent la vie à pleine dents. À leur retour, les parents de Fiona les invitent à dîner. Quelle n'est pas leur surprise quand ils découvrent que Fiona est devenue une véritable ogresse et ne ressemble plus à la fille qui avait quitté leur nid ! Au cours du dîner, les relations beau-père et gendre tournent au vinaigre...",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-11-29T14:45:00+00:00",
+      "stop": "2026-11-29T16:20:00+00:00",
+      "channel": "France 3",
+      "title": "Alex Hugo",
+      "subtitle": "La balade sauvage",
+      "directors": [
+        "Pierre Isoard",
+        "Julien Guerif"
+      ],
+      "actors": [
+        "Samuel Le Bihan",
+        "Lionnel Astier",
+        "Caroline Baehr",
+        "Louise Szpindel",
+        "Mikaël Fitoussi",
+        "Marilyne Canto"
+      ],
+      "matched_actors": [
+        "Lionnel Astier"
+      ],
+      "description": "Alex est averti de la fugue de deux jeunes garçons de 12 et 10 ans, partis avec un pistolet volé à leur père, un militaire fraîchement rentré du Mali. Pour Alex, cette histoire a une résonance particulière. Ces deux enfants seuls dans la nature, avec une arme à feu, dont ils ne mesurent pas la dangerosité, lui est insupportable et monopolise toute son attention...",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-11-29T19:20:00+00:00",
+      "stop": "2026-11-29T21:05:00+00:00",
+      "channel": "AB3",
+      "title": "21 Jump Street",
+      "subtitle": "",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Brie Larson",
+        "Dave Franco",
+        "Rob Riggle",
+        "DeRay Davis"
+      ],
+      "matched_actors": [
+        "Brie Larson"
+      ],
+      "description": "La brigade de police installée au 21, Jump Street est constituée de jeunes inspecteurs au physique juvénile qui peuvent facilement infiltrer les milieux des jeunes à problèmes pour les besoins de leurs investigations. Deux policiers, Jenko et Schmidt, sont chargés de se rendre dans un établissement scolaire sous couverture, afin d'y démanteler un réseau de trafiquants de drogue. Mais leur nonchalance risque de compromettre leur mission, d'autant que Schmidt s'est lié d'amitié avec une étudiante qui s'avère être la petite amie du dealer de l'école. L'amitié entre les deux hommes, qui doivent passer pour frères, sera également mise à l'épreuve.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-29T21:00:00+00:00",
+      "stop": "2026-11-29T22:00:00+00:00",
+      "channel": "BBC One",
+      "title": "The Witch Farm",
+      "subtitle": "Episode 3",
+      "directors": [
+        "Stacey Gregg"
+      ],
+      "actors": [
+        "Gabrielle Creevy",
+        "Michael Socha",
+        "Lewin Lloyd",
+        "Jeremy Swift",
+        "Edward Holcroft"
+      ],
+      "matched_actors": [
+        "Jeremy Swift"
+      ],
+      "description": "Liz discovers a young man was murdered at Heol Fanog in 1898 and tries to uncover the truth. Bill agrees to paint Wyn's horse, but the commission goes horribly wrong.",
+      "category": "Mystery"
+    },
+    {
+      "start": "2026-11-29T21:20:00+00:00",
+      "stop": "2026-11-29T23:05:00+00:00",
+      "channel": "RTL TVI",
+      "title": "La blonde contre-attaque",
+      "subtitle": "",
+      "directors": [
+        "Charles Herman-Wurmfeld"
+      ],
+      "actors": [
+        "Reese Witherspoon",
+        "Sally Field",
+        "Regina King",
+        "Jennifer Coolidge",
+        "Luke Wilson",
+        "Bruce McGill"
+      ],
+      "matched_actors": [
+        "Sally Field",
+        "Regina King",
+        "Luke Wilson"
+      ],
+      "description": "Deux ans après avoir conquis Harvard, Elle Woods, la blonde la plus branchée, la plus chic et la plus futée des Etats-Unis, exerce ses talents dans un important cabinet d'avocats et s'apprête à épouser l'homme de ses rêves. C'est alors qu'elle découvre qu'un de ses clients utilise comme animaux de laboratoire des chiens de la famille de Bruiser, son chihuahua bien-aimé. Horrifiée, elle prend la défense des pauvres bêtes et se voit promptement licenciée. Jurant de faire triompher sa cause, la blonde part pour Washington munie de ses armes de persuasion favorites : une panoplie de robes griffées, perruqyes, rimmels, bijoux et chaussures de luxe à faire pâlir d'envie les plus grandes stars.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-29T21:30:00+00:00",
+      "stop": "2026-11-29T23:35:00+00:00",
+      "channel": "VTM 3",
+      "title": "Knox Goes Away",
+      "subtitle": "",
+      "directors": [
+        "Michael Keaton"
+      ],
+      "actors": [
+        "Michael Keaton",
+        "Al Pacino",
+        "Marcia Gay Harden",
+        "James Marsden",
+        "Joanna Kulig",
+        "Ray McKinnon"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "John Knox, een huurmoordenaar met snel voortschrijdende dementie, krijgt te maken met nog een probleem: zijn zoon Miles heeft een man gedood en vraagt zijn vader om hem uit de nesten te helpen. John moet niet alleen de politie te slim af zijn, maar ook zijn eigen aftakelende geest.",
+      "category": "Thriller"
     }
   ]
 }
