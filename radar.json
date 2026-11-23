@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T16:39:19.448476+00:00",
-  "window_start": "2026-11-22",
-  "window_end": "2026-11-29",
+  "generated_at": "2026-11-23T16:01:00.977800+00:00",
+  "window_start": "2026-11-23",
+  "window_end": "2026-11-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,100 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 36,
+  "count": 35,
   "programmes": [
-    {
-      "start": "2026-11-22T00:29:00+00:00",
-      "stop": "2026-11-22T01:52:00+00:00",
-      "channel": "TF1",
-      "title": "Made in Italy",
-      "subtitle": "",
-      "directors": [
-        "Stéphane Giusti"
-      ],
-      "actors": [
-        "Gilbert Melki",
-        "Amira Casar",
-        "Françoise Fabian",
-        "Caterina Murino",
-        "Vittoria Scognamiglio",
-        "Elli Medeiros"
-      ],
-      "matched_actors": [
-        "Caterina Murino"
-      ],
-      "description": "Luca Morandi, 35 ans, est un jeune écrivain en mal d'inspiration, de succès et d'amour. Le voilà parvenu à l'âge adulte sans vraiment en être un, il lorgne toujours du côté d'une enfance bénie passée en Italie, auprès d'un père fantasque, éblouissant, comme un personnage de pays fantastique. Du moins le croit-il... Lorsque ce père, chirurgien esthétique à Turin, meurt brutalement, Luca part avec sa soeur Isabella pour les obsèques. Mais l'enterrement vire au cauchemar : veuves, demi-veuves, maîtresses, nouveau frères et soeurs, dettes à en perdre la tête, Italie \"berlusconisée\"... Luca redécouvre son pays d'enfance et un père mythique avec des yeux d'adulte. De la haine à l'amour, du ressentiment au pardon, Luca va redéfinir le sens de sa propre identité, de sa propre existence, réconcilier la France qui est en lui avec son Italie natale. En un mot, grandir, devenir enfin adulte.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-22T14:40:00+00:00",
-      "stop": "2026-11-22T16:20:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Celle qui pardonne",
-      "directors": [
-        "Sylvie Ayme"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Jean-Marie Winling"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Parti pêcher en montagne, Alex Hugo assiste, impuissant, à l'enlèvement d'Audrey, 16 ans, alors qu'elle venait d'escalader une paroi. Il aperçoit un homme jeter l'adolescente dans le coffre d'une voiture avant de démarrer en trombe. L'alpiniste est la fille d'un ami d'Alex, mort en lui sauvant la vie il y a quelques années. Cette blessure et cette culpabilité sont ravivées par ce kidnapping. L'alerte enlèvement est lancée : tandis que la police de Marseille démarre l'enquête, Alex Hugo va essayer de cerner un peu mieux la personnalité de la jeune fille et ce qu'il va découvrir est extrêmement inquiétant : Audrey semble s'être convertie à l'Islam et radicalisée.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-22T21:20:00+00:00",
-      "stop": "2026-11-22T23:10:00+00:00",
-      "channel": "RTL TVI",
-      "title": "La revanche d'une blonde",
-      "subtitle": "",
-      "directors": [
-        "Robert Luketic"
-      ],
-      "actors": [
-        "Reese Witherspoon",
-        "Luke Wilson",
-        "Selma Blair",
-        "Matt Davis",
-        "Victor Garber",
-        "Jennifer Coolidge"
-      ],
-      "matched_actors": [
-        "Luke Wilson"
-      ],
-      "description": "Une séduisante et insouciante étudiante en mode est délaissée par son petit ami, sous prétexte d'être \"trop blonde\". Se promettant de le reconquérir, elle s'inscrit dans la même université de droit que lui : Havard. Malheureusement, les ambitions politiques de son fiancé - un fauteuil de sénateur avant la trentaine - s'accommodent mal d'une compagne blonde (c'est-à-dire fatalement écervelée, narcissique et débile). C'est ainsi qu'un triste soir, Elle se voit larguée par l'homme de sa vie. Malgré cette rupture soudaine et inattendue, celle-ci est bien décidée à prouver ses capacités et s'inscrit en droit à Harvard pour faire la conquête de la plus prestigieuse université américaine.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-22T21:30:00+00:00",
-      "stop": "2026-11-22T23:35:00+00:00",
-      "channel": "VTM 4",
-      "title": "L'aile ou la cuisse",
-      "subtitle": "",
-      "directors": [
-        "Claude Zidi"
-      ],
-      "actors": [
-        "Louis de Funès",
-        "Coluche",
-        "Julien Guiomar",
-        "Claude Gensac",
-        "Ann Zacharias",
-        "Raymond Bussières"
-      ],
-      "matched_actors": [
-        "Louis de Funès"
-      ],
-      "description": "Charles Duchemin is een fijnproever en uitgever van een Franse restaurantgids. Hij voert een privé-oorlog tegen de Tricatel fastfoodketen om de teloorgang van de Franse keuken te bestrijden. Nadat hij instemt om deel te nemen aan een televisieshow om zijn kennis van eten en wijn te etaleren, doen er zich twee rampen voor: zijn zoon Gérard wil niet langer in zijn voetsporen stappen maar een carrière uitbouwen als clown en Duchemins smaakpapillen begeven het.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-23T14:15:00+00:00",
       "stop": "2026-11-23T16:15:00+00:00",
@@ -958,6 +866,75 @@
       ],
       "description": "John Knox, een huurmoordenaar met snel voortschrijdende dementie, krijgt te maken met nog een probleem: zijn zoon Miles heeft een man gedood en vraagt zijn vader om hem uit de nesten te helpen. John moet niet alleen de politie te slim af zijn, maar ook zijn eigen aftakelende geest.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-30T17:20:00+00:00",
+      "stop": "2026-11-30T17:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "The rehearsal dinner",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Wayne Brady"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Barney is ervan overtuigd dat Robin opnieuw iets speciaals plant voor het oefendiner. Hij weet zeker dat Robin een oefendiner met lasergamethema organiseert. Hij gaat vlak voor het evenement naar de lokale lasergamelocatie.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-30T20:10:00+00:00",
+      "stop": "2026-11-30T22:25:00+00:00",
+      "channel": "France 3",
+      "title": "Skyfall",
+      "subtitle": "",
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Javier Bardem",
+        "Judi Dench",
+        "Naomie Harris",
+        "Ralph Fiennes",
+        "Albert Finney"
+      ],
+      "matched_actors": [
+        "Daniel Craig"
+      ],
+      "description": "Le siège du MI6 est victime d'un attentat. M doit relocaliser l'Agence, mais son passé revient brusquement la hanter et son autorité est remise en cause. M n'a plus qu'un seul allié : l'agent 007, même si les récents événements ont ébranlé sa confiance et semé le doute dans son esprit. Le temps presse et le MI6 est en danger : Bond doit identifier la menace et la détruire, quel qu'en soit le coût. Une fois sa remise en forme terminée, il traque à travers le monde le criminel connu sous le nom de Silva et l'empêche d'éliminer M, à la tête des l'agence d'espionnage britanniques. Le tortionnaire éprouve beaucoup de rancoeur envers cette dernière qui l'a, un jour, alors qu'il était agent pour l'organisation anglaise, livré à l'ennemi pour sauver d'autres personnes importantes.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-30T21:00:00+00:00",
+      "stop": "2026-11-30T22:00:00+00:00",
+      "channel": "BBC One",
+      "title": "The Witch Farm",
+      "subtitle": "Episode 4",
+      "directors": [
+        "Stacey Gregg"
+      ],
+      "actors": [
+        "Gabrielle Creevy",
+        "Michael Socha",
+        "Lewin Lloyd",
+        "Jeremy Swift",
+        "Edward Holcroft"
+      ],
+      "matched_actors": [
+        "Jeremy Swift"
+      ],
+      "description": "A vision of Madeleine prompts Liz to return to Brecon Museum. Paranormal investigator Eddie Burks visits, urging Bill to tell his family the truth about his past.",
+      "category": "Mystery"
     }
   ]
 }
