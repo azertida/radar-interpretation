@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T19:43:05.591177+00:00",
+  "generated_at": "2026-11-25T15:38:36.573479+00:00",
   "window_start": "2026-11-24",
-  "window_end": "2026-12-01",
+  "window_end": "2026-12-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -127,98 +127,6 @@
   "count": 37,
   "programmes": [
     {
-      "start": "2026-11-24T11:56:00+00:00",
-      "stop": "2026-11-24T14:10:00+00:00",
-      "channel": "Action",
-      "title": "Les disparues",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tommy Lee Jones",
-        "Cate Blanchett",
-        "Evan Rachel Wood",
-        "Jenna Boyd",
-        "Aaron Eckhart",
-        "Val Kilmer"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-24T17:10:00+00:00",
-      "stop": "2026-11-24T17:40:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "The Lighthouse",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Frances Conroy"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Het conflict tussen Robin en Loretta escaleert en Barney zit tussen hen in. Marshall en Daphne hebben een verstekeling op hun roadtrip en Ted en Cassie proberen te genieten van een reisje naar een vuurtoren.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-24T20:10:00+00:00",
-      "stop": "2026-11-24T21:40:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Cold case",
-      "directors": [],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Thierry Petit"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Après la fonte des neiges, le corps d'une femme est découvert. La victime serait morte il y a plus de 25 ans. Alex et Leblanc débutent l'enquête et retrouvent une lettre manuscrite écrite par une amie de la jeune femme, Mathilde. Recherches effectuées, Alex découvre que cette personne fait partie de la police. Prévenue, elle se saisit aussitôt de l'enquête et arrive à Lusagne. Les deux flics vont tenter de s'apprivoiser et de comprendre ce drame d'il y a presque 30 ans, quand une jeune activiste idéaliste avait débarqué à Lusagne, aux côtés d'autres \"écoguerrières\"...",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-11-24T21:40:00+00:00",
-      "stop": "2026-11-24T23:15:00+00:00",
-      "channel": "France 3",
-      "title": "Alex Hugo",
-      "subtitle": "Mémoire morte",
-      "directors": [
-        "Thierry Petit",
-        "Jean-Pierre Petit"
-      ],
-      "actors": [
-        "Samuel Le Bihan",
-        "Lionnel Astier",
-        "Caroline Baehr",
-        "Louise Szpindel",
-        "Mikaël Fitoussi",
-        "Marilyne Canto"
-      ],
-      "matched_actors": [
-        "Lionnel Astier"
-      ],
-      "description": "Suite à un accident de voiture, Alex a perdu la mémoire et ne se souvient plus des six derniers mois de sa vie. Un pistolet qui a visiblement servi est découvert à l'intérieur de son véhicule. Et dans la cuisine de son chalet, plusieurs bouteilles d'alcool vides sont retrouvées...",
-      "category": "Crime"
-    },
-    {
       "start": "2026-11-24T23:30:00+00:00",
       "stop": "2026-11-25T01:30:00+00:00",
       "channel": "BBC One",
@@ -289,8 +197,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-25T19:20:00+00:00",
-      "stop": "2026-11-25T20:50:00+00:00",
+      "start": "2026-11-25T19:25:00+00:00",
+      "stop": "2026-11-25T21:02:00+00:00",
       "channel": "AB3",
       "title": "Le coup du siècle",
       "subtitle": "",
@@ -335,8 +243,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-25T20:50:00+00:00",
-      "stop": "2026-11-25T23:00:00+00:00",
+      "start": "2026-11-25T21:02:00+00:00",
+      "stop": "2026-11-25T23:10:00+00:00",
       "channel": "AB3",
       "title": "Fast & Furious : Hobbs & Shaw",
       "subtitle": "",
@@ -381,7 +289,7 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-26T17:15:00+00:00",
+      "start": "2026-11-26T17:20:00+00:00",
       "stop": "2026-11-26T17:45:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
@@ -406,7 +314,7 @@
     },
     {
       "start": "2026-11-26T19:35:00+00:00",
-      "stop": "2026-11-26T21:40:00+00:00",
+      "stop": "2026-11-26T21:45:00+00:00",
       "channel": "VTM 3",
       "title": "Knox Goes Away",
       "subtitle": "",
@@ -978,6 +886,100 @@
       ],
       "description": "Luke et Louise trouvent enfin la dernière personne à avoir vu Charlie vivante : Joe Dalton.",
       "category": "Action"
+    },
+    {
+      "start": "2026-12-02T17:25:00+00:00",
+      "stop": "2026-12-02T17:55:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Slapsgiving 3: Slappointment in Slapmarra",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Cristin Milioti"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Voordat hij Barney de laatste klap uitdeelt, legt Marshall uit hoe hij De Klap Van Een Miljoen Exploderende Zonnen onder de knie kreeg.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-02T19:55:00+00:00",
+      "stop": "2026-12-02T21:40:00+00:00",
+      "channel": "Arte",
+      "title": "L'amant double",
+      "subtitle": "",
+      "directors": [
+        "François Ozon"
+      ],
+      "actors": [
+        "Marine Vacth",
+        "Jérémie Renier",
+        "Jacqueline Bisset",
+        "Myriam Boyer",
+        "Dominique Reymond",
+        "Fanny Sage"
+      ],
+      "matched_actors": [
+        "Jacqueline Bisset"
+      ],
+      "description": "Jeune femme fragile souffrant de dépression, Chloé ne tarde pas à tomber amoureuse de Paul, son psychothérapeute. Après s'être fréquentés pendant quelques mois, les deux amants décident d'emménager ensemble. Troublée par le comportement de son compagnon, Chloé se rend compte qu'il occulte délibérément certains passages de sa vie et constate un changement d'attitude à son égard à mesure qu'elle enquête sur son passé.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-12-02T21:00:00+00:00",
+      "stop": "2026-12-02T22:35:00+00:00",
+      "channel": "AB3",
+      "title": "Le coup du siècle",
+      "subtitle": "",
+      "directors": [
+        "Chris Addison"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Rebel Wilson",
+        "Alex Sharp",
+        "Dean Norris",
+        "Timothy Simons",
+        "Ingrid Oliver"
+      ],
+      "matched_actors": [
+        "Anne Hathaway"
+      ],
+      "description": "Penny séduit les hommes et leur ment pour les voler. Un soir, elle rencontre Josephine, une jeune femme mince qui fait la même chose à beaucoup plus haut niveau. La seconde prend la première sous son aile pour l'aider à devenir une meilleure arnaqueuse. Elle lui apprendra à pleurer sur commande, à lancer des couteaux... d'une péripétie à l'autre, une authentique complicité se noue entre les deux femmes. Insatisfaite de sa rémunération, Lonnie commence à tenir tête à Joséphine, qui lui propose un pari. Laquelle arrivera à séduire et extorquer une large somme d'argent à un naïf jeune homme? Tous les coups sont permis.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-02T23:40:00+00:00",
+      "stop": "2026-12-03T00:10:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "Slapsgiving 3: Slappointment in Slapmarra",
+      "directors": [
+        "Pamela Fryman",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Cristin Milioti"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Voordat hij Barney de laatste klap uitdeelt, legt Marshall uit hoe hij De Klap Van Een Miljoen Exploderende Zonnen onder de knie kreeg.",
+      "category": "Comedy"
     }
   ]
 }
