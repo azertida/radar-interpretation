@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T18:39:10.803480+00:00",
+  "generated_at": "2026-11-27T15:08:51.526589+00:00",
   "window_start": "2026-11-26",
-  "window_end": "2026-12-03",
+  "window_end": "2026-12-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,99 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 38,
+  "count": 37,
   "programmes": [
-    {
-      "start": "2026-11-26T12:35:00+00:00",
-      "stop": "2026-11-26T14:25:00+00:00",
-      "channel": "Arte",
-      "title": "Cluedo",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Lynn"
-      ],
-      "actors": [
-        "Eileen Brennan",
-        "Tim Curry",
-        "Madeline Kahn",
-        "Christopher Lloyd",
-        "Michael McKean",
-        "Martin Mull"
-      ],
-      "matched_actors": [
-        "Madeline Kahn"
-      ],
-      "description": "Six invités sont accueillis par le maître d'hôtel dans un bien étrange manoir : mademoiselle Blanche, le professeur Violet, madame Pervenche, mademoiselle Rose, le colonel Moutarde et enfin le docteur Olive. Un meurtre a été commis, et le coupable se trouve parmi eux.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-26T17:20:00+00:00",
-      "stop": "2026-11-26T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Mom and dad",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "John Lithgow"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Wanneer Barney z'n ouders voor het eerst in jaren samen ziet, denkt hij dat hij ze weer bij elkaar kan krijgen. Ted speelt voor detective wanneer een foto met handtekening van Wayne Gretsky die Barney aan Robin wilde geven verpest is.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-26T19:35:00+00:00",
-      "stop": "2026-11-26T21:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "Knox Goes Away",
-      "subtitle": "",
-      "directors": [
-        "Michael Keaton"
-      ],
-      "actors": [
-        "Michael Keaton",
-        "Al Pacino",
-        "Marcia Gay Harden",
-        "James Marsden",
-        "Joanna Kulig",
-        "Ray McKinnon"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "John Knox, een huurmoordenaar met snel voortschrijdende dementie, krijgt te maken met nog een probleem: zijn zoon Miles heeft een man gedood en vraagt zijn vader om hem uit de nesten te helpen. John moet niet alleen de politie te slim af zijn, maar ook zijn eigen aftakelende geest.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-26T20:50:00+00:00",
-      "stop": "2026-11-26T22:12:00+00:00",
-      "channel": "La Trois",
-      "title": "Le deuxième acte",
-      "subtitle": "",
-      "directors": [
-        "Quentin Dupieux"
-      ],
-      "actors": [
-        "Léa Seydoux",
-        "Vincent Lindon",
-        "Louis Garrel",
-        "Raphaël Quenard"
-      ],
-      "matched_actors": [
-        "Léa Seydoux"
-      ],
-      "description": "Florence veut présenter David, l'homme dont elle est follement amoureuse, à son père, mais David n'est pas attiré par elle et veut s'en débarrasser en la poussant dans les bras de son ami Willy.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-26T21:50:00+00:00",
       "stop": "2026-11-27T00:04:00+00:00",
@@ -500,8 +409,31 @@
       "category": "Mystery"
     },
     {
-      "start": "2026-11-29T21:20:00+00:00",
-      "stop": "2026-11-29T23:10:00+00:00",
+      "start": "2026-11-29T21:35:00+00:00",
+      "stop": "2026-11-29T23:45:00+00:00",
+      "channel": "VTM 3",
+      "title": "Knox Goes Away",
+      "subtitle": "",
+      "directors": [
+        "Michael Keaton"
+      ],
+      "actors": [
+        "Michael Keaton",
+        "Al Pacino",
+        "Marcia Gay Harden",
+        "James Marsden",
+        "Joanna Kulig",
+        "Ray McKinnon"
+      ],
+      "matched_actors": [
+        "Marcia Gay Harden"
+      ],
+      "description": "John Knox, een huurmoordenaar met snel voortschrijdende dementie, krijgt te maken met nog een probleem: zijn zoon Miles heeft een man gedood en vraagt zijn vader om hem uit de nesten te helpen. John moet niet alleen de politie te slim af zijn, maar ook zijn eigen aftakelende geest.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-29T21:35:00+00:00",
+      "stop": "2026-11-29T23:20:00+00:00",
       "channel": "RTL TVI",
       "title": "La blonde contre-attaque",
       "subtitle": "",
@@ -523,29 +455,6 @@
       ],
       "description": "Deux ans après avoir conquis Harvard, Elle Woods, la blonde la plus branchée, la plus chic et la plus futée des Etats-Unis, exerce ses talents dans un important cabinet d'avocats et s'apprête à épouser l'homme de ses rêves. C'est alors qu'elle découvre qu'un de ses clients utilise comme animaux de laboratoire des chiens de la famille de Bruiser, son chihuahua bien-aimé. Horrifiée, elle prend la défense des pauvres bêtes et se voit promptement licenciée. Jurant de faire triompher sa cause, la blonde part pour Washington munie de ses armes de persuasion favorites : une panoplie de robes griffées, perruqyes, rimmels, bijoux et chaussures de luxe à faire pâlir d'envie les plus grandes stars.",
       "category": "Comedy"
-    },
-    {
-      "start": "2026-11-29T21:30:00+00:00",
-      "stop": "2026-11-29T23:35:00+00:00",
-      "channel": "VTM 3",
-      "title": "Knox Goes Away",
-      "subtitle": "",
-      "directors": [
-        "Michael Keaton"
-      ],
-      "actors": [
-        "Michael Keaton",
-        "Al Pacino",
-        "Marcia Gay Harden",
-        "James Marsden",
-        "Joanna Kulig",
-        "Ray McKinnon"
-      ],
-      "matched_actors": [
-        "Marcia Gay Harden"
-      ],
-      "description": "John Knox, een huurmoordenaar met snel voortschrijdende dementie, krijgt te maken met nog een probleem: zijn zoon Miles heeft een man gedood en vraagt zijn vader om hem uit de nesten te helpen. John moet niet alleen de politie te slim af zijn, maar ook zijn eigen aftakelende geest.",
-      "category": "Thriller"
     },
     {
       "start": "2026-11-30T01:20:00+00:00",
@@ -1001,6 +910,77 @@
       ],
       "description": "Greg Focker est un brave infirmier qui accumule les déboires, les maladresses et les faux-pas. Soucieux de plaire à tout le monde et de faire oublier son nom grotesque, sa première entrevue avec ses futurs beaux-parents Jack et Dina Byrnes fut un concentré exemplaire de tout ce qu'il ne faut pas faire dans de telles circonstances. Entre-temps, les choses se sont arrangées, et Greg a même réussi à amadouer le terrifiant Jack et à intégrer son cercle de confiance. Pam et lui peuvent donc envisager le mariage, mais il reste à organiser une réunion entre les Byrnes et les Focker. Un paisible week-end en Floride dans la propriété de Bernie et Roz Focker - lui fervent libéral, elle sexologue militante - permettra enfin aux deux familles de lier connaissance. Un ultime examen de passage, qui ne devrait pas poser de problème...",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-12-04T17:40:00+00:00",
+      "stop": "2026-12-04T18:10:00+00:00",
+      "channel": "VTM 3",
+      "title": "How I Met Your Mother",
+      "subtitle": "How your mother met me",
+      "directors": [
+        "Pamela Fryman",
+        "Rob Greenberg",
+        "Michael Shea",
+        "Michael J. Shea"
+      ],
+      "actors": [
+        "Josh Radnor",
+        "Jason Segel",
+        "Alyson Hannigan",
+        "Neil Patrick Harris",
+        "Cobie Smulders",
+        "Rachel Bilson"
+      ],
+      "matched_actors": [
+        "Cobie Smulders"
+      ],
+      "description": "Door middel van flashbacks zien we hoe 'De Moeder' Ted ontmoet heeft. Een paar keer lopen ze elkaar net mis en Ted ontmoet eerst haar huisgenote, Cindy. Ook zien ze elkaar een keer kort als Ted per ongeluk haar college binnenwandelt.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-04T19:35:00+00:00",
+      "stop": "2026-12-04T21:20:00+00:00",
+      "channel": "VTM 4",
+      "title": "Drop Dead Gorgeous",
+      "subtitle": "",
+      "directors": [
+        "Michael Patrick Jann"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Ellen Barkin",
+        "Kirstie Alley",
+        "Allison Janney",
+        "Denise Richards",
+        "Sam McMurray"
+      ],
+      "matched_actors": [
+        "Allison Janney"
+      ],
+      "description": "In een stadje in Minnesota is het weer tijd voor de jaarlijkse missverkiezing. Dit jaar zijn er twee grote kanshebsters: Rebecca Leeman en Amber Atkins. De Leemans zijn de rijkste familie in de buurt, dus doen ze er alles aan om de overwinning binnen te halen. Desondanks geeft Amber niet op. Maar wanneer de meisjes en hun families een beetje te ver gaan, zijn de gevolgen mogelijk fataal ... Dochter Amber wil carrière maken als tv-reporter en ziet deze miss-verkiezing als een opstapje. Haar moeder Annette ziet eruit als een ordinaire del, maar heeft een hart van goud.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-04T19:50:00+00:00",
+      "stop": "2026-12-04T21:40:00+00:00",
+      "channel": "Action",
+      "title": "Sauvage - Canicule 2",
+      "subtitle": "",
+      "directors": [
+        "Robert Connolly"
+      ],
+      "actors": [
+        "Eric Bana",
+        "Anna Torv",
+        "Deborra-Lee Furness",
+        "Robin McLeavy",
+        "Sisi Stringer"
+      ],
+      "matched_actors": [
+        "Anna Torv"
+      ],
+      "description": "En Australie, l'enquêteur Aaron Falk et sa coéquipière Carmen Cooper sont sur le point de faire tomber la société Bailey Tenants pour blanchiment d'argent. L'une des employées, Alice Russell, est l'informatrice qui doit leur fournir les dernières preuves décisives. Mais elle disparait mystérieusement lors d'une randonnée organisée par son entreprise.",
+      "category": "Crime"
     }
   ]
 }
