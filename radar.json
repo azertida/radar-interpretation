@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T18:27:39.128547+00:00",
-  "window_start": "2026-11-26",
-  "window_end": "2026-12-04",
+  "generated_at": "2026-11-28T14:15:24.927126+00:00",
+  "window_start": "2026-11-27",
+  "window_end": "2026-12-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 118,
   "watchlist": [
@@ -124,101 +124,8 @@
     "Kathleen York",
     "Debra Winger"
   ],
-  "count": 37,
+  "count": 39,
   "programmes": [
-    {
-      "start": "2026-11-26T21:50:00+00:00",
-      "stop": "2026-11-27T00:04:00+00:00",
-      "channel": "Action",
-      "title": "Les disparues",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tommy Lee Jones",
-        "Cate Blanchett",
-        "Evan Rachel Wood",
-        "Jenna Boyd",
-        "Aaron Eckhart",
-        "Val Kilmer"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-27T11:18:00+00:00",
-      "stop": "2026-11-27T13:32:00+00:00",
-      "channel": "Action",
-      "title": "Les disparues",
-      "subtitle": "",
-      "directors": [
-        "Ron Howard"
-      ],
-      "actors": [
-        "Tommy Lee Jones",
-        "Cate Blanchett",
-        "Evan Rachel Wood",
-        "Jenna Boyd",
-        "Aaron Eckhart",
-        "Val Kilmer"
-      ],
-      "matched_actors": [
-        "Val Kilmer"
-      ],
-      "description": "Nouveau-Mexique, en 1886. Vingt ans après avoir abandonné femme et enfant pour vivre avec les Apaches, Samuel Jones revient pour obtenir le pardon de sa fille Maggie. Celle-ci, elle-même mère de deux petites filles, lui en veut terriblement et refuse la réconciliation. Jusqu'à ce que sa fille aînée Lilly soit enlevée. Elle est alors contrainte de demander de l'aide à son père, qui se lance sur les traces des bandits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-27T14:05:00+00:00",
-      "stop": "2026-11-27T16:15:00+00:00",
-      "channel": "VTM 3",
-      "title": "Meet the Fockers",
-      "subtitle": "",
-      "directors": [
-        "Jay Roach"
-      ],
-      "actors": [
-        "Ben Stiller",
-        "Robert De Niro",
-        "Dustin Hoffman",
-        "Barbra Streisand",
-        "Blythe Danner",
-        "Teri Polo"
-      ],
-      "matched_actors": [
-        "Barbra Streisand"
-      ],
-      "description": "Nadat voormalig CIA-agent Jack Byrnes de mannelijke verpleger Gaylord Focker toestemming heeft gegeven om met zijn dochter Pam te trouwen, is het tijd om de ouders van de twee eindelijk eens met elkaar kennis te laten maken. Jack reist samen met zijn vrouw, kleinzoon en het toekomstige echtpaar naar Miami, waar ze de Focker-familie leren kennen.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-27T17:15:00+00:00",
-      "stop": "2026-11-27T17:45:00+00:00",
-      "channel": "VTM 3",
-      "title": "How I Met Your Mother",
-      "subtitle": "Bedtime stories",
-      "directors": [
-        "Pamela Fryman",
-        "Michael J. Shea"
-      ],
-      "actors": [
-        "Josh Radnor",
-        "Jason Segel",
-        "Alyson Hannigan",
-        "Neil Patrick Harris",
-        "Cobie Smulders",
-        "Cristin Milioti"
-      ],
-      "matched_actors": [
-        "Cobie Smulders"
-      ],
-      "description": "Marshall en baby Marvin zijn nog steeds op weg naar de bruiloft, nu met de bus, en zitten vast in het verkeer. Om Marvin in slaap te krijgen, moet Marshall liedjes verzinnen, want het kinderliedjesboek heeft hij in de auto laten liggen.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-27T23:25:00+00:00",
       "stop": "2026-11-28T01:20:00+00:00",
@@ -480,8 +387,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-30T17:20:00+00:00",
-      "stop": "2026-11-30T17:45:00+00:00",
+      "start": "2026-11-30T17:15:00+00:00",
+      "stop": "2026-11-30T17:40:00+00:00",
       "channel": "VTM 3",
       "title": "How I Met Your Mother",
       "subtitle": "The rehearsal dinner",
@@ -981,6 +888,140 @@
       ],
       "description": "En Australie, l'enquêteur Aaron Falk et sa coéquipière Carmen Cooper sont sur le point de faire tomber la société Bailey Tenants pour blanchiment d'argent. L'une des employées, Alice Russell, est l'informatrice qui doit leur fournir les dernières preuves décisives. Mais elle disparait mystérieusement lors d'une randonnée organisée par son entreprise.",
       "category": "Crime"
+    },
+    {
+      "start": "2026-12-05T02:06:00+00:00",
+      "stop": "2026-12-05T03:47:00+00:00",
+      "channel": "Action",
+      "title": "Une pierre dans la bouche",
+      "subtitle": "",
+      "directors": [
+        "Jean-Louis Leconte"
+      ],
+      "actors": [
+        "Michel Robin",
+        "Greta Rubens",
+        "Jeffrey Kime",
+        "Richard Anconina",
+        "Hugues Quester",
+        "Bruno Balp"
+      ],
+      "matched_actors": [
+        "Richard Anconina"
+      ],
+      "description": "Un gangster américain se réfugie dans une grande batisse bourgeoise du bord de mer et y découvre son unique locataire aveugle doué d'un \"instinct\" hors du commun. Un beau jour le neveu de ce fugitif débarque avec sa belle qui se rapproche du gangster. Jaloux de ce rival, le jeune neveu cherche à se venger.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-05T10:36:00+00:00",
+      "stop": "2026-12-05T12:26:00+00:00",
+      "channel": "Action",
+      "title": "Sauvage - Canicule 2",
+      "subtitle": "",
+      "directors": [
+        "Robert Connolly"
+      ],
+      "actors": [
+        "Eric Bana",
+        "Anna Torv",
+        "Deborra-Lee Furness",
+        "Robin McLeavy",
+        "Sisi Stringer"
+      ],
+      "matched_actors": [
+        "Anna Torv"
+      ],
+      "description": "En Australie, l'enquêteur Aaron Falk et sa coéquipière Carmen Cooper sont sur le point de faire tomber la société Bailey Tenants pour blanchiment d'argent. L'une des employées, Alice Russell, est l'informatrice qui doit leur fournir les dernières preuves décisives. Mais elle disparait mystérieusement lors d'une randonnée organisée par son entreprise.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-12-05T19:00:00+00:00",
+      "stop": "2026-12-05T19:55:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Vigil",
+      "subtitle": "",
+      "directors": [],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Wanneer een test met een militair gevechtsdrone dodelijk afloopt, wordt DCI Amy Silva ingeschakeld om de zaak te onderzoeken. Zeven militairen komen om het leven, onder wie twee leden van een bevriende luchtmacht uit het Midden-Oosten. Terwijl de politieke druk toeneemt, twijfelt Amy aan de voor de hand liggende verklaring.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-12-05T19:55:00+00:00",
+      "stop": "2026-12-05T20:55:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Vigil",
+      "subtitle": "",
+      "directors": [],
+      "actors": [
+        "Suranne Jones",
+        "Rose Leslie",
+        "Shaun Evans",
+        "Paterson Joseph",
+        "Adam James",
+        "Connor Swindells"
+      ],
+      "matched_actors": [
+        "Suranne Jones"
+      ],
+      "description": "Na een levensgevaarlijke confrontatie volgt Amy een nieuwe aanwijzing naar een luchtmachtbasis in het Midden-Oosten. Daar ontdekt ze dat iemand op de basis mogelijk betrokken was bij de aanval. Kirsten zet ondertussen in Schotland de jacht op een gewapende verdachte voort.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-12-05T23:15:00+00:00",
+      "stop": "2026-12-06T01:10:00+00:00",
+      "channel": "France 3",
+      "title": "Le prince et la danseuse",
+      "subtitle": "",
+      "directors": [
+        "Laurence Olivier"
+      ],
+      "actors": [
+        "Laurence Olivier",
+        "Marilyn Monroe",
+        "Sybil Thorndike",
+        "Richard Wattis",
+        "Jeremy Spenser",
+        "Esmond Knight"
+      ],
+      "matched_actors": [
+        "Marilyn Monroe"
+      ],
+      "description": "Le prince Charles, Régent de Karpathie, petit royaume d'Europe Centrale, vient représenter son pays aux cérémonies du couronnement de George V, à Londres, en l'année 1912. Le prince assiste alors à la représentation d'une revue légère où il tombe sous le charme d'une jeune actrice américaine. Guindé et portant monocle, il semble pourtant se réveiller à la vie, au contact de cette délicieuse chorus girl...",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-12-05T23:50:00+00:00",
+      "stop": "2026-12-06T01:30:00+00:00",
+      "channel": "BBC One",
+      "title": "Office Christmas Party",
+      "subtitle": "",
+      "directors": [
+        "Will Speck",
+        "Josh Gordon"
+      ],
+      "actors": [
+        "Jason Bateman",
+        "Olivia Munn",
+        "T.J. Miller",
+        "Kate McKinnon",
+        "Jennifer Aniston",
+        "Jillian Bell"
+      ],
+      "matched_actors": [
+        "Kate McKinnon"
+      ],
+      "description": "A manager throws a wild Christmas party for his office, which he hopes will help land a client necessary to keep their business afloat.",
+      "category": "Comedy"
     }
   ]
 }
